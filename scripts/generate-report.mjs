@@ -9,6 +9,7 @@ const CACHE_DIR = path.join(ROOT, 'cache')
 
 const REPORT_LANG = String(process.env.REPORT_LANG || 'en').toLowerCase() // en | ru
 const LOOKBACK_HOURS = clampInt(process.env.REPORT_LOOKBACK_HOURS, 36, 1, 24 * 14)
+const WEEK_DAYS = clampInt(process.env.REPORT_WEEK_DAYS, 7, 1, 30)
 const MAX_ITEMS_PER_FEED = clampInt(process.env.MAX_ITEMS_PER_FEED, 30, 1, 200)
 
 const REDDIT_MIN_COMMENTS = clampInt(process.env.REDDIT_MIN_COMMENTS, 10, 0, 50000)
@@ -261,6 +262,14 @@ function withinLookback(it) {
   return ageHours <= LOOKBACK_HOURS
 }
 
+function withinDays(it, days) {
+  if (!it.publishedAt) return true
+  const d = new Date(it.publishedAt)
+  if (!Number.isFinite(d.getTime())) return true
+  const ageHours = (Date.now() - d.getTime()) / (1000 * 60 * 60)
+  return ageHours <= days * 24
+}
+
 async function enrichRedditItems(items) {
   const redditItems = items.filter((x) => x.kind === 'reddit' && extractRedditPostId(x.url))
   if (!redditItems.length) return items
@@ -368,6 +377,64 @@ function renderReport({ ymd, items }) {
   return lines.join('\n')
 }
 
+function renderWeeklyReport({ ymd, items }) {
+  const title = REPORT_LANG === 'ru' ? `RSS Weekly Trend Report — ${ymd}` : `RSS Weekly Trend Report — ${ymd}`
+  const line =
+    REPORT_LANG === 'ru'
+      ? `Window: last ${WEEK_DAYS} days. Reddit is enriched with score/comments (best-effort).`
+      : `Window: last ${WEEK_DAYS} days. Reddit is enriched with score/comments (best-effort).`
+
+  const week = items.filter((x) => withinDays(x, WEEK_DAYS))
+
+  const redditWeek = week
+    .filter((x) => x.kind === 'reddit')
+    .filter((x) => Number(x.redditComments || 0) >= REDDIT_MIN_COMMENTS || Number(x.redditScore || 0) >= REDDIT_MIN_SCORE)
+    .sort((a, b) => sortKey(b) - sortKey(a))
+    .slice(0, 40)
+
+  const sitesWeek = week
+    .filter((x) => x.kind !== 'reddit')
+    .sort((a, b) => sortKey(b) - sortKey(a))
+    .slice(0, 60)
+
+  const lines = []
+  lines.push(`# ${title}`)
+  lines.push('')
+  lines.push(line)
+  lines.push('')
+
+  lines.push('## Weekly top items (Reddit)')
+  lines.push('')
+  lines.push('| Title | Community | Score | Comments | Posted |')
+  lines.push('|---|---:|---:|---:|---:|')
+  for (const it of redditWeek) {
+    const comm = it.subreddit ? `r/${it.subreddit}` : it.sourceLabel
+    lines.push(
+      `| [${mdEscape(it.title)}](${it.url}) | ${mdEscape(comm)} | ${Number(it.redditScore || 0)} | ${Number(it.redditComments || 0)} | ${mdEscape(fmtUtc(it.publishedAt))} |`
+    )
+  }
+  if (!redditWeek.length) lines.push(`| _No Reddit items matched thresholds_ |  |  |  |  |`)
+  lines.push('')
+
+  lines.push('## Weekly notable items (Sites)')
+  lines.push('')
+  lines.push('| Title | Source | Posted |')
+  lines.push('|---|---|---:|')
+  for (const it of sitesWeek) {
+    lines.push(`| [${mdEscape(it.title)}](${it.url}) | ${mdEscape(it.sourceLabel)} | ${mdEscape(fmtUtc(it.publishedAt))} |`)
+  }
+  if (!sitesWeek.length) lines.push(`| _No site items in window_ |  |  |`)
+  lines.push('')
+
+  lines.push('## Notes')
+  lines.push('')
+  lines.push(`- Same filters as daily: comments ≥ ${REDDIT_MIN_COMMENTS} OR score ≥ ${REDDIT_MIN_SCORE}.`)
+  lines.push(`- Ranking uses score + ${REDDIT_COMMENT_WEIGHT}×comments.`)
+  lines.push('')
+
+  return lines.join('\n')
+}
+
 async function main() {
   if (!fs.existsSync(FEEDS_PATH)) throw new Error(`Missing ${FEEDS_PATH}`)
   const cfg = readJson(FEEDS_PATH)
@@ -408,12 +475,17 @@ async function main() {
 
   const ymd = nowYmdUtc()
   const report = renderReport({ ymd, items })
+  const weekly = renderWeeklyReport({ ymd, items })
   const dailyPath = path.join(REPORTS_DIR, `report-${ymd}.md`)
   const latestPath = path.join(REPORTS_DIR, 'latest_report_en.md')
+  const weeklyPath = path.join(REPORTS_DIR, `weekly-${ymd}.md`)
+  const latestWeekly = path.join(REPORTS_DIR, 'latest_report_week_en.md')
   writeFile(dailyPath, report)
   writeFile(latestPath, report)
+  writeFile(weeklyPath, weekly)
+  writeFile(latestWeekly, weekly)
 
-  process.stdout.write(`Wrote:\n- ${dailyPath}\n- ${latestPath}\n`)
+  process.stdout.write(`Wrote:\n- ${dailyPath}\n- ${latestPath}\n- ${weeklyPath}\n- ${latestWeekly}\n`)
 }
 
 main().catch((err) => {

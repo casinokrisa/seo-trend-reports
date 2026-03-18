@@ -5,6 +5,8 @@ on:
   schedule:
     # 08:00 MSK (UTC+3) = 05:00 UTC
     - cron: '0 5 * * *'
+    # Weekly: Monday 08:00 MSK (UTC+3) = 05:00 UTC
+    - cron: '0 5 * * 1'
 
 permissions:
   contents: write
@@ -31,6 +33,7 @@ jobs:
         env:
           REPORT_LANG: en
           REPORT_LOOKBACK_HOURS: 36
+          REPORT_WEEK_DAYS: 7
           REDDIT_MIN_COMMENTS: 10
           REDDIT_MIN_SCORE: 50
           REDDIT_COMMENT_WEIGHT: 3
