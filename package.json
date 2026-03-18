@@ -1,0 +1,9 @@
+{
+  "name": "rss-trend-reports",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "report": "node scripts/generate-report.mjs"
+  }
+}
+
