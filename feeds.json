@@ -29,6 +29,13 @@
       "weight": 160
     },
     {
+      "id": "gsc-blog",
+      "kind": "site",
+      "label": "Google Search Central Blog",
+      "url": "https://feeds.feedburner.com/blogspot/amDG",
+      "weight": 170
+    },
+    {
       "id": "bing-webmaster",
       "kind": "site",
       "label": "Bing Webmaster Blog",

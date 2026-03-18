@@ -327,6 +327,11 @@ function inferCategory(it) {
   return 'General'
 }
 
+function siteScore(it) {
+  const weight = Number.isFinite(Number(it.weight)) ? Number(it.weight) : 0
+  return weight + freshnessScore(it.publishedAt)
+}
+
 function ymdToFolder(ymd) {
   const [y, m, d] = String(ymd || '').split('-')
   if (!y || !m || !d) return { y: 'unknown', m: '00', d: '00' }
@@ -421,15 +426,15 @@ function renderReport({ ymd, items }) {
 
   lines.push(`## Notable items (Sites)`)
   lines.push('')
-  lines.push('| Title | Source | Category | Posted |')
-  lines.push('|---|---|---|---:|')
+  lines.push('| Title | Source | Score | Category | Posted |')
+  lines.push('|---|---|---:|---|---:|')
   for (const it of sitesToday) {
     lines.push(
-      `| [${mdEscape(it.title)}](${it.url}) | ${mdEscape(it.sourceLabel)} | ${mdEscape(inferCategory(it))} | ${mdEscape(fmtUtc(it.publishedAt))} |`
+      `| [${mdEscape(it.title)}](${it.url}) | ${mdEscape(it.sourceLabel)} | ${siteScore(it)} | ${mdEscape(inferCategory(it))} | ${mdEscape(fmtUtc(it.publishedAt))} |`
     )
   }
   if (!sitesToday.length) {
-    lines.push(`| _No site items in window_ |  |  |  |`)
+    lines.push(`| _No site items in window_ |  |  |  |  |`)
   }
   lines.push('')
 
@@ -484,14 +489,14 @@ function renderWeeklyReport({ ymd, items }) {
 
   lines.push('## Weekly notable items (Sites)')
   lines.push('')
-  lines.push('| Title | Source | Category | Posted |')
-  lines.push('|---|---|---|---:|')
+  lines.push('| Title | Source | Score | Category | Posted |')
+  lines.push('|---|---|---:|---|---:|')
   for (const it of sitesWeek) {
     lines.push(
-      `| [${mdEscape(it.title)}](${it.url}) | ${mdEscape(it.sourceLabel)} | ${mdEscape(inferCategory(it))} | ${mdEscape(fmtUtc(it.publishedAt))} |`
+      `| [${mdEscape(it.title)}](${it.url}) | ${mdEscape(it.sourceLabel)} | ${siteScore(it)} | ${mdEscape(inferCategory(it))} | ${mdEscape(fmtUtc(it.publishedAt))} |`
     )
   }
-  if (!sitesWeek.length) lines.push(`| _No site items in window_ |  |  |  |`)
+  if (!sitesWeek.length) lines.push(`| _No site items in window_ |  |  |  |  |`)
   lines.push('')
 
   lines.push('## Notes')

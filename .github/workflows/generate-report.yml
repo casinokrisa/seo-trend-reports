@@ -50,7 +50,7 @@ jobs:
             echo "No changes."
             exit 0
           fi
-          git add reports/*.md
+          git add reports/**/*.md reports/*.md
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -m "Update daily trend report"
