@@ -6,26 +6,7 @@ Lookback window: last 36 hours. Reddit is enriched with score/comments (best-eff
 
 | Title | Community | Score | Comments | Posted |
 |---|---:|---:|---:|---:|
-| [What is the best off-page SEO strategy right now?](https://www.reddit.com/r/SEO/comments/1rvx9qb/what_is_the_best_offpage_seo_strategy_right_now/) | r/SEO | 52 | 109 | 2026-03-17 04:53 UTC |
-| [OpenSEO - Thank you for the support! Also, I added Backlink Analysis...](https://www.reddit.com/r/TechSEO/comments/1rvutuw/openseo_thank_you_for_the_support_also_i_added/) | r/TechSEO | 110 | 23 | 2026-03-17 02:52 UTC |
-| [Meeting with several SEO agencies soon, what should I look for to separate the good from the BS?](https://www.reddit.com/r/SEO/comments/1rw4ys2/meeting_with_several_seo_agencies_soon_what/) | r/SEO | 21 | 48 | 2026-03-17 12:20 UTC |
-| [AI search is eating clicks - how are CMOs proving ROI now?](https://www.reddit.com/r/SEO/comments/1rww7tg/ai_search_is_eating_clicks_how_are_cmos_proving/) | r/SEO | 24 | 32 | 2026-03-18 06:26 UTC |
-| [How do people identify good backlink and guest post vendors/platforms](https://www.reddit.com/r/SEO/comments/1rwnu0j/how_do_people_identify_good_backlink_and_guest/) | r/SEO | 48 | 20 | 2026-03-17 23:50 UTC |
-| [Perfect technical SEO. Schema, structured data, core web vitals, all of it. ChatGPT still ignores us](https://www.reddit.com/r/TechSEO/comments/1rw69w0/perfect_technical_seo_schema_structured_data_core/) | r/TechSEO | 15 | 31 | 2026-03-17 13:17 UTC |
-| [Are backlinks really matters?](https://www.reddit.com/r/SEO/comments/1rw1dsg/are_backlinks_really_matters/) | r/SEO | 6 | 33 | 2026-03-17 09:04 UTC |
-| [It is better for SEO to have an Google Business Profile?](https://www.reddit.com/r/SEO/comments/1rw3bx4/it_is_better_for_seo_to_have_an_google_business/) | r/SEO | 6 | 26 | 2026-03-17 10:59 UTC |
-| [Did I get ripped off with lousy links with no authority? Help.](https://www.reddit.com/r/SEO/comments/1rwon3j/did_i_get_ripped_off_with_lousy_links_with_no/) | r/SEO | 12 | 21 | 2026-03-18 00:23 UTC |
-| [Are backlinks losing importance in 2026?](https://www.reddit.com/r/seogrowth/comments/1rwu7r9/are_backlinks_losing_importance_in_2026/) | r/seogrowth | 25 | 16 | 2026-03-18 04:35 UTC |
-| [Do Manual backlinks still works?](https://www.reddit.com/r/SEO/comments/1rwgxnt/do_manual_backlinks_still_works/) | r/SEO | 7 | 20 | 2026-03-17 19:37 UTC |
-| [Tried 3 AEO tools for 2 months and got zero citations whats your stack?](https://www.reddit.com/r/seogrowth/comments/1rvxzsh/tried_3_aeo_tools_for_2_months_and_got_zero/) | r/seogrowth | 19 | 16 | 2026-03-17 05:33 UTC |
-| [SERPS are a slaughterhouse at the moment](https://www.reddit.com/r/SEO/comments/1rw6bns/serps_are_a_slaughterhouse_at_the_moment/) | r/SEO | 11 | 18 | 2026-03-17 13:19 UTC |
-| [🚨 Google Search Console Update – Super Useful for Brand Owners](https://www.reddit.com/r/seogrowth/comments/1rvy909/google_search_console_update_super_useful_for/) | r/seogrowth | 28 | 12 | 2026-03-17 05:48 UTC |
-| [how to get a backlink indexed?](https://www.reddit.com/r/SEO/comments/1rwxe6s/how_to_get_a_backlink_indexed/) | r/SEO | 18 | 15 | 2026-03-18 07:38 UTC |
-| [Why does our company never get cited in AI searches?](https://www.reddit.com/r/TechSEO/comments/1rwv6t1/why_does_our_company_never_get_cited_in_ai/) | r/TechSEO | 12 | 16 | 2026-03-18 05:27 UTC |
-| [As small business/small tattoo artist what can I do everyday to improve Local SEO and my website's performance on LLMs?](https://www.reddit.com/r/SEO/comments/1rw16ho/as_small_businesssmall_tattoo_artist_what_can_i/) | r/SEO | 3 | 18 | 2026-03-17 08:51 UTC |
-| [New to SEO and website building, any insights to my progress so far?](https://www.reddit.com/r/SEO/comments/1rwhqzl/new_to_seo_and_website_building_any_insights_to/) | r/SEO | 17 | 13 | 2026-03-17 20:05 UTC |
-| [How are you approaching Answer Engine Optimization (AEO) and what tools actually work?](https://www.reddit.com/r/seogrowth/comments/1rvvf4f/how_are_you_approaching_answer_engine/) | r/seogrowth | 11 | 13 | 2026-03-17 03:19 UTC |
-| [Anyone else notice pages ranking on Google but getting almost no clicks?](https://www.reddit.com/r/seogrowth/comments/1rvtwos/anyone_else_notice_pages_ranking_on_google_but/) | r/seogrowth | 11 | 12 | 2026-03-17 02:10 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |
 
 ## Today’s notable items (Sites)
 

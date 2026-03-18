@@ -3,5 +3,4 @@ reports/latest_items.enriched.json
 cache/
 node_modules/
 .DS_Store
-reports/latest_report_week_en.md
 
