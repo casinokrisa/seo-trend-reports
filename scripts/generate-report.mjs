@@ -327,8 +327,34 @@ function inferCategory(it) {
   return 'General'
 }
 
+function ymdToFolder(ymd) {
+  const [y, m, d] = String(ymd || '').split('-')
+  if (!y || !m || !d) return { y: 'unknown', m: '00', d: '00' }
+  return { y, m, d }
+}
+
+function ymdToCompact(ymd) {
+  return String(ymd || '').replace(/-/g, '')
+}
+
+function redditOk(it) {
+  return Number(it.redditComments || 0) >= REDDIT_MIN_COMMENTS || Number(it.redditScore || 0) >= REDDIT_MIN_SCORE
+}
+
+function sortReddit(a, b) {
+  const sa = Number(a.redditScore || 0)
+  const sb = Number(b.redditScore || 0)
+  if (sa !== sb) return sb - sa
+  const ca = Number(a.redditComments || 0)
+  const cb = Number(b.redditComments || 0)
+  if (ca !== cb) return cb - ca
+  const ta = a.publishedAt ? new Date(a.publishedAt).getTime() : 0
+  const tb = b.publishedAt ? new Date(b.publishedAt).getTime() : 0
+  return tb - ta
+}
+
 function renderReport({ ymd, items }) {
-  const title = REPORT_LANG === 'ru' ? `SEO Trend Report - ${ymd}` : `SEO Trend Report - ${ymd}`
+  const title = REPORT_LANG === 'ru' ? `Reddit SEO Trend Report - ${ymd}` : `Reddit SEO Trend Report - ${ymd}`
   const lookbackLine =
     REPORT_LANG === 'ru'
       ? `Окно: последние ${LOOKBACK_HOURS} часов. Reddit: score/comments подтягиваются (best-effort).`
@@ -338,9 +364,16 @@ function renderReport({ ymd, items }) {
 
   const redditToday = today
     .filter((x) => x.kind === 'reddit')
-    .filter((x) => Number(x.redditComments || 0) >= REDDIT_MIN_COMMENTS || Number(x.redditScore || 0) >= REDDIT_MIN_SCORE)
-    .sort((a, b) => sortKey(b) - sortKey(a))
+    .filter(redditOk)
+    .sort(sortReddit)
     .slice(0, 12)
+
+  const redditWeek = items
+    .filter((x) => x.kind === 'reddit')
+    .filter((x) => withinDays(x, WEEK_DAYS))
+    .filter(redditOk)
+    .sort(sortReddit)
+    .slice(0, 25)
 
   const sitesToday = today
     .filter((x) => x.kind !== 'reddit')
@@ -366,6 +399,23 @@ function renderReport({ ymd, items }) {
   }
   if (!redditToday.length) {
     lines.push(`| _No Reddit items matched thresholds_ |  |  |  |  |  |`)
+  }
+  lines.push('')
+
+  lines.push('## Weekly Popular Posts')
+  lines.push('')
+  lines.push('| # | Title | Community | Score | Comments | Category | Posted |')
+  lines.push('|---:|---|---|---:|---:|---|---:|')
+  for (let i = 0; i < redditWeek.length; i++) {
+    const it = redditWeek[i]
+    const sub = it.subreddit ? String(it.subreddit) : ''
+    const comm = sub ? `[r/${mdEscape(sub)}](https://www.reddit.com/r/${encodeURIComponent(sub)})` : mdEscape(it.sourceLabel)
+    lines.push(
+      `| ${i + 1} | [${mdEscape(it.title)}](${it.url}) | ${comm} | ${Number(it.redditScore || 0)} | ${Number(it.redditComments || 0)} | ${mdEscape(inferCategory(it))} | ${mdEscape(fmtUtc(it.publishedAt))} |`
+    )
+  }
+  if (!redditWeek.length) {
+    lines.push(`|  | _No Reddit items matched thresholds_ |  |  |  |  |  |`)
   }
   lines.push('')
 
@@ -498,12 +548,21 @@ async function main() {
   const latestPath = path.join(REPORTS_DIR, 'latest_report_en.md')
   const weeklyPath = path.join(REPORTS_DIR, `weekly-${ymd}.md`)
   const latestWeekly = path.join(REPORTS_DIR, 'latest_report_week_en.md')
+  const { y, m, d } = ymdToFolder(ymd)
+  const compact = ymdToCompact(ymd)
+  const archiveDir = path.join(REPORTS_DIR, y, m, d)
+  const archiveDaily = path.join(archiveDir, `report_${compact}_en.md`)
+  const archiveWeekly = path.join(archiveDir, `weekly_${compact}_en.md`)
   writeFile(dailyPath, report)
   writeFile(latestPath, report)
   writeFile(weeklyPath, weekly)
   writeFile(latestWeekly, weekly)
+  writeFile(archiveDaily, report)
+  writeFile(archiveWeekly, weekly)
 
-  process.stdout.write(`Wrote:\n- ${dailyPath}\n- ${latestPath}\n- ${weeklyPath}\n- ${latestWeekly}\n`)
+  process.stdout.write(
+    `Wrote:\n- ${dailyPath}\n- ${latestPath}\n- ${weeklyPath}\n- ${latestWeekly}\n- ${archiveDaily}\n- ${archiveWeekly}\n`
+  )
 }
 
 main().catch((err) => {
