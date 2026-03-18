@@ -1,0 +1,6 @@
+reports/latest_items.json
+reports/latest_items.enriched.json
+cache/
+node_modules/
+.DS_Store
+

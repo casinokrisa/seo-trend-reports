@@ -1,0 +1,61 @@
+{
+  "feeds": [
+    {
+      "id": "sel",
+      "kind": "site",
+      "label": "Search Engine Land (RSS.app)",
+      "url": "https://rss.app/feeds/NKeQTh5PcdNvqZN6.json",
+      "weight": 120
+    },
+    {
+      "id": "sej",
+      "kind": "site",
+      "label": "Search Engine Journal (RSS.app)",
+      "url": "https://rss.app/feeds/8oeeV2A5o0cJWfn9.json",
+      "weight": 120
+    },
+    {
+      "id": "r-seo",
+      "kind": "reddit",
+      "label": "r/SEO (RSS.app)",
+      "url": "https://rss.app/feeds/CsN0TsNoTevja0bl.json",
+      "weight": 140
+    },
+    {
+      "id": "r-techseo",
+      "kind": "reddit",
+      "label": "r/TechSEO (RSS.app)",
+      "url": "https://rss.app/feeds/ffXj8dbGbhybFaQJ.json",
+      "weight": 140
+    },
+    {
+      "id": "r-bigseo",
+      "kind": "reddit",
+      "label": "r/bigseo (RSS.app)",
+      "url": "https://rss.app/feeds/YDoJlDsqlk6kryIG.json",
+      "weight": 140
+    },
+    {
+      "id": "r-seogrowth",
+      "kind": "reddit",
+      "label": "r/seogrowth (RSS.app)",
+      "url": "https://rss.app/feeds/ik8o4xcWefrWU1gv.json",
+      "weight": 130
+    },
+    {
+      "id": "r-localseo",
+      "kind": "reddit",
+      "label": "r/localseo (native RSS)",
+      "url": "https://www.reddit.com/r/localseo/.rss",
+      "weight": 120
+    },
+    {
+      "id": "r-digitalmarketing",
+      "kind": "reddit",
+      "label": "r/DigitalMarketing (RSS.app)",
+      "url": "https://rss.app/feeds/W853n0njboFCeuja.json",
+      "weight": 120
+    }
+  ]
+}
+
