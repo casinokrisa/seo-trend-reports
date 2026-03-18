@@ -16,6 +16,10 @@ const REDDIT_MIN_COMMENTS = clampInt(process.env.REDDIT_MIN_COMMENTS, 10, 0, 500
 const REDDIT_MIN_SCORE = clampInt(process.env.REDDIT_MIN_SCORE, 50, 0, 500000)
 const REDDIT_COMMENT_WEIGHT = clampInt(process.env.REDDIT_COMMENT_WEIGHT, 3, 0, 100)
 const REDDIT_CONCURRENCY = clampInt(process.env.REDDIT_CONCURRENCY, 4, 1, 20)
+const REDDIT_FALLBACK_ENABLED = String(process.env.REDDIT_FALLBACK_ENABLED || '1').toLowerCase() !== '0'
+const REDDIT_FALLBACK_MIN_TODAY = clampInt(process.env.REDDIT_FALLBACK_MIN_TODAY, 6, 0, 50)
+const REDDIT_FALLBACK_MIN_WEEK = clampInt(process.env.REDDIT_FALLBACK_MIN_WEEK, 12, 0, 200)
+const REDDIT_META_RETRY_429 = clampInt(process.env.REDDIT_META_RETRY_429, 1, 0, 3)
 
 function clampInt(v, fallback, min, max) {
   const n = Number(v)
@@ -88,6 +92,12 @@ function extractRedditPostId(url) {
   const s = String(url || '')
   const m = s.match(/\/comments\/([a-z0-9]+)\//i)
   return m ? m[1] : ''
+}
+
+function inferSubredditFromUrl(url) {
+  const s = String(url || '')
+  const m = s.match(/reddit\.com\/r\/([^/]+)/i)
+  return m ? decodeURIComponent(m[1]) : ''
 }
 
 async function fetchTextWithCache(url) {
@@ -218,18 +228,25 @@ async function fetchRedditMeta(url) {
   const id = extractRedditPostId(url)
   if (!id) return undefined
   const infoUrl = `https://www.reddit.com/api/info.json?id=t3_${id}&raw_json=1`
-  const res = await fetch(infoUrl, {
-    headers: { 'user-agent': 'rss-trend-reports/1.0', accept: 'application/json' },
-  })
-  if (!res.ok) throw new Error(`Reddit meta HTTP ${res.status}`)
-  const json = await res.json()
-  const data = json?.data?.children?.[0]?.data
-  if (!data) return undefined
-  return {
-    subreddit: String(data.subreddit || ''),
-    score: Number.isFinite(Number(data.score)) ? Number(data.score) : 0,
-    comments: Number.isFinite(Number(data.num_comments)) ? Number(data.num_comments) : 0,
+  for (let attempt = 0; attempt <= REDDIT_META_RETRY_429; attempt++) {
+    const res = await fetch(infoUrl, {
+      headers: { 'user-agent': 'rss-trend-reports/1.0', accept: 'application/json' },
+    })
+    if (res.status === 429 && attempt < REDDIT_META_RETRY_429) {
+      await sleep(900 + Math.floor(Math.random() * 900))
+      continue
+    }
+    if (!res.ok) throw new Error(`Reddit meta HTTP ${res.status}`)
+    const json = await res.json()
+    const data = json?.data?.children?.[0]?.data
+    if (!data) return undefined
+    return {
+      subreddit: String(data.subreddit || ''),
+      score: Number.isFinite(Number(data.score)) ? Number(data.score) : 0,
+      comments: Number.isFinite(Number(data.num_comments)) ? Number(data.num_comments) : 0,
+    }
   }
+  return undefined
 }
 
 function engagementScore(it) {
@@ -283,6 +300,7 @@ async function enrichRedditItems(items) {
       try {
         const meta = await fetchRedditMeta(it.url)
         if (meta) {
+          it.redditMetaFetched = true
           it.subreddit = meta.subreddit
           it.redditScore = meta.score
           it.redditComments = meta.comments
@@ -358,6 +376,39 @@ function sortReddit(a, b) {
   return tb - ta
 }
 
+function sortByPublishedDesc(a, b) {
+  const ta = a.publishedAt ? new Date(a.publishedAt).getTime() : 0
+  const tb = b.publishedAt ? new Date(b.publishedAt).getTime() : 0
+  return tb - ta
+}
+
+function pickRedditWithFallback({ pool, minCount, maxCount }) {
+  const known = pool.filter((x) => x.redditMetaFetched === true)
+  const unknown = pool.filter((x) => x.redditMetaFetched !== true)
+
+  const primary = known.filter(redditOk).sort(sortReddit)
+  const out = primary.slice(0, maxCount)
+
+  if (!REDDIT_FALLBACK_ENABLED) return out
+  if (out.length >= Math.min(minCount, maxCount)) return out
+
+  const need = Math.min(maxCount, minCount) - out.length
+  if (need <= 0) return out
+
+  const seen = new Set(out.map((x) => x.url))
+  const supplement = unknown
+    .slice()
+    .sort(sortByPublishedDesc)
+    .filter((x) => !seen.has(x.url))
+    .slice(0, need)
+
+  return out.concat(supplement)
+}
+
+function fmtNumOrDash(v) {
+  return Number.isFinite(Number(v)) ? String(Number(v)) : '—'
+}
+
 function renderReport({ ymd, items }) {
   const title = REPORT_LANG === 'ru' ? `Reddit SEO Trend Report - ${ymd}` : `Reddit SEO Trend Report - ${ymd}`
   const lookbackLine =
@@ -367,18 +418,11 @@ function renderReport({ ymd, items }) {
 
   const today = items.filter(withinLookback)
 
-  const redditToday = today
-    .filter((x) => x.kind === 'reddit')
-    .filter(redditOk)
-    .sort(sortReddit)
-    .slice(0, 12)
+  const redditTodayPool = today.filter((x) => x.kind === 'reddit')
+  const redditToday = pickRedditWithFallback({ pool: redditTodayPool, minCount: REDDIT_FALLBACK_MIN_TODAY, maxCount: 12 })
 
-  const redditWeek = items
-    .filter((x) => x.kind === 'reddit')
-    .filter((x) => withinDays(x, WEEK_DAYS))
-    .filter(redditOk)
-    .sort(sortReddit)
-    .slice(0, 25)
+  const redditWeekPool = items.filter((x) => x.kind === 'reddit' && withinDays(x, WEEK_DAYS))
+  const redditWeek = pickRedditWithFallback({ pool: redditWeekPool, minCount: REDDIT_FALLBACK_MIN_WEEK, maxCount: 25 })
 
   const sitesToday = today
     .filter((x) => x.kind !== 'reddit')
@@ -396,10 +440,12 @@ function renderReport({ ymd, items }) {
   lines.push('| Title | Community | Score | Comments | Category | Posted |')
   lines.push('|---|---|---:|---:|---|---:|')
   for (const it of redditToday) {
-    const sub = it.subreddit ? String(it.subreddit) : ''
+    const sub = it.subreddit ? String(it.subreddit) : inferSubredditFromUrl(it.url)
     const comm = sub ? `[r/${mdEscape(sub)}](https://www.reddit.com/r/${encodeURIComponent(sub)})` : mdEscape(it.sourceLabel)
+    const score = it.redditMetaFetched === true ? fmtNumOrDash(it.redditScore) : '—'
+    const comments = it.redditMetaFetched === true ? fmtNumOrDash(it.redditComments) : '—'
     lines.push(
-      `| [${mdEscape(it.title)}](${it.url}) | ${comm} | ${Number(it.redditScore || 0)} | ${Number(it.redditComments || 0)} | ${mdEscape(inferCategory(it))} | ${mdEscape(fmtUtc(it.publishedAt))} |`
+      `| [${mdEscape(it.title)}](${it.url}) | ${comm} | ${score} | ${comments} | ${mdEscape(inferCategory(it))} | ${mdEscape(fmtUtc(it.publishedAt))} |`
     )
   }
   if (!redditToday.length) {
@@ -413,10 +459,12 @@ function renderReport({ ymd, items }) {
   lines.push('|---:|---|---|---:|---:|---|---:|')
   for (let i = 0; i < redditWeek.length; i++) {
     const it = redditWeek[i]
-    const sub = it.subreddit ? String(it.subreddit) : ''
+    const sub = it.subreddit ? String(it.subreddit) : inferSubredditFromUrl(it.url)
     const comm = sub ? `[r/${mdEscape(sub)}](https://www.reddit.com/r/${encodeURIComponent(sub)})` : mdEscape(it.sourceLabel)
+    const score = it.redditMetaFetched === true ? fmtNumOrDash(it.redditScore) : '—'
+    const comments = it.redditMetaFetched === true ? fmtNumOrDash(it.redditComments) : '—'
     lines.push(
-      `| ${i + 1} | [${mdEscape(it.title)}](${it.url}) | ${comm} | ${Number(it.redditScore || 0)} | ${Number(it.redditComments || 0)} | ${mdEscape(inferCategory(it))} | ${mdEscape(fmtUtc(it.publishedAt))} |`
+      `| ${i + 1} | [${mdEscape(it.title)}](${it.url}) | ${comm} | ${score} | ${comments} | ${mdEscape(inferCategory(it))} | ${mdEscape(fmtUtc(it.publishedAt))} |`
     )
   }
   if (!redditWeek.length) {
@@ -457,11 +505,10 @@ function renderWeeklyReport({ ymd, items }) {
 
   const week = items.filter((x) => withinDays(x, WEEK_DAYS))
 
-  const redditWeek = week
-    .filter((x) => x.kind === 'reddit')
-    .filter((x) => Number(x.redditComments || 0) >= REDDIT_MIN_COMMENTS || Number(x.redditScore || 0) >= REDDIT_MIN_SCORE)
-    .sort((a, b) => sortKey(b) - sortKey(a))
-    .slice(0, 40)
+  const redditWeekPool = week.filter((x) => x.kind === 'reddit')
+  const redditWeek = pickRedditWithFallback({ pool: redditWeekPool, minCount: REDDIT_FALLBACK_MIN_WEEK, maxCount: 40 }).sort(
+    (a, b) => sortKey(b) - sortKey(a)
+  )
 
   const sitesWeek = week
     .filter((x) => x.kind !== 'reddit')
@@ -478,10 +525,12 @@ function renderWeeklyReport({ ymd, items }) {
   lines.push('| Title | Community | Score | Comments | Category | Posted |')
   lines.push('|---|---|---:|---:|---|---:|')
   for (const it of redditWeek) {
-    const sub = it.subreddit ? String(it.subreddit) : ''
+    const sub = it.subreddit ? String(it.subreddit) : inferSubredditFromUrl(it.url)
     const comm = sub ? `[r/${mdEscape(sub)}](https://www.reddit.com/r/${encodeURIComponent(sub)})` : mdEscape(it.sourceLabel)
+    const score = it.redditMetaFetched === true ? fmtNumOrDash(it.redditScore) : '—'
+    const comments = it.redditMetaFetched === true ? fmtNumOrDash(it.redditComments) : '—'
     lines.push(
-      `| [${mdEscape(it.title)}](${it.url}) | ${comm} | ${Number(it.redditScore || 0)} | ${Number(it.redditComments || 0)} | ${mdEscape(inferCategory(it))} | ${mdEscape(fmtUtc(it.publishedAt))} |`
+      `| [${mdEscape(it.title)}](${it.url}) | ${comm} | ${score} | ${comments} | ${mdEscape(inferCategory(it))} | ${mdEscape(fmtUtc(it.publishedAt))} |`
     )
   }
   if (!redditWeek.length) lines.push(`| _No Reddit items matched thresholds_ |  |  |  |  |  |`)
