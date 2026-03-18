@@ -6,29 +6,29 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Are we over optimizing ad creatives to the point they stop working?](https://www.reddit.com/r/DigitalMarketing/comments/1rxcwca/are_we_over_optimizing_ad_creatives_to_the_point/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-18 19:02 UTC |
-| [What digital marketing skills will actually matter in the next 2–3 years?](https://www.reddit.com/r/DigitalMarketing/comments/1rxb7bj/what_digital_marketing_skills_will_actually/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-18 18:00 UTC |
-| [I get this email (or a variation of it) several times a day](https://www.reddit.com/r/SEO/comments/1rxb5rq/i_get_this_email_or_a_variation_of_it_several/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | AI Search | 2026-03-18 17:59 UTC |
-| [SEO Score](https://www.reddit.com/r/TechSEO/comments/1rxa0b5/seo_score/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | General | 2026-03-18 17:18 UTC |
-| [SEO/PPC other than webfx](https://www.reddit.com/r/SEO/comments/1rx8ogz/seoppc_other_than_webfx/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | AI Search | 2026-03-18 16:30 UTC |
-| [Volatility.](https://www.reddit.com/r/TechSEO/comments/1rx8hue/volatility/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | General | 2026-03-18 16:24 UTC |
+| [How rewriting old content drove more growth than publishing new pages](https://www.reddit.com/r/seogrowth/comments/1rxfvx1/how_rewriting_old_content_drove_more_growth_than/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Links | 2026-03-18 20:49 UTC |
+| [Agency owners - how are you doing outbound beyond referrals?](https://www.reddit.com/r/localseo/comments/1rxfru3/agency_owners_how_are_you_doing_outbound_beyond/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-03-18 20:45 UTC |
+| [AI search research: Your brand is showin in 92% of ChatGPT responses. Or 3%. Depends which model ChatGPT feels like using today.](https://www.reddit.com/r/seogrowth/comments/1rxfl0w/ai_search_research_your_brand_is_showin_in_92_of/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Indexing | 2026-03-18 20:38 UTC |
+| [Client website TANKED with recent Core Update](https://www.reddit.com/r/localseo/comments/1rxf3i5/client_website_tanked_with_recent_core_update/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-03-18 20:20 UTC |
+| [Here's mine one of the best SEO Strategy for your Local Businesses](https://www.reddit.com/r/localseo/comments/1rxefeo/heres_mine_one_of_the_best_seo_strategy_for_your/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-03-18 19:57 UTC |
+| [Why are some verified SABs completely invisible on Google Maps?](https://www.reddit.com/r/localseo/comments/1rxe8tn/why_are_some_verified_sabs_completely_invisible/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-03-18 19:50 UTC |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-| 1 | [Are we over optimizing ad creatives to the point they stop working?](https://www.reddit.com/r/DigitalMarketing/comments/1rxcwca/are_we_over_optimizing_ad_creatives_to_the_point/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-18 19:02 UTC |
-| 2 | [What digital marketing skills will actually matter in the next 2–3 years?](https://www.reddit.com/r/DigitalMarketing/comments/1rxb7bj/what_digital_marketing_skills_will_actually/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-18 18:00 UTC |
-| 3 | [I get this email (or a variation of it) several times a day](https://www.reddit.com/r/SEO/comments/1rxb5rq/i_get_this_email_or_a_variation_of_it_several/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | AI Search | 2026-03-18 17:59 UTC |
-| 4 | [SEO Score](https://www.reddit.com/r/TechSEO/comments/1rxa0b5/seo_score/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | General | 2026-03-18 17:18 UTC |
-| 5 | [SEO/PPC other than webfx](https://www.reddit.com/r/SEO/comments/1rx8ogz/seoppc_other_than_webfx/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | AI Search | 2026-03-18 16:30 UTC |
-| 6 | [Volatility.](https://www.reddit.com/r/TechSEO/comments/1rx8hue/volatility/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | General | 2026-03-18 16:24 UTC |
-| 7 | [Volatility.](https://www.reddit.com/r/SEO/comments/1rx8gk2/volatility/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | General | 2026-03-18 16:22 UTC |
-| 8 | [Suggest some best tools used for Youtube keywords...?](https://www.reddit.com/r/SEO/comments/1rx7q4d/suggest_some_best_tools_used_for_youtube_keywords/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | AI Search | 2026-03-18 15:55 UTC |
-| 9 | [How to get cited by AI (ChatGPT, Perplexity…) using LinkedIn?](https://www.reddit.com/r/seogrowth/comments/1rx7bq8/how_to_get_cited_by_ai_chatgpt_perplexity_using/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Links | 2026-03-18 15:40 UTC |
-| 10 | [SEO Rank Tracking Tool Recommendations](https://www.reddit.com/r/SEO/comments/1rx79cz/seo_rank_tracking_tool_recommendations/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Local SEO | 2026-03-18 15:38 UTC |
-| 11 | [Google's share of search queries dropped again. Here's what the SEO community needs to stop pretending.](https://www.reddit.com/r/seogrowth/comments/1rx75nk/googles_share_of_search_queries_dropped_again/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Links | 2026-03-18 15:34 UTC |
-| 12 | [Marketing Strategies for a Mindfulness App: What Has Worked for You?](https://www.reddit.com/r/DigitalMarketing/comments/1rx759u/marketing_strategies_for_a_mindfulness_app_what/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-18 15:34 UTC |
+| 1 | [How rewriting old content drove more growth than publishing new pages](https://www.reddit.com/r/seogrowth/comments/1rxfvx1/how_rewriting_old_content_drove_more_growth_than/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Links | 2026-03-18 20:49 UTC |
+| 2 | [Agency owners - how are you doing outbound beyond referrals?](https://www.reddit.com/r/localseo/comments/1rxfru3/agency_owners_how_are_you_doing_outbound_beyond/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-03-18 20:45 UTC |
+| 3 | [AI search research: Your brand is showin in 92% of ChatGPT responses. Or 3%. Depends which model ChatGPT feels like using today.](https://www.reddit.com/r/seogrowth/comments/1rxfl0w/ai_search_research_your_brand_is_showin_in_92_of/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Indexing | 2026-03-18 20:38 UTC |
+| 4 | [Client website TANKED with recent Core Update](https://www.reddit.com/r/localseo/comments/1rxf3i5/client_website_tanked_with_recent_core_update/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-03-18 20:20 UTC |
+| 5 | [Here's mine one of the best SEO Strategy for your Local Businesses](https://www.reddit.com/r/localseo/comments/1rxefeo/heres_mine_one_of_the_best_seo_strategy_for_your/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-03-18 19:57 UTC |
+| 6 | [Why are some verified SABs completely invisible on Google Maps?](https://www.reddit.com/r/localseo/comments/1rxe8tn/why_are_some_verified_sabs_completely_invisible/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-03-18 19:50 UTC |
+| 7 | [Anyone gone down the SEO/AEO rabbit hole while still being primarily in a sales role? Was it worth it or what did you learn?](https://www.reddit.com/r/SEO/comments/1rxe569/anyone_gone_down_the_seoaeo_rabbit_hole_while/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | AI Search | 2026-03-18 19:46 UTC |
+| 8 | [I mapped out every SEO task I kept skipping! here's what the full checklist looks like](https://www.reddit.com/r/seogrowth/comments/1rxdxte/i_mapped_out_every_seo_task_i_kept_skipping_heres/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Links | 2026-03-18 19:39 UTC |
+| 9 | [SEO to improve citations in AI](https://www.reddit.com/r/seogrowth/comments/1rxdtqm/seo_to_improve_citations_in_ai/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | AI Search | 2026-03-18 19:35 UTC |
+| 10 | [Anyone else think most "SEO checklists" are just recycled advice with zero depth?](https://www.reddit.com/r/SEO/comments/1rxdqp5/anyone_else_think_most_seo_checklists_are_just/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | AI Search | 2026-03-18 19:32 UTC |
+| 11 | [keyword scoring & page ranking help](https://www.reddit.com/r/SEO/comments/1rxdc6m/keyword_scoring_page_ranking_help/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Links | 2026-03-18 19:17 UTC |
+| 12 | [Are we over optimizing ad creatives to the point they stop working?](https://www.reddit.com/r/DigitalMarketing/comments/1rxcwca/are_we_over_optimizing_ad_creatives_to_the_point/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-18 19:02 UTC |
 
 ## Notable items (Sites)
 
