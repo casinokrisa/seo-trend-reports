@@ -3,15 +3,15 @@
     {
       "id": "sel",
       "kind": "site",
-      "label": "Search Engine Land (RSS.app)",
-      "url": "https://rss.app/feeds/NKeQTh5PcdNvqZN6.json",
+      "label": "Search Engine Land",
+      "url": "https://rss.app/feeds/NKeQTh5PcdNvqZN6.xml",
       "weight": 120
     },
     {
       "id": "sej",
       "kind": "site",
-      "label": "Search Engine Journal (RSS.app)",
-      "url": "https://rss.app/feeds/8oeeV2A5o0cJWfn9.json",
+      "label": "Search Engine Journal",
+      "url": "https://rss.app/feeds/8oeeV2A5o0cJWfn9.xml",
       "weight": 120
     },
     {
