@@ -6,6 +6,10 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
+| [I have 70+ DR domain. How to monetize?](https://www.reddit.com/r/TechSEO/comments/1rxijdx/i_have_70_dr_domain_how_to_monetize/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | AI Search | 2026-03-18 22:30 UTC |
+| [I have 70+ DR domain. How to monetize?](https://www.reddit.com/r/seogrowth/comments/1rxiitr/i_have_70_dr_domain_how_to_monetize/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Links | 2026-03-18 22:29 UTC |
+| [I just realized I suck at content strategy](https://www.reddit.com/r/DigitalMarketing/comments/1rxhfgu/i_just_realized_i_suck_at_content_strategy/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-18 21:47 UTC |
+| [72 Months and 100+ experiments into SEO, 16 Years into Engineering and Finally Something that is Worth mentioning in SEO and AI Search](https://www.reddit.com/r/seogrowth/comments/1rxhboi/72_months_and_100_experiments_into_seo_16_years/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Links | 2026-03-18 21:43 UTC |
 | [Is this Black hat stuff? Could our company face liability?](https://www.reddit.com/r/SEO/comments/1rxh67u/is_this_black_hat_stuff_could_our_company_face/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Links | 2026-03-18 21:37 UTC |
 | [Looking for examples of local service sites using both city + neighborhood pages](https://www.reddit.com/r/localseo/comments/1rxg2gi/looking_for_examples_of_local_service_sites_using/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-03-18 20:56 UTC |
 | [How clarifying the “job to be done” increased demand more than adding new channels](https://www.reddit.com/r/DigitalMarketing/comments/1rxfy34/how_clarifying_the_job_to_be_done_increased/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Content | 2026-03-18 20:51 UTC |
@@ -14,10 +18,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [AI search research: Your brand is showin in 92% of ChatGPT responses. Or 3%. Depends which model ChatGPT feels like using today.](https://www.reddit.com/r/seogrowth/comments/1rxfl0w/ai_search_research_your_brand_is_showin_in_92_of/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Indexing | 2026-03-18 20:38 UTC |
 | [Client website TANKED with recent Core Update](https://www.reddit.com/r/localseo/comments/1rxf3i5/client_website_tanked_with_recent_core_update/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-03-18 20:20 UTC |
 | [Here's mine one of the best SEO Strategy for your Local Businesses](https://www.reddit.com/r/localseo/comments/1rxefeo/heres_mine_one_of_the_best_seo_strategy_for_your/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-03-18 19:57 UTC |
-| [Why are some verified SABs completely invisible on Google Maps?](https://www.reddit.com/r/localseo/comments/1rxe8tn/why_are_some_verified_sabs_completely_invisible/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-03-18 19:50 UTC |
-| [Anyone gone down the SEO/AEO rabbit hole while still being primarily in a sales role? Was it worth it or what did you learn?](https://www.reddit.com/r/SEO/comments/1rxe569/anyone_gone_down_the_seoaeo_rabbit_hole_while/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | AI Search | 2026-03-18 19:46 UTC |
-| [I mapped out every SEO task I kept skipping! here's what the full checklist looks like](https://www.reddit.com/r/seogrowth/comments/1rxdxte/i_mapped_out_every_seo_task_i_kept_skipping_heres/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Links | 2026-03-18 19:39 UTC |
-| [SEO to improve citations in AI](https://www.reddit.com/r/seogrowth/comments/1rxdtqm/seo_to_improve_citations_in_ai/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | AI Search | 2026-03-18 19:35 UTC |
 
 ## Weekly notable items (Sites)
 
