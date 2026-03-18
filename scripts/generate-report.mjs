@@ -314,12 +314,25 @@ function fmtUtc(iso) {
   return `${yyyy}-${mm}-${dd} ${hh}:${min} UTC`
 }
 
+function inferCategory(it) {
+  const t = `${it.title || ''} ${it.excerpt || ''}`.toLowerCase()
+  if (/(local seo|gmb|gbp|google business profile|map pack|maps)/.test(t)) return 'Local SEO'
+  if (/(index|indexing|crawl|crawled|discovered|render|robots|sitemap)/.test(t)) return 'Indexing'
+  if (/(backlink|links?|guest post|link building|anchor)/.test(t)) return 'Links'
+  if (/(gsc|search console|inspection|coverage|impressions|clicks|ctr)/.test(t)) return 'GSC'
+  if (/(ai|overview|ai mode|llm|chatgpt|gemini|copilot|citation|cited|aeo)/.test(t)) return 'AI Search'
+  if (/(schema|structured data|json-ld|core web vitals|lcp|cls|inpx|technical)/.test(t)) return 'Technical SEO'
+  if (/(content|rewrite|editorial|programmatic|pseo|templates?)/.test(t)) return 'Content'
+  if (/(migration|https|redirect|301|410|canonical)/.test(t)) return 'Migration'
+  return 'General'
+}
+
 function renderReport({ ymd, items }) {
-  const title = REPORT_LANG === 'ru' ? `RSS Trend Report — ${ymd}` : `RSS Trend Report — ${ymd}`
+  const title = REPORT_LANG === 'ru' ? `SEO Trend Report - ${ymd}` : `SEO Trend Report - ${ymd}`
   const lookbackLine =
     REPORT_LANG === 'ru'
-      ? `Lookback window: last ${LOOKBACK_HOURS} hours. Reddit is enriched with score/comments (best-effort).`
-      : `Lookback window: last ${LOOKBACK_HOURS} hours. Reddit is enriched with score/comments (best-effort).`
+      ? `Окно: последние ${LOOKBACK_HOURS} часов. Reddit: score/comments подтягиваются (best-effort).`
+      : `Window: last ${LOOKBACK_HOURS} hours. Reddit is enriched with score/comments (best-effort).`
 
   const today = items.filter(withinLookback)
 
@@ -327,43 +340,46 @@ function renderReport({ ymd, items }) {
     .filter((x) => x.kind === 'reddit')
     .filter((x) => Number(x.redditComments || 0) >= REDDIT_MIN_COMMENTS || Number(x.redditScore || 0) >= REDDIT_MIN_SCORE)
     .sort((a, b) => sortKey(b) - sortKey(a))
-    .slice(0, 20)
+    .slice(0, 12)
 
   const sitesToday = today
     .filter((x) => x.kind !== 'reddit')
     .sort((a, b) => sortKey(b) - sortKey(a))
-    .slice(0, 30)
+    .slice(0, 20)
 
   const lines = []
   lines.push(`# ${title}`)
   lines.push('')
+  lines.push(`## Today's Trending Posts`)
+  lines.push('')
   lines.push(lookbackLine)
   lines.push('')
 
-  lines.push('## Today’s trending items (Reddit)')
-  lines.push('')
-  lines.push('| Title | Community | Score | Comments | Posted |')
-  lines.push('|---|---:|---:|---:|---:|')
+  lines.push('| Title | Community | Score | Comments | Category | Posted |')
+  lines.push('|---|---|---:|---:|---|---:|')
   for (const it of redditToday) {
-    const comm = it.subreddit ? `r/${it.subreddit}` : it.sourceLabel
+    const sub = it.subreddit ? String(it.subreddit) : ''
+    const comm = sub ? `[r/${mdEscape(sub)}](https://www.reddit.com/r/${encodeURIComponent(sub)})` : mdEscape(it.sourceLabel)
     lines.push(
-      `| [${mdEscape(it.title)}](${it.url}) | ${mdEscape(comm)} | ${Number(it.redditScore || 0)} | ${Number(it.redditComments || 0)} | ${mdEscape(fmtUtc(it.publishedAt))} |`
+      `| [${mdEscape(it.title)}](${it.url}) | ${comm} | ${Number(it.redditScore || 0)} | ${Number(it.redditComments || 0)} | ${mdEscape(inferCategory(it))} | ${mdEscape(fmtUtc(it.publishedAt))} |`
     )
   }
   if (!redditToday.length) {
-    lines.push(`| _No Reddit items matched thresholds_ |  |  |  |  |`)
+    lines.push(`| _No Reddit items matched thresholds_ |  |  |  |  |  |`)
   }
   lines.push('')
 
-  lines.push('## Today’s notable items (Sites)')
+  lines.push(`## Notable items (Sites)`)
   lines.push('')
-  lines.push('| Title | Source | Posted |')
-  lines.push('|---|---|---:|')
+  lines.push('| Title | Source | Category | Posted |')
+  lines.push('|---|---|---|---:|')
   for (const it of sitesToday) {
-    lines.push(`| [${mdEscape(it.title)}](${it.url}) | ${mdEscape(it.sourceLabel)} | ${mdEscape(fmtUtc(it.publishedAt))} |`)
+    lines.push(
+      `| [${mdEscape(it.title)}](${it.url}) | ${mdEscape(it.sourceLabel)} | ${mdEscape(inferCategory(it))} | ${mdEscape(fmtUtc(it.publishedAt))} |`
+    )
   }
   if (!sitesToday.length) {
-    lines.push(`| _No site items in lookback window_ |  |  |`)
+    lines.push(`| _No site items in window_ |  |  |  |`)
   }
   lines.push('')
 
@@ -378,10 +394,10 @@ function renderReport({ ymd, items }) {
 }
 
 function renderWeeklyReport({ ymd, items }) {
-  const title = REPORT_LANG === 'ru' ? `RSS Weekly Trend Report — ${ymd}` : `RSS Weekly Trend Report — ${ymd}`
+  const title = REPORT_LANG === 'ru' ? `SEO Weekly Trend Report - ${ymd}` : `SEO Weekly Trend Report - ${ymd}`
   const line =
     REPORT_LANG === 'ru'
-      ? `Window: last ${WEEK_DAYS} days. Reddit is enriched with score/comments (best-effort).`
+      ? `Окно: последние ${WEEK_DAYS} дней. Reddit: score/comments подтягиваются (best-effort).`
       : `Window: last ${WEEK_DAYS} days. Reddit is enriched with score/comments (best-effort).`
 
   const week = items.filter((x) => withinDays(x, WEEK_DAYS))
@@ -400,30 +416,32 @@ function renderWeeklyReport({ ymd, items }) {
   const lines = []
   lines.push(`# ${title}`)
   lines.push('')
+  lines.push('## Weekly trending posts')
+  lines.push('')
   lines.push(line)
   lines.push('')
-
-  lines.push('## Weekly top items (Reddit)')
-  lines.push('')
-  lines.push('| Title | Community | Score | Comments | Posted |')
-  lines.push('|---|---:|---:|---:|---:|')
+  lines.push('| Title | Community | Score | Comments | Category | Posted |')
+  lines.push('|---|---|---:|---:|---|---:|')
   for (const it of redditWeek) {
-    const comm = it.subreddit ? `r/${it.subreddit}` : it.sourceLabel
+    const sub = it.subreddit ? String(it.subreddit) : ''
+    const comm = sub ? `[r/${mdEscape(sub)}](https://www.reddit.com/r/${encodeURIComponent(sub)})` : mdEscape(it.sourceLabel)
     lines.push(
-      `| [${mdEscape(it.title)}](${it.url}) | ${mdEscape(comm)} | ${Number(it.redditScore || 0)} | ${Number(it.redditComments || 0)} | ${mdEscape(fmtUtc(it.publishedAt))} |`
+      `| [${mdEscape(it.title)}](${it.url}) | ${comm} | ${Number(it.redditScore || 0)} | ${Number(it.redditComments || 0)} | ${mdEscape(inferCategory(it))} | ${mdEscape(fmtUtc(it.publishedAt))} |`
     )
   }
-  if (!redditWeek.length) lines.push(`| _No Reddit items matched thresholds_ |  |  |  |  |`)
+  if (!redditWeek.length) lines.push(`| _No Reddit items matched thresholds_ |  |  |  |  |  |`)
   lines.push('')
 
   lines.push('## Weekly notable items (Sites)')
   lines.push('')
-  lines.push('| Title | Source | Posted |')
-  lines.push('|---|---|---:|')
+  lines.push('| Title | Source | Category | Posted |')
+  lines.push('|---|---|---|---:|')
   for (const it of sitesWeek) {
-    lines.push(`| [${mdEscape(it.title)}](${it.url}) | ${mdEscape(it.sourceLabel)} | ${mdEscape(fmtUtc(it.publishedAt))} |`)
+    lines.push(
+      `| [${mdEscape(it.title)}](${it.url}) | ${mdEscape(it.sourceLabel)} | ${mdEscape(inferCategory(it))} | ${mdEscape(fmtUtc(it.publishedAt))} |`
+    )
   }
-  if (!sitesWeek.length) lines.push(`| _No site items in window_ |  |  |`)
+  if (!sitesWeek.length) lines.push(`| _No site items in window_ |  |  |  |`)
   lines.push('')
 
   lines.push('## Notes')
