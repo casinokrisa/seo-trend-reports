@@ -3,6 +3,8 @@ name: Generate RSS trend report
 on:
   workflow_dispatch:
   schedule:
+    # Hourly refresh (keeps site feeds fresh)
+    - cron: '10 * * * *'
     # 08:00 MSK (UTC+3) = 05:00 UTC
     - cron: '0 5 * * *'
     # Weekly: Monday 08:00 MSK (UTC+3) = 05:00 UTC

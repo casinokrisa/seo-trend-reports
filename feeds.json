@@ -15,6 +15,41 @@
       "weight": 120
     },
     {
+      "id": "seroundtable",
+      "kind": "site",
+      "label": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/index.xml",
+      "weight": 130
+    },
+    {
+      "id": "gsc-doc-updates",
+      "kind": "site",
+      "label": "Google Search Central (docs updates)",
+      "url": "https://developers.google.com/search/updates/search_docs_updates.rss",
+      "weight": 160
+    },
+    {
+      "id": "bing-webmaster",
+      "kind": "site",
+      "label": "Bing Webmaster Blog",
+      "url": "https://blogs.bing.com/webmaster/feed",
+      "weight": 120
+    },
+    {
+      "id": "ahrefs",
+      "kind": "site",
+      "label": "Ahrefs Blog",
+      "url": "https://ahrefs.com/blog/feed/",
+      "weight": 80
+    },
+    {
+      "id": "semrush",
+      "kind": "site",
+      "label": "Semrush Blog",
+      "url": "https://www.semrush.com/blog/feed/",
+      "weight": 70
+    },
+    {
       "id": "r-seo",
       "kind": "reddit",
       "label": "r/SEO (RSS.app)",
