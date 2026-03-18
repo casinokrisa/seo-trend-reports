@@ -6,29 +6,29 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
+| [For local SMBs, what’s the cleanest way to build a steady review engine?](https://www.reddit.com/r/localseo/comments/1rx6tuh/for_local_smbs_whats_the_cleanest_way_to_build_a/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-03-18 15:22 UTC |
+| [Google business profile](https://www.reddit.com/r/localseo/comments/1rx6sw5/google_business_profile/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-03-18 15:21 UTC |
+| [Massive non-branded impression drop across aviation destination pages in Polish market, but no obvious technical issue — what would you check next?](https://www.reddit.com/r/bigseo/comments/1rx6ev0/massive_nonbranded_impression_drop_across/) | [r/bigseo](https://www.reddit.com/r/bigseo) | — | — | Indexing | 2026-03-18 15:06 UTC |
+| [What marketing task eats the most time for you?](https://www.reddit.com/r/DigitalMarketing/comments/1rx5nc9/what_marketing_task_eats_the_most_time_for_you/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-18 14:37 UTC |
+| [Redirect best practice?](https://www.reddit.com/r/SEO/comments/1rx52os/redirect_best_practice/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | AI Search | 2026-03-18 14:14 UTC |
 | [Name suggestion for my marketing agency](https://www.reddit.com/r/DigitalMarketing/comments/1rx4ux0/name_suggestion_for_my_marketing_agency/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-18 14:06 UTC |
-| [Anyone else seeing odd Google Search Console updates over the last 2–3 days?](https://www.reddit.com/r/TechSEO/comments/1rx3lpm/anyone_else_seeing_odd_google_search_console/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | GSC | 2026-03-18 13:16 UTC |
-| [GSC stuck on March 14 data anyone else?](https://www.reddit.com/r/SEO/comments/1rx3ia5/gsc_stuck_on_march_14_data_anyone_else/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | GSC | 2026-03-18 13:12 UTC |
-| [Any hope for a 300k page recipe site that is AI generated?](https://www.reddit.com/r/TechSEO/comments/1rx31l9/any_hope_for_a_300k_page_recipe_site_that_is_ai/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | Links | 2026-03-18 12:52 UTC |
-| [Any hope for a 300k page recipe site that is AI generated?](https://www.reddit.com/r/bigseo/comments/1rx2zns/any_hope_for_a_300k_page_recipe_site_that_is_ai/) | [r/bigseo](https://www.reddit.com/r/bigseo) | — | — | Links | 2026-03-18 12:49 UTC |
-| [Any hope for a 300k page recipe site that is AI generated?](https://www.reddit.com/r/SEO/comments/1rx2z1i/any_hope_for_a_300k_page_recipe_site_that_is_ai/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Links | 2026-03-18 12:49 UTC |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-| 1 | [Name suggestion for my marketing agency](https://www.reddit.com/r/DigitalMarketing/comments/1rx4ux0/name_suggestion_for_my_marketing_agency/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-18 14:06 UTC |
-| 2 | [Anyone else seeing odd Google Search Console updates over the last 2–3 days?](https://www.reddit.com/r/TechSEO/comments/1rx3lpm/anyone_else_seeing_odd_google_search_console/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | GSC | 2026-03-18 13:16 UTC |
-| 3 | [GSC stuck on March 14 data anyone else?](https://www.reddit.com/r/SEO/comments/1rx3ia5/gsc_stuck_on_march_14_data_anyone_else/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | GSC | 2026-03-18 13:12 UTC |
-| 4 | [Any hope for a 300k page recipe site that is AI generated?](https://www.reddit.com/r/TechSEO/comments/1rx31l9/any_hope_for_a_300k_page_recipe_site_that_is_ai/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | Links | 2026-03-18 12:52 UTC |
-| 5 | [Any hope for a 300k page recipe site that is AI generated?](https://www.reddit.com/r/bigseo/comments/1rx2zns/any_hope_for_a_300k_page_recipe_site_that_is_ai/) | [r/bigseo](https://www.reddit.com/r/bigseo) | — | — | Links | 2026-03-18 12:49 UTC |
-| 6 | [Any hope for a 300k page recipe site that is AI generated?](https://www.reddit.com/r/SEO/comments/1rx2z1i/any_hope_for_a_300k_page_recipe_site_that_is_ai/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Links | 2026-03-18 12:49 UTC |
-| 7 | [Google My Business Verification tip if you encounter &quot;No more ways to verify&quot; (for businesses with a front of house only)](https://www.reddit.com/r/localseo/comments/1rx2mfq/google_my_business_verification_tip_if_you/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-03-18 12:33 UTC |
-| 8 | [URL Indexing tool for external pages](https://www.reddit.com/r/seogrowth/comments/1rx27o0/url_indexing_tool_for_external_pages/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Indexing | 2026-03-18 12:13 UTC |
-| 9 | [Shopify VS Wordpress? Does Shopify can make more sales?](https://www.reddit.com/r/DigitalMarketing/comments/1rx20q8/shopify_vs_wordpress_does_shopify_can_make_more/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-18 12:04 UTC |
-| 10 | [how to practice SEO as a beginner??](https://www.reddit.com/r/seogrowth/comments/1rx1m2z/how_to_practice_seo_as_a_beginner/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Content | 2026-03-18 11:44 UTC |
-| 11 | [Optimized internal links, alt text images, used keywords in descriptions… what else?](https://www.reddit.com/r/seogrowth/comments/1rx1ktb/optimized_internal_links_alt_text_images_used/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Links | 2026-03-18 11:42 UTC |
-| 12 | [How to practice SEO as a beginner??](https://www.reddit.com/r/DigitalMarketing/comments/1rx1k0n/how_to_practice_seo_as_a_beginner/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Content | 2026-03-18 11:41 UTC |
+| 1 | [For local SMBs, what’s the cleanest way to build a steady review engine?](https://www.reddit.com/r/localseo/comments/1rx6tuh/for_local_smbs_whats_the_cleanest_way_to_build_a/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-03-18 15:22 UTC |
+| 2 | [Google business profile](https://www.reddit.com/r/localseo/comments/1rx6sw5/google_business_profile/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-03-18 15:21 UTC |
+| 3 | [Massive non-branded impression drop across aviation destination pages in Polish market, but no obvious technical issue — what would you check next?](https://www.reddit.com/r/bigseo/comments/1rx6ev0/massive_nonbranded_impression_drop_across/) | [r/bigseo](https://www.reddit.com/r/bigseo) | — | — | Indexing | 2026-03-18 15:06 UTC |
+| 4 | [What marketing task eats the most time for you?](https://www.reddit.com/r/DigitalMarketing/comments/1rx5nc9/what_marketing_task_eats_the_most_time_for_you/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-18 14:37 UTC |
+| 5 | [Redirect best practice?](https://www.reddit.com/r/SEO/comments/1rx52os/redirect_best_practice/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | AI Search | 2026-03-18 14:14 UTC |
+| 6 | [Name suggestion for my marketing agency](https://www.reddit.com/r/DigitalMarketing/comments/1rx4ux0/name_suggestion_for_my_marketing_agency/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-18 14:06 UTC |
+| 7 | [Anyone else seeing odd Google Search Console updates over the last 2–3 days?](https://www.reddit.com/r/TechSEO/comments/1rx3lpm/anyone_else_seeing_odd_google_search_console/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | GSC | 2026-03-18 13:16 UTC |
+| 8 | [GSC stuck on March 14 data anyone else?](https://www.reddit.com/r/SEO/comments/1rx3ia5/gsc_stuck_on_march_14_data_anyone_else/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | GSC | 2026-03-18 13:12 UTC |
+| 9 | [Any hope for a 300k page recipe site that is AI generated?](https://www.reddit.com/r/TechSEO/comments/1rx31l9/any_hope_for_a_300k_page_recipe_site_that_is_ai/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | Links | 2026-03-18 12:52 UTC |
+| 10 | [Any hope for a 300k page recipe site that is AI generated?](https://www.reddit.com/r/bigseo/comments/1rx2zns/any_hope_for_a_300k_page_recipe_site_that_is_ai/) | [r/bigseo](https://www.reddit.com/r/bigseo) | — | — | Links | 2026-03-18 12:49 UTC |
+| 11 | [Any hope for a 300k page recipe site that is AI generated?](https://www.reddit.com/r/SEO/comments/1rx2z1i/any_hope_for_a_300k_page_recipe_site_that_is_ai/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Links | 2026-03-18 12:49 UTC |
+| 12 | [Google My Business Verification tip if you encounter &quot;No more ways to verify&quot; (for businesses with a front of house only)](https://www.reddit.com/r/localseo/comments/1rx2mfq/google_my_business_verification_tip_if_you/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-03-18 12:33 UTC |
 
 ## Notable items (Sites)
 
