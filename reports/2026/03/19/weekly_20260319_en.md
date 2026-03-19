@@ -6,6 +6,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
+| [Anyone Interested in USA AFS Account?](https://www.reddit.com/r/DigitalMarketing/comments/1rxubbr/anyone_interested_in_usa_afs_account/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-19 07:55 UTC |
+| [Is it just me or has digital marketing become 80% tools and 20% thinking?](https://www.reddit.com/r/DigitalMarketing/comments/1rxu9y8/is_it_just_me_or_has_digital_marketing_become_80/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-19 07:53 UTC |
+| [Comments in Meta ads](https://www.reddit.com/r/DigitalMarketing/comments/1rxu2qo/comments_in_meta_ads/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-19 07:39 UTC |
+| [Transitioning my skincare brand from local fairs to a digital-first: How to level up my content?"](https://www.reddit.com/r/DigitalMarketing/comments/1rxtt1a/transitioning_my_skincare_brand_from_local_fairs/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-19 07:22 UTC |
+| [The kind of graph that gets a man a $5 raise offer in NYC.](https://www.reddit.com/r/seogrowth/comments/1rxtioj/the_kind_of_graph_that_gets_a_man_a_5_raise_offer/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | AI Search | 2026-03-19 07:05 UTC |
 | [Need Real Backlinks](https://www.reddit.com/r/seogrowth/comments/1rxt9kj/need_real_backlinks/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Links | 2026-03-19 06:49 UTC |
 | [Why do some brands keep showing up in ChatGPT answers while others get ignored completely](https://www.reddit.com/r/DigitalMarketing/comments/1rxt8bd/why_do_some_brands_keep_showing_up_in_chatgpt/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Indexing | 2026-03-19 06:47 UTC |
 | [What is the best primary and secondary keyword implementation strategy?](https://www.reddit.com/r/seogrowth/comments/1rxt33m/what_is_the_best_primary_and_secondary_keyword/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Content | 2026-03-19 06:38 UTC |
@@ -13,11 +18,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [If you had to grow a website from 0 to 10k traffic in 3 months, what would be your exact strategy?](https://www.reddit.com/r/DigitalMarketing/comments/1rxsj9d/if_you_had_to_grow_a_website_from_0_to_10k/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-19 06:05 UTC |
 | [Hello! What AI tool can you recommend for image/video generation?](https://www.reddit.com/r/DigitalMarketing/comments/1rxs7df/hello_what_ai_tool_can_you_recommend_for/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-19 05:46 UTC |
 | [If you had to stick to ONE AI tool for digital marketing, how would you approach it?](https://www.reddit.com/r/DigitalMarketing/comments/1rxs4p9/if_you_had_to_stick_to_one_ai_tool_for_digital/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-19 05:41 UTC |
-| [Building a tool that tells you why AI isn't citing your site. Would love 5 people to tell me if this is useful.. here's a mockup.](https://www.reddit.com/r/TechSEO/comments/1rxs3s3/building_a_tool_that_tells_you_why_ai_isnt_citing/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | AI Search | 2026-03-19 05:40 UTC |
-| [If you could only afford ONE AI tool for digital marketing… which would you choose?](https://www.reddit.com/r/DigitalMarketing/comments/1rxs25w/if_you_could_only_afford_one_ai_tool_for_digital/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-19 05:38 UTC |
-| [How Can I Get My Business Listed in Google AI Mode?](https://www.reddit.com/r/localseo/comments/1rxrys4/how_can_i_get_my_business_listed_in_google_ai_mode/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-03-19 05:32 UTC |
-| [You sell, I build](https://www.reddit.com/r/DigitalMarketing/comments/1rxrd13/you_sell_i_build/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-19 04:59 UTC |
-| [Is it normal for impressions to rise before rankings actually improve?](https://www.reddit.com/r/seogrowth/comments/1rxqgke/is_it_normal_for_impressions_to_rise_before/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | GSC | 2026-03-19 04:11 UTC |
 
 ## Weekly notable items (Sites)
 
