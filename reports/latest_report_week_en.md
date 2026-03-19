@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Daily Search Forum Recap: March 19, 2026](https://www.seroundtable.com/recap-03-19-2026-41081.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-19 14:00 UTC |
 | [Search Lab AI Beaker Icon Replaced On Android](https://www.seroundtable.com/googles-search-lab-icon-gets-replaced-on-android-devices-41082.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-19 11:36 UTC |
 | [Google Expands Personal Intelligence As Jarvis Approaches](https://www.seroundtable.com/google-personal-intelligence-expands-41084.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-19 11:20 UTC |
 | [The Content Moat Is Dead. The Context Moat Is What Survives](https://www.searchenginejournal.com/the-content-moat-is-dead-the-context-moat-is-what-survives/569778/) | Search Engine Journal | 200 | Content | 2026-03-19 13:30 UTC |
@@ -25,7 +26,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google News Support Team Still Advices You Go To Search Liaison For Updates](https://www.seroundtable.com/google-news-support-search-liaison-40951.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-17 11:21 UTC |
 | [OpenAI Continues To Expand Ads in ChatGPT and Tests Ads Manager](https://www.seroundtable.com/chatgpt-ads-expands-ads-manager-41078.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-16 17:25 UTC |
 | [Google Brings Helpful Changes to Ads Editor with Version 2.12](https://www.seroundtable.com/google-brings-helpful-changes-to-ads-editor-with-version-2-12-41076.html) | Search Engine Roundtable | 170 | General | 2026-03-16 15:06 UTC |
-| [PMax Channel Reporting Gets Video Segmentation Option](https://www.seroundtable.com/pmax-channel-reporting-gets-video-segmentation-option-41075.html) | Search Engine Roundtable | 170 | General | 2026-03-16 13:40 UTC |
 | [How AI is impacting local search and what tools to use to get ahead](https://searchengineland.com/guide/how-ai-is-impacting-local-search) | Search Engine Land | 160 | Local SEO | 2026-03-16 20:53 UTC |
 | [How To Build An SEO Commissioning Workflow: From Tickets To Requirements](https://www.searchenginejournal.com/how-to-build-an-seo-commissioning-workflow/566093/) | Search Engine Journal | 160 | Content | 2026-03-18 13:00 UTC |
 | [How To Use AI To Streamline Time-Consuming SEO Tasks](https://www.searchenginejournal.com/how-to-use-ai-to-streamline-time-consuming-seo-tasks/566499/) | Search Engine Journal | 160 | AI Search | 2026-03-18 12:00 UTC |
@@ -41,10 +41,10 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Vibe Coding Plugins? Validate With Official WordPress Plugin Checker](https://www.searchenginejournal.com/vibe-coding-plugins-validate-with-official-wordpress-plugin-checker/569895/) | Search Engine Journal | 160 | General | 2026-03-17 09:17 UTC |
 | [How To Track AI Visibility & Prompts The Right Way](https://www.searchenginejournal.com/how-to-track-ai-visibility-prompts-the-right-way/569866/) | Search Engine Journal | 160 | AI Search | 2026-03-17 09:00 UTC |
 | [AI Search Barely Cites Syndicated News Or Press Releases](https://www.searchenginejournal.com/ai-search-barely-cites-syndicated-news-or-press-releases/569854/) | Search Engine Journal | 160 | AI Search | 2026-03-16 17:09 UTC |
+| [PMax Channel Reporting Gets Video Segmentation Option](https://www.seroundtable.com/pmax-channel-reporting-gets-video-segmentation-option-41075.html) | Search Engine Roundtable | 155 | General | 2026-03-16 13:40 UTC |
 | [Bing Adds AI Shopping Additions In Shopping Results?](https://www.seroundtable.com/is-bing-testing-curated-ai-shopping-results-41074.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-16 11:35 UTC |
 | [Google What People Are Saying With Popular &#38; Latest Comments](https://www.seroundtable.com/google-what-people-are-saying-popular-latest-comments-40555.html) | Search Engine Roundtable | 155 | General | 2026-03-16 11:31 UTC |
 | [Store Tab Appearing in Google Shopping](https://www.seroundtable.com/local-stores-shown-in-the-google-shopping-stores-tab-41073.html) | Search Engine Roundtable | 155 | General | 2026-03-16 11:30 UTC |
-| [Is Google Hitting Self-Promotional Listicles Hard Again?](https://www.seroundtable.com/is-google-algorithm-the-hitting-llm-tactic-of-self-promotional-listicles-41071.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-13 11:50 UTC |
 | [Competitor Ad Spend: How to Analyze Rivals’ Budgets](https://www.semrush.com/blog/competitor-ad-spend/) | Semrush Blog | 150 | Migration | 2026-03-19 10:06 UTC |
 | [20 Best Search Engines Compared](https://www.semrush.com/blog/search-engine-list/) | Semrush Blog | 150 | Migration | 2026-03-19 09:54 UTC |
 | [6 Ways to Build a Search Everywhere Optimization Strategy for 2026](https://www.semrush.com/blog/search-everywhere-optimization/) | Semrush Blog | 150 | Migration | 2026-03-19 09:44 UTC |
@@ -69,9 +69,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [How to Optimize Content for AI Search Engines [2026 Guide]](https://www.semrush.com/blog/how-to-optimize-content-for-ai-search-engines/) | Semrush Blog | 110 | AI Search | 2026-03-17 11:25 UTC |
 | [How to Do Keyword Research in 2026 (6 Ways + Framework)](https://www.semrush.com/blog/keyword-research/) | Semrush Blog | 110 | Migration | 2026-03-17 10:59 UTC |
 | [Google Knowledge Panel: What It Is &amp; How to Get One](https://www.semrush.com/blog/google-knowledge-panel/) | Semrush Blog | 110 | Migration | 2026-03-17 10:41 UTC |
-| [How One SEO Consultant Turns Semrush’s AI Sentiment Insights into Traffic and Visibility](https://www.semrush.com/blog/turning-ai-sentiment-insights-into-visibility/) | Semrush Blog | 110 | AI Search | 2026-03-16 14:00 UTC |
 | [Keyword Intent: What It Is and How to Use It in Your SEO Strategy](https://ahrefs.com/blog/keyword-intent/) | Ahrefs Blog | 105 | Content | 2026-03-13 13:40 UTC |
 | [What Is Content Decay? (And How to Fix It Before It Tanks Your Traffic)](https://ahrefs.com/blog/content-decay/) | Ahrefs Blog | 105 | Content | 2026-03-13 11:34 UTC |
+| [How to Rank on ChatGPT: What Actually Works (Based on Data)](https://ahrefs.com/blog/how-to-rank-on-chatgpt/) | Ahrefs Blog | 105 | AI Search | 2026-03-13 11:23 UTC |
 
 ## Notes
 
