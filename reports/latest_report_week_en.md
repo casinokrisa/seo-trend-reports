@@ -6,18 +6,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
+| [How Can I Get My Business Listed in Google AI Mode?](https://www.reddit.com/r/localseo/comments/1rxrys4/how_can_i_get_my_business_listed_in_google_ai_mode/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-03-19 05:32 UTC |
+| [You sell, I build](https://www.reddit.com/r/DigitalMarketing/comments/1rxrd13/you_sell_i_build/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-19 04:59 UTC |
+| [Is it normal for impressions to rise before rankings actually improve?](https://www.reddit.com/r/seogrowth/comments/1rxqgke/is_it_normal_for_impressions_to_rise_before/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | GSC | 2026-03-19 04:11 UTC |
+| [How not to get scammed when buying backlinks ?](https://www.reddit.com/r/SEO/comments/1rxqcza/how_not_to_get_scammed_when_buying_backlinks/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Links | 2026-03-19 04:06 UTC |
+| [Anyone here worked with an AI SEO agency? Looking for recommendations](https://www.reddit.com/r/seogrowth/comments/1rxq2au/anyone_here_worked_with_an_ai_seo_agency_looking/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | AI Search | 2026-03-19 03:52 UTC |
+| [How do freelancers turn social media followers into paying clients?](https://www.reddit.com/r/DigitalMarketing/comments/1rxpy5h/how_do_freelancers_turn_social_media_followers/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-19 03:46 UTC |
+| [The AI Ad Boom's Dark Side (Meta/Google moderation failures), Mastercard enters GenAI, & Google's free Ad-Free AI Mode.](https://www.reddit.com/r/DigitalMarketing/comments/1rxphjq/the_ai_ad_booms_dark_side_metagoogle_moderation/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-19 03:24 UTC |
 | [Do you guys think it’s worth getting Rayban Meta Glasses for Client content](https://www.reddit.com/r/DigitalMarketing/comments/1rxo823/do_you_guys_think_its_worth_getting_rayban_meta/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Content | 2026-03-19 02:25 UTC |
 | [Ai Overviews tracking and performance help](https://www.reddit.com/r/DigitalMarketing/comments/1rxnxp6/ai_overviews_tracking_and_performance_help/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-19 02:13 UTC |
 | [My thoughts](https://www.reddit.com/r/DigitalMarketing/comments/1rxn0n0/my_thoughts/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-19 01:32 UTC |
 | [What career would SEO people have done 100 years ago](https://www.reddit.com/r/SEO/comments/1rxl7aa/what_career_would_seo_people_have_done_100_years/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | General | 2026-03-19 00:15 UTC |
 | [Should I crave AI visibility on an informational website or try to block it?](https://www.reddit.com/r/localseo/comments/1rxklp0/should_i_crave_ai_visibility_on_an_informational/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-03-18 23:51 UTC |
-| [Getting Harder To Get Small Sites Rolling](https://www.reddit.com/r/TechSEO/comments/1rxjrzf/getting_harder_to_get_small_sites_rolling/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | Indexing | 2026-03-18 23:18 UTC |
-| [Internal Linking question](https://www.reddit.com/r/SEO/comments/1rxj420/internal_linking_question/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Links | 2026-03-18 22:52 UTC |
-| [I have 70+ DR domain. How to monetize?](https://www.reddit.com/r/TechSEO/comments/1rxijdx/i_have_70_dr_domain_how_to_monetize/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | AI Search | 2026-03-18 22:30 UTC |
-| [I have 70+ DR domain. How to monetize?](https://www.reddit.com/r/seogrowth/comments/1rxiitr/i_have_70_dr_domain_how_to_monetize/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Links | 2026-03-18 22:29 UTC |
-| [Approaching other local service providers for backline exchange?](https://www.reddit.com/r/DigitalMarketing/comments/1rxiflb/approaching_other_local_service_providers_for/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Links | 2026-03-18 22:26 UTC |
-| [I just realized I suck at content strategy](https://www.reddit.com/r/DigitalMarketing/comments/1rxhfgu/i_just_realized_i_suck_at_content_strategy/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-18 21:47 UTC |
-| [72 Months and 100+ experiments into SEO, 16 Years into Engineering and Finally Something that is Worth mentioning in SEO and AI Search](https://www.reddit.com/r/seogrowth/comments/1rxhboi/72_months_and_100_experiments_into_seo_16_years/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Links | 2026-03-18 21:43 UTC |
 
 ## Weekly notable items (Sites)
 
