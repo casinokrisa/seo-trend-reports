@@ -6,6 +6,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
+| [Building a tool that tells you why AI isn't citing your site. Would love 5 people to tell me if this is useful.. here's a mockup.](https://www.reddit.com/r/TechSEO/comments/1rxs3s3/building_a_tool_that_tells_you_why_ai_isnt_citing/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | AI Search | 2026-03-19 05:40 UTC |
+| [If you could only afford ONE AI tool for digital marketing… which would you choose?](https://www.reddit.com/r/DigitalMarketing/comments/1rxs25w/if_you_could_only_afford_one_ai_tool_for_digital/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-19 05:38 UTC |
 | [How Can I Get My Business Listed in Google AI Mode?](https://www.reddit.com/r/localseo/comments/1rxrys4/how_can_i_get_my_business_listed_in_google_ai_mode/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-03-19 05:32 UTC |
 | [You sell, I build](https://www.reddit.com/r/DigitalMarketing/comments/1rxrd13/you_sell_i_build/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-19 04:59 UTC |
 | [Is it normal for impressions to rise before rankings actually improve?](https://www.reddit.com/r/seogrowth/comments/1rxqgke/is_it_normal_for_impressions_to_rise_before/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | GSC | 2026-03-19 04:11 UTC |
@@ -16,8 +18,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Do you guys think it’s worth getting Rayban Meta Glasses for Client content](https://www.reddit.com/r/DigitalMarketing/comments/1rxo823/do_you_guys_think_its_worth_getting_rayban_meta/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Content | 2026-03-19 02:25 UTC |
 | [Ai Overviews tracking and performance help](https://www.reddit.com/r/DigitalMarketing/comments/1rxnxp6/ai_overviews_tracking_and_performance_help/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-19 02:13 UTC |
 | [My thoughts](https://www.reddit.com/r/DigitalMarketing/comments/1rxn0n0/my_thoughts/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-19 01:32 UTC |
-| [What career would SEO people have done 100 years ago](https://www.reddit.com/r/SEO/comments/1rxl7aa/what_career_would_seo_people_have_done_100_years/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | General | 2026-03-19 00:15 UTC |
-| [Should I crave AI visibility on an informational website or try to block it?](https://www.reddit.com/r/localseo/comments/1rxklp0/should_i_crave_ai_visibility_on_an_informational/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-03-18 23:51 UTC |
 
 ## Weekly notable items (Sites)
 
