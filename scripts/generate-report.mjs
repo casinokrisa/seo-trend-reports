@@ -22,6 +22,7 @@ const REDDIT_FALLBACK_MIN_WEEK = clampInt(process.env.REDDIT_FALLBACK_MIN_WEEK, 
 const REDDIT_META_RETRY_429 = clampInt(process.env.REDDIT_META_RETRY_429, 1, 0, 3)
 const REDDIT_META_CACHE_HOURS = clampInt(process.env.REDDIT_META_CACHE_HOURS, 12, 1, 24 * 30)
 const REDDIT_META_MAX_FETCH = clampInt(process.env.REDDIT_META_MAX_FETCH, 80, 0, 500)
+const REDDIT_META_BACKOFF_MS = clampInt(process.env.REDDIT_META_BACKOFF_MS, 1200, 100, 30000)
 
 function clampInt(v, fallback, min, max) {
   const n = Number(v)
@@ -256,6 +257,76 @@ function parseRssOrAtom(xml, feed) {
   return items
 }
 
+function parseRedditListingMeta(json) {
+  const data = json?.data?.children?.[0]?.data
+  if (!data) return undefined
+  return {
+    subreddit: String(data.subreddit || ''),
+    score: Number.isFinite(Number(data.score)) ? Number(data.score) : 0,
+    comments: Number.isFinite(Number(data.num_comments)) ? Number(data.num_comments) : 0,
+  }
+}
+
+async function fetchJson(url) {
+  const res = await fetch(url, {
+    headers: {
+      'user-agent': 'rss-trend-reports/1.0 (trend-report; contact: github.com/casinokrisa/seo-trend-reports)',
+      accept: 'application/json',
+      'accept-language': 'en-US,en;q=0.9',
+    },
+  })
+  return res
+}
+
+async function fetchRedditMetaViaInfo(id, cached) {
+  const infoUrl = `https://www.reddit.com/api/info.json?id=t3_${id}&raw_json=1`
+  for (let attempt = 0; attempt <= REDDIT_META_RETRY_429; attempt++) {
+    const res = await fetchJson(infoUrl)
+    if ((res.status === 429 || res.status === 503) && attempt < REDDIT_META_RETRY_429) {
+      const backoff = REDDIT_META_BACKOFF_MS * (attempt + 1) + Math.floor(Math.random() * 500)
+      await sleep(backoff)
+      continue
+    }
+    if (!res.ok) {
+      if (res.status === 429 || res.status === 403) return cached?.meta
+      throw new Error(`Reddit meta HTTP ${res.status}`)
+    }
+    const json = await res.json()
+    const meta = parseRedditListingMeta(json)
+    if (!meta) return undefined
+    return meta
+  }
+  return cached?.meta
+}
+
+async function fetchRedditMetaViaPermalink(url, id, cached) {
+  // Permalink endpoint often behaves differently than api/info.json.
+  // Example: https://www.reddit.com/r/SEO/comments/abc123/title.json?raw_json=1&limit=1
+  const sub = inferSubredditFromUrl(url)
+  const permalinkUrl = sub
+    ? `https://www.reddit.com/r/${encodeURIComponent(sub)}/comments/${id}.json?raw_json=1&limit=1`
+    : `https://www.reddit.com/comments/${id}.json?raw_json=1&limit=1`
+
+  for (let attempt = 0; attempt <= REDDIT_META_RETRY_429; attempt++) {
+    const res = await fetchJson(permalinkUrl)
+    if ((res.status === 429 || res.status === 503) && attempt < REDDIT_META_RETRY_429) {
+      const backoff = REDDIT_META_BACKOFF_MS * (attempt + 1) + Math.floor(Math.random() * 500)
+      await sleep(backoff)
+      continue
+    }
+    if (!res.ok) {
+      if (res.status === 429 || res.status === 403) return cached?.meta
+      throw new Error(`Reddit permalink meta HTTP ${res.status}`)
+    }
+    const json = await res.json()
+    const listing = Array.isArray(json) ? json[0] : undefined
+    const meta = parseRedditListingMeta(listing)
+    if (!meta) return undefined
+    return meta
+  }
+  return cached?.meta
+}
+
 async function fetchRedditMeta(url) {
   const id = extractRedditPostId(url)
   if (!id) return undefined
@@ -263,30 +334,16 @@ async function fetchRedditMeta(url) {
   const cached = readRedditMetaCache(id)
   if (cached?.fresh) return cached.meta
 
-  const infoUrl = `https://www.reddit.com/api/info.json?id=t3_${id}&raw_json=1`
-  for (let attempt = 0; attempt <= REDDIT_META_RETRY_429; attempt++) {
-    const res = await fetch(infoUrl, {
-      headers: { 'user-agent': 'rss-trend-reports/1.0', accept: 'application/json' },
-    })
-    if (res.status === 429 && attempt < REDDIT_META_RETRY_429) {
-      await sleep(900 + Math.floor(Math.random() * 900))
-      continue
-    }
-    if (!res.ok) {
-      // If rate limited or blocked, prefer returning cached (even if stale) over "no data"
-      if (res.status === 429 || res.status === 403) return cached?.meta
-      throw new Error(`Reddit meta HTTP ${res.status}`)
-    }
-    const json = await res.json()
-    const data = json?.data?.children?.[0]?.data
-    if (!data) return undefined
-    const meta = {
-      subreddit: String(data.subreddit || ''),
-      score: Number.isFinite(Number(data.score)) ? Number(data.score) : 0,
-      comments: Number.isFinite(Number(data.num_comments)) ? Number(data.num_comments) : 0,
-    }
-    writeRedditMetaCache(id, meta)
-    return meta
+  // Try permalink first (often more resilient), then api/info
+  const meta1 = await fetchRedditMetaViaPermalink(url, id, cached)
+  if (meta1) {
+    writeRedditMetaCache(id, meta1)
+    return meta1
+  }
+  const meta2 = await fetchRedditMetaViaInfo(id, cached)
+  if (meta2) {
+    writeRedditMetaCache(id, meta2)
+    return meta2
   }
   return cached?.meta
 }
@@ -362,7 +419,7 @@ async function enrichRedditItems(items) {
         // ignore; best-effort
       }
       // small jitter to be polite
-      await sleep(250 + Math.floor(Math.random() * 250))
+      await sleep(600 + Math.floor(Math.random() * 600))
     }
   })
   await Promise.all(workers)

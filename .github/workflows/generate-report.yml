@@ -47,15 +47,16 @@ jobs:
           REDDIT_MIN_COMMENTS: 10
           REDDIT_MIN_SCORE: 50
           REDDIT_COMMENT_WEIGHT: 3
-          REDDIT_CONCURRENCY: 2
+          REDDIT_CONCURRENCY: 1
           # Ensure Reddit doesn't disappear when meta fetch hits 429/limits
           REDDIT_FALLBACK_ENABLED: 1
           REDDIT_FALLBACK_MIN_TODAY: 6
           REDDIT_FALLBACK_MIN_WEEK: 12
-          REDDIT_META_RETRY_429: 1
+          REDDIT_META_RETRY_429: 2
           # Reduce rate-limit pain: cache & cap meta calls
           REDDIT_META_CACHE_HOURS: 12
-          REDDIT_META_MAX_FETCH: 80
+          REDDIT_META_MAX_FETCH: 40
+          REDDIT_META_BACKOFF_MS: 1500
           MAX_ITEMS_PER_FEED: 30
         run: node scripts/generate-report.mjs
 
