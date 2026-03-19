@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google: 404 Crawling Means Google Is Open To More Of Your Content](https://www.searchenginejournal.com/google-404-crawling-means-google-is-open-to-more-of-your-content/570029/) | Search Engine Journal | 200 | Indexing | 2026-03-19 10:13 UTC |
 | [Google &#34;Developing&#34; Opt-Out of Generative AI Features in Search](https://www.seroundtable.com/google-developing-opt-out-of-generative-ai-features-in-search-41083.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-18 17:35 UTC |
 | [Bing Business Profiles With Image Slider](https://www.seroundtable.com/bing-business-profiles-image-slider-41039.html) | Search Engine Roundtable | 190 | General | 2026-03-18 11:51 UTC |
 | [Live Sports Data In Google AI Mode](https://www.seroundtable.com/live-sports-scores-in-google-ai-mode-41079.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-18 11:36 UTC |
@@ -45,6 +46,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Is Google Hitting Self-Promotional Listicles Hard Again?](https://www.seroundtable.com/is-google-algorithm-the-hitting-llm-tactic-of-self-promotional-listicles-41071.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-13 11:50 UTC |
 | [New Google Business Profile Playbooks With Local Optimization Tips](https://www.seroundtable.com/google-business-profile-playbooks-41070.html) | Search Engine Roundtable | 155 | Local SEO | 2026-03-13 11:38 UTC |
 | [Google Ads Hold Music Driving Some Advertisers Crazy](https://www.seroundtable.com/google-ads-hold-music-driving-advertisers-crazy-40827.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-13 11:11 UTC |
+| [Competitor Ad Spend: How to Analyze Rivals’ Budgets](https://www.semrush.com/blog/competitor-ad-spend/) | Semrush Blog | 150 | Migration | 2026-03-19 10:06 UTC |
+| [20 Best Search Engines Compared](https://www.semrush.com/blog/search-engine-list/) | Semrush Blog | 150 | Migration | 2026-03-19 09:54 UTC |
+| [6 Ways to Build a Search Everywhere Optimization Strategy for 2026](https://www.semrush.com/blog/search-everywhere-optimization/) | Semrush Blog | 150 | Migration | 2026-03-19 09:44 UTC |
 | [SEO analytics: How to interpret SEO data & anomalies](https://searchengineland.com/guide/how-to-interpret-seo-data) | Search Engine Land | 145 | AI Search | 2026-03-12 17:15 UTC |
 | [Google Shares More Information On Googlebot Crawl Limits](https://www.searchenginejournal.com/googlebot-crawl-limit-information/569794/) | Search Engine Journal | 145 | Indexing | 2026-03-16 09:47 UTC |
 | [SEO Vs. PPC Strategy: What's Right For Your Business?](https://www.searchenginejournal.com/seo-vs-ppc/234681/) | Search Engine Journal | 145 | General | 2026-03-14 05:46 UTC |
@@ -58,7 +62,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [ChatGPT's Default & Premium Models Search The Web Differently](https://www.searchenginejournal.com/chatgpts-default-premium-models-search-the-web-differently/569594/) | Search Engine Journal | 145 | AI Search | 2026-03-12 16:38 UTC |
 | [Google Maps Launches AI Conversational Search With Ask Maps](https://www.searchenginejournal.com/google-maps-launches-ai-conversational-search-with-ask-maps/569585/) | Search Engine Journal | 145 | Local SEO | 2026-03-12 14:47 UTC |
 | [The Shortcut Behind Some AI Optimization Tools](https://www.searchenginejournal.com/the-shortcut-behind-some-ai-optimization-tools/569040/) | Search Engine Journal | 145 | AI Search | 2026-03-12 13:30 UTC |
-| [How AI Automation Turns Static Travel Pages Into Living Content & Experiences](https://www.searchenginejournal.com/how-ai-automation-turns-static-travel-pages-into-living-content-experiences/568599/) | Search Engine Journal | 145 | AI Search | 2026-03-12 12:30 UTC |
 | [15 Marketing Conferences to Attend in 2026](https://ahrefs.com/blog/marketing-conferences/) | Ahrefs Blog | 120 | General | 2026-03-17 16:30 UTC |
 | [14 Digital Marketing Conferences to Attend in 2026](https://ahrefs.com/blog/digital-marketing-conferences/) | Ahrefs Blog | 120 | General | 2026-03-17 16:16 UTC |
 | [AI Content Wasn’t Good Enough. Now It Is.](https://ahrefs.com/blog/ai-content-wasnt-good-enough-now-it-is/) | Ahrefs Blog | 120 | AI Search | 2026-03-16 16:22 UTC |
@@ -69,8 +72,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [How One SEO Consultant Turns Semrush’s AI Sentiment Insights into Traffic and Visibility](https://www.semrush.com/blog/turning-ai-sentiment-insights-into-visibility/) | Semrush Blog | 110 | AI Search | 2026-03-16 14:00 UTC |
 | [Keyword Intent: What It Is and How to Use It in Your SEO Strategy](https://ahrefs.com/blog/keyword-intent/) | Ahrefs Blog | 105 | Content | 2026-03-13 13:40 UTC |
 | [What Is Content Decay? (And How to Fix It Before It Tanks Your Traffic)](https://ahrefs.com/blog/content-decay/) | Ahrefs Blog | 105 | Content | 2026-03-13 11:34 UTC |
-| [How to Rank on ChatGPT: What Actually Works (Based on Data)](https://ahrefs.com/blog/how-to-rank-on-chatgpt/) | Ahrefs Blog | 105 | AI Search | 2026-03-13 11:23 UTC |
-| [Search Has Changed. And So Have We.](https://www.semrush.com/blog/semrush-new-brand/) | Semrush Blog | 95 | Migration | 2026-03-12 13:00 UTC |
 
 ## Notes
 

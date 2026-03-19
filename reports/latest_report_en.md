@@ -18,6 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google: 404 Crawling Means Google Is Open To More Of Your Content](https://www.searchenginejournal.com/google-404-crawling-means-google-is-open-to-more-of-your-content/570029/) | Search Engine Journal | 200 | Indexing | 2026-03-19 10:13 UTC |
 | [Google &#34;Developing&#34; Opt-Out of Generative AI Features in Search](https://www.seroundtable.com/google-developing-opt-out-of-generative-ai-features-in-search-41083.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-18 17:35 UTC |
 | [Bing Business Profiles With Image Slider](https://www.seroundtable.com/bing-business-profiles-image-slider-41039.html) | Search Engine Roundtable | 190 | General | 2026-03-18 11:51 UTC |
 | [Live Sports Data In Google AI Mode](https://www.seroundtable.com/live-sports-scores-in-google-ai-mode-41079.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-18 11:36 UTC |
@@ -27,6 +28,9 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Explains Why HTTPS Migration May Negatively Impact SEO](https://www.searchenginejournal.com/google-explains-why-https-migration-may-negatively-impact-seo/569969/) | Search Engine Journal | 160 | AI Search | 2026-03-18 08:25 UTC |
 | [Search Referral Traffic Down 60% For Small Publishers, Data Shows](https://www.searchenginejournal.com/search-referral-traffic-down-60-for-small-publishers-data-shows/569959/) | Search Engine Journal | 160 | General | 2026-03-17 23:55 UTC |
 | [Google AI Overviews Cut Germany's Top Organic CTR By 59%](https://www.searchenginejournal.com/google-ai-overviews-cut-germanys-top-organic-ctr-by-59/569954/) | Search Engine Journal | 160 | GSC | 2026-03-17 23:19 UTC |
+| [Competitor Ad Spend: How to Analyze Rivals’ Budgets](https://www.semrush.com/blog/competitor-ad-spend/) | Semrush Blog | 150 | Migration | 2026-03-19 10:06 UTC |
+| [20 Best Search Engines Compared](https://www.semrush.com/blog/search-engine-list/) | Semrush Blog | 150 | Migration | 2026-03-19 09:54 UTC |
+| [6 Ways to Build a Search Everywhere Optimization Strategy for 2026](https://www.semrush.com/blog/search-everywhere-optimization/) | Semrush Blog | 150 | Migration | 2026-03-19 09:44 UTC |
 
 ## Notes for manual writing
 
