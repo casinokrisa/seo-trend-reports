@@ -1,14 +1,10 @@
-name: Generate RSS trend report
+name: Generate RSS trend report (hourly sites)
 
 on:
   workflow_dispatch:
   schedule:
     # Hourly refresh (keeps site feeds fresh)
     - cron: '10 * * * *'
-    # 08:00 MSK (UTC+3) = 05:00 UTC
-    - cron: '0 5 * * *'
-    # Weekly: Monday 08:00 MSK (UTC+3) = 05:00 UTC
-    - cron: '0 5 * * 1'
 
 permissions:
   contents: write
@@ -44,22 +40,18 @@ jobs:
           REPORT_LANG: en
           REPORT_LOOKBACK_HOURS: 36
           REPORT_WEEK_DAYS: 7
-          REDDIT_MIN_COMMENTS: 10
-          REDDIT_MIN_SCORE: 50
-          REDDIT_COMMENT_WEIGHT: 3
-          REDDIT_CONCURRENCY: 1
-          # Reddit: update score/comments once per day (hourly runs use cache only)
-          REDDIT_META_MODE: ${{ (github.event_name == 'schedule' && github.event.schedule == '10 * * * *') && 'cache' || 'fetch' }}
-          # Ensure Reddit doesn't disappear when meta fetch hits 429/limits
-          REDDIT_FALLBACK_ENABLED: ${{ (github.event_name == 'schedule' && github.event.schedule == '10 * * * *') && '0' || '1' }}
-          REDDIT_FALLBACK_MIN_TODAY: 6
-          REDDIT_FALLBACK_MIN_WEEK: 12
-          REDDIT_META_RETRY_429: 2
-          # Reduce rate-limit pain: cache & cap meta calls
-          REDDIT_META_CACHE_HOURS: 12
-          REDDIT_META_MAX_FETCH: ${{ (github.event_name == 'schedule' && github.event.schedule == '10 * * * *') && '0' || '80' }}
-          REDDIT_META_BACKOFF_MS: 1500
           MAX_ITEMS_PER_FEED: 30
+
+          # Reddit: do NOT hit Reddit API hourly. Use cached meta only.
+          REDDIT_META_MODE: cache
+          REDDIT_FALLBACK_ENABLED: 0
+          REDDIT_META_MAX_FETCH: 0
+          REDDIT_CONCURRENCY: 1
+          REDDIT_META_CACHE_HOURS: 720
+
+          # If OAuth is configured, daily job will fill cache.
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
         run: node scripts/generate-report.mjs
 
       - name: Commit changes (if any)
@@ -72,6 +64,6 @@ jobs:
           git add reports/**/*.md reports/*.md
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Update daily trend report"
+          git commit -m "Update hourly trend report"
           git push
 

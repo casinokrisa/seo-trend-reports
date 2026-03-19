@@ -1,0 +1,79 @@
+name: Generate RSS trend report (daily Reddit meta)
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Daily at 05:00 UTC
+    - cron: '0 5 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generate-report
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Restore cache (feeds + Reddit meta)
+        uses: actions/cache@v4
+        with:
+          path: cache
+          key: rss-trend-cache-${{ runner.os }}-${{ github.ref_name }}-${{ github.run_id }}
+          restore-keys: |
+            rss-trend-cache-${{ runner.os }}-${{ github.ref_name }}-
+
+      - name: Generate report
+        env:
+          REPORT_LANG: en
+          REPORT_LOOKBACK_HOURS: 36
+          REPORT_WEEK_DAYS: 7
+          MAX_ITEMS_PER_FEED: 30
+
+          REDDIT_MIN_COMMENTS: 10
+          REDDIT_MIN_SCORE: 50
+          REDDIT_COMMENT_WEIGHT: 3
+
+          # Reddit: fetch score/comments once per day
+          REDDIT_META_MODE: fetch
+          REDDIT_FALLBACK_ENABLED: 1
+          REDDIT_FALLBACK_MIN_TODAY: 6
+          REDDIT_FALLBACK_MIN_WEEK: 12
+
+          # Be polite to avoid 429s
+          REDDIT_CONCURRENCY: 1
+          REDDIT_META_RETRY_429: 2
+          REDDIT_META_BACKOFF_MS: 1500
+          REDDIT_META_CACHE_HOURS: 72
+          REDDIT_META_MAX_FETCH: 120
+
+          # OAuth (recommended for stable numbers)
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+        run: node scripts/generate-report.mjs
+
+      - name: Commit changes (if any)
+        run: |
+          git status --porcelain
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes."
+            exit 0
+          fi
+          git add reports/**/*.md reports/*.md
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update daily trend report"
+          git push
+

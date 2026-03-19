@@ -25,6 +25,13 @@ const REDDIT_META_MAX_FETCH = clampInt(process.env.REDDIT_META_MAX_FETCH, 80, 0,
 const REDDIT_META_BACKOFF_MS = clampInt(process.env.REDDIT_META_BACKOFF_MS, 1200, 100, 30000)
 const REDDIT_META_MODE = String(process.env.REDDIT_META_MODE || 'fetch').toLowerCase() // fetch | cache | off
 
+const REDDIT_CLIENT_ID = String(process.env.REDDIT_CLIENT_ID || '').trim()
+const REDDIT_CLIENT_SECRET = String(process.env.REDDIT_CLIENT_SECRET || '').trim()
+const REDDIT_OAUTH_ENABLED = Boolean(REDDIT_CLIENT_ID && REDDIT_CLIENT_SECRET)
+
+let redditOauthToken = ''
+let redditOauthExpiresAtMs = 0
+
 function clampInt(v, fallback, min, max) {
   const n = Number(v)
   return Number.isFinite(n) && n >= min && n <= max ? Math.trunc(n) : fallback
@@ -283,19 +290,56 @@ function parseRedditListingMeta(json) {
   }
 }
 
-async function fetchJson(url) {
-  const res = await fetch(url, {
+async function getRedditOauthToken() {
+  if (!REDDIT_OAUTH_ENABLED) return ''
+  if (redditOauthToken && Date.now() + 60_000 < redditOauthExpiresAtMs) return redditOauthToken
+
+  const auth = Buffer.from(`${REDDIT_CLIENT_ID}:${REDDIT_CLIENT_SECRET}`).toString('base64')
+  const res = await fetch('https://www.reddit.com/api/v1/access_token', {
+    method: 'POST',
     headers: {
-      'user-agent': 'rss-trend-reports/1.0 (trend-report; contact: github.com/casinokrisa/seo-trend-reports)',
+      authorization: `Basic ${auth}`,
+      'content-type': 'application/x-www-form-urlencoded',
+      'user-agent': 'rss-trend-reports/1.0 (oauth; github.com/casinokrisa/seo-trend-reports)',
       accept: 'application/json',
-      'accept-language': 'en-US,en;q=0.9',
     },
+    body: 'grant_type=client_credentials',
+  })
+  if (!res.ok) throw new Error(`Reddit OAuth HTTP ${res.status}`)
+  const json = await res.json()
+  const token = String(json?.access_token || '')
+  const expiresIn = Number(json?.expires_in || 0)
+  if (!token || !Number.isFinite(expiresIn) || expiresIn <= 0) throw new Error('Reddit OAuth: invalid token response')
+
+  redditOauthToken = token
+  redditOauthExpiresAtMs = Date.now() + expiresIn * 1000
+  return redditOauthToken
+}
+
+async function fetchJson(url, opts = {}) {
+  const needsOauth = REDDIT_OAUTH_ENABLED && String(url).startsWith('https://oauth.reddit.com/')
+  const headers = {
+    'user-agent': 'rss-trend-reports/1.0 (trend-report; contact: github.com/casinokrisa/seo-trend-reports)',
+    accept: 'application/json',
+    'accept-language': 'en-US,en;q=0.9',
+  }
+
+  if (needsOauth) {
+    const token = await getRedditOauthToken()
+    if (token) headers.authorization = `Bearer ${token}`
+  }
+
+  const res = await fetch(url, {
+    ...opts,
+    headers: { ...headers, ...(opts.headers || {}) },
   })
   return res
 }
 
 async function fetchRedditMetaViaInfo(id, cached) {
-  const infoUrl = `https://www.reddit.com/api/info.json?id=t3_${id}&raw_json=1`
+  const infoUrl = REDDIT_OAUTH_ENABLED
+    ? `https://oauth.reddit.com/api/info?id=t3_${id}&raw_json=1`
+    : `https://www.reddit.com/api/info.json?id=t3_${id}&raw_json=1`
   for (let attempt = 0; attempt <= REDDIT_META_RETRY_429; attempt++) {
     const res = await fetchJson(infoUrl)
     if ((res.status === 429 || res.status === 503) && attempt < REDDIT_META_RETRY_429) {
@@ -305,6 +349,11 @@ async function fetchRedditMetaViaInfo(id, cached) {
     }
     if (!res.ok) {
       if (res.status === 429 || res.status === 403) return cached?.meta
+      if (res.status === 401 && REDDIT_OAUTH_ENABLED) {
+        redditOauthToken = ''
+        redditOauthExpiresAtMs = 0
+        continue
+      }
       throw new Error(`Reddit meta HTTP ${res.status}`)
     }
     const json = await res.json()
@@ -319,9 +368,10 @@ async function fetchRedditMetaViaPermalink(url, id, cached) {
   // Permalink endpoint often behaves differently than api/info.json.
   // Example: https://www.reddit.com/r/SEO/comments/abc123/title.json?raw_json=1&limit=1
   const sub = inferSubredditFromUrl(url)
+  const base = REDDIT_OAUTH_ENABLED ? 'https://oauth.reddit.com' : 'https://www.reddit.com'
   const permalinkUrl = sub
-    ? `https://www.reddit.com/r/${encodeURIComponent(sub)}/comments/${id}.json?raw_json=1&limit=1`
-    : `https://www.reddit.com/comments/${id}.json?raw_json=1&limit=1`
+    ? `${base}/r/${encodeURIComponent(sub)}/comments/${id}.json?raw_json=1&limit=1`
+    : `${base}/comments/${id}.json?raw_json=1&limit=1`
 
   for (let attempt = 0; attempt <= REDDIT_META_RETRY_429; attempt++) {
     const res = await fetchJson(permalinkUrl)
@@ -332,6 +382,11 @@ async function fetchRedditMetaViaPermalink(url, id, cached) {
     }
     if (!res.ok) {
       if (res.status === 429 || res.status === 403) return cached?.meta
+      if (res.status === 401 && REDDIT_OAUTH_ENABLED) {
+        redditOauthToken = ''
+        redditOauthExpiresAtMs = 0
+        continue
+      }
       throw new Error(`Reddit permalink meta HTTP ${res.status}`)
     }
     const json = await res.json()
