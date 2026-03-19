@@ -57,7 +57,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [AI Mode Data, Ask Maps & Branded Queries Go Live](https://www.searchenginejournal.com/seo-pulse-ai-mode-data-ask-maps-branded-queries-go-live/569648/) | Search Engine Journal | 145 | Local SEO | 2026-03-13 12:45 UTC |
 | [Merchant Center Expands, Google Clarifies Smart Bidding, State Of PPC Report](https://www.searchenginejournal.com/ppc-pulse-merchant-center-expands-google-clarifies-smart-bidding-state-of-ppc-report/569653/) | Search Engine Journal | 145 | AI Search | 2026-03-13 11:15 UTC |
 | [Google Says Hundreds Of Their Crawlers Are Not Documented](https://www.searchenginejournal.com/google-says-they-deploy-hundreds-of-undocumented-crawlers/569692/) | Search Engine Journal | 145 | Indexing | 2026-03-13 09:17 UTC |
-| [Formidable Forms Flaw Lets Attackers Pay Less For Expensive Purchases](https://www.searchenginejournal.com/formidable-forms-flaw-lets-attackers-pay-less-for-expensive-purchases/569665/) | Search Engine Journal | 145 | AI Search | 2026-03-12 22:55 UTC |
 | [Competitor Ad Spend: How to Analyze Rivals’ Budgets](https://www.semrush.com/blog/competitor-ad-spend/) | Semrush Blog | 130 | Migration | 2026-03-19 10:06 UTC |
 | [20 Best Search Engines Compared](https://www.semrush.com/blog/search-engine-list/) | Semrush Blog | 130 | Migration | 2026-03-19 09:54 UTC |
 | [6 Ways to Build a Search Everywhere Optimization Strategy for 2026](https://www.semrush.com/blog/search-everywhere-optimization/) | Semrush Blog | 130 | Migration | 2026-03-19 09:44 UTC |
