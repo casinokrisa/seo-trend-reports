@@ -337,9 +337,10 @@ async function fetchJson(url, opts = {}) {
 }
 
 async function fetchRedditMetaViaInfo(id, cached) {
+  // Prefer api.reddit.com when unauthenticated: it's generally more stable from CI runners than www.reddit.com JSON endpoints.
   const infoUrl = REDDIT_OAUTH_ENABLED
     ? `https://oauth.reddit.com/api/info?id=t3_${id}&raw_json=1`
-    : `https://www.reddit.com/api/info.json?id=t3_${id}&raw_json=1`
+    : `https://api.reddit.com/api/info/?id=t3_${id}&raw_json=1`
   for (let attempt = 0; attempt <= REDDIT_META_RETRY_429; attempt++) {
     const res = await fetchJson(infoUrl)
     if ((res.status === 429 || res.status === 503) && attempt < REDDIT_META_RETRY_429) {
@@ -356,7 +357,8 @@ async function fetchRedditMetaViaInfo(id, cached) {
       }
       throw new Error(`Reddit meta HTTP ${res.status}`)
     }
-    const json = await res.json()
+    const json = await res.json().catch(() => undefined)
+    if (!json) return cached?.meta
     const meta = parseRedditListingMeta(json)
     if (!meta) return undefined
     return meta
@@ -389,7 +391,8 @@ async function fetchRedditMetaViaPermalink(url, id, cached) {
       }
       throw new Error(`Reddit permalink meta HTTP ${res.status}`)
     }
-    const json = await res.json()
+    const json = await res.json().catch(() => undefined)
+    if (!json) return cached?.meta
     const listing = Array.isArray(json) ? json[0] : undefined
     const meta = parseRedditListingMeta(listing)
     if (!meta) return undefined
@@ -405,7 +408,23 @@ async function fetchRedditMeta(url) {
   const cached = readRedditMetaCache(id)
   if (cached?.fresh) return cached.meta
 
-  // Try permalink first (often more resilient), then api/info
+  // CI runners often get challenged on www.reddit.com JSON; api.reddit.com is usually more stable.
+  // So for unauthenticated mode, prefer api/info first.
+  if (!REDDIT_OAUTH_ENABLED) {
+    const metaInfo = await fetchRedditMetaViaInfo(id, cached)
+    if (metaInfo) {
+      writeRedditMetaCache(id, metaInfo)
+      return metaInfo
+    }
+    const metaPermalink = await fetchRedditMetaViaPermalink(url, id, cached)
+    if (metaPermalink) {
+      writeRedditMetaCache(id, metaPermalink)
+      return metaPermalink
+    }
+    return cached?.meta
+  }
+
+  // With OAuth enabled, permalink tends to be fine and keeps subreddit context.
   const meta1 = await fetchRedditMetaViaPermalink(url, id, cached)
   if (meta1) {
     writeRedditMetaCache(id, meta1)
