@@ -20,6 +20,8 @@ const REDDIT_FALLBACK_ENABLED = String(process.env.REDDIT_FALLBACK_ENABLED || '1
 const REDDIT_FALLBACK_MIN_TODAY = clampInt(process.env.REDDIT_FALLBACK_MIN_TODAY, 6, 0, 50)
 const REDDIT_FALLBACK_MIN_WEEK = clampInt(process.env.REDDIT_FALLBACK_MIN_WEEK, 12, 0, 200)
 const REDDIT_META_RETRY_429 = clampInt(process.env.REDDIT_META_RETRY_429, 1, 0, 3)
+const REDDIT_META_CACHE_HOURS = clampInt(process.env.REDDIT_META_CACHE_HOURS, 12, 1, 24 * 30)
+const REDDIT_META_MAX_FETCH = clampInt(process.env.REDDIT_META_MAX_FETCH, 80, 0, 500)
 
 function clampInt(v, fallback, min, max) {
   const n = Number(v)
@@ -98,6 +100,36 @@ function inferSubredditFromUrl(url) {
   const s = String(url || '')
   const m = s.match(/reddit\.com\/r\/([^/]+)/i)
   return m ? decodeURIComponent(m[1]) : ''
+}
+
+function redditMetaCachePath(id) {
+  return path.join(CACHE_DIR, `reddit_meta_${id}.json`)
+}
+
+function readRedditMetaCache(id) {
+  try {
+    const p = redditMetaCachePath(id)
+    const st = fs.statSync(p)
+    const ageHours = (Date.now() - st.mtimeMs) / (1000 * 60 * 60)
+    const raw = JSON.parse(fs.readFileSync(p, 'utf8'))
+    const meta = raw?.meta
+    if (!meta) return undefined
+    return {
+      meta,
+      fresh: ageHours <= REDDIT_META_CACHE_HOURS,
+    }
+  } catch {
+    return undefined
+  }
+}
+
+function writeRedditMetaCache(id, meta) {
+  try {
+    ensureDir(CACHE_DIR)
+    fs.writeFileSync(redditMetaCachePath(id), JSON.stringify({ meta, savedAt: new Date().toISOString() }), 'utf8')
+  } catch {
+    // ignore cache failures
+  }
 }
 
 async function fetchTextWithCache(url) {
@@ -227,6 +259,10 @@ function parseRssOrAtom(xml, feed) {
 async function fetchRedditMeta(url) {
   const id = extractRedditPostId(url)
   if (!id) return undefined
+
+  const cached = readRedditMetaCache(id)
+  if (cached?.fresh) return cached.meta
+
   const infoUrl = `https://www.reddit.com/api/info.json?id=t3_${id}&raw_json=1`
   for (let attempt = 0; attempt <= REDDIT_META_RETRY_429; attempt++) {
     const res = await fetch(infoUrl, {
@@ -236,17 +272,23 @@ async function fetchRedditMeta(url) {
       await sleep(900 + Math.floor(Math.random() * 900))
       continue
     }
-    if (!res.ok) throw new Error(`Reddit meta HTTP ${res.status}`)
+    if (!res.ok) {
+      // If rate limited or blocked, prefer returning cached (even if stale) over "no data"
+      if (res.status === 429 || res.status === 403) return cached?.meta
+      throw new Error(`Reddit meta HTTP ${res.status}`)
+    }
     const json = await res.json()
     const data = json?.data?.children?.[0]?.data
     if (!data) return undefined
-    return {
+    const meta = {
       subreddit: String(data.subreddit || ''),
       score: Number.isFinite(Number(data.score)) ? Number(data.score) : 0,
       comments: Number.isFinite(Number(data.num_comments)) ? Number(data.num_comments) : 0,
     }
+    writeRedditMetaCache(id, meta)
+    return meta
   }
-  return undefined
+  return cached?.meta
 }
 
 function engagementScore(it) {
@@ -288,10 +330,21 @@ function withinDays(it, days) {
 }
 
 async function enrichRedditItems(items) {
-  const redditItems = items.filter((x) => x.kind === 'reddit' && extractRedditPostId(x.url))
+  // Only enrich items that can show up in daily/weekly windows.
+  const candidates = items
+    .filter((x) => x.kind === 'reddit' && extractRedditPostId(x.url))
+    .filter((x) => withinDays(x, WEEK_DAYS) || withinLookback(x))
+  const redditItems = candidates
   if (!redditItems.length) return items
 
-  const q = [...redditItems]
+  // Deduplicate by post id to reduce Reddit API calls
+  const byId = new Map()
+  for (const it of redditItems) {
+    const id = extractRedditPostId(it.url)
+    if (!id) continue
+    if (!byId.has(id)) byId.set(id, it)
+  }
+  const q = [...byId.values()].slice(0, REDDIT_META_MAX_FETCH)
   let idx = 0
   const workers = Array.from({ length: REDDIT_CONCURRENCY }, async () => {
     while (idx < q.length) {
@@ -309,7 +362,7 @@ async function enrichRedditItems(items) {
         // ignore; best-effort
       }
       // small jitter to be polite
-      await sleep(120)
+      await sleep(250 + Math.floor(Math.random() * 250))
     }
   })
   await Promise.all(workers)
