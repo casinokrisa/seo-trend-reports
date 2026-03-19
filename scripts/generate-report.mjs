@@ -23,6 +23,7 @@ const REDDIT_META_RETRY_429 = clampInt(process.env.REDDIT_META_RETRY_429, 1, 0, 
 const REDDIT_META_CACHE_HOURS = clampInt(process.env.REDDIT_META_CACHE_HOURS, 12, 1, 24 * 30)
 const REDDIT_META_MAX_FETCH = clampInt(process.env.REDDIT_META_MAX_FETCH, 80, 0, 500)
 const REDDIT_META_BACKOFF_MS = clampInt(process.env.REDDIT_META_BACKOFF_MS, 1200, 100, 30000)
+const REDDIT_META_MODE = String(process.env.REDDIT_META_MODE || 'fetch').toLowerCase() // fetch | cache | off
 
 function clampInt(v, fallback, min, max) {
   const n = Number(v)
@@ -131,6 +132,21 @@ function writeRedditMetaCache(id, meta) {
   } catch {
     // ignore cache failures
   }
+}
+
+function applyRedditMetaFromCache(items) {
+  for (const it of items) {
+    if (it.kind !== 'reddit') continue
+    const id = extractRedditPostId(it.url)
+    if (!id) continue
+    const cached = readRedditMetaCache(id)
+    if (!cached?.meta) continue
+    it.redditMetaFetched = true
+    it.subreddit = cached.meta.subreddit || it.subreddit
+    it.redditScore = cached.meta.score
+    it.redditComments = cached.meta.comments
+  }
+  return items
 }
 
 async function fetchTextWithCache(url) {
@@ -387,12 +403,18 @@ function withinDays(it, days) {
 }
 
 async function enrichRedditItems(items) {
+  if (REDDIT_META_MODE === 'off') return items
+
   // Only enrich items that can show up in daily/weekly windows.
   const candidates = items
     .filter((x) => x.kind === 'reddit' && extractRedditPostId(x.url))
     .filter((x) => withinDays(x, WEEK_DAYS) || withinLookback(x))
   const redditItems = candidates
   if (!redditItems.length) return items
+
+  // Always apply cached meta first (no network).
+  applyRedditMetaFromCache(items)
+  if (REDDIT_META_MODE === 'cache') return items
 
   // Deduplicate by post id to reduce Reddit API calls
   const byId = new Map()
@@ -401,7 +423,9 @@ async function enrichRedditItems(items) {
     if (!id) continue
     if (!byId.has(id)) byId.set(id, it)
   }
-  const q = [...byId.values()].slice(0, REDDIT_META_MAX_FETCH)
+  const q = [...byId.values()]
+    .filter((it) => it.redditMetaFetched !== true) // fetch only missing
+    .slice(0, REDDIT_META_MAX_FETCH)
   let idx = 0
   const workers = Array.from({ length: REDDIT_CONCURRENCY }, async () => {
     while (idx < q.length) {
