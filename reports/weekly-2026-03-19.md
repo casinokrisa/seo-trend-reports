@@ -13,11 +13,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Universal Commerce Protocol Get New Additions Including Cart &#38; Catalog](https://www.seroundtable.com/universal-commerce-protocol-get-new-additions-including-cart-catalog-41086.html) | Search Engine Roundtable | 210 | General | 2026-03-19 15:59 UTC |
-| [Daily Search Forum Recap: March 19, 2026](https://www.seroundtable.com/recap-03-19-2026-41081.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-19 14:00 UTC |
 | [Google Expands UCP With Cart, Catalog, Onboarding](https://www.searchenginejournal.com/google-expands-ucp-with-cart-catalog-onboarding/570084/) | Search Engine Journal | 200 | Links | 2026-03-19 15:35 UTC |
-| [The Content Moat Is Dead. The Context Moat Is What Survives](https://www.searchenginejournal.com/the-content-moat-is-dead-the-context-moat-is-what-survives/569778/) | Search Engine Journal | 200 | Content | 2026-03-19 13:30 UTC |
+| [Daily Search Forum Recap: March 19, 2026](https://www.seroundtable.com/recap-03-19-2026-41081.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-19 14:00 UTC |
 | [Search Lab AI Beaker Icon Replaced On Android](https://www.seroundtable.com/googles-search-lab-icon-gets-replaced-on-android-devices-41082.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-19 11:36 UTC |
 | [Google Expands Personal Intelligence As Jarvis Approaches](https://www.seroundtable.com/google-personal-intelligence-expands-41084.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-19 11:20 UTC |
+| [The Content Moat Is Dead. The Context Moat Is What Survives](https://www.searchenginejournal.com/the-content-moat-is-dead-the-context-moat-is-what-survives/569778/) | Search Engine Journal | 180 | Content | 2026-03-19 13:30 UTC |
 | [What Can Log File Data Tell Me That Tools Can't?](https://www.searchenginejournal.com/ask-an-seo-should-seos-use-log-file-data/567932/) | Search Engine Journal | 180 | Indexing | 2026-03-19 12:30 UTC |
 | [Google: 404 Crawling Means Google Is Open To More Of Your Content](https://www.searchenginejournal.com/google-404-crawling-means-google-is-open-to-more-of-your-content/570029/) | Search Engine Journal | 180 | Indexing | 2026-03-19 10:13 UTC |
 | [Google &#34;Developing&#34; Opt-Out of Generative AI Features in Search](https://www.seroundtable.com/google-developing-opt-out-of-generative-ai-features-in-search-41083.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-18 17:35 UTC |
