@@ -12,10 +12,10 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google News Showcase Label In Discover Feed](https://www.seroundtable.com/news-showcase-label-tested-in-google-discover-41085.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-20 11:26 UTC |
-| [AI Overviews Showing For Breaking News More Often And Above Top Stories](https://www.seroundtable.com/aios-breaking-news-41087.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-20 11:20 UTC |
 | [Google AI Mode Goes Personal, Crawl Limits Clarified](https://www.searchenginejournal.com/seo-pulse-google-ai-mode-goes-personal-crawl-limits-clarified/570110/) | Search Engine Journal | 200 | Indexing | 2026-03-20 12:30 UTC |
-| [Google Ads Creative Tools Expand, Microsoft Simplifies Bidding](https://www.searchenginejournal.com/ppc-pulse-google-ads-creative-tools-expand-microsoft-simplifies-bidding/570104/) | Search Engine Journal | 200 | AI Search | 2026-03-20 11:30 UTC |
+| [Google News Showcase Label In Discover Feed](https://www.seroundtable.com/news-showcase-label-tested-in-google-discover-41085.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-20 11:26 UTC |
+| [AI Overviews Showing For Breaking News More Often And Above Top Stories](https://www.seroundtable.com/aios-breaking-news-41087.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-20 11:20 UTC |
+| [Google Ads Creative Tools Expand, Microsoft Simplifies Bidding](https://www.searchenginejournal.com/ppc-pulse-google-ads-creative-tools-expand-microsoft-simplifies-bidding/570104/) | Search Engine Journal | 180 | AI Search | 2026-03-20 11:30 UTC |
 | [Universal Commerce Protocol Get New Additions Including Cart &#38; Catalog](https://www.seroundtable.com/universal-commerce-protocol-get-new-additions-including-cart-catalog-41086.html) | Search Engine Roundtable | 170 | General | 2026-03-19 15:59 UTC |
 | [Daily Search Forum Recap: March 19, 2026](https://www.seroundtable.com/recap-03-19-2026-41081.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-19 14:00 UTC |
 | [Search Lab AI Beaker Icon Replaced On Android](https://www.seroundtable.com/googles-search-lab-icon-gets-replaced-on-android-devices-41082.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-19 11:36 UTC |
@@ -34,7 +34,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Search Referral Traffic Down 60% For Small Publishers, Data Shows](https://www.searchenginejournal.com/search-referral-traffic-down-60-for-small-publishers-data-shows/569959/) | Search Engine Journal | 160 | General | 2026-03-17 23:55 UTC |
 | [Google AI Overviews Cut Germany's Top Organic CTR By 59%](https://www.searchenginejournal.com/google-ai-overviews-cut-germanys-top-organic-ctr-by-59/569954/) | Search Engine Journal | 160 | GSC | 2026-03-17 23:19 UTC |
 | [Google Removes 'What People Suggest,' Expands Health AI Tools](https://www.searchenginejournal.com/google-removes-what-people-suggest-expands-health-ai-tools/569942/) | Search Engine Journal | 160 | AI Search | 2026-03-17 18:49 UTC |
-| [Google AI Mode's Personal Intelligence Now Free In U.S.](https://www.searchenginejournal.com/google-ai-modes-personal-intelligence-now-free-in-u-s/569932/) | Search Engine Journal | 160 | AI Search | 2026-03-17 17:01 UTC |
 | [Google Officially Removes &#34;What People Suggest&#34; Health SERP Feature](https://www.seroundtable.com/google-removes-what-people-suggest-41080.html) | Search Engine Roundtable | 155 | General | 2026-03-17 13:20 UTC |
 | [Are Local Packs Losing Their Call Buttons?](https://www.seroundtable.com/low-rate-of-call-buttons-in-local-packs-per-study-41077.html) | Search Engine Roundtable | 155 | General | 2026-03-17 12:45 UTC |
 | [Google News Support Team Still Advices You Go To Search Liaison For Updates](https://www.seroundtable.com/google-news-support-search-liaison-40951.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-17 11:21 UTC |
@@ -42,6 +41,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Brings Helpful Changes to Ads Editor with Version 2.12](https://www.seroundtable.com/google-brings-helpful-changes-to-ads-editor-with-version-2-12-41076.html) | Search Engine Roundtable | 155 | General | 2026-03-16 15:06 UTC |
 | [PMax Channel Reporting Gets Video Segmentation Option](https://www.seroundtable.com/pmax-channel-reporting-gets-video-segmentation-option-41075.html) | Search Engine Roundtable | 155 | General | 2026-03-16 13:40 UTC |
 | [How AI is impacting local search and what tools to use to get ahead](https://searchengineland.com/guide/how-ai-is-impacting-local-search) | Search Engine Land | 145 | Local SEO | 2026-03-16 20:53 UTC |
+| [Google AI Mode's Personal Intelligence Now Free In U.S.](https://www.searchenginejournal.com/google-ai-modes-personal-intelligence-now-free-in-u-s/569932/) | Search Engine Journal | 145 | AI Search | 2026-03-17 17:01 UTC |
 | [The Brand Tax: How Google Profits From Demand You Already Own](https://www.searchenginejournal.com/the-brand-tax-how-google-profits-from-demand-you-already-own/569887/) | Search Engine Journal | 145 | AI Search | 2026-03-17 13:30 UTC |
 | [What's Hot, What's Not: AI Search Changes In Q1 2026 [Recap]](https://www.searchenginejournal.com/whats-hot-whats-not-ai-search-changes-in-q1-2026-recap/569652/) | Search Engine Journal | 145 | AI Search | 2026-03-17 13:00 UTC |
 | [PPC Automation Layering: How Smart Advertisers Combine Automation With Strategy](https://www.searchenginejournal.com/ppc-automation-layering-how-smart-advertisers-combine-automation-with-strategy/568043/) | Search Engine Journal | 145 | AI Search | 2026-03-17 12:00 UTC |
