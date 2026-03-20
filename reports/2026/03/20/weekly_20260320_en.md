@@ -39,7 +39,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [OpenAI Continues To Expand Ads in ChatGPT and Tests Ads Manager](https://www.seroundtable.com/chatgpt-ads-expands-ads-manager-41078.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-16 17:25 UTC |
 | [Google Brings Helpful Changes to Ads Editor with Version 2.12](https://www.seroundtable.com/google-brings-helpful-changes-to-ads-editor-with-version-2-12-41076.html) | Search Engine Roundtable | 155 | General | 2026-03-16 15:06 UTC |
 | [PMax Channel Reporting Gets Video Segmentation Option](https://www.seroundtable.com/pmax-channel-reporting-gets-video-segmentation-option-41075.html) | Search Engine Roundtable | 155 | General | 2026-03-16 13:40 UTC |
-| [16 Ecommerce Product Page Examples + Best Practices](https://www.semrush.com/blog/product-page/) | Semrush Blog | 150 | Migration | 2026-03-20 16:24 UTC |
 | [How AI is impacting local search and what tools to use to get ahead](https://searchengineland.com/guide/how-ai-is-impacting-local-search) | Search Engine Land | 145 | Local SEO | 2026-03-16 20:53 UTC |
 | [Google Removes 'What People Suggest,' Expands Health AI Tools](https://www.searchenginejournal.com/google-removes-what-people-suggest-expands-health-ai-tools/569942/) | Search Engine Journal | 145 | AI Search | 2026-03-17 18:49 UTC |
 | [Google AI Mode's Personal Intelligence Now Free In U.S.](https://www.searchenginejournal.com/google-ai-modes-personal-intelligence-now-free-in-u-s/569932/) | Search Engine Journal | 145 | AI Search | 2026-03-17 17:01 UTC |
@@ -54,6 +53,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [How AI Agents Decide Which Brands To Recommend: Trust Is The New Ranking Factor](https://www.searchenginejournal.com/how-ai-agents-decide-which-brands-to-recommend-trust-is-the-new-ranking-factor/568067/) | Search Engine Journal | 145 | AI Search | 2026-03-16 12:00 UTC |
 | [Google Shares More Information On Googlebot Crawl Limits](https://www.searchenginejournal.com/googlebot-crawl-limit-information/569794/) | Search Engine Journal | 145 | Indexing | 2026-03-16 09:47 UTC |
 | [SEO Vs. PPC Strategy: What's Right For Your Business?](https://www.searchenginejournal.com/seo-vs-ppc/234681/) | Search Engine Journal | 145 | General | 2026-03-14 05:46 UTC |
+| [16 Ecommerce Product Page Examples + Best Practices](https://www.semrush.com/blog/product-page/) | Semrush Blog | 130 | Migration | 2026-03-20 16:24 UTC |
 | [What Is On-Page SEO? And How to Do It](https://www.semrush.com/blog/on-page-seo/) | Semrush Blog | 130 | AI Search | 2026-03-20 10:13 UTC |
 | [Generative Engine Optimization: A Practical Guide](https://www.semrush.com/blog/generative-engine-optimization/) | Semrush Blog | 130 | AI Search | 2026-03-20 09:59 UTC |
 | [Competitor Ad Spend: How to Analyze Rivals’ Budgets](https://www.semrush.com/blog/competitor-ad-spend/) | Semrush Blog | 110 | Migration | 2026-03-19 10:06 UTC |
