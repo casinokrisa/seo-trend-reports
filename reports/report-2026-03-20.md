@@ -27,8 +27,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [What Can Log File Data Tell Me That Tools Can't?](https://www.searchenginejournal.com/ask-an-seo-should-seos-use-log-file-data/567932/) | Search Engine Journal | 180 | Indexing | 2026-03-19 12:30 UTC |
 | [Google: 404 Crawling Means Google Is Open To More Of Your Content](https://www.searchenginejournal.com/google-404-crawling-means-google-is-open-to-more-of-your-content/570029/) | Search Engine Journal | 180 | Indexing | 2026-03-19 10:13 UTC |
 | [Competitor Ad Spend: How to Analyze Rivals’ Budgets](https://www.semrush.com/blog/competitor-ad-spend/) | Semrush Blog | 130 | Migration | 2026-03-19 10:06 UTC |
-| [20 Best Search Engines Compared](https://www.semrush.com/blog/search-engine-list/) | Semrush Blog | 130 | Migration | 2026-03-19 09:54 UTC |
-| [6 Ways to Build a Search Everywhere Optimization Strategy for 2026](https://www.semrush.com/blog/search-everywhere-optimization/) | Semrush Blog | 130 | Migration | 2026-03-19 09:44 UTC |
+| [20 Best Search Engines Compared](https://www.semrush.com/blog/search-engine-list/) | Semrush Blog | 110 | Migration | 2026-03-19 09:54 UTC |
+| [6 Ways to Build a Search Everywhere Optimization Strategy for 2026](https://www.semrush.com/blog/search-everywhere-optimization/) | Semrush Blog | 110 | Migration | 2026-03-19 09:44 UTC |
 
 ## Notes for manual writing
 
