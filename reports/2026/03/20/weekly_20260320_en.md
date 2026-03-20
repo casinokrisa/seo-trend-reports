@@ -54,7 +54,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [How AI Agents Decide Which Brands To Recommend: Trust Is The New Ranking Factor](https://www.searchenginejournal.com/how-ai-agents-decide-which-brands-to-recommend-trust-is-the-new-ranking-factor/568067/) | Search Engine Journal | 145 | AI Search | 2026-03-16 12:00 UTC |
 | [Google Shares More Information On Googlebot Crawl Limits](https://www.searchenginejournal.com/googlebot-crawl-limit-information/569794/) | Search Engine Journal | 145 | Indexing | 2026-03-16 09:47 UTC |
 | [SEO Vs. PPC Strategy: What's Right For Your Business?](https://www.searchenginejournal.com/seo-vs-ppc/234681/) | Search Engine Journal | 145 | General | 2026-03-14 05:46 UTC |
-| [SEO Pulse Archives](https://www.searchenginejournal.com/category/seo/seo-pulse/) | Search Engine Journal | 145 | General | 2026-03-13 20:52 UTC |
 | [What Is On-Page SEO? And How to Do It](https://www.semrush.com/blog/on-page-seo/) | Semrush Blog | 130 | AI Search | 2026-03-20 10:13 UTC |
 | [Generative Engine Optimization: A Practical Guide](https://www.semrush.com/blog/generative-engine-optimization/) | Semrush Blog | 130 | AI Search | 2026-03-20 09:59 UTC |
 | [Competitor Ad Spend: How to Analyze Rivals’ Budgets](https://www.semrush.com/blog/competitor-ad-spend/) | Semrush Blog | 110 | Migration | 2026-03-19 10:06 UTC |
