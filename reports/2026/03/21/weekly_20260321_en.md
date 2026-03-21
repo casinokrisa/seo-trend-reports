@@ -12,7 +12,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google AI Mode Goes Personal, Crawl Limits Clarified](https://www.searchenginejournal.com/seo-pulse-google-ai-mode-goes-personal-crawl-limits-clarified/570110/) | Search Engine Journal | 180 | Indexing | 2026-03-20 12:30 UTC |
 | [Google News Showcase Label In Discover Feed](https://www.seroundtable.com/news-showcase-label-tested-in-google-discover-41085.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-20 11:26 UTC |
 | [AI Overviews Showing For Breaking News More Often And Above Top Stories](https://www.seroundtable.com/aios-breaking-news-41087.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-20 11:20 UTC |
 | [Universal Commerce Protocol Get New Additions Including Cart &#38; Catalog](https://www.seroundtable.com/universal-commerce-protocol-get-new-additions-including-cart-catalog-41086.html) | Search Engine Roundtable | 170 | General | 2026-03-19 15:59 UTC |
@@ -20,15 +19,14 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Search Lab AI Beaker Icon Replaced On Android](https://www.seroundtable.com/googles-search-lab-icon-gets-replaced-on-android-devices-41082.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-19 11:36 UTC |
 | [Google Expands Personal Intelligence As Jarvis Approaches](https://www.seroundtable.com/google-personal-intelligence-expands-41084.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-19 11:20 UTC |
 | [Google &#34;Developing&#34; Opt-Out of Generative AI Features in Search](https://www.seroundtable.com/google-developing-opt-out-of-generative-ai-features-in-search-41083.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-18 17:35 UTC |
-| [Bing Business Profiles With Image Slider](https://www.seroundtable.com/bing-business-profiles-image-slider-41039.html) | Search Engine Roundtable | 170 | General | 2026-03-18 11:51 UTC |
-| [Live Sports Data In Google AI Mode](https://www.seroundtable.com/live-sports-scores-in-google-ai-mode-41079.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-18 11:36 UTC |
+| [Google AI Mode Goes Personal, Crawl Limits Clarified](https://www.searchenginejournal.com/seo-pulse-google-ai-mode-goes-personal-crawl-limits-clarified/570110/) | Search Engine Journal | 160 | Indexing | 2026-03-20 12:30 UTC |
 | [Google Ads Creative Tools Expand, Microsoft Simplifies Bidding](https://www.searchenginejournal.com/ppc-pulse-google-ads-creative-tools-expand-microsoft-simplifies-bidding/570104/) | Search Engine Journal | 160 | AI Search | 2026-03-20 11:30 UTC |
 | [Google Expands UCP With Cart, Catalog, Onboarding](https://www.searchenginejournal.com/google-expands-ucp-with-cart-catalog-onboarding/570084/) | Search Engine Journal | 160 | Links | 2026-03-19 15:35 UTC |
 | [The Content Moat Is Dead. The Context Moat Is What Survives](https://www.searchenginejournal.com/the-content-moat-is-dead-the-context-moat-is-what-survives/569778/) | Search Engine Journal | 160 | Content | 2026-03-19 13:30 UTC |
 | [What Can Log File Data Tell Me That Tools Can't?](https://www.searchenginejournal.com/ask-an-seo-should-seos-use-log-file-data/567932/) | Search Engine Journal | 160 | Indexing | 2026-03-19 12:30 UTC |
 | [Google: 404 Crawling Means Google Is Open To More Of Your Content](https://www.searchenginejournal.com/google-404-crawling-means-google-is-open-to-more-of-your-content/570029/) | Search Engine Journal | 160 | Indexing | 2026-03-19 10:13 UTC |
-| [How To Build An SEO Commissioning Workflow: From Tickets To Requirements](https://www.searchenginejournal.com/how-to-build-an-seo-commissioning-workflow/566093/) | Search Engine Journal | 160 | Content | 2026-03-18 13:00 UTC |
-| [How To Use AI To Streamline Time-Consuming SEO Tasks](https://www.searchenginejournal.com/how-to-use-ai-to-streamline-time-consuming-seo-tasks/566499/) | Search Engine Journal | 160 | AI Search | 2026-03-18 12:00 UTC |
+| [Bing Business Profiles With Image Slider](https://www.seroundtable.com/bing-business-profiles-image-slider-41039.html) | Search Engine Roundtable | 155 | General | 2026-03-18 11:51 UTC |
+| [Live Sports Data In Google AI Mode](https://www.seroundtable.com/live-sports-scores-in-google-ai-mode-41079.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-18 11:36 UTC |
 | [Google Officially Removes &#34;What People Suggest&#34; Health SERP Feature](https://www.seroundtable.com/google-removes-what-people-suggest-41080.html) | Search Engine Roundtable | 155 | General | 2026-03-17 13:20 UTC |
 | [Are Local Packs Losing Their Call Buttons?](https://www.seroundtable.com/low-rate-of-call-buttons-in-local-packs-per-study-41077.html) | Search Engine Roundtable | 155 | General | 2026-03-17 12:45 UTC |
 | [Google News Support Team Still Advices You Go To Search Liaison For Updates](https://www.seroundtable.com/google-news-support-search-liaison-40951.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-17 11:21 UTC |
@@ -36,6 +34,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Brings Helpful Changes to Ads Editor with Version 2.12](https://www.seroundtable.com/google-brings-helpful-changes-to-ads-editor-with-version-2-12-41076.html) | Search Engine Roundtable | 155 | General | 2026-03-16 15:06 UTC |
 | [PMax Channel Reporting Gets Video Segmentation Option](https://www.seroundtable.com/pmax-channel-reporting-gets-video-segmentation-option-41075.html) | Search Engine Roundtable | 155 | General | 2026-03-16 13:40 UTC |
 | [How AI is impacting local search and what tools to use to get ahead](https://searchengineland.com/guide/how-ai-is-impacting-local-search) | Search Engine Land | 145 | Local SEO | 2026-03-16 20:53 UTC |
+| [How To Build An SEO Commissioning Workflow: From Tickets To Requirements](https://www.searchenginejournal.com/how-to-build-an-seo-commissioning-workflow/566093/) | Search Engine Journal | 145 | Content | 2026-03-18 13:00 UTC |
+| [How To Use AI To Streamline Time-Consuming SEO Tasks](https://www.searchenginejournal.com/how-to-use-ai-to-streamline-time-consuming-seo-tasks/566499/) | Search Engine Journal | 145 | AI Search | 2026-03-18 12:00 UTC |
 | [SEO Test Shows It's Trivial To Rank Misinformation On Google](https://www.searchenginejournal.com/seo-test-shows-its-trivial-to-rank-misinformation-on-google/569980/) | Search Engine Journal | 145 | AI Search | 2026-03-18 09:38 UTC |
 | [Google Explains Why HTTPS Migration May Negatively Impact SEO](https://www.searchenginejournal.com/google-explains-why-https-migration-may-negatively-impact-seo/569969/) | Search Engine Journal | 145 | AI Search | 2026-03-18 08:25 UTC |
 | [Search Referral Traffic Down 60% For Small Publishers, Data Shows](https://www.searchenginejournal.com/search-referral-traffic-down-60-for-small-publishers-data-shows/569959/) | Search Engine Journal | 145 | General | 2026-03-17 23:55 UTC |
