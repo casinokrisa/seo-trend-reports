@@ -53,8 +53,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [How AI Agents Decide Which Brands To Recommend: Trust Is The New Ranking Factor](https://www.searchenginejournal.com/how-ai-agents-decide-which-brands-to-recommend-trust-is-the-new-ranking-factor/568067/) | Search Engine Journal | 145 | AI Search | 2026-03-16 12:00 UTC |
 | [Google Shares More Information On Googlebot Crawl Limits](https://www.searchenginejournal.com/googlebot-crawl-limit-information/569794/) | Search Engine Journal | 145 | Indexing | 2026-03-16 09:47 UTC |
 | [16 Ecommerce Product Page Examples + Best Practices](https://www.semrush.com/blog/product-page/) | Semrush Blog | 130 | Migration | 2026-03-20 16:24 UTC |
-| [What Is On-Page SEO? And How to Do It](https://www.semrush.com/blog/on-page-seo/) | Semrush Blog | 130 | AI Search | 2026-03-20 10:13 UTC |
-| [Generative Engine Optimization: A Practical Guide](https://www.semrush.com/blog/generative-engine-optimization/) | Semrush Blog | 130 | AI Search | 2026-03-20 09:59 UTC |
+| [What Is On-Page SEO? And How to Do It](https://www.semrush.com/blog/on-page-seo/) | Semrush Blog | 110 | AI Search | 2026-03-20 10:13 UTC |
+| [Generative Engine Optimization: A Practical Guide](https://www.semrush.com/blog/generative-engine-optimization/) | Semrush Blog | 110 | AI Search | 2026-03-20 09:59 UTC |
 | [Competitor Ad Spend: How to Analyze Rivals’ Budgets](https://www.semrush.com/blog/competitor-ad-spend/) | Semrush Blog | 110 | Migration | 2026-03-19 10:06 UTC |
 | [20 Best Search Engines Compared](https://www.semrush.com/blog/search-engine-list/) | Semrush Blog | 110 | Migration | 2026-03-19 09:54 UTC |
 | [6 Ways to Build a Search Everywhere Optimization Strategy for 2026](https://www.semrush.com/blog/search-everywhere-optimization/) | Semrush Blog | 110 | Migration | 2026-03-19 09:44 UTC |
