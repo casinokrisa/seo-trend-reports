@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Search Central Live Asia Pacific 2026: Get Ready for Sydney and more!](https://developers.google.com/search/blog/2026/03/scl-apac-2026) | Google Search Central Blog | 210 | AI Search | 2026-03-20 06:00 UTC |
 | [Google News Showcase Label In Discover Feed](https://www.seroundtable.com/news-showcase-label-tested-in-google-discover-41085.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-20 11:26 UTC |
 | [AI Overviews Showing For Breaking News More Often And Above Top Stories](https://www.seroundtable.com/aios-breaking-news-41087.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-20 11:20 UTC |
 | [Universal Commerce Protocol Get New Additions Including Cart &#38; Catalog](https://www.seroundtable.com/universal-commerce-protocol-get-new-additions-including-cart-catalog-41086.html) | Search Engine Roundtable | 170 | General | 2026-03-19 15:59 UTC |
