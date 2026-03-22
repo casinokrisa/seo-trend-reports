@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [16 Ecommerce Product Page Examples + Best Practices](https://www.semrush.com/blog/product-page/) | Semrush Blog | 110 | Migration | 2026-03-20 16:24 UTC |
+| _No site items in window_ |  |  |  |  |
 
 ## Notes for manual writing
 
