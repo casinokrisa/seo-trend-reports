@@ -58,10 +58,10 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Generative Engine Optimization: A Practical Guide](https://www.semrush.com/blog/generative-engine-optimization/) | Semrush Blog | 110 | AI Search | 2026-03-20 09:59 UTC |
 | [Competitor Ad Spend: How to Analyze Rivals’ Budgets](https://www.semrush.com/blog/competitor-ad-spend/) | Semrush Blog | 110 | Migration | 2026-03-19 10:06 UTC |
 | [20 Best Search Engines Compared](https://www.semrush.com/blog/search-engine-list/) | Semrush Blog | 110 | Migration | 2026-03-19 09:54 UTC |
-| [6 Ways to Build a Search Everywhere Optimization Strategy for 2026](https://www.semrush.com/blog/search-everywhere-optimization/) | Semrush Blog | 110 | Migration | 2026-03-19 09:44 UTC |
 | [15 Marketing Conferences to Attend in 2026](https://ahrefs.com/blog/marketing-conferences/) | Ahrefs Blog | 105 | General | 2026-03-17 16:30 UTC |
 | [14 Digital Marketing Conferences to Attend in 2026](https://ahrefs.com/blog/digital-marketing-conferences/) | Ahrefs Blog | 105 | General | 2026-03-17 16:16 UTC |
 | [AI Content Wasn’t Good Enough. Now It Is.](https://ahrefs.com/blog/ai-content-wasnt-good-enough-now-it-is/) | Ahrefs Blog | 105 | AI Search | 2026-03-16 16:22 UTC |
+| [6 Ways to Build a Search Everywhere Optimization Strategy for 2026](https://www.semrush.com/blog/search-everywhere-optimization/) | Semrush Blog | 95 | Migration | 2026-03-19 09:44 UTC |
 | [AI Search Trends for 2026 &amp; How You Can Adapt to Them](https://www.semrush.com/blog/ai-search-trends/) | Semrush Blog | 95 | AI Search | 2026-03-17 11:39 UTC |
 | [How to Optimize Content for AI Search Engines [2026 Guide]](https://www.semrush.com/blog/how-to-optimize-content-for-ai-search-engines/) | Semrush Blog | 95 | AI Search | 2026-03-17 11:25 UTC |
 | [How to Do Keyword Research in 2026 (6 Ways + Framework)](https://www.semrush.com/blog/keyword-research/) | Semrush Blog | 95 | Migration | 2026-03-17 10:59 UTC |
