@@ -13,17 +13,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Search Central Live Asia Pacific 2026: Get Ready for Sydney and more!](https://developers.google.com/search/blog/2026/03/scl-apac-2026) | Google Search Central Blog | 210 | AI Search | 2026-03-20 06:00 UTC |
+| [From SEO And CRO To Agentic AI Optimization (AAIO): Why Your Website Needs To Speak To Machines](https://www.searchenginejournal.com/from-seo-and-cro-to-agentic-ai-optimization-aaio-why-your-website-needs-to-speak-to-machines/569983/) | Search Engine Journal | 200 | AI Search | 2026-03-22 11:00 UTC |
 | [Google News Showcase Label In Discover Feed](https://www.seroundtable.com/news-showcase-label-tested-in-google-discover-41085.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-20 11:26 UTC |
 | [AI Overviews Showing For Breaking News More Often And Above Top Stories](https://www.seroundtable.com/aios-breaking-news-41087.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-20 11:20 UTC |
 | [Universal Commerce Protocol Get New Additions Including Cart &#38; Catalog](https://www.seroundtable.com/universal-commerce-protocol-get-new-additions-including-cart-catalog-41086.html) | Search Engine Roundtable | 170 | General | 2026-03-19 15:59 UTC |
 | [Daily Search Forum Recap: March 19, 2026](https://www.seroundtable.com/recap-03-19-2026-41081.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-19 14:00 UTC |
 | [Search Lab AI Beaker Icon Replaced On Android](https://www.seroundtable.com/googles-search-lab-icon-gets-replaced-on-android-devices-41082.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-19 11:36 UTC |
-| [Google Expands Personal Intelligence As Jarvis Approaches](https://www.seroundtable.com/google-personal-intelligence-expands-41084.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-19 11:20 UTC |
 | [Google AI Mode Goes Personal, Crawl Limits Clarified](https://www.searchenginejournal.com/seo-pulse-google-ai-mode-goes-personal-crawl-limits-clarified/570110/) | Search Engine Journal | 160 | Indexing | 2026-03-20 12:30 UTC |
 | [Google Ads Creative Tools Expand, Microsoft Simplifies Bidding](https://www.searchenginejournal.com/ppc-pulse-google-ads-creative-tools-expand-microsoft-simplifies-bidding/570104/) | Search Engine Journal | 160 | AI Search | 2026-03-20 11:30 UTC |
 | [Google Expands UCP With Cart, Catalog, Onboarding](https://www.searchenginejournal.com/google-expands-ucp-with-cart-catalog-onboarding/570084/) | Search Engine Journal | 160 | Links | 2026-03-19 15:35 UTC |
 | [The Content Moat Is Dead. The Context Moat Is What Survives](https://www.searchenginejournal.com/the-content-moat-is-dead-the-context-moat-is-what-survives/569778/) | Search Engine Journal | 160 | Content | 2026-03-19 13:30 UTC |
 | [What Can Log File Data Tell Me That Tools Can't?](https://www.searchenginejournal.com/ask-an-seo-should-seos-use-log-file-data/567932/) | Search Engine Journal | 160 | Indexing | 2026-03-19 12:30 UTC |
+| [Google Expands Personal Intelligence As Jarvis Approaches](https://www.seroundtable.com/google-personal-intelligence-expands-41084.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-19 11:20 UTC |
 | [Google &#34;Developing&#34; Opt-Out of Generative AI Features in Search](https://www.seroundtable.com/google-developing-opt-out-of-generative-ai-features-in-search-41083.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-18 17:35 UTC |
 | [Bing Business Profiles With Image Slider](https://www.seroundtable.com/bing-business-profiles-image-slider-41039.html) | Search Engine Roundtable | 155 | General | 2026-03-18 11:51 UTC |
 | [Live Sports Data In Google AI Mode](https://www.seroundtable.com/live-sports-scores-in-google-ai-mode-41079.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-18 11:36 UTC |
