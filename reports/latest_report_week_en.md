@@ -21,8 +21,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [3 Strategies That Can Survive AI Search In 2026: What I Shared At SEJ Live](https://www.searchenginejournal.com/strategies-that-can-survive-ai-search-in-2026-what-i-shared-at-sej-live/570260/) | Search Engine Journal | 200 | AI Search | 2026-03-23 14:00 UTC |
 | [7 Google Ads Shortcuts Every PPC Manager Should Be Using](https://www.searchenginejournal.com/google-ads-shortcuts-every-ppc-manager-should-be-using/568045/) | Search Engine Journal | 200 | General | 2026-03-23 12:00 UTC |
 | [The SEO Skills Gap: Why Technical Expertise Alone Won't Cut It Anymore](https://www.searchenginejournal.com/seo-skills-gap-why-technical-expertise-alone-wont-cut-it-anymore/568356/) | Search Engine Journal | 200 | Technical SEO | 2026-03-23 11:15 UTC |
-| [Is WordPress Too Complex For Most Sites?](https://www.searchenginejournal.com/is-wordpress-too-complex-for-most-sites/570274/) | Search Engine Journal | 200 | General | 2026-03-23 10:50 UTC |
 | [Search Central Live Asia Pacific 2026: Get Ready for Sydney and more!](https://developers.google.com/search/blog/2026/03/scl-apac-2026) | Google Search Central Blog | 195 | AI Search | 2026-03-20 06:00 UTC |
+| [Is WordPress Too Complex For Most Sites?](https://www.searchenginejournal.com/is-wordpress-too-complex-for-most-sites/570274/) | Search Engine Journal | 180 | General | 2026-03-23 10:50 UTC |
 | [5 GEO Strategies To Make AI Search Engines Recommend Your Brand In 2026](https://www.searchenginejournal.com/geo-strategies-ai-visibility-geoptie-spa/568644/) | Search Engine Journal | 180 | AI Search | 2026-03-23 05:00 UTC |
 | [Google Tested AI Headlines In Discover. Now It's Testing Them In Search](https://www.searchenginejournal.com/google-ai-headlines-in-search/570208/) | Search Engine Journal | 180 | AI Search | 2026-03-22 23:44 UTC |
 | [From SEO And CRO To Agentic AI Optimization (AAIO): Why Your Website Needs To Speak To Machines](https://www.searchenginejournal.com/from-seo-and-cro-to-agentic-ai-optimization-aaio-why-your-website-needs-to-speak-to-machines/569983/) | Search Engine Journal | 160 | AI Search | 2026-03-22 11:00 UTC |
@@ -57,10 +57,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [How To Track AI Visibility & Prompts The Right Way](https://www.searchenginejournal.com/how-to-track-ai-visibility-prompts-the-right-way/569866/) | Search Engine Journal | 145 | AI Search | 2026-03-17 09:00 UTC |
 | [AI Search Barely Cites Syndicated News Or Press Releases](https://www.searchenginejournal.com/ai-search-barely-cites-syndicated-news-or-press-releases/569854/) | Search Engine Journal | 145 | AI Search | 2026-03-16 17:09 UTC |
 | [How to Build Your Own Google Analytics Custom Dashboards](https://www.semrush.com/blog/google-analytics-dashboard/) | Semrush Blog | 130 | Migration | 2026-03-23 08:57 UTC |
-| [16 Ecommerce Product Page Examples + Best Practices](https://www.semrush.com/blog/product-page/) | Semrush Blog | 110 | Migration | 2026-03-20 16:24 UTC |
 | [15 Marketing Conferences to Attend in 2026](https://ahrefs.com/blog/marketing-conferences/) | Ahrefs Blog | 105 | General | 2026-03-17 16:30 UTC |
 | [14 Digital Marketing Conferences to Attend in 2026](https://ahrefs.com/blog/digital-marketing-conferences/) | Ahrefs Blog | 105 | General | 2026-03-17 16:16 UTC |
-| [AI Content Wasn’t Good Enough. Now It Is.](https://ahrefs.com/blog/ai-content-wasnt-good-enough-now-it-is/) | Ahrefs Blog | 105 | AI Search | 2026-03-16 16:22 UTC |
+| [16 Ecommerce Product Page Examples + Best Practices](https://www.semrush.com/blog/product-page/) | Semrush Blog | 95 | Migration | 2026-03-20 16:24 UTC |
 | [What Is On-Page SEO? And How to Do It](https://www.semrush.com/blog/on-page-seo/) | Semrush Blog | 95 | AI Search | 2026-03-20 10:13 UTC |
 | [Generative Engine Optimization: A Practical Guide](https://www.semrush.com/blog/generative-engine-optimization/) | Semrush Blog | 95 | AI Search | 2026-03-20 09:59 UTC |
 | [Competitor Ad Spend: How to Analyze Rivals’ Budgets](https://www.semrush.com/blog/competitor-ad-spend/) | Semrush Blog | 95 | Migration | 2026-03-19 10:06 UTC |
