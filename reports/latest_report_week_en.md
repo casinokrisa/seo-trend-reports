@@ -12,15 +12,19 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google Business Profiles Gains Place Page Attributes](https://www.seroundtable.com/google-business-profiles-place-page-attributes-41091.html) | Search Engine Roundtable | 210 | Local SEO | 2026-03-23 11:41 UTC |
+| [First ChatGPT Ads Share Little Data To Advertisers](https://www.seroundtable.com/first-chatgpt-ads-41090.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-23 11:31 UTC |
+| [Google Using AI to Create Title Links on SERP](https://www.seroundtable.com/google-tests-ai-to-create-title-links-on-serp-41088.html) | Search Engine Roundtable | 210 | Links | 2026-03-23 11:27 UTC |
+| [Google Adds Google-Agent User Agent](https://www.seroundtable.com/google-agent-user-agent-41089.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-23 11:11 UTC |
+| [The SEO Skills Gap: Why Technical Expertise Alone Won't Cut It Anymore](https://www.searchenginejournal.com/seo-skills-gap-why-technical-expertise-alone-wont-cut-it-anymore/568356/) | Search Engine Journal | 200 | Technical SEO | 2026-03-23 11:15 UTC |
 | [Is WordPress Too Complex For Most Sites?](https://www.searchenginejournal.com/is-wordpress-too-complex-for-most-sites/570274/) | Search Engine Journal | 200 | General | 2026-03-23 10:50 UTC |
 | [Search Central Live Asia Pacific 2026: Get Ready for Sydney and more!](https://developers.google.com/search/blog/2026/03/scl-apac-2026) | Google Search Central Blog | 195 | AI Search | 2026-03-20 06:00 UTC |
 | [5 GEO Strategies To Make AI Search Engines Recommend Your Brand In 2026](https://www.searchenginejournal.com/geo-strategies-ai-visibility-geoptie-spa/568644/) | Search Engine Journal | 180 | AI Search | 2026-03-23 05:00 UTC |
 | [Google Tested AI Headlines In Discover. Now It's Testing Them In Search](https://www.searchenginejournal.com/google-ai-headlines-in-search/570208/) | Search Engine Journal | 180 | AI Search | 2026-03-22 23:44 UTC |
-| [Google News Showcase Label In Discover Feed](https://www.seroundtable.com/news-showcase-label-tested-in-google-discover-41085.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-20 11:26 UTC |
-| [AI Overviews Showing For Breaking News More Often And Above Top Stories](https://www.seroundtable.com/aios-breaking-news-41087.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-20 11:20 UTC |
 | [From SEO And CRO To Agentic AI Optimization (AAIO): Why Your Website Needs To Speak To Machines](https://www.searchenginejournal.com/from-seo-and-cro-to-agentic-ai-optimization-aaio-why-your-website-needs-to-speak-to-machines/569983/) | Search Engine Journal | 160 | AI Search | 2026-03-22 11:00 UTC |
 | [Google AI Mode Goes Personal, Crawl Limits Clarified](https://www.searchenginejournal.com/seo-pulse-google-ai-mode-goes-personal-crawl-limits-clarified/570110/) | Search Engine Journal | 160 | Indexing | 2026-03-20 12:30 UTC |
-| [Google Ads Creative Tools Expand, Microsoft Simplifies Bidding](https://www.searchenginejournal.com/ppc-pulse-google-ads-creative-tools-expand-microsoft-simplifies-bidding/570104/) | Search Engine Journal | 160 | AI Search | 2026-03-20 11:30 UTC |
+| [Google News Showcase Label In Discover Feed](https://www.seroundtable.com/news-showcase-label-tested-in-google-discover-41085.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-20 11:26 UTC |
+| [AI Overviews Showing For Breaking News More Often And Above Top Stories](https://www.seroundtable.com/aios-breaking-news-41087.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-20 11:20 UTC |
 | [Universal Commerce Protocol Get New Additions Including Cart &#38; Catalog](https://www.seroundtable.com/universal-commerce-protocol-get-new-additions-including-cart-catalog-41086.html) | Search Engine Roundtable | 155 | General | 2026-03-19 15:59 UTC |
 | [Daily Search Forum Recap: March 19, 2026](https://www.seroundtable.com/recap-03-19-2026-41081.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-19 14:00 UTC |
 | [Search Lab AI Beaker Icon Replaced On Android](https://www.seroundtable.com/googles-search-lab-icon-gets-replaced-on-android-devices-41082.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-19 11:36 UTC |
@@ -30,12 +34,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Live Sports Data In Google AI Mode](https://www.seroundtable.com/live-sports-scores-in-google-ai-mode-41079.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-18 11:36 UTC |
 | [Google Officially Removes &#34;What People Suggest&#34; Health SERP Feature](https://www.seroundtable.com/google-removes-what-people-suggest-41080.html) | Search Engine Roundtable | 155 | General | 2026-03-17 13:20 UTC |
 | [Are Local Packs Losing Their Call Buttons?](https://www.seroundtable.com/low-rate-of-call-buttons-in-local-packs-per-study-41077.html) | Search Engine Roundtable | 155 | General | 2026-03-17 12:45 UTC |
-| [Google News Support Team Still Advices You Go To Search Liaison For Updates](https://www.seroundtable.com/google-news-support-search-liaison-40951.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-17 11:21 UTC |
-| [OpenAI Continues To Expand Ads in ChatGPT and Tests Ads Manager](https://www.seroundtable.com/chatgpt-ads-expands-ads-manager-41078.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-16 17:25 UTC |
-| [Google Brings Helpful Changes to Ads Editor with Version 2.12](https://www.seroundtable.com/google-brings-helpful-changes-to-ads-editor-with-version-2-12-41076.html) | Search Engine Roundtable | 155 | General | 2026-03-16 15:06 UTC |
-| [PMax Channel Reporting Gets Video Segmentation Option](https://www.seroundtable.com/pmax-channel-reporting-gets-video-segmentation-option-41075.html) | Search Engine Roundtable | 155 | General | 2026-03-16 13:40 UTC |
 | [How to Build Your Own Google Analytics Custom Dashboards](https://www.semrush.com/blog/google-analytics-dashboard/) | Semrush Blog | 150 | Migration | 2026-03-23 08:57 UTC |
 | [How AI is impacting local search and what tools to use to get ahead](https://searchengineland.com/guide/how-ai-is-impacting-local-search) | Search Engine Land | 145 | Local SEO | 2026-03-16 20:53 UTC |
+| [Google Ads Creative Tools Expand, Microsoft Simplifies Bidding](https://www.searchenginejournal.com/ppc-pulse-google-ads-creative-tools-expand-microsoft-simplifies-bidding/570104/) | Search Engine Journal | 145 | AI Search | 2026-03-20 11:30 UTC |
 | [Google Expands UCP With Cart, Catalog, Onboarding](https://www.searchenginejournal.com/google-expands-ucp-with-cart-catalog-onboarding/570084/) | Search Engine Journal | 145 | Links | 2026-03-19 15:35 UTC |
 | [The Content Moat Is Dead. The Context Moat Is What Survives](https://www.searchenginejournal.com/the-content-moat-is-dead-the-context-moat-is-what-survives/569778/) | Search Engine Journal | 145 | Content | 2026-03-19 13:30 UTC |
 | [What Can Log File Data Tell Me That Tools Can't?](https://www.searchenginejournal.com/ask-an-seo-should-seos-use-log-file-data/567932/) | Search Engine Journal | 145 | Indexing | 2026-03-19 12:30 UTC |
