@@ -12,11 +12,13 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Daily Search Forum Recap: March 23, 2026](https://www.seroundtable.com/recap-03-23-2026-41096.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-23 14:00 UTC |
 | [Microsoft Bing Tests New AI Image Search](https://www.seroundtable.com/bing-new-ai-image-search-41094.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-23 11:51 UTC |
 | [Google Business Profiles Gains Place Page Attributes](https://www.seroundtable.com/google-business-profiles-place-page-attributes-41091.html) | Search Engine Roundtable | 210 | Local SEO | 2026-03-23 11:41 UTC |
 | [First ChatGPT Ads Share Little Data To Advertisers](https://www.seroundtable.com/first-chatgpt-ads-41090.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-23 11:31 UTC |
 | [Google Using AI to Create Title Links on SERP](https://www.seroundtable.com/google-tests-ai-to-create-title-links-on-serp-41088.html) | Search Engine Roundtable | 210 | Links | 2026-03-23 11:27 UTC |
 | [Google Adds Google-Agent User Agent](https://www.seroundtable.com/google-agent-user-agent-41089.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-23 11:11 UTC |
+| [3 Strategies That Can Survive AI Search In 2026: What I Shared At SEJ Live](https://www.searchenginejournal.com/strategies-that-can-survive-ai-search-in-2026-what-i-shared-at-sej-live/570260/) | Search Engine Journal | 200 | AI Search | 2026-03-23 14:00 UTC |
 | [7 Google Ads Shortcuts Every PPC Manager Should Be Using](https://www.searchenginejournal.com/google-ads-shortcuts-every-ppc-manager-should-be-using/568045/) | Search Engine Journal | 200 | General | 2026-03-23 12:00 UTC |
 | [The SEO Skills Gap: Why Technical Expertise Alone Won't Cut It Anymore](https://www.searchenginejournal.com/seo-skills-gap-why-technical-expertise-alone-wont-cut-it-anymore/568356/) | Search Engine Journal | 200 | Technical SEO | 2026-03-23 11:15 UTC |
 | [Is WordPress Too Complex For Most Sites?](https://www.searchenginejournal.com/is-wordpress-too-complex-for-most-sites/570274/) | Search Engine Journal | 200 | General | 2026-03-23 10:50 UTC |
@@ -33,8 +35,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google &#34;Developing&#34; Opt-Out of Generative AI Features in Search](https://www.seroundtable.com/google-developing-opt-out-of-generative-ai-features-in-search-41083.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-18 17:35 UTC |
 | [Bing Business Profiles With Image Slider](https://www.seroundtable.com/bing-business-profiles-image-slider-41039.html) | Search Engine Roundtable | 155 | General | 2026-03-18 11:51 UTC |
 | [Live Sports Data In Google AI Mode](https://www.seroundtable.com/live-sports-scores-in-google-ai-mode-41079.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-18 11:36 UTC |
-| [Google Officially Removes &#34;What People Suggest&#34; Health SERP Feature](https://www.seroundtable.com/google-removes-what-people-suggest-41080.html) | Search Engine Roundtable | 155 | General | 2026-03-17 13:20 UTC |
-| [How to Build Your Own Google Analytics Custom Dashboards](https://www.semrush.com/blog/google-analytics-dashboard/) | Semrush Blog | 150 | Migration | 2026-03-23 08:57 UTC |
 | [How AI is impacting local search and what tools to use to get ahead](https://searchengineland.com/guide/how-ai-is-impacting-local-search) | Search Engine Land | 145 | Local SEO | 2026-03-16 20:53 UTC |
 | [Google AI Mode Goes Personal, Crawl Limits Clarified](https://www.searchenginejournal.com/seo-pulse-google-ai-mode-goes-personal-crawl-limits-clarified/570110/) | Search Engine Journal | 145 | Indexing | 2026-03-20 12:30 UTC |
 | [Google Ads Creative Tools Expand, Microsoft Simplifies Bidding](https://www.searchenginejournal.com/ppc-pulse-google-ads-creative-tools-expand-microsoft-simplifies-bidding/570104/) | Search Engine Journal | 145 | AI Search | 2026-03-20 11:30 UTC |
@@ -56,6 +56,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Vibe Coding Plugins? Validate With Official WordPress Plugin Checker](https://www.searchenginejournal.com/vibe-coding-plugins-validate-with-official-wordpress-plugin-checker/569895/) | Search Engine Journal | 145 | General | 2026-03-17 09:17 UTC |
 | [How To Track AI Visibility & Prompts The Right Way](https://www.searchenginejournal.com/how-to-track-ai-visibility-prompts-the-right-way/569866/) | Search Engine Journal | 145 | AI Search | 2026-03-17 09:00 UTC |
 | [AI Search Barely Cites Syndicated News Or Press Releases](https://www.searchenginejournal.com/ai-search-barely-cites-syndicated-news-or-press-releases/569854/) | Search Engine Journal | 145 | AI Search | 2026-03-16 17:09 UTC |
+| [How to Build Your Own Google Analytics Custom Dashboards](https://www.semrush.com/blog/google-analytics-dashboard/) | Semrush Blog | 130 | Migration | 2026-03-23 08:57 UTC |
 | [16 Ecommerce Product Page Examples + Best Practices](https://www.semrush.com/blog/product-page/) | Semrush Blog | 110 | Migration | 2026-03-20 16:24 UTC |
 | [15 Marketing Conferences to Attend in 2026](https://ahrefs.com/blog/marketing-conferences/) | Ahrefs Blog | 105 | General | 2026-03-17 16:30 UTC |
 | [14 Digital Marketing Conferences to Attend in 2026](https://ahrefs.com/blog/digital-marketing-conferences/) | Ahrefs Blog | 105 | General | 2026-03-17 16:16 UTC |
@@ -69,7 +70,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [How to Optimize Content for AI Search Engines [2026 Guide]](https://www.semrush.com/blog/how-to-optimize-content-for-ai-search-engines/) | Semrush Blog | 95 | AI Search | 2026-03-17 11:25 UTC |
 | [How to Do Keyword Research in 2026 (6 Ways + Framework)](https://www.semrush.com/blog/keyword-research/) | Semrush Blog | 95 | Migration | 2026-03-17 10:59 UTC |
 | [Google Knowledge Panel: What It Is &amp; How to Get One](https://www.semrush.com/blog/google-knowledge-panel/) | Semrush Blog | 95 | Migration | 2026-03-17 10:41 UTC |
-| [How One SEO Consultant Turns Semrush’s AI Sentiment Insights into Traffic and Visibility](https://www.semrush.com/blog/turning-ai-sentiment-insights-into-visibility/) | Semrush Blog | 95 | AI Search | 2026-03-16 14:00 UTC |
 
 ## Notes
 
