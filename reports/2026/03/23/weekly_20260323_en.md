@@ -12,17 +12,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Microsoft Bing Tests New AI Image Search](https://www.seroundtable.com/bing-new-ai-image-search-41094.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-23 11:51 UTC |
 | [Google Business Profiles Gains Place Page Attributes](https://www.seroundtable.com/google-business-profiles-place-page-attributes-41091.html) | Search Engine Roundtable | 210 | Local SEO | 2026-03-23 11:41 UTC |
 | [First ChatGPT Ads Share Little Data To Advertisers](https://www.seroundtable.com/first-chatgpt-ads-41090.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-23 11:31 UTC |
 | [Google Using AI to Create Title Links on SERP](https://www.seroundtable.com/google-tests-ai-to-create-title-links-on-serp-41088.html) | Search Engine Roundtable | 210 | Links | 2026-03-23 11:27 UTC |
 | [Google Adds Google-Agent User Agent](https://www.seroundtable.com/google-agent-user-agent-41089.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-23 11:11 UTC |
+| [7 Google Ads Shortcuts Every PPC Manager Should Be Using](https://www.searchenginejournal.com/google-ads-shortcuts-every-ppc-manager-should-be-using/568045/) | Search Engine Journal | 200 | General | 2026-03-23 12:00 UTC |
 | [The SEO Skills Gap: Why Technical Expertise Alone Won't Cut It Anymore](https://www.searchenginejournal.com/seo-skills-gap-why-technical-expertise-alone-wont-cut-it-anymore/568356/) | Search Engine Journal | 200 | Technical SEO | 2026-03-23 11:15 UTC |
 | [Is WordPress Too Complex For Most Sites?](https://www.searchenginejournal.com/is-wordpress-too-complex-for-most-sites/570274/) | Search Engine Journal | 200 | General | 2026-03-23 10:50 UTC |
 | [Search Central Live Asia Pacific 2026: Get Ready for Sydney and more!](https://developers.google.com/search/blog/2026/03/scl-apac-2026) | Google Search Central Blog | 195 | AI Search | 2026-03-20 06:00 UTC |
 | [5 GEO Strategies To Make AI Search Engines Recommend Your Brand In 2026](https://www.searchenginejournal.com/geo-strategies-ai-visibility-geoptie-spa/568644/) | Search Engine Journal | 180 | AI Search | 2026-03-23 05:00 UTC |
 | [Google Tested AI Headlines In Discover. Now It's Testing Them In Search](https://www.searchenginejournal.com/google-ai-headlines-in-search/570208/) | Search Engine Journal | 180 | AI Search | 2026-03-22 23:44 UTC |
 | [From SEO And CRO To Agentic AI Optimization (AAIO): Why Your Website Needs To Speak To Machines](https://www.searchenginejournal.com/from-seo-and-cro-to-agentic-ai-optimization-aaio-why-your-website-needs-to-speak-to-machines/569983/) | Search Engine Journal | 160 | AI Search | 2026-03-22 11:00 UTC |
-| [Google AI Mode Goes Personal, Crawl Limits Clarified](https://www.searchenginejournal.com/seo-pulse-google-ai-mode-goes-personal-crawl-limits-clarified/570110/) | Search Engine Journal | 160 | Indexing | 2026-03-20 12:30 UTC |
 | [Google News Showcase Label In Discover Feed](https://www.seroundtable.com/news-showcase-label-tested-in-google-discover-41085.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-20 11:26 UTC |
 | [AI Overviews Showing For Breaking News More Often And Above Top Stories](https://www.seroundtable.com/aios-breaking-news-41087.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-20 11:20 UTC |
 | [Universal Commerce Protocol Get New Additions Including Cart &#38; Catalog](https://www.seroundtable.com/universal-commerce-protocol-get-new-additions-including-cart-catalog-41086.html) | Search Engine Roundtable | 155 | General | 2026-03-19 15:59 UTC |
@@ -33,9 +34,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Bing Business Profiles With Image Slider](https://www.seroundtable.com/bing-business-profiles-image-slider-41039.html) | Search Engine Roundtable | 155 | General | 2026-03-18 11:51 UTC |
 | [Live Sports Data In Google AI Mode](https://www.seroundtable.com/live-sports-scores-in-google-ai-mode-41079.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-18 11:36 UTC |
 | [Google Officially Removes &#34;What People Suggest&#34; Health SERP Feature](https://www.seroundtable.com/google-removes-what-people-suggest-41080.html) | Search Engine Roundtable | 155 | General | 2026-03-17 13:20 UTC |
-| [Are Local Packs Losing Their Call Buttons?](https://www.seroundtable.com/low-rate-of-call-buttons-in-local-packs-per-study-41077.html) | Search Engine Roundtable | 155 | General | 2026-03-17 12:45 UTC |
 | [How to Build Your Own Google Analytics Custom Dashboards](https://www.semrush.com/blog/google-analytics-dashboard/) | Semrush Blog | 150 | Migration | 2026-03-23 08:57 UTC |
 | [How AI is impacting local search and what tools to use to get ahead](https://searchengineland.com/guide/how-ai-is-impacting-local-search) | Search Engine Land | 145 | Local SEO | 2026-03-16 20:53 UTC |
+| [Google AI Mode Goes Personal, Crawl Limits Clarified](https://www.searchenginejournal.com/seo-pulse-google-ai-mode-goes-personal-crawl-limits-clarified/570110/) | Search Engine Journal | 145 | Indexing | 2026-03-20 12:30 UTC |
 | [Google Ads Creative Tools Expand, Microsoft Simplifies Bidding](https://www.searchenginejournal.com/ppc-pulse-google-ads-creative-tools-expand-microsoft-simplifies-bidding/570104/) | Search Engine Journal | 145 | AI Search | 2026-03-20 11:30 UTC |
 | [Google Expands UCP With Cart, Catalog, Onboarding](https://www.searchenginejournal.com/google-expands-ucp-with-cart-catalog-onboarding/570084/) | Search Engine Journal | 145 | Links | 2026-03-19 15:35 UTC |
 | [The Content Moat Is Dead. The Context Moat Is What Survives](https://www.searchenginejournal.com/the-content-moat-is-dead-the-context-moat-is-what-survives/569778/) | Search Engine Journal | 145 | Content | 2026-03-19 13:30 UTC |
@@ -55,9 +56,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Vibe Coding Plugins? Validate With Official WordPress Plugin Checker](https://www.searchenginejournal.com/vibe-coding-plugins-validate-with-official-wordpress-plugin-checker/569895/) | Search Engine Journal | 145 | General | 2026-03-17 09:17 UTC |
 | [How To Track AI Visibility & Prompts The Right Way](https://www.searchenginejournal.com/how-to-track-ai-visibility-prompts-the-right-way/569866/) | Search Engine Journal | 145 | AI Search | 2026-03-17 09:00 UTC |
 | [AI Search Barely Cites Syndicated News Or Press Releases](https://www.searchenginejournal.com/ai-search-barely-cites-syndicated-news-or-press-releases/569854/) | Search Engine Journal | 145 | AI Search | 2026-03-16 17:09 UTC |
-| [You’re Not Scaling Content. You’re Scaling Disappointment](https://www.searchenginejournal.com/youre-not-scaling-content-youre-scaling-disappointment/569235/) | Search Engine Journal | 145 | Content | 2026-03-16 13:30 UTC |
-| [3 CMS Platforms Control 73% Of The Market & Shape Technical SEO Defaults](https://www.searchenginejournal.com/3-cms-platforms-control-73-of-the-market-shape-technical-seo-defaults/568185/) | Search Engine Journal | 145 | Technical SEO | 2026-03-16 13:00 UTC |
-| [How AI Agents Decide Which Brands To Recommend: Trust Is The New Ranking Factor](https://www.searchenginejournal.com/how-ai-agents-decide-which-brands-to-recommend-trust-is-the-new-ranking-factor/568067/) | Search Engine Journal | 145 | AI Search | 2026-03-16 12:00 UTC |
 | [16 Ecommerce Product Page Examples + Best Practices](https://www.semrush.com/blog/product-page/) | Semrush Blog | 110 | Migration | 2026-03-20 16:24 UTC |
 | [15 Marketing Conferences to Attend in 2026](https://ahrefs.com/blog/marketing-conferences/) | Ahrefs Blog | 105 | General | 2026-03-17 16:30 UTC |
 | [14 Digital Marketing Conferences to Attend in 2026](https://ahrefs.com/blog/digital-marketing-conferences/) | Ahrefs Blog | 105 | General | 2026-03-17 16:16 UTC |
