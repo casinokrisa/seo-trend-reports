@@ -46,7 +46,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [AI Overviews Showing For Breaking News More Often And Above Top Stories](https://www.seroundtable.com/aios-breaking-news-41087.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-20 11:20 UTC |
 | [Universal Commerce Protocol Get New Additions Including Cart &amp; Catalog](https://www.seroundtable.com/universal-commerce-protocol-get-new-additions-including-cart-catalog-41086.html) | Search Engine Roundtable | 155 | General | 2026-03-19 15:59 UTC |
 | [Top 10 Marketing Conferences to Attend in 2026](https://www.semrush.com/blog/top-marketing-conferences-to-attend/) | Semrush Blog | 150 | Migration | 2026-03-24 17:50 UTC |
-| [How One Fractional CMO Uses Semrush One to Layer SEO and AEO Into One Growth Strategy](https://www.semrush.com/blog/fractional-cmo-drives-visibility-with-semrush-one/) | Semrush Blog | 150 | AI Search | 2026-03-24 16:00 UTC |
 | [Google AI Mode Goes Personal, Crawl Limits Clarified](https://www.searchenginejournal.com/seo-pulse-google-ai-mode-goes-personal-crawl-limits-clarified/570110/) | Search Engine Journal | 145 | Indexing | 2026-03-20 12:30 UTC |
 | [Google Ads Creative Tools Expand, Microsoft Simplifies Bidding](https://www.searchenginejournal.com/ppc-pulse-google-ads-creative-tools-expand-microsoft-simplifies-bidding/570104/) | Search Engine Journal | 145 | AI Search | 2026-03-20 11:30 UTC |
 | [Google Expands UCP With Cart, Catalog, Onboarding](https://www.searchenginejournal.com/google-expands-ucp-with-cart-catalog-onboarding/570084/) | Search Engine Journal | 145 | Links | 2026-03-19 15:35 UTC |
@@ -60,6 +59,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Search Referral Traffic Down 60% For Small Publishers, Data Shows](https://www.searchenginejournal.com/search-referral-traffic-down-60-for-small-publishers-data-shows/569959/) | Search Engine Journal | 145 | General | 2026-03-17 23:55 UTC |
 | [Google AI Overviews Cut Germany's Top Organic CTR By 59%](https://www.searchenginejournal.com/google-ai-overviews-cut-germanys-top-organic-ctr-by-59/569954/) | Search Engine Journal | 145 | GSC | 2026-03-17 23:19 UTC |
 | [Is AI Content Bad for SEO? No, and It Never Will Be (7 Reasons)](https://ahrefs.com/blog/ai-content-is-not-bad-for-seo/) | Ahrefs Blog | 140 | AI Search | 2026-03-24 14:46 UTC |
+| [How One Fractional CMO Uses Semrush One to Layer SEO and AEO Into One Growth Strategy](https://www.semrush.com/blog/fractional-cmo-drives-visibility-with-semrush-one/) | Semrush Blog | 130 | AI Search | 2026-03-24 16:00 UTC |
 | [How to Make the Most of the Free 7-Day Semrush One Trial](https://www.semrush.com/blog/free-7-day-semrush-one-trial/) | Semrush Blog | 130 | General | 2026-03-24 14:24 UTC |
 | [How to Build Your Own Google Analytics Custom Dashboards](https://www.semrush.com/blog/google-analytics-dashboard/) | Semrush Blog | 110 | Migration | 2026-03-23 08:57 UTC |
 | [16 Ecommerce Product Page Examples + Best Practices](https://www.semrush.com/blog/product-page/) | Semrush Blog | 95 | Migration | 2026-03-20 16:24 UTC |
