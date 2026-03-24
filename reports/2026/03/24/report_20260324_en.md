@@ -18,6 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [SEO 2.0: How Content Marketing Drives Visibility in AI Search](https://www.searchenginejournal.com/seo-2-0-how-content-marketing-drives-visibility-in-ai-search/570308/) | Search Engine Journal | 200 | AI Search | 2026-03-24 07:45 UTC |
 | [Bing AI Dashboard Maps Grounding Queries To Cited Pages](https://www.searchenginejournal.com/bing-ai-dashboard-maps-grounding-queries-to-cited-pages/570323/) | Search Engine Journal | 200 | Local SEO | 2026-03-24 05:00 UTC |
 | [Daily Search Forum Recap: March 23, 2026](https://www.seroundtable.com/recap-03-23-2026-41096.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-23 14:00 UTC |
 | [Microsoft Bing Tests New AI Image Search](https://www.seroundtable.com/bing-new-ai-image-search-41094.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-23 11:51 UTC |
