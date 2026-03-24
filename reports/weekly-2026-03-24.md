@@ -15,16 +15,16 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [SEO 2.0: How Content Marketing Drives Visibility in AI Search](https://www.searchenginejournal.com/seo-2-0-how-content-marketing-drives-visibility-in-ai-search/570308/) | Search Engine Journal | 200 | AI Search | 2026-03-24 07:45 UTC |
 | [Search Central Live Asia Pacific 2026: Get Ready for Sydney and more!](https://developers.google.com/search/blog/2026/03/scl-apac-2026) | Google Search Central Blog | 195 | AI Search | 2026-03-20 06:00 UTC |
 | [Daily Search Forum Recap: March 23, 2026](https://www.seroundtable.com/recap-03-23-2026-41096.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-23 14:00 UTC |
-| [Microsoft Bing Tests New AI Image Search](https://www.seroundtable.com/bing-new-ai-image-search-41094.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-23 11:51 UTC |
-| [Google Business Profiles Gains Place Page Attributes](https://www.seroundtable.com/google-business-profiles-place-page-attributes-41091.html) | Search Engine Roundtable | 190 | Local SEO | 2026-03-23 11:41 UTC |
-| [First ChatGPT Ads Share Little Data To Advertisers](https://www.seroundtable.com/first-chatgpt-ads-41090.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-23 11:31 UTC |
-| [Google Using AI to Create Title Links on SERP](https://www.seroundtable.com/google-tests-ai-to-create-title-links-on-serp-41088.html) | Search Engine Roundtable | 190 | Links | 2026-03-23 11:27 UTC |
-| [Google Adds Google-Agent User Agent](https://www.seroundtable.com/google-agent-user-agent-41089.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-23 11:11 UTC |
 | [Bing AI Dashboard Maps Grounding Queries To Cited Pages](https://www.searchenginejournal.com/bing-ai-dashboard-maps-grounding-queries-to-cited-pages/570323/) | Search Engine Journal | 180 | Local SEO | 2026-03-24 05:00 UTC |
 | [Google Responds To Error That Causes Old Branding To Persist In SERPs](https://www.searchenginejournal.com/google-responds-to-error-that-causes-old-branding-to-persist-in-serps/570315/) | Search Engine Journal | 180 | General | 2026-03-23 21:23 UTC |
 | [3 Strategies That Can Survive AI Search In 2026: What I Shared At SEJ Live](https://www.searchenginejournal.com/strategies-that-can-survive-ai-search-in-2026-what-i-shared-at-sej-live/570260/) | Search Engine Journal | 180 | AI Search | 2026-03-23 14:00 UTC |
 | [7 Google Ads Shortcuts Every PPC Manager Should Be Using](https://www.searchenginejournal.com/google-ads-shortcuts-every-ppc-manager-should-be-using/568045/) | Search Engine Journal | 180 | General | 2026-03-23 12:00 UTC |
-| [The SEO Skills Gap: Why Technical Expertise Alone Won't Cut It Anymore](https://www.searchenginejournal.com/seo-skills-gap-why-technical-expertise-alone-wont-cut-it-anymore/568356/) | Search Engine Journal | 180 | Technical SEO | 2026-03-23 11:15 UTC |
+| [Microsoft Bing Tests New AI Image Search](https://www.seroundtable.com/bing-new-ai-image-search-41094.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-23 11:51 UTC |
+| [Google Business Profiles Gains Place Page Attributes](https://www.seroundtable.com/google-business-profiles-place-page-attributes-41091.html) | Search Engine Roundtable | 170 | Local SEO | 2026-03-23 11:41 UTC |
+| [First ChatGPT Ads Share Little Data To Advertisers](https://www.seroundtable.com/first-chatgpt-ads-41090.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-23 11:31 UTC |
+| [Google Using AI to Create Title Links on SERP](https://www.seroundtable.com/google-tests-ai-to-create-title-links-on-serp-41088.html) | Search Engine Roundtable | 170 | Links | 2026-03-23 11:27 UTC |
+| [Google Adds Google-Agent User Agent](https://www.seroundtable.com/google-agent-user-agent-41089.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-23 11:11 UTC |
+| [The SEO Skills Gap: Why Technical Expertise Alone Won't Cut It Anymore](https://www.searchenginejournal.com/seo-skills-gap-why-technical-expertise-alone-wont-cut-it-anymore/568356/) | Search Engine Journal | 160 | Technical SEO | 2026-03-23 11:15 UTC |
 | [Is WordPress Too Complex For Most Sites?](https://www.searchenginejournal.com/is-wordpress-too-complex-for-most-sites/570274/) | Search Engine Journal | 160 | General | 2026-03-23 10:50 UTC |
 | [5 GEO Strategies To Make AI Search Engines Recommend Your Brand In 2026](https://www.searchenginejournal.com/geo-strategies-ai-visibility-geoptie-spa/568644/) | Search Engine Journal | 160 | AI Search | 2026-03-23 05:00 UTC |
 | [Google Tested AI Headlines In Discover. Now It's Testing Them In Search](https://www.searchenginejournal.com/google-ai-headlines-in-search/570208/) | Search Engine Journal | 160 | AI Search | 2026-03-22 23:44 UTC |
@@ -64,8 +64,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Competitor Ad Spend: How to Analyze Rivals’ Budgets](https://www.semrush.com/blog/competitor-ad-spend/) | Semrush Blog | 95 | Migration | 2026-03-19 10:06 UTC |
 | [20 Best Search Engines Compared](https://www.semrush.com/blog/search-engine-list/) | Semrush Blog | 95 | Migration | 2026-03-19 09:54 UTC |
 | [6 Ways to Build a Search Everywhere Optimization Strategy for 2026](https://www.semrush.com/blog/search-everywhere-optimization/) | Semrush Blog | 95 | Migration | 2026-03-19 09:44 UTC |
-| [AI Search Trends for 2026 &amp; How You Can Adapt to Them](https://www.semrush.com/blog/ai-search-trends/) | Semrush Blog | 95 | AI Search | 2026-03-17 11:39 UTC |
-| [How to Optimize Content for AI Search Engines [2026 Guide]](https://www.semrush.com/blog/how-to-optimize-content-for-ai-search-engines/) | Semrush Blog | 95 | AI Search | 2026-03-17 11:25 UTC |
 
 ## Notes
 
