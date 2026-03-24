@@ -55,7 +55,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [The Brand Tax: How Google Profits From Demand You Already Own](https://www.searchenginejournal.com/the-brand-tax-how-google-profits-from-demand-you-already-own/569887/) | Search Engine Journal | 145 | AI Search | 2026-03-17 13:30 UTC |
 | [What's Hot, What's Not: AI Search Changes In Q1 2026 [Recap]](https://www.searchenginejournal.com/whats-hot-whats-not-ai-search-changes-in-q1-2026-recap/569652/) | Search Engine Journal | 145 | AI Search | 2026-03-17 13:00 UTC |
 | [PPC Automation Layering: How Smart Advertisers Combine Automation With Strategy](https://www.searchenginejournal.com/ppc-automation-layering-how-smart-advertisers-combine-automation-with-strategy/568043/) | Search Engine Journal | 145 | AI Search | 2026-03-17 12:00 UTC |
-| [Vibe Coding Plugins? Validate With Official WordPress Plugin Checker](https://www.searchenginejournal.com/vibe-coding-plugins-validate-with-official-wordpress-plugin-checker/569895/) | Search Engine Journal | 145 | General | 2026-03-17 09:17 UTC |
 | [How to Build Your Own Google Analytics Custom Dashboards](https://www.semrush.com/blog/google-analytics-dashboard/) | Semrush Blog | 110 | Migration | 2026-03-23 08:57 UTC |
 | [15 Marketing Conferences to Attend in 2026](https://ahrefs.com/blog/marketing-conferences/) | Ahrefs Blog | 105 | General | 2026-03-17 16:30 UTC |
 | [14 Digital Marketing Conferences to Attend in 2026](https://ahrefs.com/blog/digital-marketing-conferences/) | Ahrefs Blog | 105 | General | 2026-03-17 16:16 UTC |
