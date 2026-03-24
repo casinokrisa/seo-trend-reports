@@ -6,29 +6,13 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Why is Google deleting my 5-star rating reviews?](https://www.reddit.com/r/localseo/comments/1s25a3o/why_is_google_deleting_my_5star_rating_reviews/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-03-24 05:37 UTC |
-| [Any good SEO communities for outreach, digital PR, or legit link building?](https://www.reddit.com/r/seogrowth/comments/1s24wzm/any_good_seo_communities_for_outreach_digital_pr/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Links | 2026-03-24 05:16 UTC |
-| [brand new site, 7 days old. Should i care about DA at all right now?](https://www.reddit.com/r/SEO/comments/1s24o63/brand_new_site_7_days_old_should_i_care_about_da/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Links | 2026-03-24 05:02 UTC |
-| [How do You search for pain point of your audience?](https://www.reddit.com/r/DigitalMarketing/comments/1s24e19/how_do_you_search_for_pain_point_of_your_audience/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-24 04:46 UTC |
-| [I ran topical authority map generator on 50 sites in my niche, here is what stood](https://www.reddit.com/r/seogrowth/comments/1s247uw/i_ran_topical_authority_map_generator_on_50_sites/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Local SEO | 2026-03-24 04:37 UTC |
-| [We stopped focusing on traffic and conversions went up](https://www.reddit.com/r/DigitalMarketing/comments/1s23o3n/we_stopped_focusing_on_traffic_and_conversions/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-24 04:07 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-| 1 | [Why is Google deleting my 5-star rating reviews?](https://www.reddit.com/r/localseo/comments/1s25a3o/why_is_google_deleting_my_5star_rating_reviews/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-03-24 05:37 UTC |
-| 2 | [Any good SEO communities for outreach, digital PR, or legit link building?](https://www.reddit.com/r/seogrowth/comments/1s24wzm/any_good_seo_communities_for_outreach_digital_pr/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Links | 2026-03-24 05:16 UTC |
-| 3 | [brand new site, 7 days old. Should i care about DA at all right now?](https://www.reddit.com/r/SEO/comments/1s24o63/brand_new_site_7_days_old_should_i_care_about_da/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Links | 2026-03-24 05:02 UTC |
-| 4 | [How do You search for pain point of your audience?](https://www.reddit.com/r/DigitalMarketing/comments/1s24e19/how_do_you_search_for_pain_point_of_your_audience/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-24 04:46 UTC |
-| 5 | [I ran topical authority map generator on 50 sites in my niche, here is what stood](https://www.reddit.com/r/seogrowth/comments/1s247uw/i_ran_topical_authority_map_generator_on_50_sites/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Local SEO | 2026-03-24 04:37 UTC |
-| 6 | [We stopped focusing on traffic and conversions went up](https://www.reddit.com/r/DigitalMarketing/comments/1s23o3n/we_stopped_focusing_on_traffic_and_conversions/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-24 04:07 UTC |
-| 7 | [Are You Optimizing for AI Brand Recall Yet?](https://www.reddit.com/r/DigitalMarketing/comments/1s2392m/are_you_optimizing_for_ai_brand_recall_yet/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Links | 2026-03-24 03:47 UTC |
-| 8 | [Open source alternative to DataForSeo](https://www.reddit.com/r/TechSEO/comments/1s230xe/open_source_alternative_to_dataforseo/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | Local SEO | 2026-03-24 03:36 UTC |
-| 9 | [Ranking #1 doesn’t mean you’ll show up in AI answers anymore](https://www.reddit.com/r/DigitalMarketing/comments/1s22l9x/ranking_1_doesnt_mean_youll_show_up_in_ai_answers/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-24 03:15 UTC |
-| 10 | [Anyone here willing to take a chance on a beginner in digital marketing?](https://www.reddit.com/r/DigitalMarketing/comments/1s22dc2/anyone_here_willing_to_take_a_chance_on_a/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Content | 2026-03-24 03:05 UTC |
-| 11 | [What to do with my marketing degree now?](https://www.reddit.com/r/DigitalMarketing/comments/1s21qgq/what_to_do_with_my_marketing_degree_now/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-24 02:36 UTC |
-| 12 | [How do some businesses show up on Google Maps before you even search?](https://www.reddit.com/r/localseo/comments/1s21pqx/how_do_some_businesses_show_up_on_google_maps/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-03-24 02:35 UTC |
+|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Notable items (Sites)
 
