@@ -18,8 +18,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: March 25, 2026](https://www.seroundtable.com/recap-03-25-2026-41111.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-25 14:00 UTC |
 | [Google Analytics Launches Scenario Planner and Projections](https://www.searchenginejournal.com/google-analytics-launches-scenario-planner-and-projections/570520/) | Search Engine Journal | 200 | General | 2026-03-25 17:07 UTC |
+| [Daily Search Forum Recap: March 25, 2026](https://www.seroundtable.com/recap-03-25-2026-41111.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-25 14:00 UTC |
 | [Google March 2026 Spam Update Unleashed (&amp; Finished)](https://www.seroundtable.com/google-march-2026-spam-update-41109.html) | Search Engine Roundtable | 190 | General | 2026-03-25 11:51 UTC |
 | [Google Adds Properties For Discussion Forum &amp; QA Page Markup &amp; Documents Robots Tags Outside HTML Head](https://www.seroundtable.com/google-discussion-forum-qa-page-robots-tags-outside-html-head-41107.html) | Search Engine Roundtable | 190 | Indexing | 2026-03-25 11:41 UTC |
 | [Report: Google AI Overviews Show Less Often For Breaking News](https://www.seroundtable.com/google-ai-overviews-topics-41101.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-25 11:31 UTC |
