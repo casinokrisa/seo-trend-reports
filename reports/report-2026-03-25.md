@@ -6,29 +6,13 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [How to rank on my Google Business profile in Google AI mode](https://www.reddit.com/r/localseo/comments/1s3253t/how_to_rank_on_my_google_business_profile_in/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-03-25 05:35 UTC |
-| [Do you follow a schedule for marketing, or just do it when you have time?](https://www.reddit.com/r/localseo/comments/1s31xic/do_you_follow_a_schedule_for_marketing_or_just_do/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-03-25 05:22 UTC |
-| [Why is Google showing the map/business listing first, but not the website for a brand search?](https://www.reddit.com/r/SEO/comments/1s313kg/why_is_google_showing_the_mapbusiness_listing/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Indexing | 2026-03-25 04:37 UTC |
-| [We posted 90 reels in 30 days. Here’s exactly what the data told us.](https://www.reddit.com/r/DigitalMarketing/comments/1s30odo/we_posted_90_reels_in_30_days_heres_exactly_what/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-25 04:15 UTC |
-| [First time marketing a music lable](https://www.reddit.com/r/DigitalMarketing/comments/1s2z82i/first_time_marketing_a_music_lable/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-25 03:04 UTC |
-| [Has server-side tracking in cloud become overkill for most marketing setups?](https://www.reddit.com/r/DigitalMarketing/comments/1s2xzjy/has_serverside_tracking_in_cloud_become_overkill/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-25 02:08 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-| 1 | [How to rank on my Google Business profile in Google AI mode](https://www.reddit.com/r/localseo/comments/1s3253t/how_to_rank_on_my_google_business_profile_in/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-03-25 05:35 UTC |
-| 2 | [Do you follow a schedule for marketing, or just do it when you have time?](https://www.reddit.com/r/localseo/comments/1s31xic/do_you_follow_a_schedule_for_marketing_or_just_do/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-03-25 05:22 UTC |
-| 3 | [Why is Google showing the map/business listing first, but not the website for a brand search?](https://www.reddit.com/r/SEO/comments/1s313kg/why_is_google_showing_the_mapbusiness_listing/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Indexing | 2026-03-25 04:37 UTC |
-| 4 | [We posted 90 reels in 30 days. Here’s exactly what the data told us.](https://www.reddit.com/r/DigitalMarketing/comments/1s30odo/we_posted_90_reels_in_30_days_heres_exactly_what/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-25 04:15 UTC |
-| 5 | [First time marketing a music lable](https://www.reddit.com/r/DigitalMarketing/comments/1s2z82i/first_time_marketing_a_music_lable/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-25 03:04 UTC |
-| 6 | [Has server-side tracking in cloud become overkill for most marketing setups?](https://www.reddit.com/r/DigitalMarketing/comments/1s2xzjy/has_serverside_tracking_in_cloud_become_overkill/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-25 02:08 UTC |
-| 7 | [advice for a beginner](https://www.reddit.com/r/DigitalMarketing/comments/1s2xn50/advice_for_a_beginner/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-25 01:54 UTC |
-| 8 | [What's the most time-wasting part of your workflow as an agency owner? Trying to understand where people actually lose their time.](https://www.reddit.com/r/DigitalMarketing/comments/1s2xn0i/whats_the_most_timewasting_part_of_your_workflow/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-25 01:53 UTC |
-| 9 | [anyone having an issues with SE Ranking results Recently?](https://www.reddit.com/r/SEO/comments/1s2x65c/anyone_having_an_issues_with_se_ranking_results/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | General | 2026-03-25 01:33 UTC |
-| 10 | [is there a reliable way to catch ad fatigue before CPA starts rising?](https://www.reddit.com/r/DigitalMarketing/comments/1s2wt0q/is_there_a_reliable_way_to_catch_ad_fatigue/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | GSC | 2026-03-25 01:17 UTC |
-| 11 | [Google Core Update Spam 2026](https://www.reddit.com/r/SEO/comments/1s2v0kw/google_core_update_spam_2026/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | General | 2026-03-25 00:01 UTC |
-| 12 | [Backlink Help](https://www.reddit.com/r/SEO/comments/1s2tuau/backlink_help/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Links | 2026-03-24 23:14 UTC |
+|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Notable items (Sites)
 
