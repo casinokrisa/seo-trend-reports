@@ -13,16 +13,17 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: March 25, 2026](https://www.seroundtable.com/recap-03-25-2026-41111.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-25 14:00 UTC |
-| [Google March 2026 Spam Update Unleashed](https://www.seroundtable.com/google-march-2026-spam-update-41109.html) | Search Engine Roundtable | 210 | General | 2026-03-25 11:51 UTC |
+| [Google March 2026 Spam Update Unleashed (&amp; Finished)](https://www.seroundtable.com/google-march-2026-spam-update-41109.html) | Search Engine Roundtable | 210 | General | 2026-03-25 11:51 UTC |
 | [Google Adds Properties For Discussion Forum &amp; QA Page Markup &amp; Documents Robots Tags Outside HTML Head](https://www.seroundtable.com/google-discussion-forum-qa-page-robots-tags-outside-html-head-41107.html) | Search Engine Roundtable | 210 | Indexing | 2026-03-25 11:41 UTC |
 | [Report: Google AI Overviews Show Less Often For Breaking News](https://www.seroundtable.com/google-ai-overviews-topics-41101.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-25 11:31 UTC |
 | [Google Tests "Skip Digging, Start Guided Research" Driving Users to Web Guide-like Results](https://www.seroundtable.com/skip-digging-start-guided-research-41110.html) | Search Engine Roundtable | 210 | General | 2026-03-25 11:25 UTC |
 | [Google Business Profile Performance Metrics Offer Data Added To Help Doc](https://www.seroundtable.com/google-business-profile-performance-metrics-offer-data-41093.html) | Search Engine Roundtable | 210 | Local SEO | 2026-03-25 11:21 UTC |
-| [Google Ads Retires Several Old Ad Format Requirements](https://www.seroundtable.com/google-ads-retires-some-old-ad-format-requirements-41099.html) | Search Engine Roundtable | 210 | General | 2026-03-25 11:11 UTC |
+| [Google Analytics Launches Scenario Planner and Projections](https://www.searchenginejournal.com/google-analytics-launches-scenario-planner-and-projections/570520/) | Search Engine Journal | 200 | General | 2026-03-25 17:07 UTC |
 | [Half Your Traffic Left. The SEO Industry Sent Thoughts and Frameworks](https://www.searchenginejournal.com/half-your-traffic-left-the-seo-industry-sent-thoughts-and-frameworks/570380/) | Search Engine Journal | 200 | General | 2026-03-25 13:30 UTC |
-| [How Zero-Party & First-Party Data Can Fuel Your Intent-Based SEO Strategy](https://www.searchenginejournal.com/zero-party-data-how-to-use-first-party-insights-to-power-intent-based-content-strategy/568189/) | Search Engine Journal | 200 | General | 2026-03-25 11:00 UTC |
-| [Added a note on the robots meta tags documentation](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Indexing | 2026-03-24 00:00 UTC |
+| [Added new supported properties for Discussion Forum and QA Page markup](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Content | 2026-03-24 00:00 UTC |
 | [Search Central Live Asia Pacific 2026: Get Ready for Sydney and more!](https://developers.google.com/search/blog/2026/03/scl-apac-2026) | Google Search Central Blog | 195 | AI Search | 2026-03-20 06:00 UTC |
+| [Google Ads Retires Several Old Ad Format Requirements](https://www.seroundtable.com/google-ads-retires-some-old-ad-format-requirements-41099.html) | Search Engine Roundtable | 190 | General | 2026-03-25 11:11 UTC |
+| [How Zero-Party & First-Party Data Can Fuel Your Intent-Based SEO Strategy](https://www.searchenginejournal.com/zero-party-data-how-to-use-first-party-insights-to-power-intent-based-content-strategy/568189/) | Search Engine Journal | 180 | General | 2026-03-25 11:00 UTC |
 | [Is Your Website Ready for AI Search? A Practical Audit for CMOs](https://www.searchenginejournal.com/is-your-website-ready-for-ai-search-a-practical-audit-for-cmos/570413/) | Search Engine Journal | 180 | AI Search | 2026-03-25 07:45 UTC |
 | [Google Adds AI & Bot Labels To Forum, Q&A Structured Data](https://www.searchenginejournal.com/google-adds-ai-bot-labels-to-forum-qa-structured-data/570425/) | Search Engine Journal | 180 | AI Search | 2026-03-24 19:50 UTC |
 | [Google Begins Rolling Out The March 2026 Spam Update](https://www.searchenginejournal.com/google-begins-rolling-out-the-march-2026-spam-update/570428/) | Search Engine Journal | 180 | General | 2026-03-24 19:38 UTC |
@@ -56,8 +57,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [What Can Log File Data Tell Me That Tools Can't?](https://www.searchenginejournal.com/ask-an-seo-should-seos-use-log-file-data/567932/) | Search Engine Journal | 145 | Indexing | 2026-03-19 12:30 UTC |
 | [Google: 404 Crawling Means Google Is Open To More Of Your Content](https://www.searchenginejournal.com/google-404-crawling-means-google-is-open-to-more-of-your-content/570029/) | Search Engine Journal | 145 | Indexing | 2026-03-19 10:13 UTC |
 | [Top 10 Marketing Conferences to Attend in 2026](https://www.semrush.com/blog/top-marketing-conferences-to-attend/) | Semrush Blog | 130 | Migration | 2026-03-24 17:50 UTC |
-| [How One Fractional CMO Uses Semrush One to Layer SEO and AEO Into One Growth Strategy](https://www.semrush.com/blog/fractional-cmo-drives-visibility-with-semrush-one/) | Semrush Blog | 130 | AI Search | 2026-03-24 16:00 UTC |
 | [Is AI Content Bad for SEO? No, and It Never Will Be (7 Reasons)](https://ahrefs.com/blog/ai-content-is-not-bad-for-seo/) | Ahrefs Blog | 120 | AI Search | 2026-03-24 14:46 UTC |
+| [How One Fractional CMO Uses Semrush One to Layer SEO and AEO Into One Growth Strategy](https://www.semrush.com/blog/fractional-cmo-drives-visibility-with-semrush-one/) | Semrush Blog | 110 | AI Search | 2026-03-24 16:00 UTC |
 | [How to Make the Most of the Free 7-Day Semrush One Trial](https://www.semrush.com/blog/free-7-day-semrush-one-trial/) | Semrush Blog | 110 | General | 2026-03-24 14:24 UTC |
 | [How to Build Your Own Google Analytics Custom Dashboards](https://www.semrush.com/blog/google-analytics-dashboard/) | Semrush Blog | 110 | Migration | 2026-03-23 08:57 UTC |
 | [16 Ecommerce Product Page Examples + Best Practices](https://www.semrush.com/blog/product-page/) | Semrush Blog | 95 | Migration | 2026-03-20 16:24 UTC |
