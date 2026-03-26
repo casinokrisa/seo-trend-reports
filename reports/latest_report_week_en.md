@@ -47,7 +47,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [SEO 2.0: How Content Marketing Drives Visibility in AI Search](https://www.searchenginejournal.com/seo-2-0-how-content-marketing-drives-visibility-in-ai-search/570308/) | Search Engine Journal | 160 | AI Search | 2026-03-24 07:45 UTC |
 | [Bing AI Dashboard Maps Grounding Queries To Cited Pages](https://www.searchenginejournal.com/bing-ai-dashboard-maps-grounding-queries-to-cited-pages/570323/) | Search Engine Journal | 160 | Local SEO | 2026-03-24 05:00 UTC |
 | [Google Web Guide: What It Is, How It Works, and What It Means for SEO](https://ahrefs.com/blog/google-web-guide/) | Ahrefs Blog | 160 | AI Search | 2026-03-26 16:50 UTC |
-| [What AI Writing Tools Get Wrong (And The Stack I Use Instead)](https://ahrefs.com/blog/what-ai-writing-tools-get-wrong-and-the-stack-i-use/) | Ahrefs Blog | 160 | AI Search | 2026-03-26 15:43 UTC |
 | [Will Google replace your landing pages with AI versions?](https://www.semrush.com/blog/google-ai-generated-landing-pages-patent/) | Semrush Blog | 150 | AI Search | 2026-03-26 20:10 UTC |
 | [Universal Commerce Protocol (UCP): What You Need to Know](https://www.semrush.com/blog/universal-commerce-protocol/) | Semrush Blog | 150 | General | 2026-03-26 19:58 UTC |
 | [Google Responds To Error That Causes Old Branding To Persist In SERPs](https://www.searchenginejournal.com/google-responds-to-error-that-causes-old-branding-to-persist-in-serps/570315/) | Search Engine Journal | 145 | General | 2026-03-23 21:23 UTC |
@@ -60,6 +59,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [From SEO And CRO To Agentic AI Optimization (AAIO): Why Your Website Needs To Speak To Machines](https://www.searchenginejournal.com/from-seo-and-cro-to-agentic-ai-optimization-aaio-why-your-website-needs-to-speak-to-machines/569983/) | Search Engine Journal | 145 | AI Search | 2026-03-22 11:00 UTC |
 | [Google AI Mode Goes Personal, Crawl Limits Clarified](https://www.searchenginejournal.com/seo-pulse-google-ai-mode-goes-personal-crawl-limits-clarified/570110/) | Search Engine Journal | 145 | Indexing | 2026-03-20 12:30 UTC |
 | [Google Ads Creative Tools Expand, Microsoft Simplifies Bidding](https://www.searchenginejournal.com/ppc-pulse-google-ads-creative-tools-expand-microsoft-simplifies-bidding/570104/) | Search Engine Journal | 145 | AI Search | 2026-03-20 11:30 UTC |
+| [What AI Writing Tools Get Wrong (And The Stack I Use Instead)](https://ahrefs.com/blog/what-ai-writing-tools-get-wrong-and-the-stack-i-use/) | Ahrefs Blog | 140 | AI Search | 2026-03-26 15:43 UTC |
 | [Google’s releasing Google-Agent: Here’s what to know](https://www.semrush.com/blog/google-ai-agent/) | Semrush Blog | 130 | General | 2026-03-26 07:53 UTC |
 | [Is AI Content Bad for SEO? No, and It Never Will Be (7 Reasons)](https://ahrefs.com/blog/ai-content-is-not-bad-for-seo/) | Ahrefs Blog | 120 | AI Search | 2026-03-24 14:46 UTC |
 | [12 SEO Techniques to Boost Your Visibility and Traffic [2026]](https://www.semrush.com/blog/seo-techniques/) | Semrush Blog | 110 | AI Search | 2026-03-25 11:32 UTC |
