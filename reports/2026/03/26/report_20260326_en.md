@@ -18,6 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Daily Search Forum Recap: March 26, 2026](https://www.seroundtable.com/recap-03-26-2026-41116.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-26 14:00 UTC |
 | [Google Tests Huge Block of Citations at Bottom of AI Overviews](https://www.seroundtable.com/block-of-citations-tested-beneath-ai-overview-summary-41105.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-26 11:51 UTC |
 | [Google Ads API Version 23.2 Now Available](https://www.seroundtable.com/google-ads-api-version-232-41115.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-26 11:41 UTC |
 | [Sponsored Stores Spotted in AI Mode As Google Expands Ads Across AI Surfaces](https://www.seroundtable.com/sponsored-stores-google-ai-mode-41114.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-26 11:41 UTC |
@@ -27,8 +28,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [When The Training Data Cutoff Becomes A Ranking Factor](https://www.searchenginejournal.com/when-the-training-data-cutoff-becomes-a-ranking-factor/570438/) | Search Engine Journal | 200 | AI Search | 2026-03-26 12:50 UTC |
 | [Are We Due Another Florida-Style Update?](https://www.searchenginejournal.com/are-we-due-another-florida-style-update/570102/) | Search Engine Journal | 200 | AI Search | 2026-03-26 12:00 UTC |
 | [Google's March Spam Update Felt Muted But May Signal Bigger Changes](https://www.searchenginejournal.com/googles-march-spam-update-felt-muted-but-may-signal-bigger-changes/570541/) | Search Engine Journal | 200 | General | 2026-03-26 10:43 UTC |
-| [Daily Search Forum Recap: March 25, 2026](https://www.seroundtable.com/recap-03-25-2026-41111.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-25 14:00 UTC |
 | [Google Analytics Launches Scenario Planner and Projections](https://www.searchenginejournal.com/google-analytics-launches-scenario-planner-and-projections/570520/) | Search Engine Journal | 180 | General | 2026-03-25 17:07 UTC |
+| [Daily Search Forum Recap: March 25, 2026](https://www.seroundtable.com/recap-03-25-2026-41111.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-25 14:00 UTC |
 | [Google March 2026 Spam Update Unleashed (&amp; Finished)](https://www.seroundtable.com/google-march-2026-spam-update-41109.html) | Search Engine Roundtable | 170 | General | 2026-03-25 11:51 UTC |
 | [Google Adds Properties For Discussion Forum &amp; QA Page Markup &amp; Documents Robots Tags Outside HTML Head](https://www.seroundtable.com/google-discussion-forum-qa-page-robots-tags-outside-html-head-41107.html) | Search Engine Roundtable | 170 | Indexing | 2026-03-25 11:41 UTC |
 | [Report: Google AI Overviews Show Less Often For Breaking News](https://www.seroundtable.com/google-ai-overviews-topics-41101.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-25 11:31 UTC |
@@ -37,7 +38,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Retires Several Old Ad Format Requirements](https://www.seroundtable.com/google-ads-retires-some-old-ad-format-requirements-41099.html) | Search Engine Roundtable | 170 | General | 2026-03-25 11:11 UTC |
 | [Half Your Traffic Left. The SEO Industry Sent Thoughts and Frameworks](https://www.searchenginejournal.com/half-your-traffic-left-the-seo-industry-sent-thoughts-and-frameworks/570380/) | Search Engine Journal | 160 | General | 2026-03-25 13:30 UTC |
 | [How Zero-Party & First-Party Data Can Fuel Your Intent-Based SEO Strategy](https://www.searchenginejournal.com/zero-party-data-how-to-use-first-party-insights-to-power-intent-based-content-strategy/568189/) | Search Engine Journal | 160 | General | 2026-03-25 11:00 UTC |
-| [Is Your Website Ready for AI Search? A Practical Audit for CMOs](https://www.searchenginejournal.com/is-your-website-ready-for-ai-search-a-practical-audit-for-cmos/570413/) | Search Engine Journal | 160 | AI Search | 2026-03-25 07:45 UTC |
 
 ## Notes for manual writing
 
