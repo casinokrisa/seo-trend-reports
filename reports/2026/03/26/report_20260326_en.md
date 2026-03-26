@@ -33,7 +33,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Begins Rolling Out The March 2026 Spam Update](https://www.searchenginejournal.com/google-begins-rolling-out-the-march-2026-spam-update/570428/) | Search Engine Journal | 160 | General | 2026-03-24 19:38 UTC |
 | [12 SEO Techniques to Boost Your Visibility and Traffic [2026]](https://www.semrush.com/blog/seo-techniques/) | Semrush Blog | 130 | AI Search | 2026-03-25 11:32 UTC |
 | [Top 10 Marketing Conferences to Attend in 2026](https://www.semrush.com/blog/top-marketing-conferences-to-attend/) | Semrush Blog | 110 | Migration | 2026-03-24 17:50 UTC |
-| [How One Fractional CMO Uses Semrush One to Layer SEO and AEO Into One Growth Strategy](https://www.semrush.com/blog/fractional-cmo-drives-visibility-with-semrush-one/) | Semrush Blog | 110 | AI Search | 2026-03-24 16:00 UTC |
 
 ## Notes for manual writing
 
