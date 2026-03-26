@@ -12,11 +12,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: March 26, 2026](https://www.seroundtable.com/recap-03-26-2026-41116.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-26 14:00 UTC |
 | [Google Takes Search Live Global With Gemini 3.1 Flash Live](https://www.searchenginejournal.com/google-takes-search-live-global-with-gemini-3-1-flash-live/570602/) | Search Engine Journal | 200 | AI Search | 2026-03-26 19:11 UTC |
 | [Google Adds New Performance Max Controls And Reporting Features](https://www.searchenginejournal.com/google-adds-new-performance-max-controls-and-reporting-features/570588/) | Search Engine Journal | 200 | AI Search | 2026-03-26 16:56 UTC |
 | [Added new supported properties for Discussion Forum and QA Page markup](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Content | 2026-03-24 00:00 UTC |
 | [Search Central Live Asia Pacific 2026: Get Ready for Sydney and more!](https://developers.google.com/search/blog/2026/03/scl-apac-2026) | Google Search Central Blog | 195 | AI Search | 2026-03-20 06:00 UTC |
+| [Daily Search Forum Recap: March 26, 2026](https://www.seroundtable.com/recap-03-26-2026-41116.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-26 14:00 UTC |
 | [Google Tests Huge Block of Citations at Bottom of AI Overviews](https://www.seroundtable.com/block-of-citations-tested-beneath-ai-overview-summary-41105.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-26 11:51 UTC |
 | [Google Ads API Version 23.2 Now Available](https://www.seroundtable.com/google-ads-api-version-232-41115.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-26 11:41 UTC |
 | [Sponsored Stores Spotted in AI Mode As Google Expands Ads Across AI Surfaces](https://www.seroundtable.com/sponsored-stores-google-ai-mode-41114.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-26 11:41 UTC |
@@ -39,7 +39,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [How Zero-Party & First-Party Data Can Fuel Your Intent-Based SEO Strategy](https://www.searchenginejournal.com/zero-party-data-how-to-use-first-party-insights-to-power-intent-based-content-strategy/568189/) | Search Engine Journal | 160 | General | 2026-03-25 11:00 UTC |
 | [Is Your Website Ready for AI Search? A Practical Audit for CMOs](https://www.searchenginejournal.com/is-your-website-ready-for-ai-search-a-practical-audit-for-cmos/570413/) | Search Engine Journal | 160 | AI Search | 2026-03-25 07:45 UTC |
 | [Google Adds AI & Bot Labels To Forum, Q&A Structured Data](https://www.searchenginejournal.com/google-adds-ai-bot-labels-to-forum-qa-structured-data/570425/) | Search Engine Journal | 160 | AI Search | 2026-03-24 19:50 UTC |
-| [Google Begins Rolling Out The March 2026 Spam Update](https://www.searchenginejournal.com/google-begins-rolling-out-the-march-2026-spam-update/570428/) | Search Engine Journal | 160 | General | 2026-03-24 19:38 UTC |
+| [Google's March 2026 Spam Update Is Already Complete](https://www.searchenginejournal.com/google-begins-rolling-out-the-march-2026-spam-update/570428/) | Search Engine Journal | 160 | General | 2026-03-24 19:38 UTC |
 | [The Agency Playbook for Surviving the Agentic AI Era](https://www.searchenginejournal.com/rundowns/the-agency-playbook-for-surviving-the-agentic-ai-era/) | Search Engine Journal | 160 | AI Search | 2026-03-24 14:03 UTC |
 | [The Science Of How AI Picks Its Sources](https://www.searchenginejournal.com/the-science-of-how-ai-picks-its-sources/570328/) | Search Engine Journal | 160 | AI Search | 2026-03-24 13:30 UTC |
 | [Research Shows Where Persona Prompting Works And When It Backfires](https://www.searchenginejournal.com/research-you-are-an-expert-prompts-can-damage-factual-accuracy/570397/) | Search Engine Journal | 160 | General | 2026-03-24 12:38 UTC |
@@ -49,6 +49,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Responds To Error That Causes Old Branding To Persist In SERPs](https://www.searchenginejournal.com/google-responds-to-error-that-causes-old-branding-to-persist-in-serps/570315/) | Search Engine Journal | 160 | General | 2026-03-23 21:23 UTC |
 | [Google Web Guide: What It Is, How It Works, and What It Means for SEO](https://ahrefs.com/blog/google-web-guide/) | Ahrefs Blog | 160 | AI Search | 2026-03-26 16:50 UTC |
 | [What AI Writing Tools Get Wrong (And The Stack I Use Instead)](https://ahrefs.com/blog/what-ai-writing-tools-get-wrong-and-the-stack-i-use/) | Ahrefs Blog | 160 | AI Search | 2026-03-26 15:43 UTC |
+| [Will Google replace your landing pages with AI versions?](https://www.semrush.com/blog/google-ai-generated-landing-pages-patent/) | Semrush Blog | 150 | AI Search | 2026-03-26 20:10 UTC |
+| [Universal Commerce Protocol (UCP): What You Need to Know](https://www.semrush.com/blog/universal-commerce-protocol/) | Semrush Blog | 150 | General | 2026-03-26 19:58 UTC |
 | [3 Strategies That Can Survive AI Search In 2026: What I Shared At SEJ Live](https://www.searchenginejournal.com/strategies-that-can-survive-ai-search-in-2026-what-i-shared-at-sej-live/570260/) | Search Engine Journal | 145 | AI Search | 2026-03-23 14:00 UTC |
 | [7 Google Ads Shortcuts Every PPC Manager Should Be Using](https://www.searchenginejournal.com/google-ads-shortcuts-every-ppc-manager-should-be-using/568045/) | Search Engine Journal | 145 | General | 2026-03-23 12:00 UTC |
 | [The SEO Skills Gap: Why Technical Expertise Alone Won't Cut It Anymore](https://www.searchenginejournal.com/seo-skills-gap-why-technical-expertise-alone-wont-cut-it-anymore/568356/) | Search Engine Journal | 145 | Technical SEO | 2026-03-23 11:15 UTC |
