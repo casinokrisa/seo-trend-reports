@@ -18,6 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google Begins Rolling Out March 2026 Core Update](https://www.searchenginejournal.com/google-begins-rolling-out-march-2026-core-update/570657/) | Search Engine Journal | 200 | General | 2026-03-27 10:28 UTC |
 | [Wikipedia Bans Use Of AI-Generated Content](https://www.searchenginejournal.com/wikipedia-bans-use-of-ai-generated-content/570651/) | Search Engine Journal | 200 | AI Search | 2026-03-27 09:24 UTC |
 | [Daily Search Forum Recap: March 26, 2026](https://www.seroundtable.com/recap-03-26-2026-41116.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-26 14:00 UTC |
 | [Google Tests Huge Block of Citations at Bottom of AI Overviews](https://www.seroundtable.com/block-of-citations-tested-beneath-ai-overview-summary-41105.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-26 11:51 UTC |
@@ -31,12 +32,12 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [How To Avoid Top Down SEO Systems Failures With The Visibility Governance Maturity Model](https://www.searchenginejournal.com/how-to-avoid-top-down-seo-systems-failures-with-the-visibility-governance-maturity-model/570509/) | Search Engine Journal | 180 | AI Search | 2026-03-26 13:29 UTC |
 | [When The Training Data Cutoff Becomes A Ranking Factor](https://www.searchenginejournal.com/when-the-training-data-cutoff-becomes-a-ranking-factor/570438/) | Search Engine Journal | 180 | AI Search | 2026-03-26 12:50 UTC |
 | [Are We Due Another Florida-Style Update?](https://www.searchenginejournal.com/are-we-due-another-florida-style-update/570102/) | Search Engine Journal | 180 | AI Search | 2026-03-26 12:00 UTC |
-| [Google's March Spam Update Felt Muted But May Signal Bigger Changes](https://www.searchenginejournal.com/googles-march-spam-update-felt-muted-but-may-signal-bigger-changes/570541/) | Search Engine Journal | 180 | General | 2026-03-26 10:43 UTC |
+| [Google's March Spam Update Felt Muted But May Signal Bigger Changes](https://www.searchenginejournal.com/googles-march-spam-update-felt-muted-but-may-signal-bigger-changes/570541/) | Search Engine Journal | 160 | General | 2026-03-26 10:43 UTC |
+| [20 marketing KPIs to track &amp; improve in 2026](https://www.semrush.com/blog/kpi-marketing/) | Semrush Blog | 150 | Links | 2026-03-27 09:10 UTC |
+| [AI visibility: What it is and how to grow yours in 2026](https://www.semrush.com/blog/ai-visibility/) | Semrush Blog | 150 | AI Search | 2026-03-27 08:54 UTC |
 | [Google Web Guide: What It Is, How It Works, and What It Means for SEO](https://ahrefs.com/blog/google-web-guide/) | Ahrefs Blog | 140 | AI Search | 2026-03-26 16:50 UTC |
 | [What AI Writing Tools Get Wrong (And The Stack I Use Instead)](https://ahrefs.com/blog/what-ai-writing-tools-get-wrong-and-the-stack-i-use/) | Ahrefs Blog | 140 | AI Search | 2026-03-26 15:43 UTC |
 | [Will Google replace your landing pages with AI versions?](https://www.semrush.com/blog/google-ai-generated-landing-pages-patent/) | Semrush Blog | 130 | AI Search | 2026-03-26 20:10 UTC |
-| [Universal Commerce Protocol (UCP): What You Need to Know](https://www.semrush.com/blog/universal-commerce-protocol/) | Semrush Blog | 130 | General | 2026-03-26 19:58 UTC |
-| [Google’s releasing Google-Agent: Here’s what to know](https://www.semrush.com/blog/google-ai-agent/) | Semrush Blog | 110 | General | 2026-03-26 07:53 UTC |
 
 ## Notes for manual writing
 
