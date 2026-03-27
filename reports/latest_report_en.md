@@ -6,13 +6,29 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [How quickly have you ranked a new Website on SERPs?](https://www.reddit.com/r/SEO/comments/1s4ukm6/how_quickly_have_you_ranked_a_new_website_on_serps/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | General | 2026-03-27 04:45 UTC |
+| [Any recommendations for SEO/GEO condensed courses or boot camps? Or how to generally keep up to date in this industry?](https://www.reddit.com/r/SEO/comments/1s4tgiu/any_recommendations_for_seogeo_condensed_courses/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | AI Search | 2026-03-27 03:48 UTC |
+| [What an terrible user experience that DataforSEO website is!](https://www.reddit.com/r/TechSEO/comments/1s4tbt6/what_an_terrible_user_experience_that_dataforseo/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | AI Search | 2026-03-27 03:42 UTC |
+| [Migrating from WordPress to Astro. What not to do?](https://www.reddit.com/r/TechSEO/comments/1s4t994/migrating_from_wordpress_to_astro_what_not_to_do/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | AI Search | 2026-03-27 03:39 UTC |
+| [Why Fox McCloud’s inclusion in Mario Galaxy feels like "Crossover Fatigue"](https://www.reddit.com/r/DigitalMarketing/comments/1s4sxo1/why_fox_mcclouds_inclusion_in_mario_galaxy_feels/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-27 03:23 UTC |
+| [Looking to do contract work and need advice](https://www.reddit.com/r/DigitalMarketing/comments/1s4swoe/looking_to_do_contract_work_and_need_advice/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-27 03:22 UTC |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
+| 1 | [How quickly have you ranked a new Website on SERPs?](https://www.reddit.com/r/SEO/comments/1s4ukm6/how_quickly_have_you_ranked_a_new_website_on_serps/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | General | 2026-03-27 04:45 UTC |
+| 2 | [Any recommendations for SEO/GEO condensed courses or boot camps? Or how to generally keep up to date in this industry?](https://www.reddit.com/r/SEO/comments/1s4tgiu/any_recommendations_for_seogeo_condensed_courses/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | AI Search | 2026-03-27 03:48 UTC |
+| 3 | [What an terrible user experience that DataforSEO website is!](https://www.reddit.com/r/TechSEO/comments/1s4tbt6/what_an_terrible_user_experience_that_dataforseo/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | AI Search | 2026-03-27 03:42 UTC |
+| 4 | [Migrating from WordPress to Astro. What not to do?](https://www.reddit.com/r/TechSEO/comments/1s4t994/migrating_from_wordpress_to_astro_what_not_to_do/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | AI Search | 2026-03-27 03:39 UTC |
+| 5 | [Why Fox McCloud’s inclusion in Mario Galaxy feels like "Crossover Fatigue"](https://www.reddit.com/r/DigitalMarketing/comments/1s4sxo1/why_fox_mcclouds_inclusion_in_mario_galaxy_feels/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-27 03:23 UTC |
+| 6 | [Looking to do contract work and need advice](https://www.reddit.com/r/DigitalMarketing/comments/1s4swoe/looking_to_do_contract_work_and_need_advice/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-27 03:22 UTC |
+| 7 | [lmk why i am wrong](https://www.reddit.com/r/localseo/comments/1s4s9c5/lmk_why_i_am_wrong/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-03-27 02:52 UTC |
+| 8 | [Favikon's Top 50 US SEO Creators on X](https://www.reddit.com/r/SEO/comments/1s4pq2d/favikons_top_50_us_seo_creators_on_x_march_2026/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | AI Search | 2026-03-27 00:59 UTC |
+| 9 | [5 years in marketing. 150+ businesses helped. Still no clients for myself.](https://www.reddit.com/r/DigitalMarketing/comments/1s4p5tj/5_years_in_marketing_150_businesses_helped_still/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-27 00:35 UTC |
+| 10 | [5 years in marketing. 150+ businesses helped. Still no clients for myself.](https://www.reddit.com/r/DigitalMarketing/comments/1s4p4qm/5_years_in_marketing_150_businesses_helped_still/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-27 00:34 UTC |
+| 11 | [Automatic SEO content generator for websites - what should it include?](https://www.reddit.com/r/seogrowth/comments/1s4o23n/automatic_seo_content_generator_for_websites_what/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | AI Search | 2026-03-26 23:49 UTC |
+| 12 | [Is it ok to test a new product now?](https://www.reddit.com/r/DigitalMarketing/comments/1s4mwra/is_it_ok_to_test_a_new_product_now/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-26 23:02 UTC |
 
 ## Notable items (Sites)
 
