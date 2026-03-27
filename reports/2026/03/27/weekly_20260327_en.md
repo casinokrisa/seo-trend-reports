@@ -14,16 +14,16 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: March 27, 2026](https://www.seroundtable.com/recap-03-27-2026-41122.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-27 14:00 UTC |
 | [Search News Buzz Video Recap: Google March 2026 Core &amp; Spam Update, AI-Generated Title Links, Bing AI Reports Update &amp; Much More](https://www.seroundtable.com/video-03-27-2026-41120.html) | Search Engine Roundtable | 210 | Links | 2026-03-27 12:44 UTC |
-| [Google Search Live Goes Global](https://www.seroundtable.com/google-search-live-global-41119.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-27 11:51 UTC |
-| [Google Merchant Center Will Highlight Vehicle Ads Data Quality Issues](https://www.seroundtable.com/google-merchant-center-vehicle-ads-data-quality-issues-41092.html) | Search Engine Roundtable | 210 | General | 2026-03-27 11:41 UTC |
-| [Google Ads Expanding Loyalty Program](https://www.seroundtable.com/google-ads-expands-loyalty-program-41117.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-27 11:31 UTC |
-| [Google March 2026 Core Update Is Rolling Out - First Core Update Of Year](https://www.seroundtable.com/google-march-2026-core-update-41121.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-27 11:24 UTC |
-| [Google Ads PMax Audience Exclusions &amp; New Reporting](https://www.seroundtable.com/google-ads-pmax-audience-exclusions-reporting-41118.html) | Search Engine Roundtable | 210 | General | 2026-03-27 11:21 UTC |
-| [Bing Testing Rounded Corners On Short Videos](https://www.seroundtable.com/bing-rounded-corners-videos-41106.html) | Search Engine Roundtable | 210 | General | 2026-03-27 11:11 UTC |
 | [Why Google's New "Google-Agent" Is The Biggest Mindset Shift In SEO History](https://www.searchenginejournal.com/why-googles-new-google-agent-is-the-biggest-mindset-shift-in-seo-history/570590/) | Search Engine Journal | 200 | GSC | 2026-03-27 13:30 UTC |
 | [Google Tests AI Headlines, Rolls Out Spam Update](https://www.searchenginejournal.com/seo-pulse-google-tests-ai-headlines-rolls-out-spam-update/570613/) | Search Engine Journal | 200 | AI Search | 2026-03-27 12:30 UTC |
-| [Google Adds Scenario Planner, Performance Max Updates, And Veo](https://www.searchenginejournal.com/ppc-pulse-google-adds-scenario-planner-performance-max-updates-and-veo/570617/) | Search Engine Journal | 200 | AI Search | 2026-03-27 11:30 UTC |
+| [Google Search Live Goes Global](https://www.seroundtable.com/google-search-live-global-41119.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-27 11:51 UTC |
+| [Google Merchant Center Will Highlight Vehicle Ads Data Quality Issues](https://www.seroundtable.com/google-merchant-center-vehicle-ads-data-quality-issues-41092.html) | Search Engine Roundtable | 190 | General | 2026-03-27 11:41 UTC |
+| [Google Ads Expanding Loyalty Program](https://www.seroundtable.com/google-ads-expands-loyalty-program-41117.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-27 11:31 UTC |
+| [Google March 2026 Core Update Is Rolling Out - First Core Update Of Year](https://www.seroundtable.com/google-march-2026-core-update-41121.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-27 11:24 UTC |
+| [Google Ads PMax Audience Exclusions &amp; New Reporting](https://www.seroundtable.com/google-ads-pmax-audience-exclusions-reporting-41118.html) | Search Engine Roundtable | 190 | General | 2026-03-27 11:21 UTC |
+| [Bing Testing Rounded Corners On Short Videos](https://www.seroundtable.com/bing-rounded-corners-videos-41106.html) | Search Engine Roundtable | 190 | General | 2026-03-27 11:11 UTC |
 | [Added new supported properties for Discussion Forum and QA Page markup](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Content | 2026-03-24 00:00 UTC |
+| [Google Adds Scenario Planner, Performance Max Updates, And Veo](https://www.searchenginejournal.com/ppc-pulse-google-adds-scenario-planner-performance-max-updates-and-veo/570617/) | Search Engine Journal | 180 | AI Search | 2026-03-27 11:30 UTC |
 | [Google Begins Rolling Out March 2026 Core Update](https://www.searchenginejournal.com/google-begins-rolling-out-march-2026-core-update/570657/) | Search Engine Journal | 180 | General | 2026-03-27 10:28 UTC |
 | [Wikipedia Bans Use Of AI-Generated Content](https://www.searchenginejournal.com/wikipedia-bans-use-of-ai-generated-content/570651/) | Search Engine Journal | 180 | AI Search | 2026-03-27 09:24 UTC |
 | [Google Takes Search Live Global With Gemini 3.1 Flash Live](https://www.searchenginejournal.com/google-takes-search-live-global-with-gemini-3-1-flash-live/570602/) | Search Engine Journal | 180 | AI Search | 2026-03-26 19:11 UTC |
@@ -67,8 +67,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [What AI Writing Tools Get Wrong (And The Stack I Use Instead)](https://ahrefs.com/blog/what-ai-writing-tools-get-wrong-and-the-stack-i-use/) | Ahrefs Blog | 120 | AI Search | 2026-03-26 15:43 UTC |
 | [Google’s releasing Google-Agent: Here’s what to know](https://www.semrush.com/blog/google-ai-agent/) | Semrush Blog | 110 | General | 2026-03-26 07:53 UTC |
 | [12 SEO Techniques to Boost Your Visibility and Traffic [2026]](https://www.semrush.com/blog/seo-techniques/) | Semrush Blog | 110 | AI Search | 2026-03-25 11:32 UTC |
-| [Top 10 Marketing Conferences to Attend in 2026](https://www.semrush.com/blog/top-marketing-conferences-to-attend/) | Semrush Blog | 110 | Migration | 2026-03-24 17:50 UTC |
 | [Is AI Content Bad for SEO? No, and It Never Will Be (7 Reasons)](https://ahrefs.com/blog/ai-content-is-not-bad-for-seo/) | Ahrefs Blog | 105 | AI Search | 2026-03-24 14:46 UTC |
+| [Top 10 Marketing Conferences to Attend in 2026](https://www.semrush.com/blog/top-marketing-conferences-to-attend/) | Semrush Blog | 95 | Migration | 2026-03-24 17:50 UTC |
 | [How One Fractional CMO Uses Semrush One to Layer SEO and AEO Into One Growth Strategy](https://www.semrush.com/blog/fractional-cmo-drives-visibility-with-semrush-one/) | Semrush Blog | 95 | AI Search | 2026-03-24 16:00 UTC |
 | [How to Make the Most of the Free 7-Day Semrush One Trial](https://www.semrush.com/blog/free-7-day-semrush-one-trial/) | Semrush Blog | 95 | General | 2026-03-24 14:24 UTC |
 | [How to Build Your Own Google Analytics Custom Dashboards](https://www.semrush.com/blog/google-analytics-dashboard/) | Semrush Blog | 95 | Migration | 2026-03-23 08:57 UTC |
