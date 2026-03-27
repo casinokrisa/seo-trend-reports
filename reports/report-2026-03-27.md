@@ -18,6 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Wikipedia Bans Use Of AI-Generated Content](https://www.searchenginejournal.com/wikipedia-bans-use-of-ai-generated-content/570651/) | Search Engine Journal | 200 | AI Search | 2026-03-27 09:24 UTC |
 | [Daily Search Forum Recap: March 26, 2026](https://www.seroundtable.com/recap-03-26-2026-41116.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-26 14:00 UTC |
 | [Google Tests Huge Block of Citations at Bottom of AI Overviews](https://www.seroundtable.com/block-of-citations-tested-beneath-ai-overview-summary-41105.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-26 11:51 UTC |
 | [Google Ads API Version 23.2 Now Available](https://www.seroundtable.com/google-ads-api-version-232-41115.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-26 11:41 UTC |

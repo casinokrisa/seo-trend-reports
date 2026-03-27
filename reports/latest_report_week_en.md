@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Wikipedia Bans Use Of AI-Generated Content](https://www.searchenginejournal.com/wikipedia-bans-use-of-ai-generated-content/570651/) | Search Engine Journal | 200 | AI Search | 2026-03-27 09:24 UTC |
 | [Daily Search Forum Recap: March 26, 2026](https://www.seroundtable.com/recap-03-26-2026-41116.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-26 14:00 UTC |
 | [Google Tests Huge Block of Citations at Bottom of AI Overviews](https://www.seroundtable.com/block-of-citations-tested-beneath-ai-overview-summary-41105.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-26 11:51 UTC |
 | [Google Ads API Version 23.2 Now Available](https://www.seroundtable.com/google-ads-api-version-232-41115.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-26 11:41 UTC |
@@ -69,7 +70,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [How to Build Your Own Google Analytics Custom Dashboards](https://www.semrush.com/blog/google-analytics-dashboard/) | Semrush Blog | 95 | Migration | 2026-03-23 08:57 UTC |
 | [16 Ecommerce Product Page Examples + Best Practices](https://www.semrush.com/blog/product-page/) | Semrush Blog | 95 | Migration | 2026-03-20 16:24 UTC |
 | [What Is On-Page SEO? And How to Do It](https://www.semrush.com/blog/on-page-seo/) | Semrush Blog | 95 | AI Search | 2026-03-20 10:13 UTC |
-| [Generative Engine Optimization: A Practical Guide](https://www.semrush.com/blog/generative-engine-optimization/) | Semrush Blog | 95 | AI Search | 2026-03-20 09:59 UTC |
 
 ## Notes
 
