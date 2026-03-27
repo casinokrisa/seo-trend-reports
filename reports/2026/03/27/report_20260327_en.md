@@ -30,7 +30,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [When The Training Data Cutoff Becomes A Ranking Factor](https://www.searchenginejournal.com/when-the-training-data-cutoff-becomes-a-ranking-factor/570438/) | Search Engine Journal | 180 | AI Search | 2026-03-26 12:50 UTC |
 | [Are We Due Another Florida-Style Update?](https://www.searchenginejournal.com/are-we-due-another-florida-style-update/570102/) | Search Engine Journal | 180 | AI Search | 2026-03-26 12:00 UTC |
 | [Google's March Spam Update Felt Muted But May Signal Bigger Changes](https://www.searchenginejournal.com/googles-march-spam-update-felt-muted-but-may-signal-bigger-changes/570541/) | Search Engine Journal | 180 | General | 2026-03-26 10:43 UTC |
-| [Google Analytics Launches Scenario Planner and Projections](https://www.searchenginejournal.com/google-analytics-launches-scenario-planner-and-projections/570520/) | Search Engine Journal | 160 | General | 2026-03-25 17:07 UTC |
 | [Google Web Guide: What It Is, How It Works, and What It Means for SEO](https://ahrefs.com/blog/google-web-guide/) | Ahrefs Blog | 140 | AI Search | 2026-03-26 16:50 UTC |
 | [What AI Writing Tools Get Wrong (And The Stack I Use Instead)](https://ahrefs.com/blog/what-ai-writing-tools-get-wrong-and-the-stack-i-use/) | Ahrefs Blog | 140 | AI Search | 2026-03-26 15:43 UTC |
 | [Will Google replace your landing pages with AI versions?](https://www.semrush.com/blog/google-ai-generated-landing-pages-patent/) | Semrush Blog | 130 | AI Search | 2026-03-26 20:10 UTC |
