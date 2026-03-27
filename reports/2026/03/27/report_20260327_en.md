@@ -18,6 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Daily Search Forum Recap: March 27, 2026](https://www.seroundtable.com/recap-03-27-2026-41122.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-27 14:00 UTC |
 | [Search News Buzz Video Recap: Google March 2026 Core &amp; Spam Update, AI-Generated Title Links, Bing AI Reports Update &amp; Much More](https://www.seroundtable.com/video-03-27-2026-41120.html) | Search Engine Roundtable | 210 | Links | 2026-03-27 12:44 UTC |
 | [Google Search Live Goes Global](https://www.seroundtable.com/google-search-live-global-41119.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-27 11:51 UTC |
 | [Google Merchant Center Will Highlight Vehicle Ads Data Quality Issues](https://www.seroundtable.com/google-merchant-center-vehicle-ads-data-quality-issues-41092.html) | Search Engine Roundtable | 210 | General | 2026-03-27 11:41 UTC |
@@ -29,7 +30,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Tests AI Headlines, Rolls Out Spam Update](https://www.searchenginejournal.com/seo-pulse-google-tests-ai-headlines-rolls-out-spam-update/570613/) | Search Engine Journal | 200 | AI Search | 2026-03-27 12:30 UTC |
 | [Google Adds Scenario Planner, Performance Max Updates, And Veo](https://www.searchenginejournal.com/ppc-pulse-google-adds-scenario-planner-performance-max-updates-and-veo/570617/) | Search Engine Journal | 200 | AI Search | 2026-03-27 11:30 UTC |
 | [Google Begins Rolling Out March 2026 Core Update](https://www.searchenginejournal.com/google-begins-rolling-out-march-2026-core-update/570657/) | Search Engine Journal | 200 | General | 2026-03-27 10:28 UTC |
-| [Wikipedia Bans Use Of AI-Generated Content](https://www.searchenginejournal.com/wikipedia-bans-use-of-ai-generated-content/570651/) | Search Engine Journal | 200 | AI Search | 2026-03-27 09:24 UTC |
+| [Wikipedia Bans Use Of AI-Generated Content](https://www.searchenginejournal.com/wikipedia-bans-use-of-ai-generated-content/570651/) | Search Engine Journal | 180 | AI Search | 2026-03-27 09:24 UTC |
 | [Google Takes Search Live Global With Gemini 3.1 Flash Live](https://www.searchenginejournal.com/google-takes-search-live-global-with-gemini-3-1-flash-live/570602/) | Search Engine Journal | 180 | AI Search | 2026-03-26 19:11 UTC |
 | [Google Adds New Performance Max Controls And Reporting Features](https://www.searchenginejournal.com/google-adds-new-performance-max-controls-and-reporting-features/570588/) | Search Engine Journal | 180 | AI Search | 2026-03-26 16:56 UTC |
 | [Daily Search Forum Recap: March 26, 2026](https://www.seroundtable.com/recap-03-26-2026-41116.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-26 14:00 UTC |
@@ -37,7 +38,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Ads API Version 23.2 Now Available](https://www.seroundtable.com/google-ads-api-version-232-41115.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-26 11:41 UTC |
 | [Sponsored Stores Spotted in AI Mode As Google Expands Ads Across AI Surfaces](https://www.seroundtable.com/sponsored-stores-google-ai-mode-41114.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-26 11:41 UTC |
 | [Google To Update Shopping Ads Political Content Policy On April 16](https://www.seroundtable.com/google-shopping-ads-political-content-policy-41108.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-26 11:31 UTC |
-| [Google Merchant Center: Out-of-Stock Products Need Grayed Out Buy Button](https://www.seroundtable.com/google-merchant-center-out-of-stock-41100.html) | Search Engine Roundtable | 170 | General | 2026-03-26 11:21 UTC |
 
 ## Notes for manual writing
 
