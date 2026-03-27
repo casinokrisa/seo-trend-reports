@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: March 27, 2026](https://www.seroundtable.com/recap-03-27-2026-41122.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-27 14:00 UTC |
+| [Daily Search Forum Recap: March 27, 2026](https://www.seroundtable.com/recap-03-27-2026-41122.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-27 14:00 UTC |
 | [Search News Buzz Video Recap: Google March 2026 Core &amp; Spam Update, AI-Generated Title Links, Bing AI Reports Update &amp; Much More](https://www.seroundtable.com/video-03-27-2026-41120.html) | Search Engine Roundtable | 190 | Links | 2026-03-27 12:44 UTC |
 | [Google Search Live Goes Global](https://www.seroundtable.com/google-search-live-global-41119.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-27 11:51 UTC |
 | [Google Merchant Center Will Highlight Vehicle Ads Data Quality Issues](https://www.seroundtable.com/google-merchant-center-vehicle-ads-data-quality-issues-41092.html) | Search Engine Roundtable | 190 | General | 2026-03-27 11:41 UTC |
@@ -43,7 +43,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Half Your Traffic Left. The SEO Industry Sent Thoughts and Frameworks](https://www.searchenginejournal.com/half-your-traffic-left-the-seo-industry-sent-thoughts-and-frameworks/570380/) | Search Engine Journal | 160 | General | 2026-03-25 13:30 UTC |
 | [How Zero-Party & First-Party Data Can Fuel Your Intent-Based SEO Strategy](https://www.searchenginejournal.com/zero-party-data-how-to-use-first-party-insights-to-power-intent-based-content-strategy/568189/) | Search Engine Journal | 160 | General | 2026-03-25 11:00 UTC |
 | [Is Your Website Ready for AI Search? A Practical Audit for CMOs](https://www.searchenginejournal.com/is-your-website-ready-for-ai-search-a-practical-audit-for-cmos/570413/) | Search Engine Journal | 160 | AI Search | 2026-03-25 07:45 UTC |
-| [Google Adds AI & Bot Labels To Forum, Q&A Structured Data](https://www.searchenginejournal.com/google-adds-ai-bot-labels-to-forum-qa-structured-data/570425/) | Search Engine Journal | 160 | AI Search | 2026-03-24 19:50 UTC |
+| [Google Adds AI & Bot Labels To Forum, Q&A Structured Data](https://www.searchenginejournal.com/google-adds-ai-bot-labels-to-forum-qa-structured-data/570425/) | Search Engine Journal | 145 | AI Search | 2026-03-24 19:50 UTC |
 | [Google's March 2026 Spam Update Is Already Complete](https://www.searchenginejournal.com/google-begins-rolling-out-the-march-2026-spam-update/570428/) | Search Engine Journal | 145 | General | 2026-03-24 19:38 UTC |
 | [The Agency Playbook for Surviving the Agentic AI Era](https://www.searchenginejournal.com/rundowns/the-agency-playbook-for-surviving-the-agentic-ai-era/) | Search Engine Journal | 145 | AI Search | 2026-03-24 14:03 UTC |
 | [The Science Of How AI Picks Its Sources](https://www.searchenginejournal.com/the-science-of-how-ai-picks-its-sources/570328/) | Search Engine Journal | 145 | AI Search | 2026-03-24 13:30 UTC |
@@ -61,10 +61,10 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [How to Find Content Ideas with Semrush](https://www.semrush.com/blog/how-to-find-content-ideas-with-semrush/) | Semrush Blog | 130 | AI Search | 2026-03-27 13:31 UTC |
 | [20 marketing KPIs to track &amp; improve in 2026](https://www.semrush.com/blog/kpi-marketing/) | Semrush Blog | 130 | Links | 2026-03-27 09:10 UTC |
 | [AI visibility: What it is and how to grow yours in 2026](https://www.semrush.com/blog/ai-visibility/) | Semrush Blog | 130 | AI Search | 2026-03-27 08:54 UTC |
-| [Will Google replace your landing pages with AI versions?](https://www.semrush.com/blog/google-ai-generated-landing-pages-patent/) | Semrush Blog | 130 | AI Search | 2026-03-26 20:10 UTC |
-| [Universal Commerce Protocol (UCP): What You Need to Know](https://www.semrush.com/blog/universal-commerce-protocol/) | Semrush Blog | 130 | General | 2026-03-26 19:58 UTC |
 | [Google Web Guide: What It Is, How It Works, and What It Means for SEO](https://ahrefs.com/blog/google-web-guide/) | Ahrefs Blog | 120 | AI Search | 2026-03-26 16:50 UTC |
 | [What AI Writing Tools Get Wrong (And The Stack I Use Instead)](https://ahrefs.com/blog/what-ai-writing-tools-get-wrong-and-the-stack-i-use/) | Ahrefs Blog | 120 | AI Search | 2026-03-26 15:43 UTC |
+| [Will Google replace your landing pages with AI versions?](https://www.semrush.com/blog/google-ai-generated-landing-pages-patent/) | Semrush Blog | 110 | AI Search | 2026-03-26 20:10 UTC |
+| [Universal Commerce Protocol (UCP): What You Need to Know](https://www.semrush.com/blog/universal-commerce-protocol/) | Semrush Blog | 110 | General | 2026-03-26 19:58 UTC |
 | [Google’s releasing Google-Agent: Here’s what to know](https://www.semrush.com/blog/google-ai-agent/) | Semrush Blog | 110 | General | 2026-03-26 07:53 UTC |
 | [12 SEO Techniques to Boost Your Visibility and Traffic [2026]](https://www.semrush.com/blog/seo-techniques/) | Semrush Blog | 110 | AI Search | 2026-03-25 11:32 UTC |
 | [Is AI Content Bad for SEO? No, and It Never Will Be (7 Reasons)](https://ahrefs.com/blog/ai-content-is-not-bad-for-seo/) | Ahrefs Blog | 105 | AI Search | 2026-03-24 14:46 UTC |

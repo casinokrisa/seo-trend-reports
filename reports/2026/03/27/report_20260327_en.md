@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: March 27, 2026](https://www.seroundtable.com/recap-03-27-2026-41122.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-27 14:00 UTC |
+| [Daily Search Forum Recap: March 27, 2026](https://www.seroundtable.com/recap-03-27-2026-41122.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-27 14:00 UTC |
 | [Search News Buzz Video Recap: Google March 2026 Core &amp; Spam Update, AI-Generated Title Links, Bing AI Reports Update &amp; Much More](https://www.seroundtable.com/video-03-27-2026-41120.html) | Search Engine Roundtable | 190 | Links | 2026-03-27 12:44 UTC |
 | [Google Search Live Goes Global](https://www.seroundtable.com/google-search-live-global-41119.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-27 11:51 UTC |
 | [Google Merchant Center Will Highlight Vehicle Ads Data Quality Issues](https://www.seroundtable.com/google-merchant-center-vehicle-ads-data-quality-issues-41092.html) | Search Engine Roundtable | 190 | General | 2026-03-27 11:41 UTC |
