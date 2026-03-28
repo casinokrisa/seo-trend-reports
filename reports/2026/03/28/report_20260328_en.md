@@ -29,7 +29,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Why Google's New "Google-Agent" Is The Biggest Mindset Shift In SEO History](https://www.searchenginejournal.com/why-googles-new-google-agent-is-the-biggest-mindset-shift-in-seo-history/570590/) | Search Engine Journal | 180 | GSC | 2026-03-27 13:30 UTC |
 | [Google Tests AI Headlines, Rolls Out Spam Update](https://www.searchenginejournal.com/seo-pulse-google-tests-ai-headlines-rolls-out-spam-update/570613/) | Search Engine Journal | 180 | AI Search | 2026-03-27 12:30 UTC |
 | [Google Adds Scenario Planner, Performance Max Updates, And Veo](https://www.searchenginejournal.com/ppc-pulse-google-adds-scenario-planner-performance-max-updates-and-veo/570617/) | Search Engine Journal | 180 | AI Search | 2026-03-27 11:30 UTC |
-| [Google Begins Rolling Out March 2026 Core Update](https://www.searchenginejournal.com/google-begins-rolling-out-march-2026-core-update/570657/) | Search Engine Journal | 180 | General | 2026-03-27 10:28 UTC |
+| [Google Begins Rolling Out March 2026 Core Update](https://www.searchenginejournal.com/google-begins-rolling-out-march-2026-core-update/570657/) | Search Engine Journal | 160 | General | 2026-03-27 10:28 UTC |
 | [Wikipedia Bans Use Of AI-Generated Content](https://www.searchenginejournal.com/wikipedia-bans-use-of-ai-generated-content/570651/) | Search Engine Journal | 160 | AI Search | 2026-03-27 09:24 UTC |
 | [How to Find Content Ideas with Semrush](https://www.semrush.com/blog/how-to-find-content-ideas-with-semrush/) | Semrush Blog | 130 | AI Search | 2026-03-27 13:31 UTC |
 | [20 marketing KPIs to track &amp; improve in 2026](https://www.semrush.com/blog/kpi-marketing/) | Semrush Blog | 110 | Links | 2026-03-27 09:10 UTC |
