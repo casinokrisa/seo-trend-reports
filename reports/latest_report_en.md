@@ -33,9 +33,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Wikipedia Bans Use Of AI-Generated Content](https://www.searchenginejournal.com/wikipedia-bans-use-of-ai-generated-content/570651/) | Search Engine Journal | 180 | AI Search | 2026-03-27 09:24 UTC |
 | [How to Find Content Ideas with Semrush](https://www.semrush.com/blog/how-to-find-content-ideas-with-semrush/) | Semrush Blog | 130 | AI Search | 2026-03-27 13:31 UTC |
 | [20 marketing KPIs to track &amp; improve in 2026](https://www.semrush.com/blog/kpi-marketing/) | Semrush Blog | 130 | Links | 2026-03-27 09:10 UTC |
-| [AI visibility: What it is and how to grow yours in 2026](https://www.semrush.com/blog/ai-visibility/) | Semrush Blog | 130 | AI Search | 2026-03-27 08:54 UTC |
-| [Will Google replace your landing pages with AI versions?](https://www.semrush.com/blog/google-ai-generated-landing-pages-patent/) | Semrush Blog | 110 | AI Search | 2026-03-26 20:10 UTC |
-| [Universal Commerce Protocol (UCP): What You Need to Know](https://www.semrush.com/blog/universal-commerce-protocol/) | Semrush Blog | 110 | General | 2026-03-26 19:58 UTC |
+| [AI visibility: What it is and how to grow yours in 2026](https://www.semrush.com/blog/ai-visibility/) | Semrush Blog | 110 | AI Search | 2026-03-27 08:54 UTC |
 
 ## Notes for manual writing
 
