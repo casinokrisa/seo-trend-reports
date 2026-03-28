@@ -13,9 +13,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Answer Engine Optimization: How To Get Your Content Into AI Responses](https://www.searchenginejournal.com/answer-engine-optimization-how-to-get-your-content-into-ai-responses/570055/) | Search Engine Journal | 200 | AI Search | 2026-03-28 12:00 UTC |
-| [Daily Search Forum Recap: March 27, 2026](https://www.seroundtable.com/recap-03-27-2026-41122.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-27 14:00 UTC |
 | [Added new supported properties for Discussion Forum and QA Page markup](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Content | 2026-03-24 00:00 UTC |
-| [Why Google's New "Google-Agent" Is The Biggest Mindset Shift In SEO History](https://www.searchenginejournal.com/why-googles-new-google-agent-is-the-biggest-mindset-shift-in-seo-history/570590/) | Search Engine Journal | 180 | GSC | 2026-03-27 13:30 UTC |
+| [Daily Search Forum Recap: March 27, 2026](https://www.seroundtable.com/recap-03-27-2026-41122.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-27 14:00 UTC |
 | [Search News Buzz Video Recap: Google March 2026 Core &amp; Spam Update, AI-Generated Title Links, Bing AI Reports Update &amp; Much More](https://www.seroundtable.com/video-03-27-2026-41120.html) | Search Engine Roundtable | 170 | Links | 2026-03-27 12:44 UTC |
 | [Google Search Live Goes Global](https://www.seroundtable.com/google-search-live-global-41119.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-27 11:51 UTC |
 | [Google Merchant Center Will Highlight Vehicle Ads Data Quality Issues](https://www.seroundtable.com/google-merchant-center-vehicle-ads-data-quality-issues-41092.html) | Search Engine Roundtable | 170 | General | 2026-03-27 11:41 UTC |
@@ -30,6 +29,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google To Update Shopping Ads Political Content Policy On April 16](https://www.seroundtable.com/google-shopping-ads-political-content-policy-41108.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-26 11:31 UTC |
 | [Google Merchant Center: Out-of-Stock Products Need Grayed Out Buy Button](https://www.seroundtable.com/google-merchant-center-out-of-stock-41100.html) | Search Engine Roundtable | 170 | General | 2026-03-26 11:21 UTC |
 | [Google To Expand Shopping Ads To 15 New European Markets](https://www.seroundtable.com/google-expands-shopping-ads-to-15-new-european-markets-41112.html) | Search Engine Roundtable | 170 | General | 2026-03-26 11:11 UTC |
+| [Why Google's New "Google-Agent" Is The Biggest Mindset Shift In SEO History](https://www.searchenginejournal.com/why-googles-new-google-agent-is-the-biggest-mindset-shift-in-seo-history/570590/) | Search Engine Journal | 160 | GSC | 2026-03-27 13:30 UTC |
 | [Google Tests AI Headlines, Rolls Out Spam Update](https://www.searchenginejournal.com/seo-pulse-google-tests-ai-headlines-rolls-out-spam-update/570613/) | Search Engine Journal | 160 | AI Search | 2026-03-27 12:30 UTC |
 | [Google Adds Scenario Planner, Performance Max Updates, And Veo](https://www.searchenginejournal.com/ppc-pulse-google-adds-scenario-planner-performance-max-updates-and-veo/570617/) | Search Engine Journal | 160 | AI Search | 2026-03-27 11:30 UTC |
 | [Google Begins Rolling Out March 2026 Core Update](https://www.searchenginejournal.com/google-begins-rolling-out-march-2026-core-update/570657/) | Search Engine Journal | 160 | General | 2026-03-27 10:28 UTC |
@@ -41,7 +41,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Are We Due Another Florida-Style Update?](https://www.searchenginejournal.com/are-we-due-another-florida-style-update/570102/) | Search Engine Journal | 160 | AI Search | 2026-03-26 12:00 UTC |
 | [Google's March Spam Update Felt Muted But May Signal Bigger Changes](https://www.searchenginejournal.com/googles-march-spam-update-felt-muted-but-may-signal-bigger-changes/570541/) | Search Engine Journal | 160 | General | 2026-03-26 10:43 UTC |
 | [Google Analytics Launches Scenario Planner and Projections](https://www.searchenginejournal.com/google-analytics-launches-scenario-planner-and-projections/570520/) | Search Engine Journal | 160 | General | 2026-03-25 17:07 UTC |
-| [Half Your Traffic Left. The SEO Industry Sent Thoughts and Frameworks](https://www.searchenginejournal.com/half-your-traffic-left-the-seo-industry-sent-thoughts-and-frameworks/570380/) | Search Engine Journal | 160 | General | 2026-03-25 13:30 UTC |
+| [Half Your Traffic Left. The SEO Industry Sent Thoughts and Frameworks](https://www.searchenginejournal.com/half-your-traffic-left-the-seo-industry-sent-thoughts-and-frameworks/570380/) | Search Engine Journal | 145 | General | 2026-03-25 13:30 UTC |
 | [How Zero-Party & First-Party Data Can Fuel Your Intent-Based SEO Strategy](https://www.searchenginejournal.com/zero-party-data-how-to-use-first-party-insights-to-power-intent-based-content-strategy/568189/) | Search Engine Journal | 145 | General | 2026-03-25 11:00 UTC |
 | [Is Your Website Ready for AI Search? A Practical Audit for CMOs](https://www.searchenginejournal.com/is-your-website-ready-for-ai-search-a-practical-audit-for-cmos/570413/) | Search Engine Journal | 145 | AI Search | 2026-03-25 07:45 UTC |
 | [Google Adds AI & Bot Labels To Forum, Q&A Structured Data](https://www.searchenginejournal.com/google-adds-ai-bot-labels-to-forum-qa-structured-data/570425/) | Search Engine Journal | 145 | AI Search | 2026-03-24 19:50 UTC |
@@ -58,9 +58,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [The SEO Skills Gap: Why Technical Expertise Alone Won't Cut It Anymore](https://www.searchenginejournal.com/seo-skills-gap-why-technical-expertise-alone-wont-cut-it-anymore/568356/) | Search Engine Journal | 145 | Technical SEO | 2026-03-23 11:15 UTC |
 | [Is WordPress Too Complex For Most Sites?](https://www.searchenginejournal.com/is-wordpress-too-complex-for-most-sites/570274/) | Search Engine Journal | 145 | General | 2026-03-23 10:50 UTC |
 | [5 GEO Strategies To Make AI Search Engines Recommend Your Brand In 2026](https://www.searchenginejournal.com/geo-strategies-ai-visibility-geoptie-spa/568644/) | Search Engine Journal | 145 | AI Search | 2026-03-23 05:00 UTC |
-| [How to Find Content Ideas with Semrush](https://www.semrush.com/blog/how-to-find-content-ideas-with-semrush/) | Semrush Blog | 130 | AI Search | 2026-03-27 13:31 UTC |
 | [Google Web Guide: What It Is, How It Works, and What It Means for SEO](https://ahrefs.com/blog/google-web-guide/) | Ahrefs Blog | 120 | AI Search | 2026-03-26 16:50 UTC |
 | [What AI Writing Tools Get Wrong (And The Stack I Use Instead)](https://ahrefs.com/blog/what-ai-writing-tools-get-wrong-and-the-stack-i-use/) | Ahrefs Blog | 120 | AI Search | 2026-03-26 15:43 UTC |
+| [How to Find Content Ideas with Semrush](https://www.semrush.com/blog/how-to-find-content-ideas-with-semrush/) | Semrush Blog | 110 | AI Search | 2026-03-27 13:31 UTC |
 | [20 marketing KPIs to track &amp; improve in 2026](https://www.semrush.com/blog/kpi-marketing/) | Semrush Blog | 110 | Links | 2026-03-27 09:10 UTC |
 | [AI visibility: What it is and how to grow yours in 2026](https://www.semrush.com/blog/ai-visibility/) | Semrush Blog | 110 | AI Search | 2026-03-27 08:54 UTC |
 | [Will Google replace your landing pages with AI versions?](https://www.semrush.com/blog/google-ai-generated-landing-pages-patent/) | Semrush Blog | 110 | AI Search | 2026-03-26 20:10 UTC |
