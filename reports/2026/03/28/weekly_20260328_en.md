@@ -6,7 +6,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Continue to my marketing agency post](https://www.reddit.com/r/DigitalMarketing/comments/1s5rk1r/continue_to_my_marketing_agency_post/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-28 05:13 UTC |
+| [Desafio como Analista de Mkt](https://www.reddit.com/r/DigitalMarketing/comments/1s5qsls/desafio_como_analista_de_mkt/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Links | 2026-03-28 04:32 UTC |
+| [Why would someone do this?](https://www.reddit.com/r/TechSEO/comments/1s5ql4u/why_would_someone_do_this/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | Migration | 2026-03-28 04:21 UTC |
+| [Category pages SEO internal links](https://www.reddit.com/r/TechSEO/comments/1s5q398/category_pages_seo_internal_links/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | Links | 2026-03-28 03:57 UTC |
+| [SEO is losing to GEO - not for data but for ideology](https://www.reddit.com/r/DigitalMarketing/comments/1s5pdfh/seo_is_losing_to_geo_not_for_data_but_for_ideology/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Links | 2026-03-28 03:21 UTC |
+| [Unpopular opinion: AI content is killing your brand faster than you think](https://www.reddit.com/r/DigitalMarketing/comments/1s5oqh9/unpopular_opinion_ai_content_is_killing_your/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-28 02:50 UTC |
+| [Which link building strategy is actually working in 2026?](https://www.reddit.com/r/bigseo/comments/1s5o3g4/which_link_building_strategy_is_actually_working/) | [r/bigseo](https://www.reddit.com/r/bigseo) | — | — | Links | 2026-03-28 02:19 UTC |
+| [GBP went on to reverification after I edited the description](https://www.reddit.com/r/localseo/comments/1s5kwm5/gbp_went_on_to_reverification_after_i_edited_the/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-03-27 23:55 UTC |
+| [Anyone in the rank and rent world?](https://www.reddit.com/r/localseo/comments/1s5jg8y/anyone_in_the_rank_and_rent_world/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-03-27 22:55 UTC |
+| [New community for SEO & Web Development](https://www.reddit.com/r/DigitalMarketing/comments/1s5ic8r/new_community_for_seo_web_development/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Technical SEO | 2026-03-27 22:10 UTC |
+| [Has anyone successfully switched from a corporate/legal role to digital marketing?](https://www.reddit.com/r/DigitalMarketing/comments/1s5ib01/has_anyone_successfully_switched_from_a/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-27 22:09 UTC |
+| [What is the perfect SEO article structure?](https://www.reddit.com/r/seogrowth/comments/1s5i94m/what_is_the_perfect_seo_article_structure/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Links | 2026-03-27 22:07 UTC |
 
 ## Weekly notable items (Sites)
 
