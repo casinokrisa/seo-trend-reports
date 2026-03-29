@@ -65,8 +65,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [AI visibility: What it is and how to grow yours in 2026](https://www.semrush.com/blog/ai-visibility/) | Semrush Blog | 110 | AI Search | 2026-03-27 08:54 UTC |
 | [Will Google replace your landing pages with AI versions?](https://www.semrush.com/blog/google-ai-generated-landing-pages-patent/) | Semrush Blog | 110 | AI Search | 2026-03-26 20:10 UTC |
 | [Universal Commerce Protocol (UCP): What You Need to Know](https://www.semrush.com/blog/universal-commerce-protocol/) | Semrush Blog | 110 | General | 2026-03-26 19:58 UTC |
-| [Google’s releasing Google-Agent: Here’s what to know](https://www.semrush.com/blog/google-ai-agent/) | Semrush Blog | 110 | General | 2026-03-26 07:53 UTC |
 | [Is AI Content Bad for SEO? No, and It Never Will Be (7 Reasons)](https://ahrefs.com/blog/ai-content-is-not-bad-for-seo/) | Ahrefs Blog | 105 | AI Search | 2026-03-24 14:46 UTC |
+| [Google’s releasing Google-Agent: Here’s what to know](https://www.semrush.com/blog/google-ai-agent/) | Semrush Blog | 95 | General | 2026-03-26 07:53 UTC |
 | [12 SEO Techniques to Boost Your Visibility and Traffic [2026]](https://www.semrush.com/blog/seo-techniques/) | Semrush Blog | 95 | AI Search | 2026-03-25 11:32 UTC |
 | [Top 10 Marketing Conferences to Attend in 2026](https://www.semrush.com/blog/top-marketing-conferences-to-attend/) | Semrush Blog | 95 | Migration | 2026-03-24 17:50 UTC |
 | [How One Fractional CMO Uses Semrush One to Layer SEO and AEO Into One Growth Strategy](https://www.semrush.com/blog/fractional-cmo-drives-visibility-with-semrush-one/) | Semrush Blog | 95 | AI Search | 2026-03-24 16:00 UTC |
