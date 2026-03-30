@@ -28,7 +28,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Tests AI Headlines, Rolls Out Spam Update](https://www.searchenginejournal.com/seo-pulse-google-tests-ai-headlines-rolls-out-spam-update/570613/) | Search Engine Journal | 160 | AI Search | 2026-03-27 12:30 UTC |
 | [Google Adds Scenario Planner, Performance Max Updates, And Veo](https://www.searchenginejournal.com/ppc-pulse-google-adds-scenario-planner-performance-max-updates-and-veo/570617/) | Search Engine Journal | 160 | AI Search | 2026-03-27 11:30 UTC |
 | [Google Begins Rolling Out March 2026 Core Update](https://www.searchenginejournal.com/google-begins-rolling-out-march-2026-core-update/570657/) | Search Engine Journal | 160 | General | 2026-03-27 10:28 UTC |
-| [Wikipedia Bans Use Of AI-Generated Content](https://www.searchenginejournal.com/wikipedia-bans-use-of-ai-generated-content/570651/) | Search Engine Journal | 160 | AI Search | 2026-03-27 09:24 UTC |
 | [Daily Search Forum Recap: March 26, 2026](https://www.seroundtable.com/recap-03-26-2026-41116.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-26 14:00 UTC |
 | [Google Tests Huge Block of Citations at Bottom of AI Overviews](https://www.seroundtable.com/block-of-citations-tested-beneath-ai-overview-summary-41105.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-26 11:51 UTC |
 | [Google Ads API Version 23.2 Now Available](https://www.seroundtable.com/google-ads-api-version-232-41115.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-26 11:41 UTC |
@@ -36,6 +35,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google To Update Shopping Ads Political Content Policy On April 16](https://www.seroundtable.com/google-shopping-ads-political-content-policy-41108.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-26 11:31 UTC |
 | [Google Merchant Center: Out-of-Stock Products Need Grayed Out Buy Button](https://www.seroundtable.com/google-merchant-center-out-of-stock-41100.html) | Search Engine Roundtable | 155 | General | 2026-03-26 11:21 UTC |
 | [Google To Expand Shopping Ads To 15 New European Markets](https://www.seroundtable.com/google-expands-shopping-ads-to-15-new-european-markets-41112.html) | Search Engine Roundtable | 155 | General | 2026-03-26 11:11 UTC |
+| [Wikipedia Bans Use Of AI-Generated Content](https://www.searchenginejournal.com/wikipedia-bans-use-of-ai-generated-content/570651/) | Search Engine Journal | 145 | AI Search | 2026-03-27 09:24 UTC |
 | [Google Takes Search Live Global With Gemini 3.1 Flash Live](https://www.searchenginejournal.com/google-takes-search-live-global-with-gemini-3-1-flash-live/570602/) | Search Engine Journal | 145 | AI Search | 2026-03-26 19:11 UTC |
 | [Google Adds New Performance Max Controls And Reporting Features](https://www.searchenginejournal.com/google-adds-new-performance-max-controls-and-reporting-features/570588/) | Search Engine Journal | 145 | AI Search | 2026-03-26 16:56 UTC |
 | [How To Avoid Top Down SEO Systems Failures With The Visibility Governance Maturity Model](https://www.searchenginejournal.com/how-to-avoid-top-down-seo-systems-failures-with-the-visibility-governance-maturity-model/570509/) | Search Engine Journal | 145 | AI Search | 2026-03-26 13:29 UTC |
@@ -59,11 +59,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [7 Google Ads Shortcuts Every PPC Manager Should Be Using](https://www.searchenginejournal.com/google-ads-shortcuts-every-ppc-manager-should-be-using/568045/) | Search Engine Journal | 145 | General | 2026-03-23 12:00 UTC |
 | [The SEO Skills Gap: Why Technical Expertise Alone Won't Cut It Anymore](https://www.searchenginejournal.com/seo-skills-gap-why-technical-expertise-alone-wont-cut-it-anymore/568356/) | Search Engine Journal | 145 | Technical SEO | 2026-03-23 11:15 UTC |
 | [How to Find Content Ideas with Semrush](https://www.semrush.com/blog/how-to-find-content-ideas-with-semrush/) | Semrush Blog | 110 | AI Search | 2026-03-27 13:31 UTC |
-| [20 marketing KPIs to track &amp; improve in 2026](https://www.semrush.com/blog/kpi-marketing/) | Semrush Blog | 110 | Links | 2026-03-27 09:10 UTC |
-| [AI visibility: What it is and how to grow yours in 2026](https://www.semrush.com/blog/ai-visibility/) | Semrush Blog | 110 | AI Search | 2026-03-27 08:54 UTC |
 | [Google Web Guide: What It Is, How It Works, and What It Means for SEO](https://ahrefs.com/blog/google-web-guide/) | Ahrefs Blog | 105 | AI Search | 2026-03-26 16:50 UTC |
 | [What AI Writing Tools Get Wrong (And The Stack I Use Instead)](https://ahrefs.com/blog/what-ai-writing-tools-get-wrong-and-the-stack-i-use/) | Ahrefs Blog | 105 | AI Search | 2026-03-26 15:43 UTC |
 | [Is AI Content Bad for SEO? No, and It Never Will Be (7 Reasons)](https://ahrefs.com/blog/ai-content-is-not-bad-for-seo/) | Ahrefs Blog | 105 | AI Search | 2026-03-24 14:46 UTC |
+| [20 marketing KPIs to track &amp; improve in 2026](https://www.semrush.com/blog/kpi-marketing/) | Semrush Blog | 95 | Links | 2026-03-27 09:10 UTC |
+| [AI visibility: What it is and how to grow yours in 2026](https://www.semrush.com/blog/ai-visibility/) | Semrush Blog | 95 | AI Search | 2026-03-27 08:54 UTC |
 | [Will Google replace your landing pages with AI versions?](https://www.semrush.com/blog/google-ai-generated-landing-pages-patent/) | Semrush Blog | 95 | AI Search | 2026-03-26 20:10 UTC |
 | [Universal Commerce Protocol (UCP): What You Need to Know](https://www.semrush.com/blog/universal-commerce-protocol/) | Semrush Blog | 95 | General | 2026-03-26 19:58 UTC |
 | [Google’s releasing Google-Agent: Here’s what to know](https://www.semrush.com/blog/google-ai-agent/) | Semrush Blog | 95 | General | 2026-03-26 07:53 UTC |
@@ -71,7 +71,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Top 10 Marketing Conferences to Attend in 2026](https://www.semrush.com/blog/top-marketing-conferences-to-attend/) | Semrush Blog | 95 | Migration | 2026-03-24 17:50 UTC |
 | [How One Fractional CMO Uses Semrush One to Layer SEO and AEO Into One Growth Strategy](https://www.semrush.com/blog/fractional-cmo-drives-visibility-with-semrush-one/) | Semrush Blog | 95 | AI Search | 2026-03-24 16:00 UTC |
 | [How to Make the Most of the Free 7-Day Semrush One Trial](https://www.semrush.com/blog/free-7-day-semrush-one-trial/) | Semrush Blog | 95 | General | 2026-03-24 14:24 UTC |
-| [How to Build Your Own Google Analytics Custom Dashboards](https://www.semrush.com/blog/google-analytics-dashboard/) | Semrush Blog | 95 | Migration | 2026-03-23 08:57 UTC |
 
 ## Notes
 
