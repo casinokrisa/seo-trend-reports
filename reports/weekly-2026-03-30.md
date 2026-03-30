@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google Gemini Sends More Traffic To Sites Than Perplexity: Report](https://www.searchenginejournal.com/google-gemini-sends-more-traffic-to-sites-than-perplexity-report/570714/) | Search Engine Journal | 200 | AI Search | 2026-03-30 05:00 UTC |
 | [Added new supported properties for Discussion Forum and QA Page markup](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Content | 2026-03-24 00:00 UTC |
 | [The Death Of The Static GBP: Why Dynamic Profiles Are The New Local Ranking Factor](https://www.searchenginejournal.com/why-dynamic-profiles-are-the-new-local-ranking-factor/568200/) | Search Engine Journal | 180 | Local SEO | 2026-03-29 12:00 UTC |
 | [Daily Search Forum Recap: March 27, 2026](https://www.seroundtable.com/recap-03-27-2026-41122.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-27 14:00 UTC |
@@ -57,7 +58,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [3 Strategies That Can Survive AI Search In 2026: What I Shared At SEJ Live](https://www.searchenginejournal.com/strategies-that-can-survive-ai-search-in-2026-what-i-shared-at-sej-live/570260/) | Search Engine Journal | 145 | AI Search | 2026-03-23 14:00 UTC |
 | [7 Google Ads Shortcuts Every PPC Manager Should Be Using](https://www.searchenginejournal.com/google-ads-shortcuts-every-ppc-manager-should-be-using/568045/) | Search Engine Journal | 145 | General | 2026-03-23 12:00 UTC |
 | [The SEO Skills Gap: Why Technical Expertise Alone Won't Cut It Anymore](https://www.searchenginejournal.com/seo-skills-gap-why-technical-expertise-alone-wont-cut-it-anymore/568356/) | Search Engine Journal | 145 | Technical SEO | 2026-03-23 11:15 UTC |
-| [Is WordPress Too Complex For Most Sites?](https://www.searchenginejournal.com/is-wordpress-too-complex-for-most-sites/570274/) | Search Engine Journal | 145 | General | 2026-03-23 10:50 UTC |
 | [How to Find Content Ideas with Semrush](https://www.semrush.com/blog/how-to-find-content-ideas-with-semrush/) | Semrush Blog | 110 | AI Search | 2026-03-27 13:31 UTC |
 | [20 marketing KPIs to track &amp; improve in 2026](https://www.semrush.com/blog/kpi-marketing/) | Semrush Blog | 110 | Links | 2026-03-27 09:10 UTC |
 | [AI visibility: What it is and how to grow yours in 2026](https://www.semrush.com/blog/ai-visibility/) | Semrush Blog | 110 | AI Search | 2026-03-27 08:54 UTC |
