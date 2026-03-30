@@ -18,10 +18,12 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Is Google Ditching Blue Background For AI Citations?](https://www.seroundtable.com/white-background-tested-for-ai-overview-citations-41123.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-30 11:31 UTC |
 | [Bing Shopping Tests AI-Based Recommendations](https://www.seroundtable.com/bing-shopping-ai-based-recommendations-41113.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-30 11:21 UTC |
 | [Bing Gives Product Ads Some Cushion](https://www.seroundtable.com/bing-tests-larger-product-ads-format-on-serp-41124.html) | Search Engine Roundtable | 210 | General | 2026-03-30 11:11 UTC |
+| [AI agents and agentic AI vs. traditional automation](https://searchengineland.com/guide/ai-agents-and-agentic-ai-vs-traditional-automation) | Search Engine Land | 200 | AI Search | 2026-03-30 16:45 UTC |
+| [New AI Jobs Index Ranks 784 Occupations By Loss Risk](https://www.searchenginejournal.com/new-ai-jobs-index-ranks-784-occupations-by-loss-risk/570867/) | Search Engine Journal | 200 | Indexing | 2026-03-30 16:26 UTC |
 | [TurboQuant Has The Potential To Fundamentally Change How Search (And AI) Works](https://www.searchenginejournal.com/turboquant-has-the-potential-to-fundamentally-change-how-search-and-ai-works/570728/) | Search Engine Journal | 200 | Indexing | 2026-03-30 13:00 UTC |
 | [Reporting Uncertainty Without Losing Credibility](https://www.searchenginejournal.com/reporting-uncertainty-without-losing-credibility/569141/) | Search Engine Journal | 200 | AI Search | 2026-03-30 12:00 UTC |
-| [Why New Google-Agent May Be A Pivot Related To OpenClaw Trend](https://www.searchenginejournal.com/why-new-google-agent-may-be-a-pivot-related-to-openclaw-trend/570764/) | Search Engine Journal | 200 | Indexing | 2026-03-30 09:42 UTC |
 | [Added new supported properties for Discussion Forum and QA Page markup](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Content | 2026-03-24 00:00 UTC |
+| [Why New Google-Agent May Be A Pivot Related To OpenClaw Trend](https://www.searchenginejournal.com/why-new-google-agent-may-be-a-pivot-related-to-openclaw-trend/570764/) | Search Engine Journal | 180 | Indexing | 2026-03-30 09:42 UTC |
 | [Google Gemini Sends More Traffic To Sites Than Perplexity: Report](https://www.searchenginejournal.com/google-gemini-sends-more-traffic-to-sites-than-perplexity-report/570714/) | Search Engine Journal | 180 | AI Search | 2026-03-30 05:00 UTC |
 | [The Death Of The Static GBP: Why Dynamic Profiles Are The New Local Ranking Factor](https://www.searchenginejournal.com/why-dynamic-profiles-are-the-new-local-ranking-factor/568200/) | Search Engine Journal | 160 | Local SEO | 2026-03-29 12:00 UTC |
 | [Answer Engine Optimization: How To Get Your Content Into AI Responses](https://www.searchenginejournal.com/answer-engine-optimization-how-to-get-your-content-into-ai-responses/570055/) | Search Engine Journal | 160 | AI Search | 2026-03-28 12:00 UTC |
@@ -34,6 +36,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads PMax Audience Exclusions &amp; New Reporting](https://www.seroundtable.com/google-ads-pmax-audience-exclusions-reporting-41118.html) | Search Engine Roundtable | 155 | General | 2026-03-27 11:21 UTC |
 | [Bing Testing Rounded Corners On Short Videos](https://www.seroundtable.com/bing-rounded-corners-videos-41106.html) | Search Engine Roundtable | 155 | General | 2026-03-27 11:11 UTC |
 | [Daily Search Forum Recap: March 26, 2026](https://www.seroundtable.com/recap-03-26-2026-41116.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-26 14:00 UTC |
+| [How to measure brand awareness: 9 methods that matter](https://www.semrush.com/blog/measure-brand-awareness/) | Semrush Blog | 150 | AI Search | 2026-03-30 16:03 UTC |
+| [What 3,900 SEO Job Listings Reveal for 2026: Experiments, AI, and Six-Figure Salaries](https://www.semrush.com/blog/seo-job-market-study/) | Semrush Blog | 150 | AI Search | 2026-03-30 15:00 UTC |
 | [Why Google's New "Google-Agent" Is The Biggest Mindset Shift In SEO History](https://www.searchenginejournal.com/why-googles-new-google-agent-is-the-biggest-mindset-shift-in-seo-history/570590/) | Search Engine Journal | 145 | GSC | 2026-03-27 13:30 UTC |
 | [Google Tests AI Headlines, Rolls Out Spam Update](https://www.searchenginejournal.com/seo-pulse-google-tests-ai-headlines-rolls-out-spam-update/570613/) | Search Engine Journal | 145 | AI Search | 2026-03-27 12:30 UTC |
 | [Google Adds Scenario Planner, Performance Max Updates, And Veo](https://www.searchenginejournal.com/ppc-pulse-google-adds-scenario-planner-performance-max-updates-and-veo/570617/) | Search Engine Journal | 145 | AI Search | 2026-03-27 11:30 UTC |
@@ -57,7 +61,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [How To Determine What Paid Media Channels Are Right for You](https://www.searchenginejournal.com/how-to-determine-what-paid-media-channels-are-right-for-you/569731/) | Search Engine Journal | 145 | AI Search | 2026-03-24 12:00 UTC |
 | [SEO 2.0: How Content Marketing Drives Visibility in AI Search](https://www.searchenginejournal.com/seo-2-0-how-content-marketing-drives-visibility-in-ai-search/570308/) | Search Engine Journal | 145 | AI Search | 2026-03-24 07:45 UTC |
 | [Bing AI Dashboard Maps Grounding Queries To Cited Pages](https://www.searchenginejournal.com/bing-ai-dashboard-maps-grounding-queries-to-cited-pages/570323/) | Search Engine Journal | 145 | Local SEO | 2026-03-24 05:00 UTC |
-| [Google Responds To Error That Causes Old Branding To Persist In SERPs](https://www.searchenginejournal.com/google-responds-to-error-that-causes-old-branding-to-persist-in-serps/570315/) | Search Engine Journal | 145 | General | 2026-03-23 21:23 UTC |
 | [Google Web Guide: What It Is, How It Works, and What It Means for SEO](https://ahrefs.com/blog/google-web-guide/) | Ahrefs Blog | 105 | AI Search | 2026-03-26 16:50 UTC |
 | [What AI Writing Tools Get Wrong (And The Stack I Use Instead)](https://ahrefs.com/blog/what-ai-writing-tools-get-wrong-and-the-stack-i-use/) | Ahrefs Blog | 105 | AI Search | 2026-03-26 15:43 UTC |
 | [Is AI Content Bad for SEO? No, and It Never Will Be (7 Reasons)](https://ahrefs.com/blog/ai-content-is-not-bad-for-seo/) | Ahrefs Blog | 105 | AI Search | 2026-03-24 14:46 UTC |
@@ -69,8 +72,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google’s releasing Google-Agent: Here’s what to know](https://www.semrush.com/blog/google-ai-agent/) | Semrush Blog | 95 | General | 2026-03-26 07:53 UTC |
 | [12 SEO Techniques to Boost Your Visibility and Traffic [2026]](https://www.semrush.com/blog/seo-techniques/) | Semrush Blog | 95 | AI Search | 2026-03-25 11:32 UTC |
 | [Top 10 Marketing Conferences to Attend in 2026](https://www.semrush.com/blog/top-marketing-conferences-to-attend/) | Semrush Blog | 95 | Migration | 2026-03-24 17:50 UTC |
-| [How One Fractional CMO Uses Semrush One to Layer SEO and AEO Into One Growth Strategy](https://www.semrush.com/blog/fractional-cmo-drives-visibility-with-semrush-one/) | Semrush Blog | 95 | AI Search | 2026-03-24 16:00 UTC |
-| [How to Make the Most of the Free 7-Day Semrush One Trial](https://www.semrush.com/blog/free-7-day-semrush-one-trial/) | Semrush Blog | 95 | General | 2026-03-24 14:24 UTC |
 
 ## Notes
 

@@ -24,11 +24,15 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Is Google Ditching Blue Background For AI Citations?](https://www.seroundtable.com/white-background-tested-for-ai-overview-citations-41123.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-30 11:31 UTC |
 | [Bing Shopping Tests AI-Based Recommendations](https://www.seroundtable.com/bing-shopping-ai-based-recommendations-41113.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-30 11:21 UTC |
 | [Bing Gives Product Ads Some Cushion](https://www.seroundtable.com/bing-tests-larger-product-ads-format-on-serp-41124.html) | Search Engine Roundtable | 210 | General | 2026-03-30 11:11 UTC |
+| [AI agents and agentic AI vs. traditional automation](https://searchengineland.com/guide/ai-agents-and-agentic-ai-vs-traditional-automation) | Search Engine Land | 200 | AI Search | 2026-03-30 16:45 UTC |
+| [New AI Jobs Index Ranks 784 Occupations By Loss Risk](https://www.searchenginejournal.com/new-ai-jobs-index-ranks-784-occupations-by-loss-risk/570867/) | Search Engine Journal | 200 | Indexing | 2026-03-30 16:26 UTC |
 | [TurboQuant Has The Potential To Fundamentally Change How Search (And AI) Works](https://www.searchenginejournal.com/turboquant-has-the-potential-to-fundamentally-change-how-search-and-ai-works/570728/) | Search Engine Journal | 200 | Indexing | 2026-03-30 13:00 UTC |
 | [Reporting Uncertainty Without Losing Credibility](https://www.searchenginejournal.com/reporting-uncertainty-without-losing-credibility/569141/) | Search Engine Journal | 200 | AI Search | 2026-03-30 12:00 UTC |
-| [Why New Google-Agent May Be A Pivot Related To OpenClaw Trend](https://www.searchenginejournal.com/why-new-google-agent-may-be-a-pivot-related-to-openclaw-trend/570764/) | Search Engine Journal | 200 | Indexing | 2026-03-30 09:42 UTC |
+| [Why New Google-Agent May Be A Pivot Related To OpenClaw Trend](https://www.searchenginejournal.com/why-new-google-agent-may-be-a-pivot-related-to-openclaw-trend/570764/) | Search Engine Journal | 180 | Indexing | 2026-03-30 09:42 UTC |
 | [Google Gemini Sends More Traffic To Sites Than Perplexity: Report](https://www.searchenginejournal.com/google-gemini-sends-more-traffic-to-sites-than-perplexity-report/570714/) | Search Engine Journal | 180 | AI Search | 2026-03-30 05:00 UTC |
 | [The Death Of The Static GBP: Why Dynamic Profiles Are The New Local Ranking Factor](https://www.searchenginejournal.com/why-dynamic-profiles-are-the-new-local-ranking-factor/568200/) | Search Engine Journal | 160 | Local SEO | 2026-03-29 12:00 UTC |
+| [How to measure brand awareness: 9 methods that matter](https://www.semrush.com/blog/measure-brand-awareness/) | Semrush Blog | 150 | AI Search | 2026-03-30 16:03 UTC |
+| [What 3,900 SEO Job Listings Reveal for 2026: Experiments, AI, and Six-Figure Salaries](https://www.semrush.com/blog/seo-job-market-study/) | Semrush Blog | 150 | AI Search | 2026-03-30 15:00 UTC |
 
 ## Notes for manual writing
 
