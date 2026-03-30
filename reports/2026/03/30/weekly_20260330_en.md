@@ -38,7 +38,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Bing Testing Rounded Corners On Short Videos](https://www.seroundtable.com/bing-rounded-corners-videos-41106.html) | Search Engine Roundtable | 155 | General | 2026-03-27 11:11 UTC |
 | [Daily Search Forum Recap: March 26, 2026](https://www.seroundtable.com/recap-03-26-2026-41116.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-26 14:00 UTC |
 | [How to measure brand awareness: 9 methods that matter](https://www.semrush.com/blog/measure-brand-awareness/) | Semrush Blog | 150 | AI Search | 2026-03-30 16:03 UTC |
-| [What 3,900 SEO Job Listings Reveal for 2026: Experiments, AI, and Six-Figure Salaries](https://www.semrush.com/blog/seo-job-market-study/) | Semrush Blog | 150 | AI Search | 2026-03-30 15:00 UTC |
 | [Why Google's New "Google-Agent" Is The Biggest Mindset Shift In SEO History](https://www.searchenginejournal.com/why-googles-new-google-agent-is-the-biggest-mindset-shift-in-seo-history/570590/) | Search Engine Journal | 145 | GSC | 2026-03-27 13:30 UTC |
 | [Google Tests AI Headlines, Rolls Out Spam Update](https://www.searchenginejournal.com/seo-pulse-google-tests-ai-headlines-rolls-out-spam-update/570613/) | Search Engine Journal | 145 | AI Search | 2026-03-27 12:30 UTC |
 | [Google Adds Scenario Planner, Performance Max Updates, And Veo](https://www.searchenginejournal.com/ppc-pulse-google-adds-scenario-planner-performance-max-updates-and-veo/570617/) | Search Engine Journal | 145 | AI Search | 2026-03-27 11:30 UTC |
@@ -61,6 +60,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Research Shows Where Persona Prompting Works And When It Backfires](https://www.searchenginejournal.com/research-you-are-an-expert-prompts-can-damage-factual-accuracy/570397/) | Search Engine Journal | 145 | General | 2026-03-24 12:38 UTC |
 | [How To Determine What Paid Media Channels Are Right for You](https://www.searchenginejournal.com/how-to-determine-what-paid-media-channels-are-right-for-you/569731/) | Search Engine Journal | 145 | AI Search | 2026-03-24 12:00 UTC |
 | [SEO 2.0: How Content Marketing Drives Visibility in AI Search](https://www.searchenginejournal.com/seo-2-0-how-content-marketing-drives-visibility-in-ai-search/570308/) | Search Engine Journal | 145 | AI Search | 2026-03-24 07:45 UTC |
+| [What 3,900 SEO Job Listings Reveal for 2026: Experiments, AI, and Six-Figure Salaries](https://www.semrush.com/blog/seo-job-market-study/) | Semrush Blog | 130 | AI Search | 2026-03-30 15:00 UTC |
 | [Google Web Guide: What It Is, How It Works, and What It Means for SEO](https://ahrefs.com/blog/google-web-guide/) | Ahrefs Blog | 105 | AI Search | 2026-03-26 16:50 UTC |
 | [What AI Writing Tools Get Wrong (And The Stack I Use Instead)](https://ahrefs.com/blog/what-ai-writing-tools-get-wrong-and-the-stack-i-use/) | Ahrefs Blog | 105 | AI Search | 2026-03-26 15:43 UTC |
 | [Is AI Content Bad for SEO? No, and It Never Will Be (7 Reasons)](https://ahrefs.com/blog/ai-content-is-not-bad-for-seo/) | Ahrefs Blog | 105 | AI Search | 2026-03-24 14:46 UTC |

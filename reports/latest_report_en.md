@@ -33,7 +33,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Gemini Sends More Traffic To Sites Than Perplexity: Report](https://www.searchenginejournal.com/google-gemini-sends-more-traffic-to-sites-than-perplexity-report/570714/) | Search Engine Journal | 180 | AI Search | 2026-03-30 05:00 UTC |
 | [The Death Of The Static GBP: Why Dynamic Profiles Are The New Local Ranking Factor](https://www.searchenginejournal.com/why-dynamic-profiles-are-the-new-local-ranking-factor/568200/) | Search Engine Journal | 160 | Local SEO | 2026-03-29 12:00 UTC |
 | [How to measure brand awareness: 9 methods that matter](https://www.semrush.com/blog/measure-brand-awareness/) | Semrush Blog | 150 | AI Search | 2026-03-30 16:03 UTC |
-| [What 3,900 SEO Job Listings Reveal for 2026: Experiments, AI, and Six-Figure Salaries](https://www.semrush.com/blog/seo-job-market-study/) | Semrush Blog | 150 | AI Search | 2026-03-30 15:00 UTC |
+| [What 3,900 SEO Job Listings Reveal for 2026: Experiments, AI, and Six-Figure Salaries](https://www.semrush.com/blog/seo-job-market-study/) | Semrush Blog | 130 | AI Search | 2026-03-30 15:00 UTC |
 
 ## Notes for manual writing
 
