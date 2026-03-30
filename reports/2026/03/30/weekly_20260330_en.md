@@ -12,7 +12,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google: Pages Are Getting Larger & It Still Matters](https://www.searchenginejournal.com/google-pages-are-getting-larger-it-still-matters/570875/) | Search Engine Journal | 200 | Indexing | 2026-03-30 17:09 UTC |
 | [Daily Search Forum Recap: March 30, 2026](https://www.seroundtable.com/recap-03-30-2026-41130.html) | Search Engine Roundtable | 190 | GSC | 2026-03-30 14:00 UTC |
 | [Google Search Console Performance Report Impressions Spiking???](https://www.seroundtable.com/google-search-console-performance-report-impressions-spiking-41129.html) | Search Engine Roundtable | 190 | GSC | 2026-03-30 11:51 UTC |
 | [Google Chimes In On Teen SEO Wants To Save Family Spain Vacation Rental](https://www.seroundtable.com/google-seo-spain-vacation-rental-41125.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-30 11:41 UTC |
@@ -21,6 +20,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Bing Gives Product Ads Some Cushion](https://www.seroundtable.com/bing-tests-larger-product-ads-format-on-serp-41124.html) | Search Engine Roundtable | 190 | General | 2026-03-30 11:11 UTC |
 | [Added new supported properties for Discussion Forum and QA Page markup](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Content | 2026-03-24 00:00 UTC |
 | [AI agents and agentic AI vs. traditional automation](https://searchengineland.com/guide/ai-agents-and-agentic-ai-vs-traditional-automation) | Search Engine Land | 180 | AI Search | 2026-03-30 16:45 UTC |
+| [Google: Pages Are Getting Larger & It Still Matters](https://www.searchenginejournal.com/google-pages-are-getting-larger-it-still-matters/570875/) | Search Engine Journal | 180 | Indexing | 2026-03-30 17:09 UTC |
 | [New AI Jobs Index Ranks 784 Occupations By Loss Risk](https://www.searchenginejournal.com/new-ai-jobs-index-ranks-784-occupations-by-loss-risk/570867/) | Search Engine Journal | 180 | Indexing | 2026-03-30 16:26 UTC |
 | [TurboQuant Has The Potential To Fundamentally Change How Search (And AI) Works](https://www.searchenginejournal.com/turboquant-has-the-potential-to-fundamentally-change-how-search-and-ai-works/570728/) | Search Engine Journal | 180 | Indexing | 2026-03-30 13:00 UTC |
 | [Reporting Uncertainty Without Losing Credibility](https://www.searchenginejournal.com/reporting-uncertainty-without-losing-credibility/569141/) | Search Engine Journal | 180 | AI Search | 2026-03-30 12:00 UTC |
