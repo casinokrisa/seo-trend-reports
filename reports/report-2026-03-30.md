@@ -18,10 +18,10 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: March 30, 2026](https://www.seroundtable.com/recap-03-30-2026-41130.html) | Search Engine Roundtable | 210 | GSC | 2026-03-30 14:00 UTC |
 | [AI agents and agentic AI vs. traditional automation](https://searchengineland.com/guide/ai-agents-and-agentic-ai-vs-traditional-automation) | Search Engine Land | 200 | AI Search | 2026-03-30 16:45 UTC |
 | [Google: Pages Are Getting Larger & It Still Matters](https://www.searchenginejournal.com/google-pages-are-getting-larger-it-still-matters/570875/) | Search Engine Journal | 200 | Indexing | 2026-03-30 17:09 UTC |
 | [New AI Jobs Index Ranks 784 Occupations By Loss Risk](https://www.searchenginejournal.com/new-ai-jobs-index-ranks-784-occupations-by-loss-risk/570867/) | Search Engine Journal | 200 | Indexing | 2026-03-30 16:26 UTC |
+| [Daily Search Forum Recap: March 30, 2026](https://www.seroundtable.com/recap-03-30-2026-41130.html) | Search Engine Roundtable | 190 | GSC | 2026-03-30 14:00 UTC |
 | [Google Search Console Performance Report Impressions Spiking???](https://www.seroundtable.com/google-search-console-performance-report-impressions-spiking-41129.html) | Search Engine Roundtable | 190 | GSC | 2026-03-30 11:51 UTC |
 | [Google Chimes In On Teen SEO Wants To Save Family Spain Vacation Rental](https://www.seroundtable.com/google-seo-spain-vacation-rental-41125.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-30 11:41 UTC |
 | [Is Google Ditching Blue Background For AI Citations?](https://www.seroundtable.com/white-background-tested-for-ai-overview-citations-41123.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-30 11:31 UTC |
