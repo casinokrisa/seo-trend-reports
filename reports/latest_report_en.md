@@ -18,9 +18,16 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google Search Console Performance Report Impressions Spiking???](https://www.seroundtable.com/google-search-console-performance-report-impressions-spiking-41129.html) | Search Engine Roundtable | 210 | GSC | 2026-03-30 11:51 UTC |
+| [Google Chimes In On Teen SEO Wants To Save Family Spain Vacation Rental](https://www.seroundtable.com/google-seo-spain-vacation-rental-41125.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-30 11:41 UTC |
+| [Is Google Ditching Blue Background For AI Citations?](https://www.seroundtable.com/white-background-tested-for-ai-overview-citations-41123.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-30 11:31 UTC |
+| [Bing Shopping Tests AI-Based Recommendations](https://www.seroundtable.com/bing-shopping-ai-based-recommendations-41113.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-30 11:21 UTC |
+| [Bing Gives Product Ads Some Cushion](https://www.seroundtable.com/bing-tests-larger-product-ads-format-on-serp-41124.html) | Search Engine Roundtable | 210 | General | 2026-03-30 11:11 UTC |
+| [TurboQuant Has The Potential To Fundamentally Change How Search (And AI) Works](https://www.searchenginejournal.com/turboquant-has-the-potential-to-fundamentally-change-how-search-and-ai-works/570728/) | Search Engine Journal | 200 | Indexing | 2026-03-30 13:00 UTC |
+| [Reporting Uncertainty Without Losing Credibility](https://www.searchenginejournal.com/reporting-uncertainty-without-losing-credibility/569141/) | Search Engine Journal | 200 | AI Search | 2026-03-30 12:00 UTC |
 | [Why New Google-Agent May Be A Pivot Related To OpenClaw Trend](https://www.searchenginejournal.com/why-new-google-agent-may-be-a-pivot-related-to-openclaw-trend/570764/) | Search Engine Journal | 200 | Indexing | 2026-03-30 09:42 UTC |
 | [Google Gemini Sends More Traffic To Sites Than Perplexity: Report](https://www.searchenginejournal.com/google-gemini-sends-more-traffic-to-sites-than-perplexity-report/570714/) | Search Engine Journal | 180 | AI Search | 2026-03-30 05:00 UTC |
-| [The Death Of The Static GBP: Why Dynamic Profiles Are The New Local Ranking Factor](https://www.searchenginejournal.com/why-dynamic-profiles-are-the-new-local-ranking-factor/568200/) | Search Engine Journal | 180 | Local SEO | 2026-03-29 12:00 UTC |
+| [The Death Of The Static GBP: Why Dynamic Profiles Are The New Local Ranking Factor](https://www.searchenginejournal.com/why-dynamic-profiles-are-the-new-local-ranking-factor/568200/) | Search Engine Journal | 160 | Local SEO | 2026-03-29 12:00 UTC |
 
 ## Notes for manual writing
 
