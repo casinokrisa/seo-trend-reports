@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Daily Search Forum Recap: March 30, 2026](https://www.seroundtable.com/recap-03-30-2026-41130.html) | Search Engine Roundtable | 210 | GSC | 2026-03-30 14:00 UTC |
 | [Google Search Console Performance Report Impressions Spiking???](https://www.seroundtable.com/google-search-console-performance-report-impressions-spiking-41129.html) | Search Engine Roundtable | 210 | GSC | 2026-03-30 11:51 UTC |
 | [Google Chimes In On Teen SEO Wants To Save Family Spain Vacation Rental](https://www.seroundtable.com/google-seo-spain-vacation-rental-41125.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-30 11:41 UTC |
 | [Is Google Ditching Blue Background For AI Citations?](https://www.seroundtable.com/white-background-tested-for-ai-overview-citations-41123.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-30 11:31 UTC |
@@ -33,7 +34,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads PMax Audience Exclusions &amp; New Reporting](https://www.seroundtable.com/google-ads-pmax-audience-exclusions-reporting-41118.html) | Search Engine Roundtable | 155 | General | 2026-03-27 11:21 UTC |
 | [Bing Testing Rounded Corners On Short Videos](https://www.seroundtable.com/bing-rounded-corners-videos-41106.html) | Search Engine Roundtable | 155 | General | 2026-03-27 11:11 UTC |
 | [Daily Search Forum Recap: March 26, 2026](https://www.seroundtable.com/recap-03-26-2026-41116.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-26 14:00 UTC |
-| [Google Tests Huge Block of Citations at Bottom of AI Overviews](https://www.seroundtable.com/block-of-citations-tested-beneath-ai-overview-summary-41105.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-26 11:51 UTC |
 | [Why Google's New "Google-Agent" Is The Biggest Mindset Shift In SEO History](https://www.searchenginejournal.com/why-googles-new-google-agent-is-the-biggest-mindset-shift-in-seo-history/570590/) | Search Engine Journal | 145 | GSC | 2026-03-27 13:30 UTC |
 | [Google Tests AI Headlines, Rolls Out Spam Update](https://www.searchenginejournal.com/seo-pulse-google-tests-ai-headlines-rolls-out-spam-update/570613/) | Search Engine Journal | 145 | AI Search | 2026-03-27 12:30 UTC |
 | [Google Adds Scenario Planner, Performance Max Updates, And Veo](https://www.searchenginejournal.com/ppc-pulse-google-adds-scenario-planner-performance-max-updates-and-veo/570617/) | Search Engine Journal | 145 | AI Search | 2026-03-27 11:30 UTC |
