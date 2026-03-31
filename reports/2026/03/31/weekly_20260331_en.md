@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Built a tool that automates the full GBP geogrid → content → posting pipeline. Looking for early feedback.](https://www.reddit.com/r/localseo/comments/1s8esj0/built_a_tool_that_automates_the_full_gbp_geogrid/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-03-31 05:37 UTC |
-| [Any tips to improve my Google Business Profile ranking?](https://www.reddit.com/r/localseo/comments/1s8erss/any_tips_to_improve_my_google_business_profile/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-03-31 05:36 UTC |
-| [How does Including LLM chats in website help with SEO or AEO?](https://www.reddit.com/r/SEO/comments/1s8efnt/how_does_including_llm_chats_in_website_help_with/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Links | 2026-03-31 05:18 UTC |
-| [Spent a few months studying outbound, share some insights](https://www.reddit.com/r/DigitalMarketing/comments/1s8dxqx/spent_a_few_months_studying_outbound_share_some/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Links | 2026-03-31 04:52 UTC |
-| [Spent 3 months thinking our copy was broken. it wasn't. here's what actually was.](https://www.reddit.com/r/DigitalMarketing/comments/1s8d18g/spent_3_months_thinking_our_copy_was_broken_it/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-31 04:04 UTC |
-| [Forgot to cancel Semrush free trial](https://www.reddit.com/r/DigitalMarketing/comments/1s8czgy/forgot_to_cancel_semrush_free_trial/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-31 04:02 UTC |
-| [Everyone talks about SEO and keywords but nobody mentions the one file that could be blocking Google from seeing your entire website](https://www.reddit.com/r/bigseo/comments/1s8bn5s/everyone_talks_about_seo_and_keywords_but_nobody/) | [r/bigseo](https://www.reddit.com/r/bigseo) | — | — | Indexing | 2026-03-31 02:57 UTC |
-| [URGENT Google Ads Editor bug breaking translated copy, TikTok blocks programmatic for premium ads, & the WTO tariff shock.](https://www.reddit.com/r/DigitalMarketing/comments/1s8bke6/urgent_google_ads_editor_bug_breaking_translated/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Content | 2026-03-31 02:54 UTC |
-| [Is PPC the least AI-affected niche in digital marketing?](https://www.reddit.com/r/DigitalMarketing/comments/1s8aix4/is_ppc_the_least_aiaffected_niche_in_digital/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-03-31 02:07 UTC |
-| [Book, learning opportunities for 2026](https://www.reddit.com/r/DigitalMarketing/comments/1s89lgy/book_learning_opportunities_for_2026/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-03-31 01:25 UTC |
-| [How to evaluate influencer performance beyond vanity metrics](https://www.reddit.com/r/DigitalMarketing/comments/1s88r3v/how_to_evaluate_influencer_performance_beyond/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | GSC | 2026-03-31 00:47 UTC |
-| [Looking to make my first hire](https://www.reddit.com/r/localseo/comments/1s88i7h/looking_to_make_my_first_hire/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-03-31 00:36 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
