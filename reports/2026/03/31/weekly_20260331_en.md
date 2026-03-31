@@ -14,14 +14,14 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 |---|---|---:|---|---:|
 | [New Location for the Google Crawlers' IP Range Files](https://developers.google.com/search/blog/2026/03/crawler-ip-ranges) | Google Search Central Blog | 230 | Indexing | 2026-03-31 00:00 UTC |
 | [Inside Googlebot: demystifying crawling, fetching, and the bytes we process](https://developers.google.com/search/blog/2026/03/crawler-blog-post) | Google Search Central Blog | 230 | Indexing | 2026-03-31 00:00 UTC |
-| [Daily Search Forum Recap: March 31, 2026](https://www.seroundtable.com/recap-03-31-2026-41134.html) | Search Engine Roundtable | 210 | AI Search | 2026-03-31 14:00 UTC |
 | [Google Explains Googlebot Byte Limits And Crawling Architecture](https://www.searchenginejournal.com/google-explains-googlebot-byte-limits-and-crawling-architecture/570961/) | Search Engine Journal | 200 | Indexing | 2026-03-31 15:28 UTC |
-| [The Science Of What AI Actually Rewards](https://www.searchenginejournal.com/the-science-of-what-ai-actually-rewards/570849/) | Search Engine Journal | 200 | AI Search | 2026-03-31 13:30 UTC |
+| [Daily Search Forum Recap: March 31, 2026](https://www.seroundtable.com/recap-03-31-2026-41134.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-31 14:00 UTC |
 | [Google On Why Core Updates Take Weeks To Fully Roll Out](https://www.seroundtable.com/google-on-why-core-updates-take-weeks-41133.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-31 11:51 UTC |
 | [Bing Tests Sponsored Label That Is Almost Transparent](https://www.seroundtable.com/bing-transparent-sponsored-label-41131.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-31 11:41 UTC |
 | [ChatGPT Enables Location Sharing For More Localized Near Me Results](https://www.seroundtable.com/chatgpt-location-sharing-41128.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-31 11:31 UTC |
 | [Google Ads PMax Asset Group Theming](https://www.seroundtable.com/google-ads-pmax-asset-group-theming-41127.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-31 11:21 UTC |
 | [Google May Call, Text or WhatsApp To Confirm Business Details](https://www.seroundtable.com/google-business-profiles-call-text-or-whatsapp-41126.html) | Search Engine Roundtable | 190 | Local SEO | 2026-03-31 11:11 UTC |
+| [The Science Of What AI Actually Rewards](https://www.searchenginejournal.com/the-science-of-what-ai-actually-rewards/570849/) | Search Engine Journal | 180 | AI Search | 2026-03-31 13:30 UTC |
 | [So Your Traffic Tanked: What Smart CMOs Do Next](https://www.searchenginejournal.com/so-your-traffic-tanked-what-smart-cmos-do-next/570708/) | Search Engine Journal | 180 | General | 2026-03-31 13:00 UTC |
 | [WordPress Delays Release Of Version 7.0 To Focus On Stability](https://www.searchenginejournal.com/wordpress-delays-release-of-version-7-0-to-focus-on-stability/570944/) | Search Engine Journal | 180 | General | 2026-03-31 10:48 UTC |
 | [How To Identify Which LLM Is Actually Working For You [Webinar]](https://www.searchenginejournal.com/how-to-identify-which-llm-is-actually-working-for-your-or-your-clients-brand-webinar/570019/) | Search Engine Journal | 180 | AI Search | 2026-03-31 07:45 UTC |
@@ -59,9 +59,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Half Your Traffic Left. The SEO Industry Sent Thoughts and Frameworks](https://www.searchenginejournal.com/half-your-traffic-left-the-seo-industry-sent-thoughts-and-frameworks/570380/) | Search Engine Journal | 145 | General | 2026-03-25 13:30 UTC |
 | [How Zero-Party & First-Party Data Can Fuel Your Intent-Based SEO Strategy](https://www.searchenginejournal.com/zero-party-data-how-to-use-first-party-insights-to-power-intent-based-content-strategy/568189/) | Search Engine Journal | 145 | General | 2026-03-25 11:00 UTC |
 | [Is Your Website Ready for AI Search? A Practical Audit for CMOs](https://www.searchenginejournal.com/is-your-website-ready-for-ai-search-a-practical-audit-for-cmos/570413/) | Search Engine Journal | 145 | AI Search | 2026-03-25 07:45 UTC |
-| [Google Adds AI & Bot Labels To Forum, Q&A Structured Data](https://www.searchenginejournal.com/google-adds-ai-bot-labels-to-forum-qa-structured-data/570425/) | Search Engine Journal | 145 | AI Search | 2026-03-24 19:50 UTC |
-| [What Is an AI Agent? (And What AI Agents Mean for Your Brand’s Visibility)](https://www.semrush.com/blog/what-is-an-ai-agent/) | Semrush Blog | 130 | AI Search | 2026-03-30 20:48 UTC |
-| [The agentic web: How AI agents decide which brands make the cut](https://www.semrush.com/blog/the-agentic-web/) | Semrush Blog | 130 | AI Search | 2026-03-30 20:31 UTC |
+| [What Is an AI Agent? (And What AI Agents Mean for Your Brand’s Visibility)](https://www.semrush.com/blog/what-is-an-ai-agent/) | Semrush Blog | 110 | AI Search | 2026-03-30 20:48 UTC |
+| [The agentic web: How AI agents decide which brands make the cut](https://www.semrush.com/blog/the-agentic-web/) | Semrush Blog | 110 | AI Search | 2026-03-30 20:31 UTC |
 | [How to measure brand awareness: 9 methods that matter](https://www.semrush.com/blog/measure-brand-awareness/) | Semrush Blog | 110 | AI Search | 2026-03-30 16:03 UTC |
 | [What 3,900 SEO Job Listings Reveal for 2026: Experiments, AI, and Six-Figure Salaries](https://www.semrush.com/blog/seo-job-market-study/) | Semrush Blog | 110 | AI Search | 2026-03-30 15:00 UTC |
 | [Google Web Guide: What It Is, How It Works, and What It Means for SEO](https://ahrefs.com/blog/google-web-guide/) | Ahrefs Blog | 105 | AI Search | 2026-03-26 16:50 UTC |
@@ -72,6 +71,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Will Google replace your landing pages with AI versions?](https://www.semrush.com/blog/google-ai-generated-landing-pages-patent/) | Semrush Blog | 95 | AI Search | 2026-03-26 20:10 UTC |
 | [Universal Commerce Protocol (UCP): What You Need to Know](https://www.semrush.com/blog/universal-commerce-protocol/) | Semrush Blog | 95 | General | 2026-03-26 19:58 UTC |
 | [Google’s releasing Google-Agent: Here’s what to know](https://www.semrush.com/blog/google-ai-agent/) | Semrush Blog | 95 | General | 2026-03-26 07:53 UTC |
+| [12 SEO Techniques to Boost Your Visibility and Traffic [2026]](https://www.semrush.com/blog/seo-techniques/) | Semrush Blog | 95 | AI Search | 2026-03-25 11:32 UTC |
 
 ## Notes
 
