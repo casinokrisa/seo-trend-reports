@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [How To Identify Which LLM Is Actually Working For You [Webinar]](https://www.searchenginejournal.com/how-to-identify-which-llm-is-actually-working-for-your-or-your-clients-brand-webinar/570019/) | Search Engine Journal | 200 | AI Search | 2026-03-31 07:45 UTC |
 | [Daily Search Forum Recap: March 30, 2026](https://www.seroundtable.com/recap-03-30-2026-41130.html) | Search Engine Roundtable | 190 | GSC | 2026-03-30 14:00 UTC |
 | [Google Search Console Performance Report Impressions Spiking???](https://www.seroundtable.com/google-search-console-performance-report-impressions-spiking-41129.html) | Search Engine Roundtable | 190 | GSC | 2026-03-30 11:51 UTC |
 | [Google Chimes In On Teen SEO Wants To Save Family Spain Vacation Rental](https://www.seroundtable.com/google-seo-spain-vacation-rental-41125.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-30 11:41 UTC |
@@ -57,7 +58,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [The Science Of How AI Picks Its Sources](https://www.searchenginejournal.com/the-science-of-how-ai-picks-its-sources/570328/) | Search Engine Journal | 145 | AI Search | 2026-03-24 13:30 UTC |
 | [Research Shows Where Persona Prompting Works And When It Backfires](https://www.searchenginejournal.com/research-you-are-an-expert-prompts-can-damage-factual-accuracy/570397/) | Search Engine Journal | 145 | General | 2026-03-24 12:38 UTC |
 | [How To Determine What Paid Media Channels Are Right for You](https://www.searchenginejournal.com/how-to-determine-what-paid-media-channels-are-right-for-you/569731/) | Search Engine Journal | 145 | AI Search | 2026-03-24 12:00 UTC |
-| [SEO 2.0: How Content Marketing Drives Visibility in AI Search](https://www.searchenginejournal.com/seo-2-0-how-content-marketing-drives-visibility-in-ai-search/570308/) | Search Engine Journal | 145 | AI Search | 2026-03-24 07:45 UTC |
 | [What Is an AI Agent? (And What AI Agents Mean for Your Brand’s Visibility)](https://www.semrush.com/blog/what-is-an-ai-agent/) | Semrush Blog | 130 | AI Search | 2026-03-30 20:48 UTC |
 | [The agentic web: How AI agents decide which brands make the cut](https://www.semrush.com/blog/the-agentic-web/) | Semrush Blog | 130 | AI Search | 2026-03-30 20:31 UTC |
 | [How to measure brand awareness: 9 methods that matter](https://www.semrush.com/blog/measure-brand-awareness/) | Semrush Blog | 130 | AI Search | 2026-03-30 16:03 UTC |
