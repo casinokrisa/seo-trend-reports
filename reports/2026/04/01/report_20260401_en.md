@@ -31,12 +31,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [So Your Traffic Tanked: What Smart CMOs Do Next](https://www.searchenginejournal.com/so-your-traffic-tanked-what-smart-cmos-do-next/570708/) | Search Engine Journal | 180 | General | 2026-03-31 13:00 UTC |
 | [WordPress Delays Release Of Version 7.0 To Focus On Stability](https://www.searchenginejournal.com/wordpress-delays-release-of-version-7-0-to-focus-on-stability/570944/) | Search Engine Journal | 180 | General | 2026-03-31 10:48 UTC |
 | [How To Identify Which LLM Is Actually Working For You [Webinar]](https://www.searchenginejournal.com/how-to-identify-which-llm-is-actually-working-for-your-or-your-clients-brand-webinar/570019/) | Search Engine Journal | 180 | AI Search | 2026-03-31 07:45 UTC |
-| [AI agents and agentic AI vs. traditional automation](https://searchengineland.com/guide/ai-agents-and-agentic-ai-vs-traditional-automation) | Search Engine Land | 160 | AI Search | 2026-03-30 16:45 UTC |
-| [Google: Pages Are Getting Larger & It Still Matters](https://www.searchenginejournal.com/google-pages-are-getting-larger-it-still-matters/570875/) | Search Engine Journal | 160 | Indexing | 2026-03-30 17:09 UTC |
-| [New AI Jobs Index Ranks 784 Occupations By Loss Risk](https://www.searchenginejournal.com/new-ai-jobs-index-ranks-784-occupations-by-loss-risk/570867/) | Search Engine Journal | 160 | Indexing | 2026-03-30 16:26 UTC |
 | [What Is an AI Agent? (And What AI Agents Mean for Your Brand’s Visibility)](https://www.semrush.com/blog/what-is-an-ai-agent/) | Semrush Blog | 110 | AI Search | 2026-03-30 20:48 UTC |
 | [The agentic web: How AI agents decide which brands make the cut](https://www.semrush.com/blog/the-agentic-web/) | Semrush Blog | 110 | AI Search | 2026-03-30 20:31 UTC |
-| [How to measure brand awareness: 9 methods that matter](https://www.semrush.com/blog/measure-brand-awareness/) | Semrush Blog | 110 | AI Search | 2026-03-30 16:03 UTC |
 
 ## Notes for manual writing
 
