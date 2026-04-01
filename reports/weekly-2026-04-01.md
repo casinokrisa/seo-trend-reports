@@ -6,7 +6,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [before I go further I'll say this took me an embarrassingly long time to figure out.](https://www.reddit.com/r/DigitalMarketing/comments/1s9bei2/before_i_go_further_ill_say_this_took_me_an/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-01 05:19 UTC |
+| [Anthropic Leak: Internal Claude Codebase and Agent Tools Exposed](https://www.reddit.com/r/SEO/comments/1s9b8s5/anthropic_leak_internal_claude_codebase_and_agent/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Links | 2026-04-01 05:10 UTC |
+| [How do you verify your tracking is actually working before you spend real budget?](https://www.reddit.com/r/DigitalMarketing/comments/1s9aoco/how_do_you_verify_your_tracking_is_actually/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-01 04:40 UTC |
+| [How many social accounts is one person realistically managing before quality breaks?](https://www.reddit.com/r/DigitalMarketing/comments/1s9akuh/how_many_social_accounts_is_one_person/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Links | 2026-04-01 04:35 UTC |
+| [What happened to my website???](https://www.reddit.com/r/TechSEO/comments/1s99uy7/what_happened_to_my_website/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | GSC | 2026-04-01 03:59 UTC |
+| [Has anyone actually hired a dedicated restaurant marketing agency? Worth it or not?](https://www.reddit.com/r/DigitalMarketing/comments/1s99b8k/has_anyone_actually_hired_a_dedicated_restaurant/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-04-01 03:33 UTC |
+| [Should I block CSS and JS in Robot.txt](https://www.reddit.com/r/TechSEO/comments/1s99a97/should_i_block_css_and_js_in_robottxt/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | Indexing | 2026-04-01 03:31 UTC |
+| [How do I get followers as a new account?](https://www.reddit.com/r/DigitalMarketing/comments/1s995kj/how_do_i_get_followers_as_a_new_account/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-04-01 03:25 UTC |
+| [AI tools are everywhere now - how are agencies actually using them?](https://www.reddit.com/r/DigitalMarketing/comments/1s98s5j/ai_tools_are_everywhere_now_how_are_agencies/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-01 03:07 UTC |
+| [Has anyone else noticed Bingbot seemingly distilling your site search results?](https://www.reddit.com/r/SEO/comments/1s986qo/has_anyone_else_noticed_bingbot_seemingly/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Indexing | 2026-04-01 02:41 UTC |
+| [How To Handle Topical Cluster Model For Existing URL ?](https://www.reddit.com/r/SEO/comments/1s97d92/how_to_handle_topical_cluster_model_for_existing/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Links | 2026-04-01 02:04 UTC |
+| [Call for help - lost my job last week, going all-in on local SEO freelancing](https://www.reddit.com/r/localseo/comments/1s970bj/call_for_help_lost_my_job_last_week_going_allin/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-04-01 01:49 UTC |
 
 ## Weekly notable items (Sites)
 
