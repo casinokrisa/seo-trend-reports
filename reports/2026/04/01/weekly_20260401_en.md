@@ -14,6 +14,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 |---|---|---:|---|---:|
 | [New Location for the Google Crawlers' IP Range Files](https://developers.google.com/search/blog/2026/03/crawler-ip-ranges) | Google Search Central Blog | 210 | Indexing | 2026-03-31 00:00 UTC |
 | [Inside Googlebot: demystifying crawling, fetching, and the bytes we process](https://developers.google.com/search/blog/2026/03/crawler-blog-post) | Google Search Central Blog | 210 | Indexing | 2026-03-31 00:00 UTC |
+| [Google Answers Why Core Updates Can Roll Out In Stages](https://www.searchenginejournal.com/google-answers-why-core-updates-can-roll-out-in-stages/571003/) | Search Engine Journal | 200 | General | 2026-04-01 09:14 UTC |
 | [Daily Search Forum Recap: March 31, 2026](https://www.seroundtable.com/recap-03-31-2026-41134.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-31 14:00 UTC |
 | [Google On Why Core Updates Take Weeks To Fully Roll Out](https://www.seroundtable.com/google-on-why-core-updates-take-weeks-41133.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-31 11:51 UTC |
 | [Bing Tests Sponsored Label That Is Almost Transparent](https://www.seroundtable.com/bing-transparent-sponsored-label-41131.html) | Search Engine Roundtable | 190 | AI Search | 2026-03-31 11:41 UTC |
