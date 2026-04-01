@@ -12,14 +12,14 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: April 1, 2026](https://www.seroundtable.com/recap-04-01-2026-41138.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-01 14:00 UTC |
 | [New Location for the Google Crawlers' IP Range Files](https://developers.google.com/search/blog/2026/03/crawler-ip-ranges) | Google Search Central Blog | 210 | Indexing | 2026-03-31 00:00 UTC |
 | [Inside Googlebot: demystifying crawling, fetching, and the bytes we process](https://developers.google.com/search/blog/2026/03/crawler-blog-post) | Google Search Central Blog | 210 | Indexing | 2026-03-31 00:00 UTC |
-| [How To Do Evergreen Content In 2026 (And Beyond)](https://www.searchenginejournal.com/how-to-do-evergreen-content-in-2026-and-beyond/570903/) | Search Engine Journal | 200 | AI Search | 2026-04-01 13:30 UTC |
+| [Daily Search Forum Recap: April 1, 2026](https://www.seroundtable.com/recap-04-01-2026-41138.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-01 14:00 UTC |
 | [Programming Note: Offline For Passover Thursday &amp; Friday](https://www.seroundtable.com/programming-note-offline-for-passover-5786-41135.html) | Search Engine Roundtable | 190 | General | 2026-04-01 11:51 UTC |
 | [Google Ask Maps Fully Available In US and India](https://www.seroundtable.com/google-ask-maps-available-us-and-india-41137.html) | Search Engine Roundtable | 190 | Local SEO | 2026-04-01 11:31 UTC |
 | [Google Explains Googlebot Crawling, Fetching &amp; Byte Limits](https://www.seroundtable.com/google-explains-googlebot-41136.html) | Search Engine Roundtable | 190 | Indexing | 2026-04-01 11:21 UTC |
 | [Microsoft Advertising Merchant Center Enables Store &amp; Domain Name Updates](https://www.seroundtable.com/microsoft-advertising-merchant-center-store-domain-name-update-41132.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-01 11:11 UTC |
+| [How To Do Evergreen Content In 2026 (And Beyond)](https://www.searchenginejournal.com/how-to-do-evergreen-content-in-2026-and-beyond/570903/) | Search Engine Journal | 180 | AI Search | 2026-04-01 13:30 UTC |
 | [Building An In-House PPC Team: Why A Hybrid Model May Protect Your Ad Spend](https://www.searchenginejournal.com/building-an-in-house-ppc-team-why-a-hybrid-model-may-protect-your-ad-spend/569020/) | Search Engine Journal | 180 | General | 2026-04-01 12:30 UTC |
 | [Who Owns SEO In The Enterprise? The Accountability Gap That Kills Performance](https://www.searchenginejournal.com/who-owns-seo-in-the-enterprise-the-accountability-gap-that-kills-performance/566095/) | Search Engine Journal | 180 | AI Search | 2026-04-01 11:30 UTC |
 | [Google Answers Why Core Updates Can Roll Out In Stages](https://www.searchenginejournal.com/google-answers-why-core-updates-can-roll-out-in-stages/571003/) | Search Engine Journal | 180 | General | 2026-04-01 09:14 UTC |
@@ -47,8 +47,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Why New Google-Agent May Be A Pivot Related To OpenClaw Trend](https://www.searchenginejournal.com/why-new-google-agent-may-be-a-pivot-related-to-openclaw-trend/570764/) | Search Engine Journal | 160 | Indexing | 2026-03-30 09:42 UTC |
 | [Google Gemini Sends More Traffic To Sites Than Perplexity: Report](https://www.searchenginejournal.com/google-gemini-sends-more-traffic-to-sites-than-perplexity-report/570714/) | Search Engine Journal | 160 | AI Search | 2026-03-30 05:00 UTC |
 | [Does AI content rank well in search? [Survey + Data study]](https://www.semrush.com/blog/does-ai-content-rank-in-search-data-study/) | Semrush Blog | 150 | AI Search | 2026-04-01 16:09 UTC |
-| [8 Best AI SEO Tools for 2026 (Tested Firsthand)](https://www.semrush.com/blog/best-ai-seo-tools/) | Semrush Blog | 150 | AI Search | 2026-04-01 14:05 UTC |
-| [The 9 Best LLM Monitoring Tools for Brand Visibility in 2026](https://www.semrush.com/blog/llm-monitoring-tools/) | Semrush Blog | 150 | AI Search | 2026-04-01 14:05 UTC |
 | [The Death Of The Static GBP: Why Dynamic Profiles Are The New Local Ranking Factor](https://www.searchenginejournal.com/why-dynamic-profiles-are-the-new-local-ranking-factor/568200/) | Search Engine Journal | 145 | Local SEO | 2026-03-29 12:00 UTC |
 | [Answer Engine Optimization: How To Get Your Content Into AI Responses](https://www.searchenginejournal.com/answer-engine-optimization-how-to-get-your-content-into-ai-responses/570055/) | Search Engine Journal | 145 | AI Search | 2026-03-28 12:00 UTC |
 | [Why Google's New "Google-Agent" Is The Biggest Mindset Shift In SEO History](https://www.searchenginejournal.com/why-googles-new-google-agent-is-the-biggest-mindset-shift-in-seo-history/570590/) | Search Engine Journal | 145 | GSC | 2026-03-27 13:30 UTC |
@@ -62,6 +60,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [When The Training Data Cutoff Becomes A Ranking Factor](https://www.searchenginejournal.com/when-the-training-data-cutoff-becomes-a-ranking-factor/570438/) | Search Engine Journal | 145 | AI Search | 2026-03-26 12:50 UTC |
 | [Are We Due Another Florida-Style Update?](https://www.searchenginejournal.com/are-we-due-another-florida-style-update/570102/) | Search Engine Journal | 145 | AI Search | 2026-03-26 12:00 UTC |
 | [Google's March Spam Update Felt Muted But May Signal Bigger Changes](https://www.searchenginejournal.com/googles-march-spam-update-felt-muted-but-may-signal-bigger-changes/570541/) | Search Engine Journal | 145 | General | 2026-03-26 10:43 UTC |
+| [8 Best AI SEO Tools for 2026 (Tested Firsthand)](https://www.semrush.com/blog/best-ai-seo-tools/) | Semrush Blog | 130 | AI Search | 2026-04-01 14:05 UTC |
+| [The 9 Best LLM Monitoring Tools for Brand Visibility in 2026](https://www.semrush.com/blog/llm-monitoring-tools/) | Semrush Blog | 130 | AI Search | 2026-04-01 14:05 UTC |
 | [AI content optimization: The complete guide](https://www.semrush.com/blog/ai-content-optimization/) | Semrush Blog | 130 | AI Search | 2026-04-01 08:21 UTC |
 | [What Is an AI Agent? (And What AI Agents Mean for Your Brand’s Visibility)](https://www.semrush.com/blog/what-is-an-ai-agent/) | Semrush Blog | 110 | AI Search | 2026-03-30 20:48 UTC |
 | [The agentic web: How AI agents decide which brands make the cut](https://www.semrush.com/blog/the-agentic-web/) | Semrush Blog | 110 | AI Search | 2026-03-30 20:31 UTC |
