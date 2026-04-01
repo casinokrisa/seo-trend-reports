@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [before I go further I'll say this took me an embarrassingly long time to figure out.](https://www.reddit.com/r/DigitalMarketing/comments/1s9bei2/before_i_go_further_ill_say_this_took_me_an/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-01 05:19 UTC |
-| [Anthropic Leak: Internal Claude Codebase and Agent Tools Exposed](https://www.reddit.com/r/SEO/comments/1s9b8s5/anthropic_leak_internal_claude_codebase_and_agent/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Links | 2026-04-01 05:10 UTC |
-| [How do you verify your tracking is actually working before you spend real budget?](https://www.reddit.com/r/DigitalMarketing/comments/1s9aoco/how_do_you_verify_your_tracking_is_actually/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-01 04:40 UTC |
-| [How many social accounts is one person realistically managing before quality breaks?](https://www.reddit.com/r/DigitalMarketing/comments/1s9akuh/how_many_social_accounts_is_one_person/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Links | 2026-04-01 04:35 UTC |
-| [What happened to my website???](https://www.reddit.com/r/TechSEO/comments/1s99uy7/what_happened_to_my_website/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | GSC | 2026-04-01 03:59 UTC |
-| [Has anyone actually hired a dedicated restaurant marketing agency? Worth it or not?](https://www.reddit.com/r/DigitalMarketing/comments/1s99b8k/has_anyone_actually_hired_a_dedicated_restaurant/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-04-01 03:33 UTC |
-| [Should I block CSS and JS in Robot.txt](https://www.reddit.com/r/TechSEO/comments/1s99a97/should_i_block_css_and_js_in_robottxt/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | Indexing | 2026-04-01 03:31 UTC |
-| [How do I get followers as a new account?](https://www.reddit.com/r/DigitalMarketing/comments/1s995kj/how_do_i_get_followers_as_a_new_account/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-04-01 03:25 UTC |
-| [AI tools are everywhere now - how are agencies actually using them?](https://www.reddit.com/r/DigitalMarketing/comments/1s98s5j/ai_tools_are_everywhere_now_how_are_agencies/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-01 03:07 UTC |
-| [Has anyone else noticed Bingbot seemingly distilling your site search results?](https://www.reddit.com/r/SEO/comments/1s986qo/has_anyone_else_noticed_bingbot_seemingly/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Indexing | 2026-04-01 02:41 UTC |
-| [How To Handle Topical Cluster Model For Existing URL ?](https://www.reddit.com/r/SEO/comments/1s97d92/how_to_handle_topical_cluster_model_for_existing/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Links | 2026-04-01 02:04 UTC |
-| [Call for help - lost my job last week, going all-in on local SEO freelancing](https://www.reddit.com/r/localseo/comments/1s970bj/call_for_help_lost_my_job_last_week_going_allin/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-04-01 01:49 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
@@ -35,7 +24,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [The Science Of What AI Actually Rewards](https://www.searchenginejournal.com/the-science-of-what-ai-actually-rewards/570849/) | Search Engine Journal | 180 | AI Search | 2026-03-31 13:30 UTC |
 | [So Your Traffic Tanked: What Smart CMOs Do Next](https://www.searchenginejournal.com/so-your-traffic-tanked-what-smart-cmos-do-next/570708/) | Search Engine Journal | 180 | General | 2026-03-31 13:00 UTC |
 | [WordPress Delays Release Of Version 7.0 To Focus On Stability](https://www.searchenginejournal.com/wordpress-delays-release-of-version-7-0-to-focus-on-stability/570944/) | Search Engine Journal | 180 | General | 2026-03-31 10:48 UTC |
-| [How To Identify Which LLM Is Actually Working For You [Webinar]](https://www.searchenginejournal.com/how-to-identify-which-llm-is-actually-working-for-your-or-your-clients-brand-webinar/570019/) | Search Engine Journal | 180 | AI Search | 2026-03-31 07:45 UTC |
 | [Daily Search Forum Recap: March 30, 2026](https://www.seroundtable.com/recap-03-30-2026-41130.html) | Search Engine Roundtable | 170 | GSC | 2026-03-30 14:00 UTC |
 | [Google Search Console Performance Report Impressions Spiking???](https://www.seroundtable.com/google-search-console-performance-report-impressions-spiking-41129.html) | Search Engine Roundtable | 170 | GSC | 2026-03-30 11:51 UTC |
 | [Google Chimes In On Teen SEO Wants To Save Family Spain Vacation Rental](https://www.seroundtable.com/google-seo-spain-vacation-rental-41125.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-30 11:41 UTC |
@@ -43,6 +31,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Bing Shopping Tests AI-Based Recommendations](https://www.seroundtable.com/bing-shopping-ai-based-recommendations-41113.html) | Search Engine Roundtable | 170 | AI Search | 2026-03-30 11:21 UTC |
 | [Bing Gives Product Ads Some Cushion](https://www.seroundtable.com/bing-tests-larger-product-ads-format-on-serp-41124.html) | Search Engine Roundtable | 170 | General | 2026-03-30 11:11 UTC |
 | [AI agents and agentic AI vs. traditional automation](https://searchengineland.com/guide/ai-agents-and-agentic-ai-vs-traditional-automation) | Search Engine Land | 160 | AI Search | 2026-03-30 16:45 UTC |
+| [How To Identify Which LLM Is Actually Working For You [Webinar]](https://www.searchenginejournal.com/how-to-identify-which-llm-is-actually-working-for-your-or-your-clients-brand-webinar/570019/) | Search Engine Journal | 160 | AI Search | 2026-03-31 07:45 UTC |
 | [Google: Pages Are Getting Larger & It Still Matters](https://www.searchenginejournal.com/google-pages-are-getting-larger-it-still-matters/570875/) | Search Engine Journal | 160 | Indexing | 2026-03-30 17:09 UTC |
 | [New AI Jobs Index Ranks 784 Occupations By Loss Risk](https://www.searchenginejournal.com/new-ai-jobs-index-ranks-784-occupations-by-loss-risk/570867/) | Search Engine Journal | 160 | Indexing | 2026-03-30 16:26 UTC |
 | [TurboQuant Has The Potential To Fundamentally Change How Search (And AI) Works](https://www.searchenginejournal.com/turboquant-has-the-potential-to-fundamentally-change-how-search-and-ai-works/570728/) | Search Engine Journal | 160 | Indexing | 2026-03-30 13:00 UTC |
@@ -69,7 +58,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Analytics Launches Scenario Planner and Projections](https://www.searchenginejournal.com/google-analytics-launches-scenario-planner-and-projections/570520/) | Search Engine Journal | 145 | General | 2026-03-25 17:07 UTC |
 | [Half Your Traffic Left. The SEO Industry Sent Thoughts and Frameworks](https://www.searchenginejournal.com/half-your-traffic-left-the-seo-industry-sent-thoughts-and-frameworks/570380/) | Search Engine Journal | 145 | General | 2026-03-25 13:30 UTC |
 | [How Zero-Party & First-Party Data Can Fuel Your Intent-Based SEO Strategy](https://www.searchenginejournal.com/zero-party-data-how-to-use-first-party-insights-to-power-intent-based-content-strategy/568189/) | Search Engine Journal | 145 | General | 2026-03-25 11:00 UTC |
-| [Is Your Website Ready for AI Search? A Practical Audit for CMOs](https://www.searchenginejournal.com/is-your-website-ready-for-ai-search-a-practical-audit-for-cmos/570413/) | Search Engine Journal | 145 | AI Search | 2026-03-25 07:45 UTC |
 | [What Is an AI Agent? (And What AI Agents Mean for Your Brand’s Visibility)](https://www.semrush.com/blog/what-is-an-ai-agent/) | Semrush Blog | 110 | AI Search | 2026-03-30 20:48 UTC |
 | [The agentic web: How AI agents decide which brands make the cut](https://www.semrush.com/blog/the-agentic-web/) | Semrush Blog | 110 | AI Search | 2026-03-30 20:31 UTC |
 | [How to measure brand awareness: 9 methods that matter](https://www.semrush.com/blog/measure-brand-awareness/) | Semrush Blog | 110 | AI Search | 2026-03-30 16:03 UTC |
