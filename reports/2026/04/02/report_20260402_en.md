@@ -6,13 +6,29 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Local SEO plateau in Australia (health clinic), not sure what to do next](https://www.reddit.com/r/seogrowth/comments/1sa841x/local_seo_plateau_in_australia_health_clinic_not/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Local SEO | 2026-04-02 04:58 UTC |
+| [When a GBP is fine but service pages stay flat, what do you check first?](https://www.reddit.com/r/localseo/comments/1sa8041/when_a_gbp_is_fine_but_service_pages_stay_flat/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-04-02 04:52 UTC |
+| [How to find low-competition keywords](https://www.reddit.com/r/seogrowth/comments/1sa7b11/how_to_find_lowcompetition_keywords/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | AI Search | 2026-04-02 04:16 UTC |
+| [Where do you guys get your data?](https://www.reddit.com/r/DigitalMarketing/comments/1sa6qt5/where_do_you_guys_get_your_data/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-02 03:48 UTC |
+| [Google Ads now auto-applies experiments, Meta forms an "elite AI squad", & TikTok partners with Cameo.](https://www.reddit.com/r/DigitalMarketing/comments/1sa6lg6/google_ads_now_autoapplies_experiments_meta_forms/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-02 03:41 UTC |
+| [Underpaid restaurant “marketing lead” doing full-stack marketing + events alone. How do I leverage this into a real role?](https://www.reddit.com/r/DigitalMarketing/comments/1sa5u0h/underpaid_restaurant_marketing_lead_doing/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-02 03:04 UTC |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
+| 1 | [Local SEO plateau in Australia (health clinic), not sure what to do next](https://www.reddit.com/r/seogrowth/comments/1sa841x/local_seo_plateau_in_australia_health_clinic_not/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Local SEO | 2026-04-02 04:58 UTC |
+| 2 | [When a GBP is fine but service pages stay flat, what do you check first?](https://www.reddit.com/r/localseo/comments/1sa8041/when_a_gbp_is_fine_but_service_pages_stay_flat/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-04-02 04:52 UTC |
+| 3 | [How to find low-competition keywords](https://www.reddit.com/r/seogrowth/comments/1sa7b11/how_to_find_lowcompetition_keywords/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | AI Search | 2026-04-02 04:16 UTC |
+| 4 | [Where do you guys get your data?](https://www.reddit.com/r/DigitalMarketing/comments/1sa6qt5/where_do_you_guys_get_your_data/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-02 03:48 UTC |
+| 5 | [Google Ads now auto-applies experiments, Meta forms an "elite AI squad", & TikTok partners with Cameo.](https://www.reddit.com/r/DigitalMarketing/comments/1sa6lg6/google_ads_now_autoapplies_experiments_meta_forms/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-02 03:41 UTC |
+| 6 | [Underpaid restaurant “marketing lead” doing full-stack marketing + events alone. How do I leverage this into a real role?](https://www.reddit.com/r/DigitalMarketing/comments/1sa5u0h/underpaid_restaurant_marketing_lead_doing/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-02 03:04 UTC |
+| 7 | [Have I discovered the biggest life hack in SEO?](https://www.reddit.com/r/seogrowth/comments/1sa5fz0/have_i_discovered_the_biggest_life_hack_in_seo/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Indexing | 2026-04-02 02:45 UTC |
+| 8 | [Is it normal to boost views externally just to kickstart content?](https://www.reddit.com/r/DigitalMarketing/comments/1sa4cu5/is_it_normal_to_boost_views_externally_just_to/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Content | 2026-04-02 01:57 UTC |
+| 9 | [Does posting on Linkedin help with SEO ranking?](https://www.reddit.com/r/SEO/comments/1sa1vjw/does_posting_on_linkedin_help_with_seo_ranking/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Links | 2026-04-02 00:06 UTC |
+| 10 | [Every SEO agency is faking their reviews](https://www.reddit.com/r/DigitalMarketing/comments/1sa1dzy/every_seo_agency_is_faking_their_reviews/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Links | 2026-04-01 23:45 UTC |
+| 11 | [Trying to hire SEO help for a local business, how do you avoid getting burned again?](https://www.reddit.com/r/DigitalMarketing/comments/1sa1acm/trying_to_hire_seo_help_for_a_local_business_how/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Local SEO | 2026-04-01 23:40 UTC |
+| 12 | [Jobs in the field](https://www.reddit.com/r/DigitalMarketing/comments/1sa129w/jobs_in_the_field/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-04-01 23:31 UTC |
 
 ## Notable items (Sites)
 
