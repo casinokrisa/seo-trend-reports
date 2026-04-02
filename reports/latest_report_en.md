@@ -18,6 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Search Central Live is Coming to Shanghai in 2026!](https://developers.google.com/search/blog/2026/04/scl-shanghai-2026) | Google Search Central Blog | 230 | AI Search | 2026-04-02 00:00 UTC |
 | [Daily Search Forum Recap: April 1, 2026](https://www.seroundtable.com/recap-04-01-2026-41138.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-01 14:00 UTC |
 | [Programming Note: Offline For Passover Thursday &amp; Friday](https://www.seroundtable.com/programming-note-offline-for-passover-5786-41135.html) | Search Engine Roundtable | 190 | General | 2026-04-01 11:51 UTC |
 | [Google Ask Maps Fully Available In US and India](https://www.seroundtable.com/google-ask-maps-available-us-and-india-41137.html) | Search Engine Roundtable | 190 | Local SEO | 2026-04-01 11:31 UTC |
@@ -26,7 +27,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [How To Do Evergreen Content In 2026 (And Beyond)](https://www.searchenginejournal.com/how-to-do-evergreen-content-in-2026-and-beyond/570903/) | Search Engine Journal | 180 | AI Search | 2026-04-01 13:30 UTC |
 | [Building An In-House PPC Team: Why A Hybrid Model May Protect Your Ad Spend](https://www.searchenginejournal.com/building-an-in-house-ppc-team-why-a-hybrid-model-may-protect-your-ad-spend/569020/) | Search Engine Journal | 180 | General | 2026-04-01 12:30 UTC |
 | [Who Owns SEO In The Enterprise? The Accountability Gap That Kills Performance](https://www.searchenginejournal.com/who-owns-seo-in-the-enterprise-the-accountability-gap-that-kills-performance/566095/) | Search Engine Journal | 180 | AI Search | 2026-04-01 11:30 UTC |
-| [Google Answers Why Core Updates Can Roll Out In Stages](https://www.searchenginejournal.com/google-answers-why-core-updates-can-roll-out-in-stages/571003/) | Search Engine Journal | 180 | General | 2026-04-01 09:14 UTC |
+| [Google Answers Why Core Updates Can Roll Out In Stages](https://www.searchenginejournal.com/google-answers-why-core-updates-can-roll-out-in-stages/571003/) | Search Engine Journal | 160 | General | 2026-04-01 09:14 UTC |
 | [Does AI content rank well in search? [Survey + Data study]](https://www.semrush.com/blog/does-ai-content-rank-in-search-data-study/) | Semrush Blog | 130 | AI Search | 2026-04-01 16:09 UTC |
 | [8 Best AI SEO Tools for 2026 (Tested Firsthand)](https://www.semrush.com/blog/best-ai-seo-tools/) | Semrush Blog | 130 | AI Search | 2026-04-01 14:05 UTC |
 | [The 9 Best LLM Monitoring Tools for Brand Visibility in 2026](https://www.semrush.com/blog/llm-monitoring-tools/) | Semrush Blog | 130 | AI Search | 2026-04-01 14:05 UTC |
