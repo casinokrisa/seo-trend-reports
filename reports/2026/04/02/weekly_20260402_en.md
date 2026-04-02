@@ -62,7 +62,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Does AI content rank well in search? [Survey + Data study]](https://www.semrush.com/blog/does-ai-content-rank-in-search-data-study/) | Semrush Blog | 130 | AI Search | 2026-04-01 16:09 UTC |
 | [8 Best AI SEO Tools for 2026 (Tested Firsthand)](https://www.semrush.com/blog/best-ai-seo-tools/) | Semrush Blog | 130 | AI Search | 2026-04-01 14:05 UTC |
 | [The 9 Best LLM Monitoring Tools for Brand Visibility in 2026](https://www.semrush.com/blog/llm-monitoring-tools/) | Semrush Blog | 130 | AI Search | 2026-04-01 14:05 UTC |
-| [AI content optimization: The complete guide](https://www.semrush.com/blog/ai-content-optimization/) | Semrush Blog | 130 | AI Search | 2026-04-01 08:21 UTC |
+| [AI content optimization: The complete guide](https://www.semrush.com/blog/ai-content-optimization/) | Semrush Blog | 110 | AI Search | 2026-04-01 08:21 UTC |
 | [What Is an AI Agent? (And What AI Agents Mean for Your Brand’s Visibility)](https://www.semrush.com/blog/what-is-an-ai-agent/) | Semrush Blog | 110 | AI Search | 2026-03-30 20:48 UTC |
 | [The agentic web: How AI agents decide which brands make the cut](https://www.semrush.com/blog/the-agentic-web/) | Semrush Blog | 110 | AI Search | 2026-03-30 20:31 UTC |
 | [How to measure brand awareness: 9 methods that matter](https://www.semrush.com/blog/measure-brand-awareness/) | Semrush Blog | 110 | AI Search | 2026-03-30 16:03 UTC |

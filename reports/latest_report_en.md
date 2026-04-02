@@ -30,7 +30,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Does AI content rank well in search? [Survey + Data study]](https://www.semrush.com/blog/does-ai-content-rank-in-search-data-study/) | Semrush Blog | 130 | AI Search | 2026-04-01 16:09 UTC |
 | [8 Best AI SEO Tools for 2026 (Tested Firsthand)](https://www.semrush.com/blog/best-ai-seo-tools/) | Semrush Blog | 130 | AI Search | 2026-04-01 14:05 UTC |
 | [The 9 Best LLM Monitoring Tools for Brand Visibility in 2026](https://www.semrush.com/blog/llm-monitoring-tools/) | Semrush Blog | 130 | AI Search | 2026-04-01 14:05 UTC |
-| [AI content optimization: The complete guide](https://www.semrush.com/blog/ai-content-optimization/) | Semrush Blog | 130 | AI Search | 2026-04-01 08:21 UTC |
+| [AI content optimization: The complete guide](https://www.semrush.com/blog/ai-content-optimization/) | Semrush Blog | 110 | AI Search | 2026-04-01 08:21 UTC |
 
 ## Notes for manual writing
 
