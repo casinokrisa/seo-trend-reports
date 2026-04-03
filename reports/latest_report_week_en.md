@@ -12,20 +12,20 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Grokipedia Continues To Drop in Search Visibility And AI Search Visibility](https://www.seroundtable.com/grokipedia-continues-drop-google-ai-search-41139.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-03 11:21 UTC |
 | [Search Central Live is Coming to Shanghai in 2026!](https://developers.google.com/search/blog/2026/04/scl-shanghai-2026) | Google Search Central Blog | 210 | AI Search | 2026-04-02 00:00 UTC |
 | [Why Agentic AI Shopping Feels Unnatural And May Not Threaten SEO](https://www.searchenginejournal.com/why-agentic-ai-shopping-feels-unnatural-and-may-not-threaten-seo/571122/) | Search Engine Journal | 200 | AI Search | 2026-04-03 13:02 UTC |
 | [Google Core Update, Crawl Limits & Gemini Traffic Data](https://www.searchenginejournal.com/seo-pulse-google-core-update-crawl-limits-gemini-traffic-data/571089/) | Search Engine Journal | 200 | Indexing | 2026-04-03 12:30 UTC |
-| [ChatGPT Ads: New Acquisition Channel Or Just Another Brand Tax?](https://www.searchenginejournal.com/chatgpt-ads-new-acquisition-channel-or-just-another-brand-tax/571042/) | Search Engine Journal | 200 | AI Search | 2026-04-03 11:30 UTC |
 | [New Location for the Google Crawlers' IP Range Files](https://developers.google.com/search/blog/2026/03/crawler-ip-ranges) | Google Search Central Blog | 195 | Indexing | 2026-03-31 00:00 UTC |
 | [Inside Googlebot: demystifying crawling, fetching, and the bytes we process](https://developers.google.com/search/blog/2026/03/crawler-blog-post) | Google Search Central Blog | 195 | Indexing | 2026-03-31 00:00 UTC |
+| [Grokipedia Continues To Drop in Search Visibility And AI Search Visibility](https://www.seroundtable.com/grokipedia-continues-drop-google-ai-search-41139.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-03 11:21 UTC |
+| [ChatGPT Ads: New Acquisition Channel Or Just Another Brand Tax?](https://www.searchenginejournal.com/chatgpt-ads-new-acquisition-channel-or-just-another-brand-tax/571042/) | Search Engine Journal | 180 | AI Search | 2026-04-03 11:30 UTC |
 | [Google Answers Why Some SEOs Split Their Sitemap Into Multiple Files](https://www.searchenginejournal.com/google-answers-why-some-seos-split-their-sitemap-into-multiple-files/571097/) | Search Engine Journal | 180 | Indexing | 2026-04-03 09:17 UTC |
-| [AI Leads All Reasons For U.S. Job Cuts In March, Report Says](https://www.searchenginejournal.com/ai-leads-all-reasons-for-u-s-job-cuts-in-march-report-says/571065/) | Search Engine Journal | 180 | AI Search | 2026-04-02 17:29 UTC |
 | [Daily Search Forum Recap: April 1, 2026](https://www.seroundtable.com/recap-04-01-2026-41138.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-01 14:00 UTC |
 | [Programming Note: Offline For Passover Thursday &amp; Friday](https://www.seroundtable.com/programming-note-offline-for-passover-5786-41135.html) | Search Engine Roundtable | 170 | General | 2026-04-01 11:51 UTC |
 | [Google Ask Maps Fully Available In US and India](https://www.seroundtable.com/google-ask-maps-available-us-and-india-41137.html) | Search Engine Roundtable | 170 | Local SEO | 2026-04-01 11:31 UTC |
 | [Google Explains Googlebot Crawling, Fetching &amp; Byte Limits](https://www.seroundtable.com/google-explains-googlebot-41136.html) | Search Engine Roundtable | 170 | Indexing | 2026-04-01 11:21 UTC |
 | [Microsoft Advertising Merchant Center Enables Store &amp; Domain Name Updates](https://www.seroundtable.com/microsoft-advertising-merchant-center-store-domain-name-update-41132.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-01 11:11 UTC |
+| [AI Leads All Reasons For U.S. Job Cuts In March, Report Says](https://www.searchenginejournal.com/ai-leads-all-reasons-for-u-s-job-cuts-in-march-report-says/571065/) | Search Engine Journal | 160 | AI Search | 2026-04-02 17:29 UTC |
 | [Ask Me Anything About PPC Archives](https://www.searchenginejournal.com/category/paid-media/ask-ppc/) | Search Engine Journal | 160 | AI Search | 2026-04-02 14:38 UTC |
 | [Llms.txt Was Step One. Here’s The Architecture That Comes Next](https://www.searchenginejournal.com/llms-txt-was-step-one-heres-the-architecture-that-comes-next/570925/) | Search Engine Journal | 160 | AI Search | 2026-04-02 13:30 UTC |
 | [How To Identify And Solve Click Fraud In Paid Media](https://www.searchenginejournal.com/ask-a-ppc-how-to-identify-and-solve-click-fraud-in-paid-media/568112/) | Search Engine Journal | 160 | AI Search | 2026-04-02 12:00 UTC |
