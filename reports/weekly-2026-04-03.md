@@ -13,11 +13,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Search Central Live is Coming to Shanghai in 2026!](https://developers.google.com/search/blog/2026/04/scl-shanghai-2026) | Google Search Central Blog | 210 | AI Search | 2026-04-02 00:00 UTC |
-| [Why Agentic AI Shopping Feels Unnatural And May Not Threaten SEO](https://www.searchenginejournal.com/why-agentic-ai-shopping-feels-unnatural-and-may-not-threaten-seo/571122/) | Search Engine Journal | 200 | AI Search | 2026-04-03 13:02 UTC |
-| [Google Core Update, Crawl Limits & Gemini Traffic Data](https://www.searchenginejournal.com/seo-pulse-google-core-update-crawl-limits-gemini-traffic-data/571089/) | Search Engine Journal | 200 | Indexing | 2026-04-03 12:30 UTC |
 | [New Location for the Google Crawlers' IP Range Files](https://developers.google.com/search/blog/2026/03/crawler-ip-ranges) | Google Search Central Blog | 195 | Indexing | 2026-03-31 00:00 UTC |
 | [Inside Googlebot: demystifying crawling, fetching, and the bytes we process](https://developers.google.com/search/blog/2026/03/crawler-blog-post) | Google Search Central Blog | 195 | Indexing | 2026-03-31 00:00 UTC |
 | [Grokipedia Continues To Drop in Search Visibility And AI Search Visibility](https://www.seroundtable.com/grokipedia-continues-drop-google-ai-search-41139.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-03 11:21 UTC |
+| [Why Agentic AI Shopping Feels Unnatural And May Not Threaten SEO](https://www.searchenginejournal.com/why-agentic-ai-shopping-feels-unnatural-and-may-not-threaten-seo/571122/) | Search Engine Journal | 180 | AI Search | 2026-04-03 13:02 UTC |
+| [Google Core Update, Crawl Limits & Gemini Traffic Data](https://www.searchenginejournal.com/seo-pulse-google-core-update-crawl-limits-gemini-traffic-data/571089/) | Search Engine Journal | 180 | Indexing | 2026-04-03 12:30 UTC |
 | [ChatGPT Ads: New Acquisition Channel Or Just Another Brand Tax?](https://www.searchenginejournal.com/chatgpt-ads-new-acquisition-channel-or-just-another-brand-tax/571042/) | Search Engine Journal | 180 | AI Search | 2026-04-03 11:30 UTC |
 | [Google Answers Why Some SEOs Split Their Sitemap Into Multiple Files](https://www.searchenginejournal.com/google-answers-why-some-seos-split-their-sitemap-into-multiple-files/571097/) | Search Engine Journal | 180 | Indexing | 2026-04-03 09:17 UTC |
 | [Daily Search Forum Recap: April 1, 2026](https://www.seroundtable.com/recap-04-01-2026-41138.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-01 14:00 UTC |
