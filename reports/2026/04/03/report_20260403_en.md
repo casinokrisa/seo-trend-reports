@@ -19,6 +19,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Search Central Live is Coming to Shanghai in 2026!](https://developers.google.com/search/blog/2026/04/scl-shanghai-2026) | Google Search Central Blog | 210 | AI Search | 2026-04-02 00:00 UTC |
+| [Google Answers Why Some SEOs Split Their Sitemap Into Multiple Files](https://www.searchenginejournal.com/google-answers-why-some-seos-split-their-sitemap-into-multiple-files/571097/) | Search Engine Journal | 200 | Indexing | 2026-04-03 09:17 UTC |
 | [AI Leads All Reasons For U.S. Job Cuts In March, Report Says](https://www.searchenginejournal.com/ai-leads-all-reasons-for-u-s-job-cuts-in-march-report-says/571065/) | Search Engine Journal | 180 | AI Search | 2026-04-02 17:29 UTC |
 | [Ask Me Anything About PPC Archives](https://www.searchenginejournal.com/category/paid-media/ask-ppc/) | Search Engine Journal | 180 | AI Search | 2026-04-02 14:38 UTC |
 | [Llms.txt Was Step One. Here’s The Architecture That Comes Next](https://www.searchenginejournal.com/llms-txt-was-step-one-heres-the-architecture-that-comes-next/570925/) | Search Engine Journal | 180 | AI Search | 2026-04-02 13:30 UTC |
