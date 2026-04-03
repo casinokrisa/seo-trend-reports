@@ -23,7 +23,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Ask Me Anything About PPC Archives](https://www.searchenginejournal.com/category/paid-media/ask-ppc/) | Search Engine Journal | 180 | AI Search | 2026-04-02 14:38 UTC |
 | [Llms.txt Was Step One. Here’s The Architecture That Comes Next](https://www.searchenginejournal.com/llms-txt-was-step-one-heres-the-architecture-that-comes-next/570925/) | Search Engine Journal | 180 | AI Search | 2026-04-02 13:30 UTC |
 | [How To Identify And Solve Click Fraud In Paid Media](https://www.searchenginejournal.com/ask-a-ppc-how-to-identify-and-solve-click-fraud-in-paid-media/568112/) | Search Engine Journal | 180 | AI Search | 2026-04-02 12:00 UTC |
-| [Does AI content rank well in search? [Survey + Data study]](https://www.semrush.com/blog/does-ai-content-rank-in-search-data-study/) | Semrush Blog | 110 | AI Search | 2026-04-01 16:09 UTC |
 
 ## Notes for manual writing
 
