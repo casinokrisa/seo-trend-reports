@@ -23,7 +23,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Core Update, Crawl Limits & Gemini Traffic Data](https://www.searchenginejournal.com/seo-pulse-google-core-update-crawl-limits-gemini-traffic-data/571089/) | Search Engine Journal | 180 | Indexing | 2026-04-03 12:30 UTC |
 | [ChatGPT Ads: New Acquisition Channel Or Just Another Brand Tax?](https://www.searchenginejournal.com/chatgpt-ads-new-acquisition-channel-or-just-another-brand-tax/571042/) | Search Engine Journal | 180 | AI Search | 2026-04-03 11:30 UTC |
 | [Google Answers Why Some SEOs Split Their Sitemap Into Multiple Files](https://www.searchenginejournal.com/google-answers-why-some-seos-split-their-sitemap-into-multiple-files/571097/) | Search Engine Journal | 180 | Indexing | 2026-04-03 09:17 UTC |
-| [AI Leads All Reasons For U.S. Job Cuts In March, Report Says](https://www.searchenginejournal.com/ai-leads-all-reasons-for-u-s-job-cuts-in-march-report-says/571065/) | Search Engine Journal | 160 | AI Search | 2026-04-02 17:29 UTC |
 
 ## Notes for manual writing
 
