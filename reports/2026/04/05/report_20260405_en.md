@@ -18,7 +18,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [The 5-Pillar Framework For AI Content That Audiences Actually Trust](https://www.searchenginejournal.com/the-5-pillar-framework-for-ai-content-that-audiences-actually-trust/568860/) | Search Engine Journal | 180 | AI Search | 2026-04-04 12:00 UTC |
+| [MCP, A2A, NLWeb, And AGENTS.md: The Standards Powering The Agentic Web](https://www.searchenginejournal.com/mcp-a2a-nlweb-and-agents-md-the-standards-powering-the-agentic-web/570092/) | Search Engine Journal | 200 | AI Search | 2026-04-05 12:00 UTC |
+| [The 5-Pillar Framework For AI Content That Audiences Actually Trust](https://www.searchenginejournal.com/the-5-pillar-framework-for-ai-content-that-audiences-actually-trust/568860/) | Search Engine Journal | 160 | AI Search | 2026-04-04 12:00 UTC |
 
 ## Notes for manual writing
 
