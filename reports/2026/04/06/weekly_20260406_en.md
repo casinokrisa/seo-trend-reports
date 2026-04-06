@@ -12,11 +12,12 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [ChatGPT Search Is Citing Fewer Sites, Data Shows](https://www.searchenginejournal.com/chatgpt-search-is-citing-fewer-sites-data-shows/571219/) | Search Engine Journal | 200 | AI Search | 2026-04-06 13:18 UTC |
+| [Trust In AI Search Could Drop With Ads, Survey Shows](https://www.searchenginejournal.com/trust-in-ai-search-could-drop-with-ads-survey-shows/571240/) | Search Engine Journal | 200 | AI Search | 2026-04-06 19:40 UTC |
 | [Search Central Live is Coming to Shanghai in 2026!](https://developers.google.com/search/blog/2026/04/scl-shanghai-2026) | Google Search Central Blog | 195 | AI Search | 2026-04-02 00:00 UTC |
 | [New Location for the Google Crawlers' IP Range Files](https://developers.google.com/search/blog/2026/03/crawler-ip-ranges) | Google Search Central Blog | 195 | Indexing | 2026-03-31 00:00 UTC |
 | [Inside Googlebot: demystifying crawling, fetching, and the bytes we process](https://developers.google.com/search/blog/2026/03/crawler-blog-post) | Google Search Central Blog | 195 | Indexing | 2026-03-31 00:00 UTC |
 | [GSC Logging Error Yielded Inflated Impressions Since May 2025](https://www.seroundtable.com/gsc-logging-error-impressions-41140.html) | Search Engine Roundtable | 190 | GSC | 2026-04-06 11:15 UTC |
+| [ChatGPT Search Is Citing Fewer Sites, Data Shows](https://www.searchenginejournal.com/chatgpt-search-is-citing-fewer-sites-data-shows/571219/) | Search Engine Journal | 180 | AI Search | 2026-04-06 13:18 UTC |
 | [The Top 6 Search Engines Market Share & The AI Search Engines To Watch](https://www.searchenginejournal.com/seo/the-top-6-search-engines-market-share-the-ai-search-engines-to-watch/) | Search Engine Journal | 180 | AI Search | 2026-04-06 12:30 UTC |
 | [WordPress's Troubled Real-Time Collaboration Feature](https://www.searchenginejournal.com/wordpresss-troubled-real-time-collaboration-feature/571201/) | Search Engine Journal | 180 | AI Search | 2026-04-06 10:23 UTC |
 | [How AI Is Changing Lead Generation: 3 Key Things SEO & PPC Teams Need To Do Now](https://www.searchenginejournal.com/lead-gen-seo-ppc-callrail-spcs/570572/) | Search Engine Journal | 180 | AI Search | 2026-04-06 05:00 UTC |
@@ -55,8 +56,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [8 Best AI SEO Tools for 2026 (Tested Firsthand)](https://www.semrush.com/blog/best-ai-seo-tools/) | Semrush Blog | 95 | AI Search | 2026-04-01 14:05 UTC |
 | [The 9 Best LLM Monitoring Tools for Brand Visibility in 2026](https://www.semrush.com/blog/llm-monitoring-tools/) | Semrush Blog | 95 | AI Search | 2026-04-01 14:05 UTC |
 | [AI content optimization: The complete guide](https://www.semrush.com/blog/ai-content-optimization/) | Semrush Blog | 95 | AI Search | 2026-04-01 08:21 UTC |
-| [What Is an AI Agent? (And What AI Agents Mean for Your Brand’s Visibility)](https://www.semrush.com/blog/what-is-an-ai-agent/) | Semrush Blog | 95 | AI Search | 2026-03-30 20:48 UTC |
-| [The agentic web: How AI agents decide which brands make the cut](https://www.semrush.com/blog/the-agentic-web/) | Semrush Blog | 95 | AI Search | 2026-03-30 20:31 UTC |
 
 ## Notes
 
