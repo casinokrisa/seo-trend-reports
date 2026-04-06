@@ -18,6 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [How AI Is Changing Lead Generation: 3 Key Things SEO & PPC Teams Need To Do Now](https://www.searchenginejournal.com/lead-gen-seo-ppc-callrail-spcs/570572/) | Search Engine Journal | 200 | AI Search | 2026-04-06 05:00 UTC |
 | [MCP, A2A, NLWeb, And AGENTS.md: The Standards Powering The Agentic Web](https://www.searchenginejournal.com/mcp-a2a-nlweb-and-agents-md-the-standards-powering-the-agentic-web/570092/) | Search Engine Journal | 180 | AI Search | 2026-04-05 12:00 UTC |
 
 ## Notes for manual writing
