@@ -34,7 +34,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [ChatGPT Enables Location Sharing For More Localized Near Me Results](https://www.seroundtable.com/chatgpt-location-sharing-41128.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-31 11:31 UTC |
 | [Google Ads PMax Asset Group Theming](https://www.seroundtable.com/google-ads-pmax-asset-group-theming-41127.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-31 11:21 UTC |
 | [Google May Call, Text or WhatsApp To Confirm Business Details](https://www.seroundtable.com/google-business-profiles-call-text-or-whatsapp-41126.html) | Search Engine Roundtable | 155 | Local SEO | 2026-03-31 11:11 UTC |
-| [Daily Search Forum Recap: March 30, 2026](https://www.seroundtable.com/recap-03-30-2026-41130.html) | Search Engine Roundtable | 155 | GSC | 2026-03-30 14:00 UTC |
 | [AI agents and agentic AI vs. traditional automation](https://searchengineland.com/guide/ai-agents-and-agentic-ai-vs-traditional-automation) | Search Engine Land | 145 | AI Search | 2026-03-30 16:45 UTC |
 | [Why Agentic AI Shopping Feels Unnatural And May Not Threaten SEO](https://www.searchenginejournal.com/why-agentic-ai-shopping-feels-unnatural-and-may-not-threaten-seo/571122/) | Search Engine Journal | 145 | AI Search | 2026-04-03 13:02 UTC |
 | [Google Core Update, Crawl Limits & Gemini Traffic Data](https://www.searchenginejournal.com/seo-pulse-google-core-update-crawl-limits-gemini-traffic-data/571089/) | Search Engine Journal | 145 | Indexing | 2026-04-03 12:30 UTC |
@@ -62,7 +61,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [What Is an AI Agent? (And What AI Agents Mean for Your Brand’s Visibility)](https://www.semrush.com/blog/what-is-an-ai-agent/) | Semrush Blog | 95 | AI Search | 2026-03-30 20:48 UTC |
 | [The agentic web: How AI agents decide which brands make the cut](https://www.semrush.com/blog/the-agentic-web/) | Semrush Blog | 95 | AI Search | 2026-03-30 20:31 UTC |
 | [How to measure brand awareness: 9 methods that matter](https://www.semrush.com/blog/measure-brand-awareness/) | Semrush Blog | 95 | AI Search | 2026-03-30 16:03 UTC |
-| [What 3,900 SEO Job Listings Reveal for 2026: Experiments, AI, and Six-Figure Salaries](https://www.semrush.com/blog/seo-job-market-study/) | Semrush Blog | 95 | AI Search | 2026-03-30 15:00 UTC |
 
 ## Notes
 
