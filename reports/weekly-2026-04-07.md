@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google's Mueller On SEO Gurus Who Are "Clueless Imposters"](https://www.searchenginejournal.com/googles-mueller-on-seo-gurus-who-are-clueless-imposters/571290/) | Search Engine Journal | 200 | General | 2026-04-07 08:57 UTC |
 | [ChatGPT Now Crawls 3.6x More Than Googlebot: What 24M Requests Reveal](https://www.searchenginejournal.com/chatgpt-googlebot-crawl-data-alliai-spa/570885/) | Search Engine Journal | 200 | Indexing | 2026-04-07 05:00 UTC |
 | [Search Central Live is Coming to Shanghai in 2026!](https://developers.google.com/search/blog/2026/04/scl-shanghai-2026) | Google Search Central Blog | 195 | AI Search | 2026-04-02 00:00 UTC |
 | [GSC Logging Error Yielded Inflated Impressions Since May 2025](https://www.seroundtable.com/gsc-logging-error-impressions-41140.html) | Search Engine Roundtable | 190 | GSC | 2026-04-06 11:15 UTC |
