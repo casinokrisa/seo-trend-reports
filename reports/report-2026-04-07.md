@@ -30,7 +30,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Trust In AI Search Could Drop With Ads, Survey Shows](https://www.searchenginejournal.com/trust-in-ai-search-could-drop-with-ads-survey-shows/571240/) | Search Engine Journal | 160 | AI Search | 2026-04-06 19:40 UTC |
 | [ChatGPT Search Is Citing Fewer Sites, Data Shows](https://www.searchenginejournal.com/chatgpt-search-is-citing-fewer-sites-data-shows/571219/) | Search Engine Journal | 160 | AI Search | 2026-04-06 13:18 UTC |
 | [The Top 6 Search Engines Market Share & The AI Search Engines To Watch](https://www.searchenginejournal.com/seo/the-top-6-search-engines-market-share-the-ai-search-engines-to-watch/) | Search Engine Journal | 160 | AI Search | 2026-04-06 12:30 UTC |
-| [WordPress's Troubled Real-Time Collaboration Feature](https://www.searchenginejournal.com/wordpresss-troubled-real-time-collaboration-feature/571201/) | Search Engine Journal | 160 | AI Search | 2026-04-06 10:23 UTC |
 | [Agentic search: How AI agents will decide which brands get found](https://www.semrush.com/blog/what-is-agentic-search/) | Semrush Blog | 130 | AI Search | 2026-04-07 15:17 UTC |
 | [ChatGPT traffic analysis: Insights from 17 months of clickstream data](https://www.semrush.com/blog/chatgpt-search-insights/) | Semrush Blog | 130 | GSC | 2026-04-07 13:28 UTC |
 
