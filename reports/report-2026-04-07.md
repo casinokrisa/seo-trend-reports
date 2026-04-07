@@ -18,8 +18,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Ads Testing New Layouts for Multi-Location GBP Assets?](https://www.seroundtable.com/google-ads-testing-new-layouts-for-multi-location-gbp-assets-41142.html) | Search Engine Roundtable | 210 | Local SEO | 2026-04-07 15:28 UTC |
 | [Pichai Says AI Could 'Break Pretty Much All Software'](https://www.searchenginejournal.com/pichai-says-ai-could-break-pretty-much-all-software/571387/) | Search Engine Journal | 200 | AI Search | 2026-04-07 20:47 UTC |
+| [Google Ads Testing New Layouts for Multi-Location GBP Assets?](https://www.seroundtable.com/google-ads-testing-new-layouts-for-multi-location-gbp-assets-41142.html) | Search Engine Roundtable | 190 | Local SEO | 2026-04-07 15:28 UTC |
 | [Programming Note: Offline For Last Days Of Passover Wednesday &amp; Thursday](https://www.seroundtable.com/programming-note-offline-for-last-days-of-passover-5786-41141.html) | Search Engine Roundtable | 190 | General | 2026-04-07 12:10 UTC |
 | [How Consumers Navigate High-Stakes Purchases In AI Mode](https://www.searchenginejournal.com/how-consumers-navigate-high-stakes-purchases-in-ai-mode/571361/) | Search Engine Journal | 180 | AI Search | 2026-04-07 13:30 UTC |
 | [From T-Shaped To M-Shaped: The PPC Career Evolution Nobody Is Talking About](https://www.searchenginejournal.com/from-t-shaped-to-m-shaped-the-ppc-career-evolution-nobody-is-talking-about/570722/) | Search Engine Journal | 180 | General | 2026-04-07 12:30 UTC |
@@ -31,7 +31,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [ChatGPT Search Is Citing Fewer Sites, Data Shows](https://www.searchenginejournal.com/chatgpt-search-is-citing-fewer-sites-data-shows/571219/) | Search Engine Journal | 160 | AI Search | 2026-04-06 13:18 UTC |
 | [The Top 6 Search Engines Market Share & The AI Search Engines To Watch](https://www.searchenginejournal.com/seo/the-top-6-search-engines-market-share-the-ai-search-engines-to-watch/) | Search Engine Journal | 160 | AI Search | 2026-04-06 12:30 UTC |
 | [WordPress's Troubled Real-Time Collaboration Feature](https://www.searchenginejournal.com/wordpresss-troubled-real-time-collaboration-feature/571201/) | Search Engine Journal | 160 | AI Search | 2026-04-06 10:23 UTC |
-| [Agentic search: How AI agents will decide which brands get found](https://www.semrush.com/blog/what-is-agentic-search/) | Semrush Blog | 150 | AI Search | 2026-04-07 15:17 UTC |
+| [Agentic search: How AI agents will decide which brands get found](https://www.semrush.com/blog/what-is-agentic-search/) | Semrush Blog | 130 | AI Search | 2026-04-07 15:17 UTC |
 | [ChatGPT traffic analysis: Insights from 17 months of clickstream data](https://www.semrush.com/blog/chatgpt-search-insights/) | Semrush Blog | 130 | GSC | 2026-04-07 13:28 UTC |
 
 ## Notes for manual writing

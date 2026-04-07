@@ -12,9 +12,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Ads Testing New Layouts for Multi-Location GBP Assets?](https://www.seroundtable.com/google-ads-testing-new-layouts-for-multi-location-gbp-assets-41142.html) | Search Engine Roundtable | 210 | Local SEO | 2026-04-07 15:28 UTC |
 | [Pichai Says AI Could 'Break Pretty Much All Software'](https://www.searchenginejournal.com/pichai-says-ai-could-break-pretty-much-all-software/571387/) | Search Engine Journal | 200 | AI Search | 2026-04-07 20:47 UTC |
 | [Search Central Live is Coming to Shanghai in 2026!](https://developers.google.com/search/blog/2026/04/scl-shanghai-2026) | Google Search Central Blog | 195 | AI Search | 2026-04-02 00:00 UTC |
+| [Google Ads Testing New Layouts for Multi-Location GBP Assets?](https://www.seroundtable.com/google-ads-testing-new-layouts-for-multi-location-gbp-assets-41142.html) | Search Engine Roundtable | 190 | Local SEO | 2026-04-07 15:28 UTC |
 | [Programming Note: Offline For Last Days Of Passover Wednesday &amp; Thursday](https://www.seroundtable.com/programming-note-offline-for-last-days-of-passover-5786-41141.html) | Search Engine Roundtable | 190 | General | 2026-04-07 12:10 UTC |
 | [How Consumers Navigate High-Stakes Purchases In AI Mode](https://www.searchenginejournal.com/how-consumers-navigate-high-stakes-purchases-in-ai-mode/571361/) | Search Engine Journal | 180 | AI Search | 2026-04-07 13:30 UTC |
 | [From T-Shaped To M-Shaped: The PPC Career Evolution Nobody Is Talking About](https://www.searchenginejournal.com/from-t-shaped-to-m-shaped-the-ppc-career-evolution-nobody-is-talking-about/570722/) | Search Engine Journal | 180 | General | 2026-04-07 12:30 UTC |
@@ -34,7 +34,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ask Maps Fully Available In US and India](https://www.seroundtable.com/google-ask-maps-available-us-and-india-41137.html) | Search Engine Roundtable | 155 | Local SEO | 2026-04-01 11:31 UTC |
 | [Google Explains Googlebot Crawling, Fetching &amp; Byte Limits](https://www.seroundtable.com/google-explains-googlebot-41136.html) | Search Engine Roundtable | 155 | Indexing | 2026-04-01 11:21 UTC |
 | [Microsoft Advertising Merchant Center Enables Store &amp; Domain Name Updates](https://www.seroundtable.com/microsoft-advertising-merchant-center-store-domain-name-update-41132.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-01 11:11 UTC |
-| [Agentic search: How AI agents will decide which brands get found](https://www.semrush.com/blog/what-is-agentic-search/) | Semrush Blog | 150 | AI Search | 2026-04-07 15:17 UTC |
 | [The 5-Pillar Framework For AI Content That Audiences Actually Trust](https://www.searchenginejournal.com/the-5-pillar-framework-for-ai-content-that-audiences-actually-trust/568860/) | Search Engine Journal | 145 | AI Search | 2026-04-04 12:00 UTC |
 | [Why Agentic AI Shopping Feels Unnatural And May Not Threaten SEO](https://www.searchenginejournal.com/why-agentic-ai-shopping-feels-unnatural-and-may-not-threaten-seo/571122/) | Search Engine Journal | 145 | AI Search | 2026-04-03 13:02 UTC |
 | [Google Core Update, Crawl Limits & Gemini Traffic Data](https://www.searchenginejournal.com/seo-pulse-google-core-update-crawl-limits-gemini-traffic-data/571089/) | Search Engine Journal | 145 | Indexing | 2026-04-03 12:30 UTC |
@@ -48,6 +47,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Building An In-House PPC Team: Why A Hybrid Model May Protect Your Ad Spend](https://www.searchenginejournal.com/building-an-in-house-ppc-team-why-a-hybrid-model-may-protect-your-ad-spend/569020/) | Search Engine Journal | 145 | General | 2026-04-01 12:30 UTC |
 | [Who Owns SEO In The Enterprise? The Accountability Gap That Kills Performance](https://www.searchenginejournal.com/who-owns-seo-in-the-enterprise-the-accountability-gap-that-kills-performance/566095/) | Search Engine Journal | 145 | AI Search | 2026-04-01 11:30 UTC |
 | [Google Answers Why Core Updates Can Roll Out In Stages](https://www.searchenginejournal.com/google-answers-why-core-updates-can-roll-out-in-stages/571003/) | Search Engine Journal | 145 | General | 2026-04-01 09:14 UTC |
+| [Agentic search: How AI agents will decide which brands get found](https://www.semrush.com/blog/what-is-agentic-search/) | Semrush Blog | 130 | AI Search | 2026-04-07 15:17 UTC |
 | [ChatGPT traffic analysis: Insights from 17 months of clickstream data](https://www.semrush.com/blog/chatgpt-search-insights/) | Semrush Blog | 130 | GSC | 2026-04-07 13:28 UTC |
 | [Does AI content rank well in search? [Survey + Data study]](https://www.semrush.com/blog/does-ai-content-rank-in-search-data-study/) | Semrush Blog | 95 | AI Search | 2026-04-01 16:09 UTC |
 | [The 9 Best LLM Monitoring Tools for Brand Visibility in 2026](https://www.semrush.com/blog/llm-monitoring-tools/) | Semrush Blog | 95 | AI Search | 2026-04-01 14:05 UTC |
