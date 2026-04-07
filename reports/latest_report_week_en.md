@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Moving from page 2 to page 1 on Google, how big was the traffic jump?](https://www.reddit.com/r/SEO/comments/1sen4j5/moving_from_page_2_to_page_1_on_google_how_big/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | General | 2026-04-07 05:32 UTC |
-| [New SERP Feature?](https://www.reddit.com/r/bigseo/comments/1semsn6/new_serp_feature/) | [r/bigseo](https://www.reddit.com/r/bigseo) | — | — | Links | 2026-04-07 05:14 UTC |
-| [what is difference between soft 404 and 404 error](https://www.reddit.com/r/DigitalMarketing/comments/1semdlt/what_is_difference_between_soft_404_and_404_error/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-04-07 04:52 UTC |
-| [How long are you realistically waiting to see SEO results now?](https://www.reddit.com/r/DigitalMarketing/comments/1selxpq/how_long_are_you_realistically_waiting_to_see_seo/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-07 04:29 UTC |
-| [Most “Faceless YouTube” Advice Is Actually Hurting Beginners](https://www.reddit.com/r/DigitalMarketing/comments/1seljmm/most_faceless_youtube_advice_is_actually_hurting/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-04-07 04:09 UTC |
-| [Struggling to Find High-Quality Guest Posting Sites That Actually Pass Link Juice What’s Your Process?](https://www.reddit.com/r/DigitalMarketing/comments/1selgg4/struggling_to_find_highquality_guest_posting/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Links | 2026-04-07 04:05 UTC |
-| [New business first on maps but something like 15th on search?](https://www.reddit.com/r/localseo/comments/1selcmp/new_business_first_on_maps_but_something_like/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-04-07 04:00 UTC |
-| [Google Analytics wrecking SEO traffic due to occasional slowdowns](https://www.reddit.com/r/SEO/comments/1sekme1/google_analytics_wrecking_seo_traffic_due_to/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Indexing | 2026-04-07 03:25 UTC |
-| [Square space analytics / GA-4 not tracking attribution](https://www.reddit.com/r/DigitalMarketing/comments/1seiy8h/square_space_analytics_ga4_not_tracking/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-04-07 02:09 UTC |
-| [Trademark protection Meta](https://www.reddit.com/r/DigitalMarketing/comments/1seirpn/trademark_protection_meta/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-04-07 02:01 UTC |
-| [What are the risks of using free backlinks for SEO?](https://www.reddit.com/r/DigitalMarketing/comments/1sei2n0/what_are_the_risks_of_using_free_backlinks_for_seo/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Links | 2026-04-07 01:30 UTC |
-| [Any tips on how to market an art card?](https://www.reddit.com/r/DigitalMarketing/comments/1seh7tq/any_tips_on_how_to_market_an_art_card/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-07 00:53 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
@@ -61,7 +50,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [The Science Of What AI Actually Rewards](https://www.searchenginejournal.com/the-science-of-what-ai-actually-rewards/570849/) | Search Engine Journal | 145 | AI Search | 2026-03-31 13:30 UTC |
 | [So Your Traffic Tanked: What Smart CMOs Do Next](https://www.searchenginejournal.com/so-your-traffic-tanked-what-smart-cmos-do-next/570708/) | Search Engine Journal | 145 | General | 2026-03-31 13:00 UTC |
 | [WordPress Delays Release Of Version 7.0 To Focus On Stability](https://www.searchenginejournal.com/wordpress-delays-release-of-version-7-0-to-focus-on-stability/570944/) | Search Engine Journal | 145 | General | 2026-03-31 10:48 UTC |
-| [How To Identify Which LLM Is Actually Working For You [Webinar]](https://www.searchenginejournal.com/how-to-identify-which-llm-is-actually-working-for-your-or-your-clients-brand-webinar/570019/) | Search Engine Journal | 145 | AI Search | 2026-03-31 07:45 UTC |
 | [Does AI content rank well in search? [Survey + Data study]](https://www.semrush.com/blog/does-ai-content-rank-in-search-data-study/) | Semrush Blog | 95 | AI Search | 2026-04-01 16:09 UTC |
 | [8 Best AI SEO Tools for 2026 (Tested Firsthand)](https://www.semrush.com/blog/best-ai-seo-tools/) | Semrush Blog | 95 | AI Search | 2026-04-01 14:05 UTC |
 | [The 9 Best LLM Monitoring Tools for Brand Visibility in 2026](https://www.semrush.com/blog/llm-monitoring-tools/) | Semrush Blog | 95 | AI Search | 2026-04-01 14:05 UTC |
