@@ -13,13 +13,13 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Google's Mueller On SEO Gurus Who Are "Clueless Imposters"](https://www.searchenginejournal.com/googles-mueller-on-seo-gurus-who-are-clueless-imposters/571290/) | Search Engine Journal | 200 | General | 2026-04-07 08:57 UTC |
-| [ChatGPT Now Crawls 3.6x More Than Googlebot: What 24M Requests Reveal](https://www.searchenginejournal.com/chatgpt-googlebot-crawl-data-alliai-spa/570885/) | Search Engine Journal | 200 | Indexing | 2026-04-07 05:00 UTC |
 | [Search Central Live is Coming to Shanghai in 2026!](https://developers.google.com/search/blog/2026/04/scl-shanghai-2026) | Google Search Central Blog | 195 | AI Search | 2026-04-02 00:00 UTC |
 | [GSC Logging Error Yielded Inflated Impressions Since May 2025](https://www.seroundtable.com/gsc-logging-error-impressions-41140.html) | Search Engine Roundtable | 190 | GSC | 2026-04-06 11:15 UTC |
+| [ChatGPT Now Crawls 3.6x More Than Googlebot: What 24M Requests Reveal](https://www.searchenginejournal.com/chatgpt-googlebot-crawl-data-alliai-spa/570885/) | Search Engine Journal | 180 | Indexing | 2026-04-07 05:00 UTC |
 | [Trust In AI Search Could Drop With Ads, Survey Shows](https://www.searchenginejournal.com/trust-in-ai-search-could-drop-with-ads-survey-shows/571240/) | Search Engine Journal | 180 | AI Search | 2026-04-06 19:40 UTC |
 | [ChatGPT Search Is Citing Fewer Sites, Data Shows](https://www.searchenginejournal.com/chatgpt-search-is-citing-fewer-sites-data-shows/571219/) | Search Engine Journal | 180 | AI Search | 2026-04-06 13:18 UTC |
 | [The Top 6 Search Engines Market Share & The AI Search Engines To Watch](https://www.searchenginejournal.com/seo/the-top-6-search-engines-market-share-the-ai-search-engines-to-watch/) | Search Engine Journal | 180 | AI Search | 2026-04-06 12:30 UTC |
-| [WordPress's Troubled Real-Time Collaboration Feature](https://www.searchenginejournal.com/wordpresss-troubled-real-time-collaboration-feature/571201/) | Search Engine Journal | 180 | AI Search | 2026-04-06 10:23 UTC |
+| [WordPress's Troubled Real-Time Collaboration Feature](https://www.searchenginejournal.com/wordpresss-troubled-real-time-collaboration-feature/571201/) | Search Engine Journal | 160 | AI Search | 2026-04-06 10:23 UTC |
 | [How AI Is Changing Lead Generation: 3 Key Things SEO & PPC Teams Need To Do Now](https://www.searchenginejournal.com/lead-gen-seo-ppc-callrail-spcs/570572/) | Search Engine Journal | 160 | AI Search | 2026-04-06 05:00 UTC |
 | [MCP, A2A, NLWeb, And AGENTS.md: The Standards Powering The Agentic Web](https://www.searchenginejournal.com/mcp-a2a-nlweb-and-agents-md-the-standards-powering-the-agentic-web/570092/) | Search Engine Journal | 160 | AI Search | 2026-04-05 12:00 UTC |
 | [The 5-Pillar Framework For AI Content That Audiences Actually Trust](https://www.searchenginejournal.com/the-5-pillar-framework-for-ai-content-that-audiences-actually-trust/568860/) | Search Engine Journal | 160 | AI Search | 2026-04-04 12:00 UTC |
@@ -34,7 +34,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Bing Tests Sponsored Label That Is Almost Transparent](https://www.seroundtable.com/bing-transparent-sponsored-label-41131.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-31 11:41 UTC |
 | [ChatGPT Enables Location Sharing For More Localized Near Me Results](https://www.seroundtable.com/chatgpt-location-sharing-41128.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-31 11:31 UTC |
 | [Google Ads PMax Asset Group Theming](https://www.seroundtable.com/google-ads-pmax-asset-group-theming-41127.html) | Search Engine Roundtable | 155 | AI Search | 2026-03-31 11:21 UTC |
-| [Google May Call, Text or WhatsApp To Confirm Business Details](https://www.seroundtable.com/google-business-profiles-call-text-or-whatsapp-41126.html) | Search Engine Roundtable | 155 | Local SEO | 2026-03-31 11:11 UTC |
 | [Why Agentic AI Shopping Feels Unnatural And May Not Threaten SEO](https://www.searchenginejournal.com/why-agentic-ai-shopping-feels-unnatural-and-may-not-threaten-seo/571122/) | Search Engine Journal | 145 | AI Search | 2026-04-03 13:02 UTC |
 | [Google Core Update, Crawl Limits & Gemini Traffic Data](https://www.searchenginejournal.com/seo-pulse-google-core-update-crawl-limits-gemini-traffic-data/571089/) | Search Engine Journal | 145 | Indexing | 2026-04-03 12:30 UTC |
 | [ChatGPT Ads: New Acquisition Channel Or Just Another Brand Tax?](https://www.searchenginejournal.com/chatgpt-ads-new-acquisition-channel-or-just-another-brand-tax/571042/) | Search Engine Journal | 145 | AI Search | 2026-04-03 11:30 UTC |
@@ -50,7 +49,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Explains Googlebot Byte Limits And Crawling Architecture](https://www.searchenginejournal.com/google-explains-googlebot-byte-limits-and-crawling-architecture/570961/) | Search Engine Journal | 145 | Indexing | 2026-03-31 15:28 UTC |
 | [The Science Of What AI Actually Rewards](https://www.searchenginejournal.com/the-science-of-what-ai-actually-rewards/570849/) | Search Engine Journal | 145 | AI Search | 2026-03-31 13:30 UTC |
 | [So Your Traffic Tanked: What Smart CMOs Do Next](https://www.searchenginejournal.com/so-your-traffic-tanked-what-smart-cmos-do-next/570708/) | Search Engine Journal | 145 | General | 2026-03-31 13:00 UTC |
-| [WordPress Delays Release Of Version 7.0 To Focus On Stability](https://www.searchenginejournal.com/wordpress-delays-release-of-version-7-0-to-focus-on-stability/570944/) | Search Engine Journal | 145 | General | 2026-03-31 10:48 UTC |
 | [Does AI content rank well in search? [Survey + Data study]](https://www.semrush.com/blog/does-ai-content-rank-in-search-data-study/) | Semrush Blog | 95 | AI Search | 2026-04-01 16:09 UTC |
 | [8 Best AI SEO Tools for 2026 (Tested Firsthand)](https://www.semrush.com/blog/best-ai-seo-tools/) | Semrush Blog | 95 | AI Search | 2026-04-01 14:05 UTC |
 | [The 9 Best LLM Monitoring Tools for Brand Visibility in 2026](https://www.semrush.com/blog/llm-monitoring-tools/) | Semrush Blog | 95 | AI Search | 2026-04-01 14:05 UTC |
