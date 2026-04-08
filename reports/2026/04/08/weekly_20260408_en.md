@@ -13,12 +13,12 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Google Testing Jumping To AI Mode Directly From AIOs ON DESKTOP](https://www.seroundtable.com/ai-mode-desktop-from-aios-41144.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-08 11:26 UTC |
-| [âJarvis Approachingâ: Google's Sundar Pichai Signals an Agentic, Multi-Threaded Future for Search](https://www.seroundtable.com/sundar-pichai-future-search-agents-41143.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-08 11:15 UTC |
 | [Google Confirms March 2026 Core Update Is Complete](https://www.searchenginejournal.com/google-confirms-march-2026-core-update-is-complete/571459/) | Search Engine Journal | 200 | General | 2026-04-08 13:33 UTC |
 | [GEO Was Invented On Sand Hill Road](https://www.searchenginejournal.com/geo-was-invented-on-sand-hill-road/571316/) | Search Engine Journal | 200 | General | 2026-04-08 13:30 UTC |
 | [Why Product Feeds Shouldn’t Be The Most Ignored SEO System In Ecommerce](https://www.searchenginejournal.com/why-product-feeds-shouldnt-be-the-most-ignored-seo-system-in-ecommerce/569211/) | Search Engine Journal | 200 | AI Search | 2026-04-08 12:00 UTC |
-| [Google Says It Can Handle Multiple URLs To The Same Content](https://www.searchenginejournal.com/google-says-it-can-handle-multiple-urls-to-the-same-content/571424/) | Search Engine Journal | 200 | Content | 2026-04-08 09:53 UTC |
 | [Search Central Live is Coming to Shanghai in 2026!](https://developers.google.com/search/blog/2026/04/scl-shanghai-2026) | Google Search Central Blog | 195 | AI Search | 2026-04-02 00:00 UTC |
+| [âJarvis Approachingâ: Google's Sundar Pichai Signals an Agentic, Multi-Threaded Future for Search](https://www.seroundtable.com/sundar-pichai-future-search-agents-41143.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-08 11:15 UTC |
+| [Google Says It Can Handle Multiple URLs To The Same Content](https://www.searchenginejournal.com/google-says-it-can-handle-multiple-urls-to-the-same-content/571424/) | Search Engine Journal | 180 | Content | 2026-04-08 09:53 UTC |
 | [How To Turn AI Search Visibility Data Into a GEO Strategy That Closes Citation Gaps [Webinar]](https://www.searchenginejournal.com/how-to-turn-ai-search-visibility-data-into-a-geo-strategy-that-closes-citation-gaps-webinar/570420/) | Search Engine Journal | 180 | AI Search | 2026-04-08 07:45 UTC |
 | [Pichai Says AI Could 'Break Pretty Much All Software'](https://www.searchenginejournal.com/pichai-says-ai-could-break-pretty-much-all-software/571387/) | Search Engine Journal | 180 | AI Search | 2026-04-07 20:47 UTC |
 | [Google Ads Testing New Layouts for Multi-Location GBP Assets?](https://www.seroundtable.com/google-ads-testing-new-layouts-for-multi-location-gbp-assets-41142.html) | Search Engine Roundtable | 170 | Local SEO | 2026-04-07 15:28 UTC |
@@ -36,7 +36,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [How AI Is Changing Lead Generation: 3 Key Things SEO & PPC Teams Need To Do Now](https://www.searchenginejournal.com/lead-gen-seo-ppc-callrail-spcs/570572/) | Search Engine Journal | 160 | AI Search | 2026-04-06 05:00 UTC |
 | [Grokipedia Continues To Drop in Search Visibility And AI Search Visibility](https://www.seroundtable.com/grokipedia-continues-drop-google-ai-search-41139.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-03 11:21 UTC |
 | [How to use Google Keyword Planner](https://www.semrush.com/blog/google-keyword-planner/) | Semrush Blog | 150 | AI Search | 2026-04-08 13:59 UTC |
-| [Competitive intelligence 101: What it is &amp; how to gather it](https://www.semrush.com/blog/competitive-intelligence/) | Semrush Blog | 150 | Migration | 2026-04-08 11:13 UTC |
 | [MCP, A2A, NLWeb, And AGENTS.md: The Standards Powering The Agentic Web](https://www.searchenginejournal.com/mcp-a2a-nlweb-and-agents-md-the-standards-powering-the-agentic-web/570092/) | Search Engine Journal | 145 | AI Search | 2026-04-05 12:00 UTC |
 | [The 5-Pillar Framework For AI Content That Audiences Actually Trust](https://www.searchenginejournal.com/the-5-pillar-framework-for-ai-content-that-audiences-actually-trust/568860/) | Search Engine Journal | 145 | AI Search | 2026-04-04 12:00 UTC |
 | [Why Agentic AI Shopping Feels Unnatural And May Not Threaten SEO](https://www.searchenginejournal.com/why-agentic-ai-shopping-feels-unnatural-and-may-not-threaten-seo/571122/) | Search Engine Journal | 145 | AI Search | 2026-04-03 13:02 UTC |
@@ -47,9 +46,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Llms.txt Was Step One. Here’s The Architecture That Comes Next](https://www.searchenginejournal.com/llms-txt-was-step-one-heres-the-architecture-that-comes-next/570925/) | Search Engine Journal | 145 | AI Search | 2026-04-02 13:30 UTC |
 | [How To Identify And Solve Click Fraud In Paid Media](https://www.searchenginejournal.com/ask-a-ppc-how-to-identify-and-solve-click-fraud-in-paid-media/568112/) | Search Engine Journal | 145 | AI Search | 2026-04-02 12:00 UTC |
 | [Ask Me Anything About PPC Archives](https://www.searchenginejournal.com/category/paid-media/ask-ppc/) | Search Engine Journal | 145 | AI Search | 2026-04-02 12:00 UTC |
+| [Competitive intelligence 101: What it is &amp; how to gather it](https://www.semrush.com/blog/competitive-intelligence/) | Semrush Blog | 130 | Migration | 2026-04-08 11:13 UTC |
 | [Agentic search: How AI agents will decide which brands get found](https://www.semrush.com/blog/what-is-agentic-search/) | Semrush Blog | 110 | AI Search | 2026-04-07 15:17 UTC |
 | [ChatGPT traffic analysis: Insights from 17 months of clickstream data](https://www.semrush.com/blog/chatgpt-search-insights/) | Semrush Blog | 110 | GSC | 2026-04-07 13:28 UTC |
-| [Does AI content rank well in search? [Survey + Data study]](https://www.semrush.com/blog/does-ai-content-rank-in-search-data-study/) | Semrush Blog | 95 | AI Search | 2026-04-01 16:09 UTC |
 
 ## Notes
 
