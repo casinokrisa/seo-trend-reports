@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google Says It Can Handle Multiple URLs To The Same Content](https://www.searchenginejournal.com/google-says-it-can-handle-multiple-urls-to-the-same-content/571424/) | Search Engine Journal | 200 | Content | 2026-04-08 09:53 UTC |
 | [How To Turn AI Search Visibility Data Into a GEO Strategy That Closes Citation Gaps [Webinar]](https://www.searchenginejournal.com/how-to-turn-ai-search-visibility-data-into-a-geo-strategy-that-closes-citation-gaps-webinar/570420/) | Search Engine Journal | 200 | AI Search | 2026-04-08 07:45 UTC |
 | [Search Central Live is Coming to Shanghai in 2026!](https://developers.google.com/search/blog/2026/04/scl-shanghai-2026) | Google Search Central Blog | 195 | AI Search | 2026-04-02 00:00 UTC |
 | [Google Ads Testing New Layouts for Multi-Location GBP Assets?](https://www.seroundtable.com/google-ads-testing-new-layouts-for-multi-location-gbp-assets-41142.html) | Search Engine Roundtable | 190 | Local SEO | 2026-04-07 15:28 UTC |
@@ -19,8 +20,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Pichai Says AI Could 'Break Pretty Much All Software'](https://www.searchenginejournal.com/pichai-says-ai-could-break-pretty-much-all-software/571387/) | Search Engine Journal | 180 | AI Search | 2026-04-07 20:47 UTC |
 | [How Consumers Navigate High-Stakes Purchases In AI Mode](https://www.searchenginejournal.com/how-consumers-navigate-high-stakes-purchases-in-ai-mode/571361/) | Search Engine Journal | 180 | AI Search | 2026-04-07 13:30 UTC |
 | [From T-Shaped To M-Shaped: The PPC Career Evolution Nobody Is Talking About](https://www.searchenginejournal.com/from-t-shaped-to-m-shaped-the-ppc-career-evolution-nobody-is-talking-about/570722/) | Search Engine Journal | 180 | General | 2026-04-07 12:30 UTC |
-| [Google Explains Why It Doesn't Matter That Websites Are Getting Larger](https://www.searchenginejournal.com/google-explains-why-it-doesnt-matter-that-websites-are-getting-larger/571333/) | Search Engine Journal | 180 | AI Search | 2026-04-07 11:13 UTC |
 | [GSC Logging Error Yielded Inflated Impressions Since May 2025](https://www.seroundtable.com/gsc-logging-error-impressions-41140.html) | Search Engine Roundtable | 170 | GSC | 2026-04-06 11:15 UTC |
+| [Google Explains Why It Doesn't Matter That Websites Are Getting Larger](https://www.searchenginejournal.com/google-explains-why-it-doesnt-matter-that-websites-are-getting-larger/571333/) | Search Engine Journal | 160 | AI Search | 2026-04-07 11:13 UTC |
 | [Google's Mueller On SEO Gurus Who Are "Clueless Imposters"](https://www.searchenginejournal.com/googles-mueller-on-seo-gurus-who-are-clueless-imposters/571290/) | Search Engine Journal | 160 | General | 2026-04-07 08:57 UTC |
 | [ChatGPT Now Crawls 3.6x More Than Googlebot: What 24M Requests Reveal](https://www.searchenginejournal.com/chatgpt-googlebot-crawl-data-alliai-spa/570885/) | Search Engine Journal | 160 | Indexing | 2026-04-07 05:00 UTC |
 | [Trust In AI Search Could Drop With Ads, Survey Shows](https://www.searchenginejournal.com/trust-in-ai-search-could-drop-with-ads-survey-shows/571240/) | Search Engine Journal | 160 | AI Search | 2026-04-06 19:40 UTC |
@@ -34,7 +35,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Programming Note: Offline For Passover Thursday &amp; Friday](https://www.seroundtable.com/programming-note-offline-for-passover-5786-41135.html) | Search Engine Roundtable | 155 | General | 2026-04-01 11:51 UTC |
 | [Google Ask Maps Fully Available In US and India](https://www.seroundtable.com/google-ask-maps-available-us-and-india-41137.html) | Search Engine Roundtable | 155 | Local SEO | 2026-04-01 11:31 UTC |
 | [Google Explains Googlebot Crawling, Fetching &amp; Byte Limits](https://www.seroundtable.com/google-explains-googlebot-41136.html) | Search Engine Roundtable | 155 | Indexing | 2026-04-01 11:21 UTC |
-| [Microsoft Advertising Merchant Center Enables Store &amp; Domain Name Updates](https://www.seroundtable.com/microsoft-advertising-merchant-center-store-domain-name-update-41132.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-01 11:11 UTC |
 | [The 5-Pillar Framework For AI Content That Audiences Actually Trust](https://www.searchenginejournal.com/the-5-pillar-framework-for-ai-content-that-audiences-actually-trust/568860/) | Search Engine Journal | 145 | AI Search | 2026-04-04 12:00 UTC |
 | [Why Agentic AI Shopping Feels Unnatural And May Not Threaten SEO](https://www.searchenginejournal.com/why-agentic-ai-shopping-feels-unnatural-and-may-not-threaten-seo/571122/) | Search Engine Journal | 145 | AI Search | 2026-04-03 13:02 UTC |
 | [Google Core Update, Crawl Limits & Gemini Traffic Data](https://www.searchenginejournal.com/seo-pulse-google-core-update-crawl-limits-gemini-traffic-data/571089/) | Search Engine Journal | 145 | Indexing | 2026-04-03 12:30 UTC |
