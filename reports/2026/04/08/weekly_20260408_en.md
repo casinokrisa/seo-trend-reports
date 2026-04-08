@@ -20,8 +20,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [How Consumers Navigate High-Stakes Purchases In AI Mode](https://www.searchenginejournal.com/how-consumers-navigate-high-stakes-purchases-in-ai-mode/571361/) | Search Engine Journal | 180 | AI Search | 2026-04-07 13:30 UTC |
 | [From T-Shaped To M-Shaped: The PPC Career Evolution Nobody Is Talking About](https://www.searchenginejournal.com/from-t-shaped-to-m-shaped-the-ppc-career-evolution-nobody-is-talking-about/570722/) | Search Engine Journal | 180 | General | 2026-04-07 12:30 UTC |
 | [Google Explains Why It Doesn't Matter That Websites Are Getting Larger](https://www.searchenginejournal.com/google-explains-why-it-doesnt-matter-that-websites-are-getting-larger/571333/) | Search Engine Journal | 180 | AI Search | 2026-04-07 11:13 UTC |
-| [Google's Mueller On SEO Gurus Who Are "Clueless Imposters"](https://www.searchenginejournal.com/googles-mueller-on-seo-gurus-who-are-clueless-imposters/571290/) | Search Engine Journal | 180 | General | 2026-04-07 08:57 UTC |
 | [GSC Logging Error Yielded Inflated Impressions Since May 2025](https://www.seroundtable.com/gsc-logging-error-impressions-41140.html) | Search Engine Roundtable | 170 | GSC | 2026-04-06 11:15 UTC |
+| [Google's Mueller On SEO Gurus Who Are "Clueless Imposters"](https://www.searchenginejournal.com/googles-mueller-on-seo-gurus-who-are-clueless-imposters/571290/) | Search Engine Journal | 160 | General | 2026-04-07 08:57 UTC |
 | [ChatGPT Now Crawls 3.6x More Than Googlebot: What 24M Requests Reveal](https://www.searchenginejournal.com/chatgpt-googlebot-crawl-data-alliai-spa/570885/) | Search Engine Journal | 160 | Indexing | 2026-04-07 05:00 UTC |
 | [Trust In AI Search Could Drop With Ads, Survey Shows](https://www.searchenginejournal.com/trust-in-ai-search-could-drop-with-ads-survey-shows/571240/) | Search Engine Journal | 160 | AI Search | 2026-04-06 19:40 UTC |
 | [ChatGPT Search Is Citing Fewer Sites, Data Shows](https://www.searchenginejournal.com/chatgpt-search-is-citing-fewer-sites-data-shows/571219/) | Search Engine Journal | 160 | AI Search | 2026-04-06 13:18 UTC |
@@ -47,13 +47,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [How To Do Evergreen Content In 2026 (And Beyond)](https://www.searchenginejournal.com/how-to-do-evergreen-content-in-2026-and-beyond/570903/) | Search Engine Journal | 145 | AI Search | 2026-04-01 13:30 UTC |
 | [Building An In-House PPC Team: Why A Hybrid Model May Protect Your Ad Spend](https://www.searchenginejournal.com/building-an-in-house-ppc-team-why-a-hybrid-model-may-protect-your-ad-spend/569020/) | Search Engine Journal | 145 | General | 2026-04-01 12:30 UTC |
 | [Who Owns SEO In The Enterprise? The Accountability Gap That Kills Performance](https://www.searchenginejournal.com/who-owns-seo-in-the-enterprise-the-accountability-gap-that-kills-performance/566095/) | Search Engine Journal | 145 | AI Search | 2026-04-01 11:30 UTC |
-| [Google Answers Why Core Updates Can Roll Out In Stages](https://www.searchenginejournal.com/google-answers-why-core-updates-can-roll-out-in-stages/571003/) | Search Engine Journal | 145 | General | 2026-04-01 09:14 UTC |
 | [Agentic search: How AI agents will decide which brands get found](https://www.semrush.com/blog/what-is-agentic-search/) | Semrush Blog | 130 | AI Search | 2026-04-07 15:17 UTC |
 | [ChatGPT traffic analysis: Insights from 17 months of clickstream data](https://www.semrush.com/blog/chatgpt-search-insights/) | Semrush Blog | 130 | GSC | 2026-04-07 13:28 UTC |
 | [Does AI content rank well in search? [Survey + Data study]](https://www.semrush.com/blog/does-ai-content-rank-in-search-data-study/) | Semrush Blog | 95 | AI Search | 2026-04-01 16:09 UTC |
 | [The 9 Best LLM Monitoring Tools for Brand Visibility in 2026](https://www.semrush.com/blog/llm-monitoring-tools/) | Semrush Blog | 95 | AI Search | 2026-04-01 14:05 UTC |
 | [8 Best AI SEO Tools for 2026 (Tested Firsthand)](https://www.semrush.com/blog/best-ai-seo-tools/) | Semrush Blog | 95 | AI Search | 2026-04-01 14:05 UTC |
-| [AI content optimization: The complete guide](https://www.semrush.com/blog/ai-content-optimization/) | Semrush Blog | 95 | AI Search | 2026-04-01 08:21 UTC |
 
 ## Notes
 
