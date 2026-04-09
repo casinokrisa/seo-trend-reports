@@ -31,7 +31,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Why Product Feeds Shouldn’t Be The Most Ignored SEO System In Ecommerce](https://www.searchenginejournal.com/why-product-feeds-shouldnt-be-the-most-ignored-seo-system-in-ecommerce/569211/) | Search Engine Journal | 180 | AI Search | 2026-04-08 12:00 UTC |
 | [Google Says It Can Handle Multiple URLs To The Same Content](https://www.searchenginejournal.com/google-says-it-can-handle-multiple-urls-to-the-same-content/571424/) | Search Engine Journal | 180 | Content | 2026-04-08 09:53 UTC |
 | [How To Turn AI Search Visibility Data Into a GEO Strategy That Closes Citation Gaps [Webinar]](https://www.searchenginejournal.com/how-to-turn-ai-search-visibility-data-into-a-geo-strategy-that-closes-citation-gaps-webinar/570420/) | Search Engine Journal | 160 | AI Search | 2026-04-08 07:45 UTC |
-| [Pichai Says AI Could 'Break Pretty Much All Software'](https://www.searchenginejournal.com/pichai-says-ai-could-break-pretty-much-all-software/571387/) | Search Engine Journal | 160 | AI Search | 2026-04-07 20:47 UTC |
 | [How to use Google Keyword Planner](https://www.semrush.com/blog/google-keyword-planner/) | Semrush Blog | 130 | AI Search | 2026-04-08 13:59 UTC |
 | [Competitive intelligence 101: What it is &amp; how to gather it](https://www.semrush.com/blog/competitive-intelligence/) | Semrush Blog | 130 | Migration | 2026-04-08 11:13 UTC |
 
