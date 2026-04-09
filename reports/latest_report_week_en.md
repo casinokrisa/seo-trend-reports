@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [How Much can one earn through Affiliate marketing in 2026?](https://www.reddit.com/r/DigitalMarketing/comments/1sggl3t/how_much_can_one_earn_through_affiliate_marketing/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-04-09 05:21 UTC |
-| [What is wrong with my website?](https://www.reddit.com/r/DigitalMarketing/comments/1sgg6lt/what_is_wrong_with_my_website/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-04-09 04:59 UTC |
-| [SEO vs AEO](https://www.reddit.com/r/SEO/comments/1sgg48d/seo_vs_aeo/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Indexing | 2026-04-09 04:56 UTC |
-| [What is wrong with my website?](https://www.reddit.com/r/SEO/comments/1sgfyle/what_is_wrong_with_my_website/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Indexing | 2026-04-09 04:48 UTC |
-| [How do you handle early CPA volatility without pausing campaigns that might actually work?](https://www.reddit.com/r/DigitalMarketing/comments/1sgfv51/how_do_you_handle_early_cpa_volatility_without/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-09 04:43 UTC |
-| [What actually gets cited by ChatGPT/Perplexity?](https://www.reddit.com/r/DigitalMarketing/comments/1sgft9y/what_actually_gets_cited_by_chatgptperplexity/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-09 04:40 UTC |
-| [PSEO has been repeatedly proven ineffective. It needs to stop.](https://www.reddit.com/r/DigitalMarketing/comments/1sget3l/pseo_has_been_repeatedly_proven_ineffective_it/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Content | 2026-04-09 03:49 UTC |
-| [Why isn't there a Google Analytics for AI traffic?](https://www.reddit.com/r/seogrowth/comments/1sgervs/why_isnt_there_a_google_analytics_for_ai_traffic/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Indexing | 2026-04-09 03:48 UTC |
-| [Why isn't there a Google Analytics for AI traffic?](https://www.reddit.com/r/TechSEO/comments/1sgercz/why_isnt_there_a_google_analytics_for_ai_traffic/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | Indexing | 2026-04-09 03:47 UTC |
-| [20k keyword export, half of them duplicates with different word order — wrote an Excel macro to cluster them](https://www.reddit.com/r/seogrowth/comments/1sgdum4/20k_keyword_export_half_of_them_duplicates_with/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | AI Search | 2026-04-09 03:03 UTC |
-| [New to marketing and looking for advice on AI Instagram strategy](https://www.reddit.com/r/DigitalMarketing/comments/1sgdolg/new_to_marketing_and_looking_for_advice_on_ai/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-09 02:56 UTC |
-| [Anyone else feel stuck trying to grow domain authority even after doing all the “right” stuff?](https://www.reddit.com/r/seogrowth/comments/1sgdlcu/anyone_else_feel_stuck_trying_to_grow_domain/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Links | 2026-04-09 02:52 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
@@ -35,10 +24,10 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [GEO Was Invented On Sand Hill Road](https://www.searchenginejournal.com/geo-was-invented-on-sand-hill-road/571316/) | Search Engine Journal | 180 | General | 2026-04-08 13:30 UTC |
 | [Why Product Feeds Shouldn’t Be The Most Ignored SEO System In Ecommerce](https://www.searchenginejournal.com/why-product-feeds-shouldnt-be-the-most-ignored-seo-system-in-ecommerce/569211/) | Search Engine Journal | 180 | AI Search | 2026-04-08 12:00 UTC |
 | [Google Says It Can Handle Multiple URLs To The Same Content](https://www.searchenginejournal.com/google-says-it-can-handle-multiple-urls-to-the-same-content/571424/) | Search Engine Journal | 180 | Content | 2026-04-08 09:53 UTC |
-| [How To Turn AI Search Visibility Data Into a GEO Strategy That Closes Citation Gaps [Webinar]](https://www.searchenginejournal.com/how-to-turn-ai-search-visibility-data-into-a-geo-strategy-that-closes-citation-gaps-webinar/570420/) | Search Engine Journal | 180 | AI Search | 2026-04-08 07:45 UTC |
 | [Google Ads Testing New Layouts for Multi-Location GBP Assets?](https://www.seroundtable.com/google-ads-testing-new-layouts-for-multi-location-gbp-assets-41142.html) | Search Engine Roundtable | 170 | Local SEO | 2026-04-07 15:28 UTC |
 | [Programming Note: Offline For Last Days Of Passover Wednesday &amp; Thursday](https://www.seroundtable.com/programming-note-offline-for-last-days-of-passover-5786-41141.html) | Search Engine Roundtable | 170 | General | 2026-04-07 12:10 UTC |
 | [GSC Logging Error Yielded Inflated Impressions Since May 2025](https://www.seroundtable.com/gsc-logging-error-impressions-41140.html) | Search Engine Roundtable | 170 | GSC | 2026-04-06 11:15 UTC |
+| [How To Turn AI Search Visibility Data Into a GEO Strategy That Closes Citation Gaps [Webinar]](https://www.searchenginejournal.com/how-to-turn-ai-search-visibility-data-into-a-geo-strategy-that-closes-citation-gaps-webinar/570420/) | Search Engine Journal | 160 | AI Search | 2026-04-08 07:45 UTC |
 | [Pichai Says AI Could 'Break Pretty Much All Software'](https://www.searchenginejournal.com/pichai-says-ai-could-break-pretty-much-all-software/571387/) | Search Engine Journal | 160 | AI Search | 2026-04-07 20:47 UTC |
 | [How Consumers Navigate High-Stakes Purchases In AI Mode](https://www.searchenginejournal.com/how-consumers-navigate-high-stakes-purchases-in-ai-mode/571361/) | Search Engine Journal | 160 | AI Search | 2026-04-07 13:30 UTC |
 | [From T-Shaped To M-Shaped: The PPC Career Evolution Nobody Is Talking About](https://www.searchenginejournal.com/from-t-shaped-to-m-shaped-the-ppc-career-evolution-nobody-is-talking-about/570722/) | Search Engine Journal | 160 | General | 2026-04-07 12:30 UTC |
