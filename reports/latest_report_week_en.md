@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Don't Go Chasing AI Yet: A Framework for Prioritizing SEO vs. AI Search](https://www.searchenginejournal.com/dont-go-chasing-ai-yet-a-framework-for-prioritizing-seo-vs-ai-search/571603/) | Search Engine Journal | 200 | AI Search | 2026-04-09 22:10 UTC |
 | [Reusable "Skills" Are Coming To Gemini In Chrome](https://www.seroundtable.com/skills-gemini-chrome-41146.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-09 11:15 UTC |
 | [Your Owned Content Is Losing To A Stranger’s Reddit Comment](https://www.searchenginejournal.com/your-owned-content-is-losing-to-a-strangers-reddit-comment/571167/) | Search Engine Journal | 180 | AI Search | 2026-04-09 13:30 UTC |
 | [Why Your New SEO Vendor Can’t Build on a Broken Foundation](https://www.searchenginejournal.com/why-your-new-seo-vendor-cant-build-on-a-broken-foundation/570716/) | Search Engine Journal | 180 | AI Search | 2026-04-09 12:30 UTC |
