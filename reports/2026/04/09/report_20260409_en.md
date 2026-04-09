@@ -33,7 +33,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Confirms March 2026 Core Update Is Complete](https://www.searchenginejournal.com/google-confirms-march-2026-core-update-is-complete/571459/) | Search Engine Journal | 160 | General | 2026-04-08 13:33 UTC |
 | [GEO Was Invented On Sand Hill Road](https://www.searchenginejournal.com/geo-was-invented-on-sand-hill-road/571316/) | Search Engine Journal | 160 | General | 2026-04-08 13:30 UTC |
 | [Why Product Feeds Shouldn’t Be The Most Ignored SEO System In Ecommerce](https://www.searchenginejournal.com/why-product-feeds-shouldnt-be-the-most-ignored-seo-system-in-ecommerce/569211/) | Search Engine Journal | 160 | AI Search | 2026-04-08 12:00 UTC |
-| [Google Says It Can Handle Multiple URLs To The Same Content](https://www.searchenginejournal.com/google-says-it-can-handle-multiple-urls-to-the-same-content/571424/) | Search Engine Journal | 160 | Content | 2026-04-08 09:53 UTC |
 | [How to use Google Keyword Planner](https://www.semrush.com/blog/google-keyword-planner/) | Semrush Blog | 110 | AI Search | 2026-04-08 13:59 UTC |
 | [Competitive intelligence 101: What it is &amp; how to gather it](https://www.semrush.com/blog/competitive-intelligence/) | Semrush Blog | 110 | Migration | 2026-04-08 11:13 UTC |
 
