@@ -12,6 +12,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Breaking Content & SEO Silos To Build Entity Authority in AI Search](https://www.searchenginejournal.com/entity-authority-ai-search-victorious-spa/570686/) | Search Engine Journal | 200 | AI Search | 2026-04-09 05:00 UTC |
+| [OpenAI, Meta, ByteDance Lead AI Bot Traffic In Publishing](https://www.searchenginejournal.com/openai-meta-bytedance-lead-ai-bot-traffic-in-publishing/571483/) | Search Engine Journal | 200 | AI Search | 2026-04-09 04:20 UTC |
 | [Google's March 2026 Broad Core Update Has Completed Rolling Out](https://www.seroundtable.com/google-march-2026-core-update-complete-41145.html) | Search Engine Roundtable | 190 | General | 2026-04-08 19:25 UTC |
 | [Google Testing Jumping To AI Mode Directly From AIOs ON DESKTOP](https://www.seroundtable.com/ai-mode-desktop-from-aios-41144.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-08 11:26 UTC |
 | [âJarvis Approachingâ: Google's Sundar Pichai Signals an Agentic, Multi-Threaded Future for Search](https://www.seroundtable.com/sundar-pichai-future-search-agents-41143.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-08 11:15 UTC |
@@ -36,8 +38,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [ChatGPT Search Is Citing Fewer Sites, Data Shows](https://www.searchenginejournal.com/chatgpt-search-is-citing-fewer-sites-data-shows/571219/) | Search Engine Journal | 160 | AI Search | 2026-04-06 13:18 UTC |
 | [The Top 6 Search Engines Market Share & The AI Search Engines To Watch](https://www.searchenginejournal.com/seo/the-top-6-search-engines-market-share-the-ai-search-engines-to-watch/) | Search Engine Journal | 160 | AI Search | 2026-04-06 12:30 UTC |
 | [WordPress's Troubled Real-Time Collaboration Feature](https://www.searchenginejournal.com/wordpresss-troubled-real-time-collaboration-feature/571201/) | Search Engine Journal | 160 | AI Search | 2026-04-06 10:23 UTC |
-| [How AI Is Changing Lead Generation: 3 Key Things SEO & PPC Teams Need To Do Now](https://www.searchenginejournal.com/lead-gen-seo-ppc-callrail-spcs/570572/) | Search Engine Journal | 160 | AI Search | 2026-04-06 05:00 UTC |
 | [Grokipedia Continues To Drop in Search Visibility And AI Search Visibility](https://www.seroundtable.com/grokipedia-continues-drop-google-ai-search-41139.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-03 11:21 UTC |
+| [How AI Is Changing Lead Generation: 3 Key Things SEO & PPC Teams Need To Do Now](https://www.searchenginejournal.com/lead-gen-seo-ppc-callrail-spcs/570572/) | Search Engine Journal | 145 | AI Search | 2026-04-06 05:00 UTC |
 | [MCP, A2A, NLWeb, And AGENTS.md: The Standards Powering The Agentic Web](https://www.searchenginejournal.com/mcp-a2a-nlweb-and-agents-md-the-standards-powering-the-agentic-web/570092/) | Search Engine Journal | 145 | AI Search | 2026-04-05 12:00 UTC |
 | [The 5-Pillar Framework For AI Content That Audiences Actually Trust](https://www.searchenginejournal.com/the-5-pillar-framework-for-ai-content-that-audiences-actually-trust/568860/) | Search Engine Journal | 145 | AI Search | 2026-04-04 12:00 UTC |
 | [Why Agentic AI Shopping Feels Unnatural And May Not Threaten SEO](https://www.searchenginejournal.com/why-agentic-ai-shopping-feels-unnatural-and-may-not-threaten-seo/571122/) | Search Engine Journal | 145 | AI Search | 2026-04-03 13:02 UTC |

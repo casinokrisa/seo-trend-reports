@@ -18,6 +18,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Breaking Content & SEO Silos To Build Entity Authority in AI Search](https://www.searchenginejournal.com/entity-authority-ai-search-victorious-spa/570686/) | Search Engine Journal | 200 | AI Search | 2026-04-09 05:00 UTC |
+| [OpenAI, Meta, ByteDance Lead AI Bot Traffic In Publishing](https://www.searchenginejournal.com/openai-meta-bytedance-lead-ai-bot-traffic-in-publishing/571483/) | Search Engine Journal | 200 | AI Search | 2026-04-09 04:20 UTC |
 | [Google's March 2026 Broad Core Update Has Completed Rolling Out](https://www.seroundtable.com/google-march-2026-core-update-complete-41145.html) | Search Engine Roundtable | 190 | General | 2026-04-08 19:25 UTC |
 | [Google Testing Jumping To AI Mode Directly From AIOs ON DESKTOP](https://www.seroundtable.com/ai-mode-desktop-from-aios-41144.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-08 11:26 UTC |
 | [âJarvis Approachingâ: Google's Sundar Pichai Signals an Agentic, Multi-Threaded Future for Search](https://www.seroundtable.com/sundar-pichai-future-search-agents-41143.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-08 11:15 UTC |
@@ -29,7 +31,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Why Product Feeds Shouldn’t Be The Most Ignored SEO System In Ecommerce](https://www.searchenginejournal.com/why-product-feeds-shouldnt-be-the-most-ignored-seo-system-in-ecommerce/569211/) | Search Engine Journal | 180 | AI Search | 2026-04-08 12:00 UTC |
 | [Google Says It Can Handle Multiple URLs To The Same Content](https://www.searchenginejournal.com/google-says-it-can-handle-multiple-urls-to-the-same-content/571424/) | Search Engine Journal | 180 | Content | 2026-04-08 09:53 UTC |
 | [How To Turn AI Search Visibility Data Into a GEO Strategy That Closes Citation Gaps [Webinar]](https://www.searchenginejournal.com/how-to-turn-ai-search-visibility-data-into-a-geo-strategy-that-closes-citation-gaps-webinar/570420/) | Search Engine Journal | 180 | AI Search | 2026-04-08 07:45 UTC |
-| [Google Ads Testing New Layouts for Multi-Location GBP Assets?](https://www.seroundtable.com/google-ads-testing-new-layouts-for-multi-location-gbp-assets-41142.html) | Search Engine Roundtable | 170 | Local SEO | 2026-04-07 15:28 UTC |
 | [Pichai Says AI Could 'Break Pretty Much All Software'](https://www.searchenginejournal.com/pichai-says-ai-could-break-pretty-much-all-software/571387/) | Search Engine Journal | 160 | AI Search | 2026-04-07 20:47 UTC |
 | [How to use Google Keyword Planner](https://www.semrush.com/blog/google-keyword-planner/) | Semrush Blog | 130 | AI Search | 2026-04-08 13:59 UTC |
 | [Competitive intelligence 101: What it is &amp; how to gather it](https://www.semrush.com/blog/competitive-intelligence/) | Semrush Blog | 130 | Migration | 2026-04-08 11:13 UTC |
