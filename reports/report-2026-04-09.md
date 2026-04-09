@@ -6,13 +6,29 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [How Much can one earn through Affiliate marketing in 2026?](https://www.reddit.com/r/DigitalMarketing/comments/1sggl3t/how_much_can_one_earn_through_affiliate_marketing/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-04-09 05:21 UTC |
+| [What is wrong with my website?](https://www.reddit.com/r/DigitalMarketing/comments/1sgg6lt/what_is_wrong_with_my_website/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-04-09 04:59 UTC |
+| [SEO vs AEO](https://www.reddit.com/r/SEO/comments/1sgg48d/seo_vs_aeo/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Indexing | 2026-04-09 04:56 UTC |
+| [What is wrong with my website?](https://www.reddit.com/r/SEO/comments/1sgfyle/what_is_wrong_with_my_website/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Indexing | 2026-04-09 04:48 UTC |
+| [How do you handle early CPA volatility without pausing campaigns that might actually work?](https://www.reddit.com/r/DigitalMarketing/comments/1sgfv51/how_do_you_handle_early_cpa_volatility_without/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-09 04:43 UTC |
+| [What actually gets cited by ChatGPT/Perplexity?](https://www.reddit.com/r/DigitalMarketing/comments/1sgft9y/what_actually_gets_cited_by_chatgptperplexity/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-09 04:40 UTC |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
+| 1 | [How Much can one earn through Affiliate marketing in 2026?](https://www.reddit.com/r/DigitalMarketing/comments/1sggl3t/how_much_can_one_earn_through_affiliate_marketing/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-04-09 05:21 UTC |
+| 2 | [What is wrong with my website?](https://www.reddit.com/r/DigitalMarketing/comments/1sgg6lt/what_is_wrong_with_my_website/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-04-09 04:59 UTC |
+| 3 | [SEO vs AEO](https://www.reddit.com/r/SEO/comments/1sgg48d/seo_vs_aeo/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Indexing | 2026-04-09 04:56 UTC |
+| 4 | [What is wrong with my website?](https://www.reddit.com/r/SEO/comments/1sgfyle/what_is_wrong_with_my_website/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Indexing | 2026-04-09 04:48 UTC |
+| 5 | [How do you handle early CPA volatility without pausing campaigns that might actually work?](https://www.reddit.com/r/DigitalMarketing/comments/1sgfv51/how_do_you_handle_early_cpa_volatility_without/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-09 04:43 UTC |
+| 6 | [What actually gets cited by ChatGPT/Perplexity?](https://www.reddit.com/r/DigitalMarketing/comments/1sgft9y/what_actually_gets_cited_by_chatgptperplexity/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-09 04:40 UTC |
+| 7 | [PSEO has been repeatedly proven ineffective. It needs to stop.](https://www.reddit.com/r/DigitalMarketing/comments/1sget3l/pseo_has_been_repeatedly_proven_ineffective_it/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Content | 2026-04-09 03:49 UTC |
+| 8 | [Why isn't there a Google Analytics for AI traffic?](https://www.reddit.com/r/seogrowth/comments/1sgervs/why_isnt_there_a_google_analytics_for_ai_traffic/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Indexing | 2026-04-09 03:48 UTC |
+| 9 | [Why isn't there a Google Analytics for AI traffic?](https://www.reddit.com/r/TechSEO/comments/1sgercz/why_isnt_there_a_google_analytics_for_ai_traffic/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | Indexing | 2026-04-09 03:47 UTC |
+| 10 | [20k keyword export, half of them duplicates with different word order — wrote an Excel macro to cluster them](https://www.reddit.com/r/seogrowth/comments/1sgdum4/20k_keyword_export_half_of_them_duplicates_with/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | AI Search | 2026-04-09 03:03 UTC |
+| 11 | [New to marketing and looking for advice on AI Instagram strategy](https://www.reddit.com/r/DigitalMarketing/comments/1sgdolg/new_to_marketing_and_looking_for_advice_on_ai/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-09 02:56 UTC |
+| 12 | [Anyone else feel stuck trying to grow domain authority even after doing all the “right” stuff?](https://www.reddit.com/r/seogrowth/comments/1sgdlcu/anyone_else_feel_stuck_trying_to_grow_domain/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Links | 2026-04-09 02:52 UTC |
 
 ## Notable items (Sites)
 
