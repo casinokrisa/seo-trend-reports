@@ -12,9 +12,10 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google Answers If Outbound Links Pass "Poor Signals"](https://www.searchenginejournal.com/google-answers-if-outbound-links-pass-poor-signals/571687/) | Search Engine Journal | 200 | Links | 2026-04-10 10:52 UTC |
 | [Google March Core Update Left 4 Losers For Every Winner In Germany](https://www.searchenginejournal.com/google-march-core-update-left-4-losers-for-every-winner-in-germany/571639/) | Search Engine Journal | 200 | General | 2026-04-10 05:15 UTC |
-| [What 400 Sites Reveal About Organic Traffic Gains](https://www.searchenginejournal.com/what-400-sites-reveal-about-organic-traffic-gains/571632/) | Search Engine Journal | 200 | AI Search | 2026-04-10 04:15 UTC |
 | [Reusable "Skills" Are Coming To Gemini In Chrome](https://www.seroundtable.com/skills-gemini-chrome-41146.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-09 11:15 UTC |
+| [What 400 Sites Reveal About Organic Traffic Gains](https://www.searchenginejournal.com/what-400-sites-reveal-about-organic-traffic-gains/571632/) | Search Engine Journal | 180 | AI Search | 2026-04-10 04:15 UTC |
 | [Don't Go Chasing AI Yet: A Framework for Prioritizing SEO vs. AI Search](https://www.searchenginejournal.com/dont-go-chasing-ai-yet-a-framework-for-prioritizing-seo-vs-ai-search/571603/) | Search Engine Journal | 180 | AI Search | 2026-04-09 22:10 UTC |
 | [Your Owned Content Is Losing To A Stranger’s Reddit Comment](https://www.searchenginejournal.com/your-owned-content-is-losing-to-a-strangers-reddit-comment/571167/) | Search Engine Journal | 180 | AI Search | 2026-04-09 13:30 UTC |
 | [Why Your New SEO Vendor Can’t Build on a Broken Foundation](https://www.searchenginejournal.com/why-your-new-seo-vendor-cant-build-on-a-broken-foundation/570716/) | Search Engine Journal | 180 | AI Search | 2026-04-09 12:30 UTC |
@@ -40,6 +41,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Explains Why It Doesn't Matter That Websites Are Getting Larger](https://www.searchenginejournal.com/google-explains-why-it-doesnt-matter-that-websites-are-getting-larger/571333/) | Search Engine Journal | 160 | AI Search | 2026-04-07 11:13 UTC |
 | [GSC Logging Error Yielded Inflated Impressions Since May 2025](https://www.seroundtable.com/gsc-logging-error-impressions-41140.html) | Search Engine Roundtable | 155 | GSC | 2026-04-06 11:15 UTC |
 | [Grokipedia Continues To Drop in Search Visibility And AI Search Visibility](https://www.seroundtable.com/grokipedia-continues-drop-google-ai-search-41139.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-03 11:21 UTC |
+| [Your guide to SEO ranking in organic search](https://www.semrush.com/blog/seo-ranking/) | Semrush Blog | 150 | Migration | 2026-04-10 09:05 UTC |
+| [10 Best PR Tools for Outreach, Distribution &amp; Monitoring](https://www.semrush.com/blog/best-pr-tools/) | Semrush Blog | 150 | AI Search | 2026-04-10 08:50 UTC |
 | [Google's Mueller On SEO Gurus Who Are "Clueless Imposters"](https://www.searchenginejournal.com/googles-mueller-on-seo-gurus-who-are-clueless-imposters/571290/) | Search Engine Journal | 145 | General | 2026-04-07 08:57 UTC |
 | [ChatGPT Now Crawls 3.6x More Than Googlebot: What 24M Requests Reveal](https://www.searchenginejournal.com/chatgpt-googlebot-crawl-data-alliai-spa/570885/) | Search Engine Journal | 145 | Indexing | 2026-04-07 05:00 UTC |
 | [Trust In AI Search Could Drop With Ads, Survey Shows](https://www.searchenginejournal.com/trust-in-ai-search-could-drop-with-ads-survey-shows/571240/) | Search Engine Journal | 145 | AI Search | 2026-04-06 19:40 UTC |
