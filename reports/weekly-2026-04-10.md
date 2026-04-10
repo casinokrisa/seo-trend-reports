@@ -13,8 +13,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Hashtags explained: What they are and how to use them](https://searchengineland.com/guide/what-are-hashtags) | Search Engine Land | 200 | AI Search | 2026-04-10 18:22 UTC |
-| [What I Learned About The Future Of Search And AI From Sundar Pichai's Latest Interview](https://www.searchenginejournal.com/what-i-learned-about-the-future-of-search-and-ai-from-sundar-pichais-latest-interview/571376/) | Search Engine Journal | 200 | AI Search | 2026-04-10 13:30 UTC |
 | [Google Discusses Page Weight, Average Mobile Homepage Size, and Googlebot File Size Limits](https://www.seroundtable.com/page-weight-google-file-size-limits-41147.html) | Search Engine Roundtable | 190 | Indexing | 2026-04-10 11:52 UTC |
+| [What I Learned About The Future Of Search And AI From Sundar Pichai's Latest Interview](https://www.searchenginejournal.com/what-i-learned-about-the-future-of-search-and-ai-from-sundar-pichais-latest-interview/571376/) | Search Engine Journal | 180 | AI Search | 2026-04-10 13:30 UTC |
 | [Core Update Done, GSC Bug Fixed, Mueller On Gurus](https://www.searchenginejournal.com/seo-pulse-core-update-done-gsc-bug-fixed-mueller-on-gurus/571626/) | Search Engine Journal | 180 | GSC | 2026-04-10 12:30 UTC |
 | [Google’s Push For Data Strength Is Really A Push For Better Bidding](https://www.searchenginejournal.com/googles-push-for-data-strength-is-really-a-push-for-better-bidding/571621/) | Search Engine Journal | 180 | AI Search | 2026-04-10 11:30 UTC |
 | [Google Answers If Outbound Links Pass "Poor Signals"](https://www.searchenginejournal.com/google-answers-if-outbound-links-pass-poor-signals/571687/) | Search Engine Journal | 180 | Links | 2026-04-10 10:52 UTC |
@@ -42,7 +42,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Testing New Layouts for Multi-Location GBP Assets?](https://www.seroundtable.com/google-ads-testing-new-layouts-for-multi-location-gbp-assets-41142.html) | Search Engine Roundtable | 155 | Local SEO | 2026-04-07 15:28 UTC |
 | [Programming Note: Offline For Last Days Of Passover Wednesday &amp; Thursday](https://www.seroundtable.com/programming-note-offline-for-last-days-of-passover-5786-41141.html) | Search Engine Roundtable | 155 | General | 2026-04-07 12:10 UTC |
 | [GSC Logging Error Yielded Inflated Impressions Since May 2025](https://www.seroundtable.com/gsc-logging-error-impressions-41140.html) | Search Engine Roundtable | 155 | GSC | 2026-04-06 11:15 UTC |
-| [How to Create an Effective SEO Report in 2026 (+ Free Template)](https://www.semrush.com/blog/seo-report/) | Semrush Blog | 150 | AI Search | 2026-04-10 13:15 UTC |
 | [How Consumers Navigate High-Stakes Purchases In AI Mode](https://www.searchenginejournal.com/how-consumers-navigate-high-stakes-purchases-in-ai-mode/571361/) | Search Engine Journal | 145 | AI Search | 2026-04-07 13:30 UTC |
 | [From T-Shaped To M-Shaped: The PPC Career Evolution Nobody Is Talking About](https://www.searchenginejournal.com/from-t-shaped-to-m-shaped-the-ppc-career-evolution-nobody-is-talking-about/570722/) | Search Engine Journal | 145 | General | 2026-04-07 12:30 UTC |
 | [Google Explains Why It Doesn't Matter That Websites Are Getting Larger](https://www.searchenginejournal.com/google-explains-why-it-doesnt-matter-that-websites-are-getting-larger/571333/) | Search Engine Journal | 145 | AI Search | 2026-04-07 11:13 UTC |
@@ -55,6 +54,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [How AI Is Changing Lead Generation: 3 Key Things SEO & PPC Teams Need To Do Now](https://www.searchenginejournal.com/lead-gen-seo-ppc-callrail-spcs/570572/) | Search Engine Journal | 145 | AI Search | 2026-04-06 05:00 UTC |
 | [MCP, A2A, NLWeb, And AGENTS.md: The Standards Powering The Agentic Web](https://www.searchenginejournal.com/mcp-a2a-nlweb-and-agents-md-the-standards-powering-the-agentic-web/570092/) | Search Engine Journal | 145 | AI Search | 2026-04-05 12:00 UTC |
 | [The 5-Pillar Framework For AI Content That Audiences Actually Trust](https://www.searchenginejournal.com/the-5-pillar-framework-for-ai-content-that-audiences-actually-trust/568860/) | Search Engine Journal | 145 | AI Search | 2026-04-04 12:00 UTC |
+| [How to Create an Effective SEO Report in 2026 (+ Free Template)](https://www.semrush.com/blog/seo-report/) | Semrush Blog | 130 | AI Search | 2026-04-10 13:15 UTC |
 | [The 11 Best Local SEO Tools in 2026](https://www.semrush.com/blog/local-seo-tools/) | Semrush Blog | 130 | Local SEO | 2026-04-10 13:06 UTC |
 | [10 Best Website Traffic Analysis Tools for 2026 (Features &amp; Pricing)](https://www.semrush.com/blog/website-traffic-analysis-tools/) | Semrush Blog | 130 | AI Search | 2026-04-10 12:53 UTC |
 | [Your guide to SEO ranking in organic search](https://www.semrush.com/blog/seo-ranking/) | Semrush Blog | 130 | Migration | 2026-04-10 09:05 UTC |
