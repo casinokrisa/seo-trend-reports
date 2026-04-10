@@ -32,8 +32,11 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google's CEO Predicts Search Will Become An AI Agent Manager](https://www.searchenginejournal.com/googles-ceo-predicts-search-will-become-an-ai-agent-manager/571526/) | Search Engine Journal | 160 | AI Search | 2026-04-09 11:12 UTC |
 | [Breaking Content & SEO Silos To Build Entity Authority in AI Search](https://www.searchenginejournal.com/entity-authority-ai-search-victorious-spa/570686/) | Search Engine Journal | 160 | AI Search | 2026-04-09 05:00 UTC |
 | [OpenAI, Meta, ByteDance Lead AI Bot Traffic In Publishing](https://www.searchenginejournal.com/openai-meta-bytedance-lead-ai-bot-traffic-in-publishing/571483/) | Search Engine Journal | 160 | AI Search | 2026-04-09 04:20 UTC |
+| [How to Create an Effective SEO Report in 2026 (+ Free Template)](https://www.semrush.com/blog/seo-report/) | Semrush Blog | 150 | AI Search | 2026-04-10 13:15 UTC |
+| [The 11 Best Local SEO Tools in 2026](https://www.semrush.com/blog/local-seo-tools/) | Semrush Blog | 150 | Local SEO | 2026-04-10 13:06 UTC |
+| [10 Best Website Traffic Analysis Tools for 2026 (Features &amp; Pricing)](https://www.semrush.com/blog/website-traffic-analysis-tools/) | Semrush Blog | 150 | AI Search | 2026-04-10 12:53 UTC |
 | [Your guide to SEO ranking in organic search](https://www.semrush.com/blog/seo-ranking/) | Semrush Blog | 150 | Migration | 2026-04-10 09:05 UTC |
-| [10 Best PR Tools for Outreach, Distribution &amp; Monitoring](https://www.semrush.com/blog/best-pr-tools/) | Semrush Blog | 150 | AI Search | 2026-04-10 08:50 UTC |
+| [10 Best PR Tools for Outreach, Distribution &amp; Monitoring](https://www.semrush.com/blog/best-pr-tools/) | Semrush Blog | 130 | AI Search | 2026-04-10 08:50 UTC |
 
 ## Notes for manual writing
 
