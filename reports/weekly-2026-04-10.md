@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Claude helped me achieve a score of 100 for Google Page Insights](https://www.reddit.com/r/TechSEO/comments/1shdghi/claude_helped_me_achieve_a_score_of_100_for/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | Indexing | 2026-04-10 05:24 UTC |
-| [Why My “Plumber Near Me” SEO Isn’t Getting Any Results, What Am I Missing?](https://www.reddit.com/r/localseo/comments/1shdf4b/why_my_plumber_near_me_seo_isnt_getting_any/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-10 05:22 UTC |
-| [how do I generare leads for my web design client?](https://www.reddit.com/r/DigitalMarketing/comments/1shcfn2/how_do_i_generare_leads_for_my_web_design_client/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-10 04:29 UTC |
-| [GBP Management Tools for Agencies](https://www.reddit.com/r/localseo/comments/1shbmzl/gbp_management_tools_for_agencies/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-04-10 03:48 UTC |
-| [Podcasts?](https://www.reddit.com/r/localseo/comments/1shbee0/podcasts/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-10 03:36 UTC |
-| [Question about H1 and slug](https://www.reddit.com/r/SEO/comments/1shawah/question_about_h1_and_slug/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | General | 2026-04-10 03:12 UTC |
-| [Outreach email setup when doing link building for clients](https://www.reddit.com/r/seogrowth/comments/1sh9zc6/outreach_email_setup_when_doing_link_building_for/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Links | 2026-04-10 02:30 UTC |
-| [Is tracking AI traffic a dumb idea?](https://www.reddit.com/r/DigitalMarketing/comments/1sh9v74/is_tracking_ai_traffic_a_dumb_idea/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Indexing | 2026-04-10 02:24 UTC |
-| [Why Most SEO Agencies Don’t Understand AI Discoverability?](https://www.reddit.com/r/DigitalMarketing/comments/1sh9hk4/why_most_seo_agencies_dont_understand_ai/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Links | 2026-04-10 02:08 UTC |
-| [Is anyone trying Path social cause IG reach has been kinda off lately?](https://www.reddit.com/r/DigitalMarketing/comments/1sh8x00/is_anyone_trying_path_social_cause_ig_reach_has/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Content | 2026-04-10 01:42 UTC |
-| [Domain Authority = 1. What to do?](https://www.reddit.com/r/seogrowth/comments/1sh8ftw/domain_authority_1_what_to_do/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Links | 2026-04-10 01:20 UTC |
-| [Seo-15 hrs a week- what to expect](https://www.reddit.com/r/SEO/comments/1sh84mr/seo15_hrs_a_week_what_to_expect/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | General | 2026-04-10 01:06 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
