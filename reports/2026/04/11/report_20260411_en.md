@@ -6,13 +6,29 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Anyone else feel like “data” is useless unless it tells you what to actually DO?](https://www.reddit.com/r/seogrowth/comments/1sia2vj/anyone_else_feel_like_data_is_useless_unless_it/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | GSC | 2026-04-11 05:15 UTC |
+| [voice search optimization in 2026 - actually worth the effort or still overhyped](https://www.reddit.com/r/DigitalMarketing/comments/1si957q/voice_search_optimization_in_2026_actually_worth/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Local SEO | 2026-04-11 04:26 UTC |
+| [Switching from Duda to Wordpress?](https://www.reddit.com/r/SEO/comments/1si7lri/switching_from_duda_to_wordpress/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | General | 2026-04-11 03:09 UTC |
+| [As a creative and as a human being, how do you *really* feel about AI?](https://www.reddit.com/r/DigitalMarketing/comments/1si71er/as_a_creative_and_as_a_human_being_how_do_you/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-11 02:43 UTC |
+| [For a business with no web presence in what order should digital profiles be built?](https://www.reddit.com/r/localseo/comments/1si6lad/for_a_business_with_no_web_presence_in_what_order/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-11 02:22 UTC |
+| [Background checks](https://www.reddit.com/r/DigitalMarketing/comments/1si3vod/background_checks/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-04-11 00:18 UTC |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
+| 1 | [Anyone else feel like “data” is useless unless it tells you what to actually DO?](https://www.reddit.com/r/seogrowth/comments/1sia2vj/anyone_else_feel_like_data_is_useless_unless_it/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | GSC | 2026-04-11 05:15 UTC |
+| 2 | [voice search optimization in 2026 - actually worth the effort or still overhyped](https://www.reddit.com/r/DigitalMarketing/comments/1si957q/voice_search_optimization_in_2026_actually_worth/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Local SEO | 2026-04-11 04:26 UTC |
+| 3 | [Switching from Duda to Wordpress?](https://www.reddit.com/r/SEO/comments/1si7lri/switching_from_duda_to_wordpress/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | General | 2026-04-11 03:09 UTC |
+| 4 | [As a creative and as a human being, how do you *really* feel about AI?](https://www.reddit.com/r/DigitalMarketing/comments/1si71er/as_a_creative_and_as_a_human_being_how_do_you/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-11 02:43 UTC |
+| 5 | [For a business with no web presence in what order should digital profiles be built?](https://www.reddit.com/r/localseo/comments/1si6lad/for_a_business_with_no_web_presence_in_what_order/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-11 02:22 UTC |
+| 6 | [Background checks](https://www.reddit.com/r/DigitalMarketing/comments/1si3vod/background_checks/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-04-11 00:18 UTC |
+| 7 | [Claude for advertising](https://www.reddit.com/r/DigitalMarketing/comments/1si3kgk/claude_for_advertising/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-04-11 00:04 UTC |
+| 8 | [What is AEO? (Answer Engine Optimization)](https://www.reddit.com/r/localseo/comments/1si3b1t/what_is_aeo_answer_engine_optimization/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-04-10 23:53 UTC |
+| 9 | [Employer Content Creation Expectations Now that ChatGPT is Being Used](https://www.reddit.com/r/SEO/comments/1si2k2r/employer_content_creation_expectations_now_that/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | AI Search | 2026-04-10 23:21 UTC |
+| 10 | [Outbound links - Do I really need them?](https://www.reddit.com/r/SEO/comments/1si0tep/outbound_links_do_i_really_need_them/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Links | 2026-04-10 22:08 UTC |
+| 11 | [Are these good SEO indicators?](https://www.reddit.com/r/TechSEO/comments/1shzy0m/are_these_good_seo_indicators/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | General | 2026-04-10 21:33 UTC |
+| 12 | [Which YT video, course, website, ... tought you the most about SEO and how to rank #1 on Google search etc.](https://www.reddit.com/r/SEO/comments/1shyqzy/which_yt_video_course_website_tought_you_the_most/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | General | 2026-04-10 20:48 UTC |
 
 ## Notable items (Sites)
 
