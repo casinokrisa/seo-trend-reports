@@ -25,7 +25,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Core Update Done, GSC Bug Fixed, Mueller On Gurus](https://www.searchenginejournal.com/seo-pulse-core-update-done-gsc-bug-fixed-mueller-on-gurus/571626/) | Search Engine Journal | 160 | GSC | 2026-04-10 12:30 UTC |
 | [Google’s Push For Data Strength Is Really A Push For Better Bidding](https://www.searchenginejournal.com/googles-push-for-data-strength-is-really-a-push-for-better-bidding/571621/) | Search Engine Journal | 160 | AI Search | 2026-04-10 11:30 UTC |
 | [Google Answers If Outbound Links Pass "Poor Signals"](https://www.searchenginejournal.com/google-answers-if-outbound-links-pass-poor-signals/571687/) | Search Engine Journal | 160 | Links | 2026-04-10 10:52 UTC |
-| [Google March Core Update Left 4 Losers For Every Winner In Germany](https://www.searchenginejournal.com/google-march-core-update-left-4-losers-for-every-winner-in-germany/571639/) | Search Engine Journal | 160 | General | 2026-04-10 05:15 UTC |
 | [How to Create an Effective SEO Report in 2026 (+ Free Template)](https://www.semrush.com/blog/seo-report/) | Semrush Blog | 110 | AI Search | 2026-04-10 13:15 UTC |
 | [The 11 Best Local SEO Tools in 2026](https://www.semrush.com/blog/local-seo-tools/) | Semrush Blog | 110 | Local SEO | 2026-04-10 13:06 UTC |
 | [10 Best Website Traffic Analysis Tools for 2026 (Features &amp; Pricing)](https://www.semrush.com/blog/website-traffic-analysis-tools/) | Semrush Blog | 110 | AI Search | 2026-04-10 12:53 UTC |
