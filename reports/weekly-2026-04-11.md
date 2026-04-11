@@ -12,14 +12,12 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [What Pichai’s Interview Reveals About Google’s Search Direction](https://www.searchenginejournal.com/what-pichais-interview-reveals-about-googles-search-direction/571574/) | Search Engine Journal | 200 | AI Search | 2026-04-11 12:00 UTC |
-| [Hashtags explained: What they are and how to use them](https://searchengineland.com/guide/what-are-hashtags) | Search Engine Land | 180 | AI Search | 2026-04-10 18:22 UTC |
+| [What Pichai’s Interview Reveals About Google’s Search Direction](https://www.searchenginejournal.com/what-pichais-interview-reveals-about-googles-search-direction/571574/) | Search Engine Journal | 180 | AI Search | 2026-04-11 12:00 UTC |
 | [Google Discusses Page Weight, Average Mobile Homepage Size, and Googlebot File Size Limits](https://www.seroundtable.com/page-weight-google-file-size-limits-41147.html) | Search Engine Roundtable | 170 | Indexing | 2026-04-10 11:52 UTC |
 | [Reusable "Skills" Are Coming To Gemini In Chrome](https://www.seroundtable.com/skills-gemini-chrome-41146.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-09 11:15 UTC |
 | [Google's March 2026 Broad Core Update Has Completed Rolling Out](https://www.seroundtable.com/google-march-2026-core-update-complete-41145.html) | Search Engine Roundtable | 170 | General | 2026-04-08 19:25 UTC |
+| [Hashtags explained: What they are and how to use them](https://searchengineland.com/guide/what-are-hashtags) | Search Engine Land | 160 | AI Search | 2026-04-10 18:22 UTC |
 | [AI Overviews tools and software for optimizing and tracking results](https://searchengineland.com/guide/ai-overviews-tools-software) | Search Engine Land | 160 | AI Search | 2026-04-08 20:29 UTC |
-| [AI Overviews optimization guide: How to rank in generated results](https://searchengineland.com/guide/how-to-optimize-for-ai-overviews) | Search Engine Land | 160 | GSC | 2026-04-08 18:30 UTC |
-| [Google AI Overviews: What are they and how are they triggered?](https://searchengineland.com/guide/google-ai-overviews) | Search Engine Land | 160 | AI Search | 2026-04-08 17:59 UTC |
 | [What I Learned About The Future Of Search And AI From Sundar Pichai's Latest Interview](https://www.searchenginejournal.com/what-i-learned-about-the-future-of-search-and-ai-from-sundar-pichais-latest-interview/571376/) | Search Engine Journal | 160 | AI Search | 2026-04-10 13:30 UTC |
 | [Core Update Done, GSC Bug Fixed, Mueller On Gurus](https://www.searchenginejournal.com/seo-pulse-core-update-done-gsc-bug-fixed-mueller-on-gurus/571626/) | Search Engine Journal | 160 | GSC | 2026-04-10 12:30 UTC |
 | [Google’s Push For Data Strength Is Really A Push For Better Bidding](https://www.searchenginejournal.com/googles-push-for-data-strength-is-really-a-push-for-better-bidding/571621/) | Search Engine Journal | 160 | AI Search | 2026-04-10 11:30 UTC |
@@ -37,6 +35,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Testing New Layouts for Multi-Location GBP Assets?](https://www.seroundtable.com/google-ads-testing-new-layouts-for-multi-location-gbp-assets-41142.html) | Search Engine Roundtable | 155 | Local SEO | 2026-04-07 15:28 UTC |
 | [Programming Note: Offline For Last Days Of Passover Wednesday &amp; Thursday](https://www.seroundtable.com/programming-note-offline-for-last-days-of-passover-5786-41141.html) | Search Engine Roundtable | 155 | General | 2026-04-07 12:10 UTC |
 | [GSC Logging Error Yielded Inflated Impressions Since May 2025](https://www.seroundtable.com/gsc-logging-error-impressions-41140.html) | Search Engine Roundtable | 155 | GSC | 2026-04-06 11:15 UTC |
+| [AI Overviews optimization guide: How to rank in generated results](https://searchengineland.com/guide/how-to-optimize-for-ai-overviews) | Search Engine Land | 145 | GSC | 2026-04-08 18:30 UTC |
+| [Google AI Overviews: What are they and how are they triggered?](https://searchengineland.com/guide/google-ai-overviews) | Search Engine Land | 145 | AI Search | 2026-04-08 17:59 UTC |
 | [Google Confirms March 2026 Core Update Is Complete](https://www.searchenginejournal.com/google-confirms-march-2026-core-update-is-complete/571459/) | Search Engine Journal | 145 | General | 2026-04-08 13:33 UTC |
 | [GEO Was Invented On Sand Hill Road](https://www.searchenginejournal.com/geo-was-invented-on-sand-hill-road/571316/) | Search Engine Journal | 145 | General | 2026-04-08 13:30 UTC |
 | [Why Product Feeds Shouldn’t Be The Most Ignored SEO System In Ecommerce](https://www.searchenginejournal.com/why-product-feeds-shouldnt-be-the-most-ignored-seo-system-in-ecommerce/569211/) | Search Engine Journal | 145 | AI Search | 2026-04-08 12:00 UTC |

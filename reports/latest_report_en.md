@@ -18,9 +18,9 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [What Pichai’s Interview Reveals About Google’s Search Direction](https://www.searchenginejournal.com/what-pichais-interview-reveals-about-googles-search-direction/571574/) | Search Engine Journal | 200 | AI Search | 2026-04-11 12:00 UTC |
-| [Hashtags explained: What they are and how to use them](https://searchengineland.com/guide/what-are-hashtags) | Search Engine Land | 180 | AI Search | 2026-04-10 18:22 UTC |
+| [What Pichai’s Interview Reveals About Google’s Search Direction](https://www.searchenginejournal.com/what-pichais-interview-reveals-about-googles-search-direction/571574/) | Search Engine Journal | 180 | AI Search | 2026-04-11 12:00 UTC |
 | [Google Discusses Page Weight, Average Mobile Homepage Size, and Googlebot File Size Limits](https://www.seroundtable.com/page-weight-google-file-size-limits-41147.html) | Search Engine Roundtable | 170 | Indexing | 2026-04-10 11:52 UTC |
+| [Hashtags explained: What they are and how to use them](https://searchengineland.com/guide/what-are-hashtags) | Search Engine Land | 160 | AI Search | 2026-04-10 18:22 UTC |
 | [What I Learned About The Future Of Search And AI From Sundar Pichai's Latest Interview](https://www.searchenginejournal.com/what-i-learned-about-the-future-of-search-and-ai-from-sundar-pichais-latest-interview/571376/) | Search Engine Journal | 160 | AI Search | 2026-04-10 13:30 UTC |
 | [Core Update Done, GSC Bug Fixed, Mueller On Gurus](https://www.searchenginejournal.com/seo-pulse-core-update-done-gsc-bug-fixed-mueller-on-gurus/571626/) | Search Engine Journal | 160 | GSC | 2026-04-10 12:30 UTC |
 | [Google’s Push For Data Strength Is Really A Push For Better Bidding](https://www.searchenginejournal.com/googles-push-for-data-strength-is-really-a-push-for-better-bidding/571621/) | Search Engine Journal | 160 | AI Search | 2026-04-10 11:30 UTC |
