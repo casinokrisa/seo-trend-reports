@@ -14,7 +14,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 |---|---|---:|---|---:|
 | [What Pichai’s Interview Reveals About Google’s Search Direction](https://www.searchenginejournal.com/what-pichais-interview-reveals-about-googles-search-direction/571574/) | Search Engine Journal | 180 | AI Search | 2026-04-11 12:00 UTC |
 | [Google Discusses Page Weight, Average Mobile Homepage Size, and Googlebot File Size Limits](https://www.seroundtable.com/page-weight-google-file-size-limits-41147.html) | Search Engine Roundtable | 170 | Indexing | 2026-04-10 11:52 UTC |
-| [Reusable "Skills" Are Coming To Gemini In Chrome](https://www.seroundtable.com/skills-gemini-chrome-41146.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-09 11:15 UTC |
 | [Hashtags explained: What they are and how to use them](https://searchengineland.com/guide/what-are-hashtags) | Search Engine Land | 160 | AI Search | 2026-04-10 18:22 UTC |
 | [What I Learned About The Future Of Search And AI From Sundar Pichai's Latest Interview](https://www.searchenginejournal.com/what-i-learned-about-the-future-of-search-and-ai-from-sundar-pichais-latest-interview/571376/) | Search Engine Journal | 160 | AI Search | 2026-04-10 13:30 UTC |
 | [Core Update Done, GSC Bug Fixed, Mueller On Gurus](https://www.searchenginejournal.com/seo-pulse-core-update-done-gsc-bug-fixed-mueller-on-gurus/571626/) | Search Engine Journal | 160 | GSC | 2026-04-10 12:30 UTC |
@@ -25,7 +24,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Don't Go Chasing AI Yet: A Framework for Prioritizing SEO vs. AI Search](https://www.searchenginejournal.com/dont-go-chasing-ai-yet-a-framework-for-prioritizing-seo-vs-ai-search/571603/) | Search Engine Journal | 160 | AI Search | 2026-04-09 22:10 UTC |
 | [Your Owned Content Is Losing To A Stranger’s Reddit Comment](https://www.searchenginejournal.com/your-owned-content-is-losing-to-a-strangers-reddit-comment/571167/) | Search Engine Journal | 160 | AI Search | 2026-04-09 13:30 UTC |
 | [Why Your New SEO Vendor Can’t Build on a Broken Foundation](https://www.searchenginejournal.com/why-your-new-seo-vendor-cant-build-on-a-broken-foundation/570716/) | Search Engine Journal | 160 | AI Search | 2026-04-09 12:30 UTC |
-| [Google's CEO Predicts Search Will Become An AI Agent Manager](https://www.searchenginejournal.com/googles-ceo-predicts-search-will-become-an-ai-agent-manager/571526/) | Search Engine Journal | 160 | AI Search | 2026-04-09 11:12 UTC |
+| [Reusable "Skills" Are Coming To Gemini In Chrome](https://www.seroundtable.com/skills-gemini-chrome-41146.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-09 11:15 UTC |
 | [Google's March 2026 Broad Core Update Has Completed Rolling Out](https://www.seroundtable.com/google-march-2026-core-update-complete-41145.html) | Search Engine Roundtable | 155 | General | 2026-04-08 19:25 UTC |
 | [Google Testing Jumping To AI Mode Directly From AIOs ON DESKTOP](https://www.seroundtable.com/ai-mode-desktop-from-aios-41144.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-08 11:26 UTC |
 | [âJarvis Approachingâ: Google's Sundar Pichai Signals an Agentic, Multi-Threaded Future for Search](https://www.seroundtable.com/sundar-pichai-future-search-agents-41143.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-08 11:15 UTC |
@@ -35,6 +34,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [AI Overviews tools and software for optimizing and tracking results](https://searchengineland.com/guide/ai-overviews-tools-software) | Search Engine Land | 145 | AI Search | 2026-04-08 20:29 UTC |
 | [AI Overviews optimization guide: How to rank in generated results](https://searchengineland.com/guide/how-to-optimize-for-ai-overviews) | Search Engine Land | 145 | GSC | 2026-04-08 18:30 UTC |
 | [Google AI Overviews: What are they and how are they triggered?](https://searchengineland.com/guide/google-ai-overviews) | Search Engine Land | 145 | AI Search | 2026-04-08 17:59 UTC |
+| [Google's CEO Predicts Search Will Become An AI Agent Manager](https://www.searchenginejournal.com/googles-ceo-predicts-search-will-become-an-ai-agent-manager/571526/) | Search Engine Journal | 145 | AI Search | 2026-04-09 11:12 UTC |
 | [Breaking Content & SEO Silos To Build Entity Authority in AI Search](https://www.searchenginejournal.com/entity-authority-ai-search-victorious-spa/570686/) | Search Engine Journal | 145 | AI Search | 2026-04-09 05:00 UTC |
 | [OpenAI, Meta, ByteDance Lead AI Bot Traffic In Publishing](https://www.searchenginejournal.com/openai-meta-bytedance-lead-ai-bot-traffic-in-publishing/571483/) | Search Engine Journal | 145 | AI Search | 2026-04-09 04:20 UTC |
 | [Google Confirms March 2026 Core Update Is Complete](https://www.searchenginejournal.com/google-confirms-march-2026-core-update-is-complete/571459/) | Search Engine Journal | 145 | General | 2026-04-08 13:33 UTC |
