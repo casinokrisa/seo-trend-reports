@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [How AI Agents See Your Website (And How To Build For Them)](https://www.searchenginejournal.com/how-ai-agents-see-your-website-and-how-to-build-for-them/570443/) | Search Engine Journal | 200 | AI Search | 2026-04-12 12:00 UTC |
+| [How AI Agents See Your Website (And How To Build For Them)](https://www.searchenginejournal.com/how-ai-agents-see-your-website-and-how-to-build-for-them/570443/) | Search Engine Journal | 180 | AI Search | 2026-04-12 12:00 UTC |
 | [Google Discusses Page Weight, Average Mobile Homepage Size, and Googlebot File Size Limits](https://www.seroundtable.com/page-weight-google-file-size-limits-41147.html) | Search Engine Roundtable | 170 | Indexing | 2026-04-10 11:52 UTC |
 | [Hashtags explained: What they are and how to use them](https://searchengineland.com/guide/what-are-hashtags) | Search Engine Land | 160 | AI Search | 2026-04-10 18:22 UTC |
 | [What Pichai’s Interview Reveals About Google’s Search Direction](https://www.searchenginejournal.com/what-pichais-interview-reveals-about-googles-search-direction/571574/) | Search Engine Journal | 160 | AI Search | 2026-04-11 12:00 UTC |
