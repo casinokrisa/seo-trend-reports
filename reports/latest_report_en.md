@@ -18,7 +18,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [What Pichai’s Interview Reveals About Google’s Search Direction](https://www.searchenginejournal.com/what-pichais-interview-reveals-about-googles-search-direction/571574/) | Search Engine Journal | 180 | AI Search | 2026-04-11 12:00 UTC |
+| [How AI Agents See Your Website (And How To Build For Them)](https://www.searchenginejournal.com/how-ai-agents-see-your-website-and-how-to-build-for-them/570443/) | Search Engine Journal | 200 | AI Search | 2026-04-12 12:00 UTC |
+| [What Pichai’s Interview Reveals About Google’s Search Direction](https://www.searchenginejournal.com/what-pichais-interview-reveals-about-googles-search-direction/571574/) | Search Engine Journal | 160 | AI Search | 2026-04-11 12:00 UTC |
 
 ## Notes for manual writing
 
