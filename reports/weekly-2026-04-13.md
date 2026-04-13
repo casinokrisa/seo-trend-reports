@@ -13,8 +13,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Introducing a new spam policy for "back button hijacking"](https://developers.google.com/search/blog/2026/04/back-button-hijacking) | Google Search Central Blog | 230 | General | 2026-04-13 00:00 UTC |
-| [Daily Search Forum Recap: April 13, 2026](https://www.seroundtable.com/recap-04-13-2026-41154.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-13 14:00 UTC |
 | [New Google Spam Policy Targets Back Button Hijacking](https://www.searchenginejournal.com/new-google-spam-policy-targets-back-button-hijacking/571859/) | Search Engine Journal | 200 | General | 2026-04-13 16:43 UTC |
+| [Daily Search Forum Recap: April 13, 2026](https://www.seroundtable.com/recap-04-13-2026-41154.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-13 14:00 UTC |
 | [New Study Points to Holes In AI Overviews](https://www.seroundtable.com/times-reports-ai-overviews-are-inaccurate-41152.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-13 11:51 UTC |
 | [Google AdSense Will Experiment With New Ad Technology Partners](https://www.seroundtable.com/google-adsense-new-ad-technology-partners-41151.html) | Search Engine Roundtable | 190 | General | 2026-04-13 11:41 UTC |
 | [Google Search Console Testing AI Contribution Report](https://www.seroundtable.com/google-search-console-ai-contribution-41153.html) | Search Engine Roundtable | 190 | GSC | 2026-04-13 11:31 UTC |
