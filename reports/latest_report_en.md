@@ -23,11 +23,12 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google AdSense Will Experiment With New Ad Technology Partners](https://www.seroundtable.com/google-adsense-new-ad-technology-partners-41151.html) | Search Engine Roundtable | 210 | General | 2026-04-13 11:41 UTC |
 | [Google Search Console Testing AI Contribution Report](https://www.seroundtable.com/google-search-console-ai-contribution-41153.html) | Search Engine Roundtable | 210 | GSC | 2026-04-13 11:31 UTC |
 | [Google Still Processing Status To XML Sitemaps - Nothing To Announce](https://www.seroundtable.com/google-processing-status-xml-sitemaps-41149.html) | Search Engine Roundtable | 210 | Local SEO | 2026-04-13 11:21 UTC |
-| [Google May Ignore Links From Sites That Spam &amp; Violate Policies](https://www.seroundtable.com/google-may-ignore-links-from-sites-that-spam-41148.html) | Search Engine Roundtable | 210 | Links | 2026-04-13 11:11 UTC |
+| [New Google Spam Policy Targets Back Button Hijacking](https://www.searchenginejournal.com/new-google-spam-policy-targets-back-button-hijacking/571859/) | Search Engine Journal | 200 | General | 2026-04-13 16:43 UTC |
 | [The Dangerous Seduction Of Click-Chasing](https://www.searchenginejournal.com/the-dangerous-seduction-of-click-chasing/571533/) | Search Engine Journal | 200 | General | 2026-04-13 13:30 UTC |
 | [How To Measure PPC Performance When AI Controls The Auction](https://www.searchenginejournal.com/how-to-measure-ppc-performance-when-ai-controls-the-auction/570184/) | Search Engine Journal | 200 | AI Search | 2026-04-13 13:00 UTC |
 | [Google's Task-Based Agentic Search Is Disrupting SEO Today, Not Tomorrow](https://www.searchenginejournal.com/googles-task-based-search/571800/) | Search Engine Journal | 200 | General | 2026-04-13 12:13 UTC |
 | [How AI Chooses Which Brands To Recommend: From Relational Knowledge To Topical Presence](https://www.searchenginejournal.com/relational-knowledge-topical-presence-how-ai-chooses-which-brands-to-recommend/570482/) | Search Engine Journal | 200 | AI Search | 2026-04-13 12:00 UTC |
+| [Google May Ignore Links From Sites That Spam &amp; Violate Policies](https://www.seroundtable.com/google-may-ignore-links-from-sites-that-spam-41148.html) | Search Engine Roundtable | 190 | Links | 2026-04-13 11:11 UTC |
 | [How AI Agents See Your Website (And How To Build For Them)](https://www.searchenginejournal.com/how-ai-agents-see-your-website-and-how-to-build-for-them/570443/) | Search Engine Journal | 160 | AI Search | 2026-04-12 12:00 UTC |
 
 ## Notes for manual writing
