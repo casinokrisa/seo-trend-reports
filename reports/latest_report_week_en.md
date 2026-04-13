@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Daily Search Forum Recap: April 13, 2026](https://www.seroundtable.com/recap-04-13-2026-41154.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-13 14:00 UTC |
 | [New Study Points to Holes In AI Overviews](https://www.seroundtable.com/times-reports-ai-overviews-are-inaccurate-41152.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-13 11:51 UTC |
 | [Google AdSense Will Experiment With New Ad Technology Partners](https://www.seroundtable.com/google-adsense-new-ad-technology-partners-41151.html) | Search Engine Roundtable | 210 | General | 2026-04-13 11:41 UTC |
 | [Google Search Console Testing AI Contribution Report](https://www.seroundtable.com/google-search-console-ai-contribution-41153.html) | Search Engine Roundtable | 210 | GSC | 2026-04-13 11:31 UTC |
