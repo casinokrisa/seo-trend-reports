@@ -6,7 +6,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Can I put the same SEO ROI Calculator on all service pages?](https://www.reddit.com/r/TechSEO/comments/1skzt76/can_i_put_the_same_seo_roi_calculator_on_all/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | AI Search | 2026-04-14 05:43 UTC |
+| [Exact Match Domain without com TLD](https://www.reddit.com/r/seogrowth/comments/1skzoam/exact_match_domain_without_com_tld_worth_it/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | AI Search | 2026-04-14 05:36 UTC |
+| [Brand name search does not return our website anymore in Google, but the url does](https://www.reddit.com/r/seogrowth/comments/1skz59t/brand_name_search_does_not_return_our_website/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | GSC | 2026-04-14 05:08 UTC |
+| [Website migrations: How to test redirects on staging (and a case study about why it’s worth it)](https://www.reddit.com/r/TechSEO/comments/1skz0yd/website_migrations_how_to_test_redirects_on/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | Indexing | 2026-04-14 05:01 UTC |
+| [For publishers: are you tracking RPM at the page level or just site level?](https://www.reddit.com/r/DigitalMarketing/comments/1skyyjo/for_publishers_are_you_tracking_rpm_at_the_page/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | GSC | 2026-04-14 04:58 UTC |
+| [Markstrat R&D Budgeting Advice](https://www.reddit.com/r/DigitalMarketing/comments/1skyosc/markstrat_rd_budgeting_advice_project_ploop2/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-04-14 04:43 UTC |
+| [Are most businesses just guessing what their audience wants?](https://www.reddit.com/r/DigitalMarketing/comments/1skyh7g/are_most_businesses_just_guessing_what_their/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-14 04:33 UTC |
+| [Improvement Needed in Digital Marketing](https://www.reddit.com/r/DigitalMarketing/comments/1sky1vb/improvement_needed_in_digital_marketing/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-14 04:11 UTC |
+| [Can I redirect the 404 pages to homepage?](https://www.reddit.com/r/DigitalMarketing/comments/1sky11p/can_i_redirect_the_404_pages_to_homepage/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Migration | 2026-04-14 04:10 UTC |
+| [How you share information in events?](https://www.reddit.com/r/seogrowth/comments/1skxy7s/how_you_share_information_in_events/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | General | 2026-04-14 04:06 UTC |
+| [AEO, GEO is bullshit buzzword, intended to trick clients. Change my mind.](https://www.reddit.com/r/SEO/comments/1skxs73/aeo_geo_is_bullshit_buzzword_intended_to_trick/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | AI Search | 2026-04-14 03:58 UTC |
+| [Why do content farms show up so often in Perplexity results? Especially for tech queries](https://www.reddit.com/r/seogrowth/comments/1skwrkg/why_do_content_farms_show_up_so_often_in/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | AI Search | 2026-04-14 03:10 UTC |
 
 ## Weekly notable items (Sites)
 
