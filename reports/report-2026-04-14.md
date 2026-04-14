@@ -18,6 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Daily Search Forum Recap: April 14, 2026](https://www.seroundtable.com/recap-04-14-2026-41160.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-14 14:00 UTC |
 | [Google Search Goes After Back Button Hijacking With New Spam Penalty](https://www.seroundtable.com/google-back-button-hijacking-policy-41155.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-14 11:51 UTC |
 | [Google Can Handle Multiple URLs To A Page But Why Make It Harder](https://www.seroundtable.com/google-search-multiple-urls-to-a-page-41158.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-14 11:41 UTC |
 | [Google Business Profile Updates Identity Change Policy Language](https://www.seroundtable.com/google-business-profile-updates-identity-change-language-41150.html) | Search Engine Roundtable | 210 | Local SEO | 2026-04-14 11:31 UTC |
@@ -37,7 +38,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [How To Measure PPC Performance When AI Controls The Auction](https://www.searchenginejournal.com/how-to-measure-ppc-performance-when-ai-controls-the-auction/570184/) | Search Engine Journal | 160 | AI Search | 2026-04-13 13:00 UTC |
 | [Google's Task-Based Agentic Search Is Disrupting SEO Today, Not Tomorrow](https://www.searchenginejournal.com/googles-task-based-search/571800/) | Search Engine Journal | 160 | General | 2026-04-13 12:13 UTC |
 | [How AI Chooses Which Brands To Recommend: From Relational Knowledge To Topical Presence](https://www.searchenginejournal.com/relational-knowledge-topical-presence-how-ai-chooses-which-brands-to-recommend/570482/) | Search Engine Journal | 160 | AI Search | 2026-04-13 12:00 UTC |
-| [5 Ways to Increase Your Website Authority in 2026](https://www.semrush.com/blog/how-to-build-website-authority/) | Semrush Blog | 150 | Links | 2026-04-14 08:56 UTC |
 
 ## Notes for manual writing
 
