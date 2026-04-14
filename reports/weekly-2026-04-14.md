@@ -13,16 +13,17 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: April 14, 2026](https://www.seroundtable.com/recap-04-14-2026-41160.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-14 14:00 UTC |
-| [Google Search Goes After Back Button Hijacking With New Spam Penalty](https://www.seroundtable.com/google-back-button-hijacking-policy-41155.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-14 11:51 UTC |
-| [Google Can Handle Multiple URLs To A Page But Why Make It Harder](https://www.seroundtable.com/google-search-multiple-urls-to-a-page-41158.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-14 11:41 UTC |
-| [Google Business Profile Updates Identity Change Policy Language](https://www.seroundtable.com/google-business-profile-updates-identity-change-language-41150.html) | Search Engine Roundtable | 210 | Local SEO | 2026-04-14 11:31 UTC |
-| [Google Is Aware Of And Warns Against Self-Serving Listicles](https://www.seroundtable.com/google-warns-against-trying-to-manipulate-llms-41156.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-14 11:21 UTC |
 | [Introducing a new spam policy for "back button hijacking"](https://developers.google.com/search/blog/2026/04/back-button-hijacking) | Google Search Central Blog | 210 | General | 2026-04-13 00:00 UTC |
+| [Google Chrome Skills Turn Gemini Prompts Into Reusable Workflows](https://www.searchenginejournal.com/google-chrome-skills-turn-gemini-prompts-into-reusable-workflows/571994/) | Search Engine Journal | 200 | AI Search | 2026-04-14 19:10 UTC |
 | [Why Your Webinar Program Isn't Working (So, Copy Ours)](https://www.searchenginejournal.com/why-your-webinar-program-isnt-working-so-copy-ours/571950/) | Search Engine Journal | 200 | General | 2026-04-14 16:48 UTC |
-| [Shorter, Focused Content Wins In ChatGPT](https://www.searchenginejournal.com/shorter-focused-content-wins-in-chatgpt/571857/) | Search Engine Journal | 200 | AI Search | 2026-04-14 13:30 UTC |
-| [How To Break Through An Affiliate Site Plateau & Find New Growth](https://www.searchenginejournal.com/ask-an-seo-how-to-break-through-an-affiliate-site-plateau/566270/) | Search Engine Journal | 200 | Content | 2026-04-14 11:30 UTC |
 | [Introducing a new spam policy for &quot;back button hijacking&quot;](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Migration | 2026-04-13 00:00 UTC |
+| [Google Search Goes After Back Button Hijacking With New Spam Penalty](https://www.seroundtable.com/google-back-button-hijacking-policy-41155.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-14 11:51 UTC |
+| [Google Can Handle Multiple URLs To A Page But Why Make It Harder](https://www.seroundtable.com/google-search-multiple-urls-to-a-page-41158.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-14 11:41 UTC |
+| [Google Business Profile Updates Identity Change Policy Language](https://www.seroundtable.com/google-business-profile-updates-identity-change-language-41150.html) | Search Engine Roundtable | 190 | Local SEO | 2026-04-14 11:31 UTC |
+| [Google Is Aware Of And Warns Against Self-Serving Listicles](https://www.seroundtable.com/google-warns-against-trying-to-manipulate-llms-41156.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-14 11:21 UTC |
 | [Google Ads &amp; Google Analytics Data Controls Update](https://www.seroundtable.com/google-ads-google-analytics-data-controls-update-41159.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-14 11:11 UTC |
+| [Shorter, Focused Content Wins In ChatGPT](https://www.searchenginejournal.com/shorter-focused-content-wins-in-chatgpt/571857/) | Search Engine Journal | 180 | AI Search | 2026-04-14 13:30 UTC |
+| [How To Break Through An Affiliate Site Plateau & Find New Growth](https://www.searchenginejournal.com/ask-an-seo-how-to-break-through-an-affiliate-site-plateau/566270/) | Search Engine Journal | 180 | Content | 2026-04-14 11:30 UTC |
 | [Google Lists 9 Scenarios That Explain How It Picks Canonical URLs](https://www.searchenginejournal.com/how-google-picks-canonical-urls/571914/) | Search Engine Journal | 180 | AI Search | 2026-04-14 11:11 UTC |
 | [Daily Search Forum Recap: April 13, 2026](https://www.seroundtable.com/recap-04-13-2026-41154.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-13 14:00 UTC |
 | [New Study Points to Holes In AI Overviews](https://www.seroundtable.com/times-reports-ai-overviews-are-inaccurate-41152.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-13 11:51 UTC |
