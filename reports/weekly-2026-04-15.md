@@ -13,25 +13,27 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Introducing a new spam policy for "back button hijacking"](https://developers.google.com/search/blog/2026/04/back-button-hijacking) | Google Search Central Blog | 210 | General | 2026-04-13 00:00 UTC |
+| [Why Your Search Data Doesn’t Agree (And What To Do About It)](https://www.searchenginejournal.com/why-your-search-data-doesnt-agree-and-what-to-do-about-it/570180/) | Search Engine Journal | 200 | General | 2026-04-15 11:00 UTC |
+| [Google Just Made It Easy For SEOs To Kick Out Spammy Sites](https://www.searchenginejournal.com/google-just-made-it-easy-for-seos-to-kick-out-spammy-sites/572118/) | Search Engine Journal | 200 | Indexing | 2026-04-15 10:00 UTC |
 | [Introducing a new spam policy for &quot;back button hijacking&quot;](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Migration | 2026-04-13 00:00 UTC |
 | [Daily Search Forum Recap: April 14, 2026](https://www.seroundtable.com/recap-04-14-2026-41160.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-14 14:00 UTC |
 | [Google Search Goes After Back Button Hijacking With New Spam Penalty](https://www.seroundtable.com/google-back-button-hijacking-policy-41155.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-14 11:51 UTC |
 | [Google Can Handle Multiple URLs To A Page But Why Make It Harder](https://www.seroundtable.com/google-search-multiple-urls-to-a-page-41158.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-14 11:41 UTC |
 | [Google Business Profile Updates Identity Change Policy Language](https://www.seroundtable.com/google-business-profile-updates-identity-change-language-41150.html) | Search Engine Roundtable | 190 | Local SEO | 2026-04-14 11:31 UTC |
 | [Google Is Aware Of And Warns Against Self-Serving Listicles](https://www.seroundtable.com/google-warns-against-trying-to-manipulate-llms-41156.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-14 11:21 UTC |
-| [Google Ads &amp; Google Analytics Data Controls Update](https://www.seroundtable.com/google-ads-google-analytics-data-controls-update-41159.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-14 11:11 UTC |
 | [New Google Search Console Message Glitch Gives SEOs A Scare](https://www.searchenginejournal.com/new-google-search-console-message-glitch-gives-seos-a-scare/572072/) | Search Engine Journal | 180 | GSC | 2026-04-14 22:22 UTC |
 | [Google Chrome Skills Turn Gemini Prompts Into Reusable Workflows](https://www.searchenginejournal.com/google-chrome-skills-turn-gemini-prompts-into-reusable-workflows/571994/) | Search Engine Journal | 180 | AI Search | 2026-04-14 19:10 UTC |
 | [Why Your Webinar Program Isn't Working (So, Copy Ours)](https://www.searchenginejournal.com/why-your-webinar-program-isnt-working-so-copy-ours/571950/) | Search Engine Journal | 180 | General | 2026-04-14 16:48 UTC |
 | [Shorter, Focused Content Wins In ChatGPT](https://www.searchenginejournal.com/shorter-focused-content-wins-in-chatgpt/571857/) | Search Engine Journal | 180 | AI Search | 2026-04-14 13:30 UTC |
 | [How To Break Through An Affiliate Site Plateau & Find New Growth](https://www.searchenginejournal.com/ask-an-seo-how-to-break-through-an-affiliate-site-plateau/566270/) | Search Engine Journal | 180 | Content | 2026-04-14 11:30 UTC |
-| [Google Lists 9 Scenarios That Explain How It Picks Canonical URLs](https://www.searchenginejournal.com/how-google-picks-canonical-urls/571914/) | Search Engine Journal | 180 | AI Search | 2026-04-14 11:11 UTC |
+| [Google Ads &amp; Google Analytics Data Controls Update](https://www.seroundtable.com/google-ads-google-analytics-data-controls-update-41159.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-14 11:11 UTC |
 | [Daily Search Forum Recap: April 13, 2026](https://www.seroundtable.com/recap-04-13-2026-41154.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-13 14:00 UTC |
 | [New Study Points to Holes In AI Overviews](https://www.seroundtable.com/times-reports-ai-overviews-are-inaccurate-41152.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-13 11:51 UTC |
 | [Google AdSense Will Experiment With New Ad Technology Partners](https://www.seroundtable.com/google-adsense-new-ad-technology-partners-41151.html) | Search Engine Roundtable | 170 | General | 2026-04-13 11:41 UTC |
 | [Google Search Console Testing AI Contribution Report](https://www.seroundtable.com/google-search-console-ai-contribution-41153.html) | Search Engine Roundtable | 170 | GSC | 2026-04-13 11:31 UTC |
 | [Google Still Processing Status To XML Sitemaps - Nothing To Announce](https://www.seroundtable.com/google-processing-status-xml-sitemaps-41149.html) | Search Engine Roundtable | 170 | Local SEO | 2026-04-13 11:21 UTC |
 | [Google May Ignore Links From Sites That Spam &amp; Violate Policies](https://www.seroundtable.com/google-may-ignore-links-from-sites-that-spam-41148.html) | Search Engine Roundtable | 170 | Links | 2026-04-13 11:11 UTC |
+| [Google Lists 9 Scenarios That Explain How It Picks Canonical URLs](https://www.searchenginejournal.com/how-google-picks-canonical-urls/571914/) | Search Engine Journal | 160 | AI Search | 2026-04-14 11:11 UTC |
 | [New Google Spam Policy Targets Back Button Hijacking](https://www.searchenginejournal.com/new-google-spam-policy-targets-back-button-hijacking/571859/) | Search Engine Journal | 160 | General | 2026-04-13 16:43 UTC |
 | [The Dangerous Seduction Of Click-Chasing](https://www.searchenginejournal.com/the-dangerous-seduction-of-click-chasing/571533/) | Search Engine Journal | 160 | General | 2026-04-13 13:30 UTC |
 | [How To Measure PPC Performance When AI Controls The Auction](https://www.searchenginejournal.com/how-to-measure-ppc-performance-when-ai-controls-the-auction/570184/) | Search Engine Journal | 160 | AI Search | 2026-04-13 13:00 UTC |
@@ -41,6 +43,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Discusses Page Weight, Average Mobile Homepage Size, and Googlebot File Size Limits](https://www.seroundtable.com/page-weight-google-file-size-limits-41147.html) | Search Engine Roundtable | 155 | Indexing | 2026-04-10 11:52 UTC |
 | [Reusable "Skills" Are Coming To Gemini In Chrome](https://www.seroundtable.com/skills-gemini-chrome-41146.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-09 11:15 UTC |
 | [Google's March 2026 Broad Core Update Has Completed Rolling Out](https://www.seroundtable.com/google-march-2026-core-update-complete-41145.html) | Search Engine Roundtable | 155 | General | 2026-04-08 19:25 UTC |
+| [How to do a website audit in 2026 (+ free tracker)](https://www.semrush.com/blog/website-audit/) | Semrush Blog | 150 | AI Search | 2026-04-15 09:59 UTC |
+| [Google Knowledge Graph: What it is &amp; why it matters](https://www.semrush.com/blog/knowledge-graph/) | Semrush Blog | 150 | AI Search | 2026-04-15 09:21 UTC |
+| [Google rolls out worldwide agentic restaurant booking via AI Mode](https://www.semrush.com/blog/ai-mode-agentic-restaurant-booking/) | Semrush Blog | 150 | AI Search | 2026-04-15 08:59 UTC |
 | [Hashtags explained: What they are and how to use them](https://searchengineland.com/guide/what-are-hashtags) | Search Engine Land | 145 | AI Search | 2026-04-10 18:22 UTC |
 | [AI Overviews optimization guide: How to rank in generated results](https://searchengineland.com/guide/how-to-optimize-for-ai-overviews) | Search Engine Land | 145 | GSC | 2026-04-08 18:30 UTC |
 | [AI Overviews tools and software for optimizing and tracking results](https://searchengineland.com/guide/ai-overviews-tools-software) | Search Engine Land | 145 | AI Search | 2026-04-08 18:02 UTC |
@@ -61,16 +66,12 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Confirms March 2026 Core Update Is Complete](https://www.searchenginejournal.com/google-confirms-march-2026-core-update-is-complete/571459/) | Search Engine Journal | 145 | General | 2026-04-08 13:33 UTC |
 | [GEO Was Invented On Sand Hill Road](https://www.searchenginejournal.com/geo-was-invented-on-sand-hill-road/571316/) | Search Engine Journal | 145 | General | 2026-04-08 13:30 UTC |
 | [Why Product Feeds Shouldn’t Be The Most Ignored SEO System In Ecommerce](https://www.searchenginejournal.com/why-product-feeds-shouldnt-be-the-most-ignored-seo-system-in-ecommerce/569211/) | Search Engine Journal | 145 | AI Search | 2026-04-08 12:00 UTC |
-| [Google Says It Can Handle Multiple URLs To The Same Content](https://www.searchenginejournal.com/google-says-it-can-handle-multiple-urls-to-the-same-content/571424/) | Search Engine Journal | 145 | Content | 2026-04-08 09:53 UTC |
 | [5 Ways to Increase Your Website Authority in 2026](https://www.semrush.com/blog/how-to-build-website-authority/) | Semrush Blog | 110 | Links | 2026-04-14 08:56 UTC |
 | [Local Keyword Research for SEO: What It Is &amp; How to Do It](https://www.semrush.com/blog/local-keyword-research/) | Semrush Blog | 110 | Local SEO | 2026-04-14 08:19 UTC |
 | [How to Create an Effective SEO Report in 2026 (+ Free Template)](https://www.semrush.com/blog/seo-report/) | Semrush Blog | 95 | AI Search | 2026-04-10 13:15 UTC |
 | [The 11 Best Local SEO Tools in 2026](https://www.semrush.com/blog/local-seo-tools/) | Semrush Blog | 95 | Local SEO | 2026-04-10 13:06 UTC |
 | [10 Best Website Traffic Analysis Tools for 2026 (Features &amp; Pricing)](https://www.semrush.com/blog/website-traffic-analysis-tools/) | Semrush Blog | 95 | AI Search | 2026-04-10 12:53 UTC |
 | [Your guide to SEO ranking in organic search](https://www.semrush.com/blog/seo-ranking/) | Semrush Blog | 95 | Migration | 2026-04-10 09:05 UTC |
-| [10 Best PR Tools for Outreach, Distribution &amp; Monitoring](https://www.semrush.com/blog/best-pr-tools/) | Semrush Blog | 95 | AI Search | 2026-04-10 08:50 UTC |
-| [How to use Google Keyword Planner](https://www.semrush.com/blog/google-keyword-planner/) | Semrush Blog | 95 | AI Search | 2026-04-08 13:59 UTC |
-| [Competitive intelligence 101: What it is &amp; how to gather it](https://www.semrush.com/blog/competitive-intelligence/) | Semrush Blog | 95 | Migration | 2026-04-08 11:13 UTC |
 
 ## Notes
 
