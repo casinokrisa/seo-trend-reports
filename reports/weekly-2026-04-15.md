@@ -12,9 +12,10 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: April 15, 2026](https://www.seroundtable.com/recap-04-15-2026-41168.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-15 14:00 UTC |
 | [Introducing a new spam policy for "back button hijacking"](https://developers.google.com/search/blog/2026/04/back-button-hijacking) | Google Search Central Blog | 210 | General | 2026-04-13 00:00 UTC |
+| [How To Become The AI Search Authority In Your Company [Webinar]](https://www.searchenginejournal.com/how-to-become-the-ai-search-authority-in-your-company-webinar/572189/) | Search Engine Journal | 200 | AI Search | 2026-04-15 19:24 UTC |
 | [Clarifying the use of spam reports](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | AI Search | 2026-04-14 00:00 UTC |
+| [Daily Search Forum Recap: April 15, 2026](https://www.seroundtable.com/recap-04-15-2026-41168.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-15 14:00 UTC |
 | [Google: We May Use Spam Report Submissions For Manual Actions](https://www.seroundtable.com/google-spam-report-submissions-for-manual-actions-41167.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-15 11:51 UTC |
 | [Google Posts Repeat Posts Feature Now Live](https://www.seroundtable.com/google-posts-repeat-41163.html) | Search Engine Roundtable | 190 | General | 2026-04-15 11:41 UTC |
 | [Google Ads Consolidating Enhanced Conversions With On/Off Switch](https://www.seroundtable.com/google-ads-consolidating-enhanced-conversions-41166.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-15 11:31 UTC |
@@ -45,7 +46,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [How To Measure PPC Performance When AI Controls The Auction](https://www.searchenginejournal.com/how-to-measure-ppc-performance-when-ai-controls-the-auction/570184/) | Search Engine Journal | 160 | AI Search | 2026-04-13 13:00 UTC |
 | [Google's Task-Based Agentic Search Is Disrupting SEO Today, Not Tomorrow](https://www.searchenginejournal.com/googles-task-based-search/571800/) | Search Engine Journal | 160 | General | 2026-04-13 12:13 UTC |
 | [How AI Chooses Which Brands To Recommend: From Relational Knowledge To Topical Presence](https://www.searchenginejournal.com/relational-knowledge-topical-presence-how-ai-chooses-which-brands-to-recommend/570482/) | Search Engine Journal | 160 | AI Search | 2026-04-13 12:00 UTC |
-| [Why ChatGPT Cites One Page Over Another (Study of 1.4M Prompts)](https://ahrefs.com/blog/why-chatgpt-cites-pages/) | Ahrefs Blog | 160 | Indexing | 2026-04-15 14:33 UTC |
 | [Hashtags explained: What they are and how to use them](https://searchengineland.com/guide/what-are-hashtags) | Search Engine Land | 145 | AI Search | 2026-04-10 18:22 UTC |
 | [How AI Agents See Your Website (And How To Build For Them)](https://www.searchenginejournal.com/how-ai-agents-see-your-website-and-how-to-build-for-them/570443/) | Search Engine Journal | 145 | AI Search | 2026-04-12 12:00 UTC |
 | [What Pichai’s Interview Reveals About Google’s Search Direction](https://www.searchenginejournal.com/what-pichais-interview-reveals-about-googles-search-direction/571574/) | Search Engine Journal | 145 | AI Search | 2026-04-11 12:00 UTC |
@@ -60,7 +60,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Why Your New SEO Vendor Can’t Build on a Broken Foundation](https://www.searchenginejournal.com/why-your-new-seo-vendor-cant-build-on-a-broken-foundation/570716/) | Search Engine Journal | 145 | AI Search | 2026-04-09 12:30 UTC |
 | [Google's CEO Predicts Search Will Become An AI Agent Manager](https://www.searchenginejournal.com/googles-ceo-predicts-search-will-become-an-ai-agent-manager/571526/) | Search Engine Journal | 145 | AI Search | 2026-04-09 11:12 UTC |
 | [Breaking Content & SEO Silos To Build Entity Authority in AI Search](https://www.searchenginejournal.com/entity-authority-ai-search-victorious-spa/570686/) | Search Engine Journal | 145 | AI Search | 2026-04-09 05:00 UTC |
-| [OpenAI, Meta, ByteDance Lead AI Bot Traffic In Publishing](https://www.searchenginejournal.com/openai-meta-bytedance-lead-ai-bot-traffic-in-publishing/571483/) | Search Engine Journal | 145 | AI Search | 2026-04-09 04:20 UTC |
+| [Why ChatGPT Cites One Page Over Another (Study of 1.4M Prompts)](https://ahrefs.com/blog/why-chatgpt-cites-pages/) | Ahrefs Blog | 140 | Indexing | 2026-04-15 14:33 UTC |
 | [How to do a website audit in 2026 (+ free tracker)](https://www.semrush.com/blog/website-audit/) | Semrush Blog | 130 | AI Search | 2026-04-15 09:59 UTC |
 | [Google Knowledge Graph: What it is &amp; why it matters](https://www.semrush.com/blog/knowledge-graph/) | Semrush Blog | 130 | AI Search | 2026-04-15 09:21 UTC |
 | [Google rolls out worldwide agentic restaurant booking via AI Mode](https://www.semrush.com/blog/ai-mode-agentic-restaurant-booking/) | Semrush Blog | 130 | AI Search | 2026-04-15 08:59 UTC |

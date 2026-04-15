@@ -18,7 +18,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: April 15, 2026](https://www.seroundtable.com/recap-04-15-2026-41168.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-15 14:00 UTC |
+| [How To Become The AI Search Authority In Your Company [Webinar]](https://www.searchenginejournal.com/how-to-become-the-ai-search-authority-in-your-company-webinar/572189/) | Search Engine Journal | 200 | AI Search | 2026-04-15 19:24 UTC |
+| [Daily Search Forum Recap: April 15, 2026](https://www.seroundtable.com/recap-04-15-2026-41168.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-15 14:00 UTC |
 | [Google: We May Use Spam Report Submissions For Manual Actions](https://www.seroundtable.com/google-spam-report-submissions-for-manual-actions-41167.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-15 11:51 UTC |
 | [Google Posts Repeat Posts Feature Now Live](https://www.seroundtable.com/google-posts-repeat-41163.html) | Search Engine Roundtable | 190 | General | 2026-04-15 11:41 UTC |
 | [Google Ads Consolidating Enhanced Conversions With On/Off Switch](https://www.seroundtable.com/google-ads-consolidating-enhanced-conversions-41166.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-15 11:31 UTC |
@@ -37,7 +38,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Is Aware Of And Warns Against Self-Serving Listicles](https://www.seroundtable.com/google-warns-against-trying-to-manipulate-llms-41156.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-14 11:21 UTC |
 | [Google Ads &amp; Google Analytics Data Controls Update](https://www.seroundtable.com/google-ads-google-analytics-data-controls-update-41159.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-14 11:11 UTC |
 | [Google Chrome Skills Turn Gemini Prompts Into Reusable Workflows](https://www.searchenginejournal.com/google-chrome-skills-turn-gemini-prompts-into-reusable-workflows/571994/) | Search Engine Journal | 160 | AI Search | 2026-04-14 19:10 UTC |
-| [Why Your Webinar Program Isn't Working (So, Copy Ours)](https://www.searchenginejournal.com/why-your-webinar-program-isnt-working-so-copy-ours/571950/) | Search Engine Journal | 160 | General | 2026-04-14 16:48 UTC |
 
 ## Notes for manual writing
 
