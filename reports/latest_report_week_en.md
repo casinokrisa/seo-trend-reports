@@ -62,8 +62,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [GEO Was Invented On Sand Hill Road](https://www.searchenginejournal.com/geo-was-invented-on-sand-hill-road/571316/) | Search Engine Journal | 145 | General | 2026-04-08 13:30 UTC |
 | [Why Product Feeds Shouldn’t Be The Most Ignored SEO System In Ecommerce](https://www.searchenginejournal.com/why-product-feeds-shouldnt-be-the-most-ignored-seo-system-in-ecommerce/569211/) | Search Engine Journal | 145 | AI Search | 2026-04-08 12:00 UTC |
 | [Google Says It Can Handle Multiple URLs To The Same Content](https://www.searchenginejournal.com/google-says-it-can-handle-multiple-urls-to-the-same-content/571424/) | Search Engine Journal | 145 | Content | 2026-04-08 09:53 UTC |
-| [5 Ways to Increase Your Website Authority in 2026](https://www.semrush.com/blog/how-to-build-website-authority/) | Semrush Blog | 130 | Links | 2026-04-14 08:56 UTC |
-| [Local Keyword Research for SEO: What It Is &amp; How to Do It](https://www.semrush.com/blog/local-keyword-research/) | Semrush Blog | 130 | Local SEO | 2026-04-14 08:19 UTC |
+| [5 Ways to Increase Your Website Authority in 2026](https://www.semrush.com/blog/how-to-build-website-authority/) | Semrush Blog | 110 | Links | 2026-04-14 08:56 UTC |
+| [Local Keyword Research for SEO: What It Is &amp; How to Do It](https://www.semrush.com/blog/local-keyword-research/) | Semrush Blog | 110 | Local SEO | 2026-04-14 08:19 UTC |
 | [How to Create an Effective SEO Report in 2026 (+ Free Template)](https://www.semrush.com/blog/seo-report/) | Semrush Blog | 95 | AI Search | 2026-04-10 13:15 UTC |
 | [The 11 Best Local SEO Tools in 2026](https://www.semrush.com/blog/local-seo-tools/) | Semrush Blog | 95 | Local SEO | 2026-04-10 13:06 UTC |
 | [10 Best Website Traffic Analysis Tools for 2026 (Features &amp; Pricing)](https://www.semrush.com/blog/website-traffic-analysis-tools/) | Semrush Blog | 95 | AI Search | 2026-04-10 12:53 UTC |

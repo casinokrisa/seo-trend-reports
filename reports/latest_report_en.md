@@ -30,8 +30,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Shorter, Focused Content Wins In ChatGPT](https://www.searchenginejournal.com/shorter-focused-content-wins-in-chatgpt/571857/) | Search Engine Journal | 180 | AI Search | 2026-04-14 13:30 UTC |
 | [How To Break Through An Affiliate Site Plateau & Find New Growth](https://www.searchenginejournal.com/ask-an-seo-how-to-break-through-an-affiliate-site-plateau/566270/) | Search Engine Journal | 180 | Content | 2026-04-14 11:30 UTC |
 | [Google Lists 9 Scenarios That Explain How It Picks Canonical URLs](https://www.searchenginejournal.com/how-google-picks-canonical-urls/571914/) | Search Engine Journal | 180 | AI Search | 2026-04-14 11:11 UTC |
-| [5 Ways to Increase Your Website Authority in 2026](https://www.semrush.com/blog/how-to-build-website-authority/) | Semrush Blog | 130 | Links | 2026-04-14 08:56 UTC |
-| [Local Keyword Research for SEO: What It Is &amp; How to Do It](https://www.semrush.com/blog/local-keyword-research/) | Semrush Blog | 130 | Local SEO | 2026-04-14 08:19 UTC |
+| [5 Ways to Increase Your Website Authority in 2026](https://www.semrush.com/blog/how-to-build-website-authority/) | Semrush Blog | 110 | Links | 2026-04-14 08:56 UTC |
+| [Local Keyword Research for SEO: What It Is &amp; How to Do It](https://www.semrush.com/blog/local-keyword-research/) | Semrush Blog | 110 | Local SEO | 2026-04-14 08:19 UTC |
 
 ## Notes for manual writing
 
