@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Measure the SEO visibility?](https://www.reddit.com/r/SEO/comments/1slx9kz/measure_the_seo_visibility/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | General | 2026-04-15 05:46 UTC |
-| [Multi State Local SEO for Mobile (we come to you) Home services niche Company](https://www.reddit.com/r/localseo/comments/1slw4gj/multi_state_local_seo_for_mobile_we_come_to_you/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-04-15 04:45 UTC |
-| [I built a free Windows app for managing directory submissions — here's why I made it](https://www.reddit.com/r/bigseo/comments/1slw2x0/i_built_a_free_windows_app_for_managing_directory/) | [r/bigseo](https://www.reddit.com/r/bigseo) | — | — | Indexing | 2026-04-15 04:43 UTC |
-| [Google's 30 most recent statements on toxic links to see if there is any consistency](https://www.reddit.com/r/seogrowth/comments/1slvupy/googles_30_most_recent_statements_on_toxic_links/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Indexing | 2026-04-15 04:31 UTC |
-| [Claude Inventor - Daily location landing page addition.](https://www.reddit.com/r/seogrowth/comments/1slvgt1/claude_inventor_daily_location_landing_page/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | AI Search | 2026-04-15 04:12 UTC |
-| [Anyone know how to increase domain rating?](https://www.reddit.com/r/DigitalMarketing/comments/1slupy8/anyone_know_how_to_increase_domain_rating/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-15 03:35 UTC |
-| [NEED SEO EXPERT](https://www.reddit.com/r/TechSEO/comments/1slup2k/need_seo_expert/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | General | 2026-04-15 03:34 UTC |
-| [NEED SEO EXPERT](https://www.reddit.com/r/seogrowth/comments/1sluoue/need_seo_expert/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | General | 2026-04-15 03:34 UTC |
-| [The SEO attribution gap is breaking organic reporting, and the pivot to GEO is the only way out.](https://www.reddit.com/r/DigitalMarketing/comments/1slu0wf/the_seo_attribution_gap_is_breaking_organic/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-04-15 03:03 UTC |
-| [Should I reply to all my Google reviews?](https://www.reddit.com/r/localseo/comments/1slsnty/should_i_reply_to_all_my_google_reviews/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-15 02:02 UTC |
-| [Keywords by city](https://www.reddit.com/r/SEO/comments/1slsn2y/keywords_by_city/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | General | 2026-04-15 02:01 UTC |
-| [Hubspot best practices as Sales and Marketing CRM?](https://www.reddit.com/r/DigitalMarketing/comments/1slsl0k/hubspot_best_practices_as_sales_and_marketing_crm/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-04-15 01:58 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
@@ -73,7 +62,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [GEO Was Invented On Sand Hill Road](https://www.searchenginejournal.com/geo-was-invented-on-sand-hill-road/571316/) | Search Engine Journal | 145 | General | 2026-04-08 13:30 UTC |
 | [Why Product Feeds Shouldn’t Be The Most Ignored SEO System In Ecommerce](https://www.searchenginejournal.com/why-product-feeds-shouldnt-be-the-most-ignored-seo-system-in-ecommerce/569211/) | Search Engine Journal | 145 | AI Search | 2026-04-08 12:00 UTC |
 | [Google Says It Can Handle Multiple URLs To The Same Content](https://www.searchenginejournal.com/google-says-it-can-handle-multiple-urls-to-the-same-content/571424/) | Search Engine Journal | 145 | Content | 2026-04-08 09:53 UTC |
-| [How To Turn AI Search Visibility Data Into a GEO Strategy That Closes Citation Gaps [Webinar]](https://www.searchenginejournal.com/how-to-turn-ai-search-visibility-data-into-a-geo-strategy-that-closes-citation-gaps-webinar/570420/) | Search Engine Journal | 145 | AI Search | 2026-04-08 07:45 UTC |
 | [5 Ways to Increase Your Website Authority in 2026](https://www.semrush.com/blog/how-to-build-website-authority/) | Semrush Blog | 130 | Links | 2026-04-14 08:56 UTC |
 | [Local Keyword Research for SEO: What It Is &amp; How to Do It](https://www.semrush.com/blog/local-keyword-research/) | Semrush Blog | 130 | Local SEO | 2026-04-14 08:19 UTC |
 | [How to Create an Effective SEO Report in 2026 (+ Free Template)](https://www.semrush.com/blog/seo-report/) | Semrush Blog | 95 | AI Search | 2026-04-10 13:15 UTC |
