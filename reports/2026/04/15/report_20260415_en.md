@@ -30,13 +30,13 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [The Modern SEO Center Of Excellence: Governance, Not Guidelines](https://www.searchenginejournal.com/the-modern-seo-center-of-excellence-governance-not-guidelines/566097/) | Search Engine Journal | 180 | Content | 2026-04-15 12:30 UTC |
 | [Why Your Search Data Doesn’t Agree (And What To Do About It)](https://www.searchenginejournal.com/why-your-search-data-doesnt-agree-and-what-to-do-about-it/570180/) | Search Engine Journal | 180 | General | 2026-04-15 11:00 UTC |
 | [Google Just Made It Easy For SEOs To Kick Out Spammy Sites](https://www.searchenginejournal.com/google-just-made-it-easy-for-seos-to-kick-out-spammy-sites/572118/) | Search Engine Journal | 180 | Indexing | 2026-04-15 10:00 UTC |
-| [New Google Search Console Message Glitch Gives SEOs A Scare](https://www.searchenginejournal.com/new-google-search-console-message-glitch-gives-seos-a-scare/572072/) | Search Engine Journal | 180 | GSC | 2026-04-14 22:22 UTC |
 | [Daily Search Forum Recap: April 14, 2026](https://www.seroundtable.com/recap-04-14-2026-41160.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-14 14:00 UTC |
 | [Google Search Goes After Back Button Hijacking With New Spam Penalty](https://www.seroundtable.com/google-back-button-hijacking-policy-41155.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-14 11:51 UTC |
 | [Google Can Handle Multiple URLs To A Page But Why Make It Harder](https://www.seroundtable.com/google-search-multiple-urls-to-a-page-41158.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-14 11:41 UTC |
 | [Google Business Profile Updates Identity Change Policy Language](https://www.seroundtable.com/google-business-profile-updates-identity-change-language-41150.html) | Search Engine Roundtable | 170 | Local SEO | 2026-04-14 11:31 UTC |
 | [Google Is Aware Of And Warns Against Self-Serving Listicles](https://www.seroundtable.com/google-warns-against-trying-to-manipulate-llms-41156.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-14 11:21 UTC |
 | [Google Ads &amp; Google Analytics Data Controls Update](https://www.seroundtable.com/google-ads-google-analytics-data-controls-update-41159.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-14 11:11 UTC |
+| [New Google Search Console Message Glitch Gives SEOs A Scare](https://www.searchenginejournal.com/new-google-search-console-message-glitch-gives-seos-a-scare/572072/) | Search Engine Journal | 160 | GSC | 2026-04-14 22:22 UTC |
 | [Google Chrome Skills Turn Gemini Prompts Into Reusable Workflows](https://www.searchenginejournal.com/google-chrome-skills-turn-gemini-prompts-into-reusable-workflows/571994/) | Search Engine Journal | 160 | AI Search | 2026-04-14 19:10 UTC |
 
 ## Notes for manual writing
