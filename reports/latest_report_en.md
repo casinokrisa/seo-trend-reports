@@ -6,13 +6,29 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Measure the SEO visibility?](https://www.reddit.com/r/SEO/comments/1slx9kz/measure_the_seo_visibility/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | General | 2026-04-15 05:46 UTC |
+| [Multi State Local SEO for Mobile (we come to you) Home services niche Company](https://www.reddit.com/r/localseo/comments/1slw4gj/multi_state_local_seo_for_mobile_we_come_to_you/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-04-15 04:45 UTC |
+| [I built a free Windows app for managing directory submissions — here's why I made it](https://www.reddit.com/r/bigseo/comments/1slw2x0/i_built_a_free_windows_app_for_managing_directory/) | [r/bigseo](https://www.reddit.com/r/bigseo) | — | — | Indexing | 2026-04-15 04:43 UTC |
+| [Google's 30 most recent statements on toxic links to see if there is any consistency](https://www.reddit.com/r/seogrowth/comments/1slvupy/googles_30_most_recent_statements_on_toxic_links/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Indexing | 2026-04-15 04:31 UTC |
+| [Claude Inventor - Daily location landing page addition.](https://www.reddit.com/r/seogrowth/comments/1slvgt1/claude_inventor_daily_location_landing_page/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | AI Search | 2026-04-15 04:12 UTC |
+| [Anyone know how to increase domain rating?](https://www.reddit.com/r/DigitalMarketing/comments/1slupy8/anyone_know_how_to_increase_domain_rating/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-15 03:35 UTC |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
+| 1 | [Measure the SEO visibility?](https://www.reddit.com/r/SEO/comments/1slx9kz/measure_the_seo_visibility/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | General | 2026-04-15 05:46 UTC |
+| 2 | [Multi State Local SEO for Mobile (we come to you) Home services niche Company](https://www.reddit.com/r/localseo/comments/1slw4gj/multi_state_local_seo_for_mobile_we_come_to_you/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-04-15 04:45 UTC |
+| 3 | [I built a free Windows app for managing directory submissions — here's why I made it](https://www.reddit.com/r/bigseo/comments/1slw2x0/i_built_a_free_windows_app_for_managing_directory/) | [r/bigseo](https://www.reddit.com/r/bigseo) | — | — | Indexing | 2026-04-15 04:43 UTC |
+| 4 | [Google's 30 most recent statements on toxic links to see if there is any consistency](https://www.reddit.com/r/seogrowth/comments/1slvupy/googles_30_most_recent_statements_on_toxic_links/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Indexing | 2026-04-15 04:31 UTC |
+| 5 | [Claude Inventor - Daily location landing page addition.](https://www.reddit.com/r/seogrowth/comments/1slvgt1/claude_inventor_daily_location_landing_page/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | AI Search | 2026-04-15 04:12 UTC |
+| 6 | [Anyone know how to increase domain rating?](https://www.reddit.com/r/DigitalMarketing/comments/1slupy8/anyone_know_how_to_increase_domain_rating/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-15 03:35 UTC |
+| 7 | [NEED SEO EXPERT](https://www.reddit.com/r/TechSEO/comments/1slup2k/need_seo_expert/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | General | 2026-04-15 03:34 UTC |
+| 8 | [NEED SEO EXPERT](https://www.reddit.com/r/seogrowth/comments/1sluoue/need_seo_expert/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | General | 2026-04-15 03:34 UTC |
+| 9 | [The SEO attribution gap is breaking organic reporting, and the pivot to GEO is the only way out.](https://www.reddit.com/r/DigitalMarketing/comments/1slu0wf/the_seo_attribution_gap_is_breaking_organic/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-04-15 03:03 UTC |
+| 10 | [Should I reply to all my Google reviews?](https://www.reddit.com/r/localseo/comments/1slsnty/should_i_reply_to_all_my_google_reviews/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-15 02:02 UTC |
+| 11 | [Keywords by city](https://www.reddit.com/r/SEO/comments/1slsn2y/keywords_by_city/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | General | 2026-04-15 02:01 UTC |
+| 12 | [Hubspot best practices as Sales and Marketing CRM?](https://www.reddit.com/r/DigitalMarketing/comments/1slsl0k/hubspot_best_practices_as_sales_and_marketing_crm/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-04-15 01:58 UTC |
 
 ## Notable items (Sites)
 
