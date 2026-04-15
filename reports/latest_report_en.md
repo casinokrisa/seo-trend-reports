@@ -18,6 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Daily Search Forum Recap: April 15, 2026](https://www.seroundtable.com/recap-04-15-2026-41168.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-15 14:00 UTC |
 | [Google: We May Use Spam Report Submissions For Manual Actions](https://www.seroundtable.com/google-spam-report-submissions-for-manual-actions-41167.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-15 11:51 UTC |
 | [Google Posts Repeat Posts Feature Now Live](https://www.seroundtable.com/google-posts-repeat-41163.html) | Search Engine Roundtable | 210 | General | 2026-04-15 11:41 UTC |
 | [Google Ads Consolidating Enhanced Conversions With On/Off Switch](https://www.seroundtable.com/google-ads-consolidating-enhanced-conversions-41166.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-15 11:31 UTC |
@@ -37,7 +38,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Business Profile Updates Identity Change Policy Language](https://www.seroundtable.com/google-business-profile-updates-identity-change-language-41150.html) | Search Engine Roundtable | 170 | Local SEO | 2026-04-14 11:31 UTC |
 | [Google Is Aware Of And Warns Against Self-Serving Listicles](https://www.seroundtable.com/google-warns-against-trying-to-manipulate-llms-41156.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-14 11:21 UTC |
 | [Google Ads &amp; Google Analytics Data Controls Update](https://www.seroundtable.com/google-ads-google-analytics-data-controls-update-41159.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-14 11:11 UTC |
-| [Shorter, Focused Content Wins In ChatGPT](https://www.searchenginejournal.com/shorter-focused-content-wins-in-chatgpt/571857/) | Search Engine Journal | 160 | AI Search | 2026-04-14 13:30 UTC |
 
 ## Notes for manual writing
 
