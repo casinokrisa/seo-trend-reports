@@ -35,9 +35,9 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google's Patent On Autonomous Search Results](https://www.searchenginejournal.com/googles-patent-on-autonomous-search-results/572216/) | Search Engine Journal | 180 | AI Search | 2026-04-16 10:14 UTC |
 | [The Top 6 Search Engines Market Share & The AI Search Engines To Watch](https://www.searchenginejournal.com/seo/meet-search-engines/) | Search Engine Journal | 180 | AI Search | 2026-04-16 02:30 UTC |
 | [Daily Search Forum Recap: April 15, 2026](https://www.seroundtable.com/recap-04-15-2026-41168.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-15 14:00 UTC |
-| [Google: We May Use Spam Report Submissions For Manual Actions](https://www.seroundtable.com/google-spam-report-submissions-for-manual-actions-41167.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-15 11:51 UTC |
-| [Google Posts Repeat Posts Feature Now Live](https://www.seroundtable.com/google-posts-repeat-41163.html) | Search Engine Roundtable | 170 | General | 2026-04-15 11:41 UTC |
-| [Google Ads Consolidating Enhanced Conversions With On/Off Switch](https://www.seroundtable.com/google-ads-consolidating-enhanced-conversions-41166.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-15 11:31 UTC |
+| [How To Become The AI Search Authority In Your Company [Webinar]](https://www.searchenginejournal.com/how-to-become-the-ai-search-authority-in-your-company-webinar/572189/) | Search Engine Journal | 160 | AI Search | 2026-04-15 19:24 UTC |
+| [The AI Slop Loop](https://www.searchenginejournal.com/the-ai-slop-loop/572090/) | Search Engine Journal | 160 | AI Search | 2026-04-15 13:30 UTC |
+| [Google Is Replacing Dynamic Search Ads With AI Max](https://www.searchenginejournal.com/google-is-replacing-dynamic-search-ads-with-ai-max/571949/) | Search Engine Journal | 160 | AI Search | 2026-04-15 13:00 UTC |
 
 ## Notes for manual writing
 
