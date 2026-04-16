@@ -59,7 +59,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Your Owned Content Is Losing To A Stranger’s Reddit Comment](https://www.searchenginejournal.com/your-owned-content-is-losing-to-a-strangers-reddit-comment/571167/) | Search Engine Journal | 145 | AI Search | 2026-04-09 13:30 UTC |
 | [Why Your New SEO Vendor Can’t Build on a Broken Foundation](https://www.searchenginejournal.com/why-your-new-seo-vendor-cant-build-on-a-broken-foundation/570716/) | Search Engine Journal | 145 | AI Search | 2026-04-09 12:30 UTC |
 | [Google's CEO Predicts Search Will Become An AI Agent Manager](https://www.searchenginejournal.com/googles-ceo-predicts-search-will-become-an-ai-agent-manager/571526/) | Search Engine Journal | 145 | AI Search | 2026-04-09 11:12 UTC |
-| [Breaking Content & SEO Silos To Build Entity Authority in AI Search](https://www.searchenginejournal.com/entity-authority-ai-search-victorious-spa/570686/) | Search Engine Journal | 145 | AI Search | 2026-04-09 05:00 UTC |
 | [Why ChatGPT Cites One Page Over Another (Study of 1.4M Prompts)](https://ahrefs.com/blog/why-chatgpt-cites-pages/) | Ahrefs Blog | 140 | Indexing | 2026-04-15 14:33 UTC |
 | [How to do a website audit in 2026 (+ free tracker)](https://www.semrush.com/blog/website-audit/) | Semrush Blog | 130 | AI Search | 2026-04-15 09:59 UTC |
 | [Google Knowledge Graph: What it is &amp; why it matters](https://www.semrush.com/blog/knowledge-graph/) | Semrush Blog | 130 | AI Search | 2026-04-15 09:21 UTC |

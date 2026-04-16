@@ -32,7 +32,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Just Made It Easy For SEOs To Kick Out Spammy Sites](https://www.searchenginejournal.com/google-just-made-it-easy-for-seos-to-kick-out-spammy-sites/572118/) | Search Engine Journal | 180 | Indexing | 2026-04-15 10:00 UTC |
 | [New Google Search Console Message Glitch Gives SEOs A Scare](https://www.searchenginejournal.com/new-google-search-console-message-glitch-gives-seos-a-scare/572072/) | Search Engine Journal | 160 | GSC | 2026-04-14 22:22 UTC |
 | [Google Chrome Skills Turn Gemini Prompts Into Reusable Workflows](https://www.searchenginejournal.com/google-chrome-skills-turn-gemini-prompts-into-reusable-workflows/571994/) | Search Engine Journal | 160 | AI Search | 2026-04-14 19:10 UTC |
-| [Why Your Webinar Program Isn't Working (So, Copy Ours)](https://www.searchenginejournal.com/why-your-webinar-program-isnt-working-so-copy-ours/571950/) | Search Engine Journal | 160 | General | 2026-04-14 16:48 UTC |
 | [Why ChatGPT Cites One Page Over Another (Study of 1.4M Prompts)](https://ahrefs.com/blog/why-chatgpt-cites-pages/) | Ahrefs Blog | 140 | Indexing | 2026-04-15 14:33 UTC |
 | [How to do a website audit in 2026 (+ free tracker)](https://www.semrush.com/blog/website-audit/) | Semrush Blog | 130 | AI Search | 2026-04-15 09:59 UTC |
 | [Google Knowledge Graph: What it is &amp; why it matters](https://www.semrush.com/blog/knowledge-graph/) | Semrush Blog | 130 | AI Search | 2026-04-15 09:21 UTC |
