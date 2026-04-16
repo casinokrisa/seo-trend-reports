@@ -13,6 +13,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Lead generation: The evolution from spray-and-pray to precision targeting](https://searchengineland.com/guide/what-is-lead-generation) | Search Engine Land | 200 | AI Search | 2026-04-16 18:33 UTC |
+| [Google AI Mode in Chrome Gets Side-by-Side Browsing](https://www.searchenginejournal.com/google-ai-mode-in-chrome-gets-side-by-side-browsing/572273/) | Search Engine Journal | 200 | AI Search | 2026-04-16 21:02 UTC |
 | [ChatGPT Often Retrieves But Rarely Cites Reddit Pages, Data Shows](https://www.searchenginejournal.com/chatgpt-often-retrieves-but-rarely-cites-reddit-pages-data-shows/572243/) | Search Engine Journal | 200 | AI Search | 2026-04-16 16:54 UTC |
 | [Clarifying the use of spam reports](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | AI Search | 2026-04-14 00:00 UTC |
 | [Introducing a new spam policy for "back button hijacking"](https://developers.google.com/search/blog/2026/04/back-button-hijacking) | Google Search Central Blog | 195 | General | 2026-04-13 00:00 UTC |
@@ -60,7 +61,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [What Pichai’s Interview Reveals About Google’s Search Direction](https://www.searchenginejournal.com/what-pichais-interview-reveals-about-googles-search-direction/571574/) | Search Engine Journal | 145 | AI Search | 2026-04-11 12:00 UTC |
 | [What I Learned About The Future Of Search And AI From Sundar Pichai's Latest Interview](https://www.searchenginejournal.com/what-i-learned-about-the-future-of-search-and-ai-from-sundar-pichais-latest-interview/571376/) | Search Engine Journal | 145 | AI Search | 2026-04-10 13:30 UTC |
 | [Core Update Done, GSC Bug Fixed, Mueller On Gurus](https://www.searchenginejournal.com/seo-pulse-core-update-done-gsc-bug-fixed-mueller-on-gurus/571626/) | Search Engine Journal | 145 | GSC | 2026-04-10 12:30 UTC |
-| [Google’s Push For Data Strength Is Really A Push For Better Bidding](https://www.searchenginejournal.com/googles-push-for-data-strength-is-really-a-push-for-better-bidding/571621/) | Search Engine Journal | 145 | AI Search | 2026-04-10 11:30 UTC |
 | [What Is Answer Engine Optimization? And How to Do It](https://www.semrush.com/blog/answer-engine-optimization/) | Semrush Blog | 130 | AI Search | 2026-04-16 12:20 UTC |
 | [Generative Engine Optimization: A Practical Guide](https://www.semrush.com/blog/generative-engine-optimization/) | Semrush Blog | 130 | AI Search | 2026-04-16 12:11 UTC |
 | [Why ChatGPT Cites One Page Over Another (Study of 1.4M Prompts)](https://ahrefs.com/blog/why-chatgpt-cites-pages/) | Ahrefs Blog | 120 | Indexing | 2026-04-15 14:33 UTC |
