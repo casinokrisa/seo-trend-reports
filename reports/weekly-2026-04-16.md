@@ -14,7 +14,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 |---|---|---:|---|---:|
 | [Lead generation: The evolution from spray-and-pray to precision targeting](https://searchengineland.com/guide/what-is-lead-generation) | Search Engine Land | 200 | AI Search | 2026-04-16 18:33 UTC |
 | [Google AI Mode in Chrome Gets Side-by-Side Browsing](https://www.searchenginejournal.com/google-ai-mode-in-chrome-gets-side-by-side-browsing/572273/) | Search Engine Journal | 200 | AI Search | 2026-04-16 21:02 UTC |
-| [ChatGPT Often Retrieves But Rarely Cites Reddit Pages, Data Shows](https://www.searchenginejournal.com/chatgpt-often-retrieves-but-rarely-cites-reddit-pages-data-shows/572243/) | Search Engine Journal | 200 | AI Search | 2026-04-16 16:54 UTC |
 | [Clarifying the use of spam reports](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | AI Search | 2026-04-14 00:00 UTC |
 | [Introducing a new spam policy for "back button hijacking"](https://developers.google.com/search/blog/2026/04/back-button-hijacking) | Google Search Central Blog | 195 | General | 2026-04-13 00:00 UTC |
 | [Daily Search Forum Recap: April 16, 2026](https://www.seroundtable.com/recap-04-16-2026-41172.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-16 14:00 UTC |
@@ -23,6 +22,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Updates Some Merchant Center Product Specs For 2026](https://www.seroundtable.com/google-updates-some-merchant-center-product-spec-41171.html) | Search Engine Roundtable | 190 | General | 2026-04-16 11:31 UTC |
 | [Google Ads Retiring Dynamic Search Ads For AI Max](https://www.seroundtable.com/google-ads-dsa-ai-max-41170.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-16 11:21 UTC |
 | [Google AdSense Offerwall Is Now Generally Available](https://www.seroundtable.com/google-adsense-offerwall-generally-available-41164.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-16 11:11 UTC |
+| [ChatGPT Often Retrieves But Rarely Cites Reddit Pages, Data Shows](https://www.searchenginejournal.com/chatgpt-often-retrieves-but-rarely-cites-reddit-pages-data-shows/572243/) | Search Engine Journal | 180 | AI Search | 2026-04-16 16:54 UTC |
 | [Gen Z Workers Pick Human-Only Output Over AI-Assisted](https://www.searchenginejournal.com/gen-z-workers-pick-human-only-output-over-ai-assisted/572230/) | Search Engine Journal | 180 | AI Search | 2026-04-16 14:47 UTC |
 | [Your AI Visibility Strategy Doesn’t Work Outside English](https://www.searchenginejournal.com/your-ai-visibility-strategy-doesnt-work-outside-english/571742/) | Search Engine Journal | 180 | AI Search | 2026-04-16 13:30 UTC |
 | [Machine-First Architecture: AI Agents Are Here And Your Website Isn't Ready, Says NoHacks Podcast Host](https://www.searchenginejournal.com/machine-first-architecture-ai-agents-are-here-and-your-website-isnt-ready-says-nohacks-podcast-host/571898/) | Search Engine Journal | 180 | AI Search | 2026-04-16 12:45 UTC |
