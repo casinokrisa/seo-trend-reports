@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [SEO tips for vacation rental websites, anything work besides patience?](https://www.reddit.com/r/bigseo/comments/1smuup7/seo_tips_for_vacation_rental_websites_anything/) | [r/bigseo](https://www.reddit.com/r/bigseo) | — | — | Links | 2026-04-16 05:53 UTC |
-| [one client takes 60% of my time and pays 25% of my income. how do you decide when to let them go?](https://www.reddit.com/r/DigitalMarketing/comments/1smudcx/one_client_takes_60_of_my_time_and_pays_25_of_my/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-04-16 05:26 UTC |
-| [Why are my local rankings high but conversions low?](https://www.reddit.com/r/localseo/comments/1smubgz/why_are_my_local_rankings_high_but_conversions_low/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-16 05:24 UTC |
-| [Persistent technical suppression on Google.dk: Ranking #1 for "Brand" and "Brand + Buy", but invisible for "Brand + Category" for months](https://www.reddit.com/r/bigseo/comments/1smtnxj/persistent_technical_suppression_on_googledk/) | [r/bigseo](https://www.reddit.com/r/bigseo) | — | — | Indexing | 2026-04-16 04:49 UTC |
-| [I've got multiple books in the making. One is ready to publish.](https://www.reddit.com/r/seogrowth/comments/1smskxg/ive_got_multiple_books_in_the_making_one_is_ready/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Content | 2026-04-16 03:55 UTC |
-| [just lost a $2K/mo client because their nephew "learned digital marketing on YouTube"](https://www.reddit.com/r/DigitalMarketing/comments/1smshao/just_lost_a_2kmo_client_because_their_nephew/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-16 03:50 UTC |
-| [restructured our blog posts around direct answers and AI citations went up](https://www.reddit.com/r/seogrowth/comments/1sms7oh/restructured_our_blog_posts_around_direct_answers/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | AI Search | 2026-04-16 03:37 UTC |
-| [Citation sites?](https://www.reddit.com/r/localseo/comments/1sms1tc/citation_sites/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-04-16 03:29 UTC |
-| [i do marketing for a living and i refuse to build a personal brand. apparently this makes me a bad marketer.](https://www.reddit.com/r/DigitalMarketing/comments/1sms17d/i_do_marketing_for_a_living_and_i_refuse_to_build/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Links | 2026-04-16 03:28 UTC |
-| [Found a free tool that pulls competitor ads live and scores them. Actually useful.](https://www.reddit.com/r/seogrowth/comments/1smrvuf/found_a_free_tool_that_pulls_competitor_ads_live/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Links | 2026-04-16 03:21 UTC |
-| [Meta just dropped a CAPI "Easy Button" because US privacy fragmentation is making browser pixels legally hazardous.](https://www.reddit.com/r/DigitalMarketing/comments/1smr62y/meta_just_dropped_a_capi_easy_button_because_us/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | General | 2026-04-16 02:48 UTC |
-| [Google Business Profile Video Verification](https://www.reddit.com/r/localseo/comments/1smqs3v/google_business_profile_video_verification/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-04-16 02:31 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
