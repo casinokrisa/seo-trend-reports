@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google's Patent On Autonomous Search Results](https://www.searchenginejournal.com/googles-patent-on-autonomous-search-results/572216/) | Search Engine Journal | 200 | AI Search | 2026-04-16 10:14 UTC |
 | [Clarifying the use of spam reports](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | AI Search | 2026-04-14 00:00 UTC |
 | [Introducing a new spam policy for "back button hijacking"](https://developers.google.com/search/blog/2026/04/back-button-hijacking) | Google Search Central Blog | 195 | General | 2026-04-13 00:00 UTC |
 | [Daily Search Forum Recap: April 15, 2026](https://www.seroundtable.com/recap-04-15-2026-41168.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-15 14:00 UTC |
@@ -25,7 +26,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Is Replacing Dynamic Search Ads With AI Max](https://www.searchenginejournal.com/google-is-replacing-dynamic-search-ads-with-ai-max/571949/) | Search Engine Journal | 180 | AI Search | 2026-04-15 13:00 UTC |
 | [The Modern SEO Center Of Excellence: Governance, Not Guidelines](https://www.searchenginejournal.com/the-modern-seo-center-of-excellence-governance-not-guidelines/566097/) | Search Engine Journal | 180 | Content | 2026-04-15 12:30 UTC |
 | [Why Your Search Data Doesn’t Agree (And What To Do About It)](https://www.searchenginejournal.com/why-your-search-data-doesnt-agree-and-what-to-do-about-it/570180/) | Search Engine Journal | 180 | General | 2026-04-15 11:00 UTC |
-| [Google Just Made It Easy For SEOs To Kick Out Spammy Sites](https://www.searchenginejournal.com/google-just-made-it-easy-for-seos-to-kick-out-spammy-sites/572118/) | Search Engine Journal | 180 | Indexing | 2026-04-15 10:00 UTC |
 | [Daily Search Forum Recap: April 14, 2026](https://www.seroundtable.com/recap-04-14-2026-41160.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-14 14:00 UTC |
 | [Google Search Goes After Back Button Hijacking With New Spam Penalty](https://www.seroundtable.com/google-back-button-hijacking-policy-41155.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-14 11:51 UTC |
 | [Google Can Handle Multiple URLs To A Page But Why Make It Harder](https://www.seroundtable.com/google-search-multiple-urls-to-a-page-41158.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-14 11:41 UTC |
@@ -35,6 +35,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Daily Search Forum Recap: April 13, 2026](https://www.seroundtable.com/recap-04-13-2026-41154.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-13 14:00 UTC |
 | [New Study Points to Holes In AI Overviews](https://www.seroundtable.com/times-reports-ai-overviews-are-inaccurate-41152.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-13 11:51 UTC |
 | [Google AdSense Will Experiment With New Ad Technology Partners](https://www.seroundtable.com/google-adsense-new-ad-technology-partners-41151.html) | Search Engine Roundtable | 170 | General | 2026-04-13 11:41 UTC |
+| [Google Just Made It Easy For SEOs To Kick Out Spammy Sites](https://www.searchenginejournal.com/google-just-made-it-easy-for-seos-to-kick-out-spammy-sites/572118/) | Search Engine Journal | 160 | Indexing | 2026-04-15 10:00 UTC |
 | [New Google Search Console Message Glitch Gives SEOs A Scare](https://www.searchenginejournal.com/new-google-search-console-message-glitch-gives-seos-a-scare/572072/) | Search Engine Journal | 160 | GSC | 2026-04-14 22:22 UTC |
 | [Google Chrome Skills Turn Gemini Prompts Into Reusable Workflows](https://www.searchenginejournal.com/google-chrome-skills-turn-gemini-prompts-into-reusable-workflows/571994/) | Search Engine Journal | 160 | AI Search | 2026-04-14 19:10 UTC |
 | [Why Your Webinar Program Isn't Working (So, Copy Ours)](https://www.searchenginejournal.com/why-your-webinar-program-isnt-working-so-copy-ours/571950/) | Search Engine Journal | 160 | General | 2026-04-14 16:48 UTC |
@@ -60,9 +61,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Why Your New SEO Vendor Can’t Build on a Broken Foundation](https://www.searchenginejournal.com/why-your-new-seo-vendor-cant-build-on-a-broken-foundation/570716/) | Search Engine Journal | 145 | AI Search | 2026-04-09 12:30 UTC |
 | [Google's CEO Predicts Search Will Become An AI Agent Manager](https://www.searchenginejournal.com/googles-ceo-predicts-search-will-become-an-ai-agent-manager/571526/) | Search Engine Journal | 145 | AI Search | 2026-04-09 11:12 UTC |
 | [Why ChatGPT Cites One Page Over Another (Study of 1.4M Prompts)](https://ahrefs.com/blog/why-chatgpt-cites-pages/) | Ahrefs Blog | 140 | Indexing | 2026-04-15 14:33 UTC |
-| [How to do a website audit in 2026 (+ free tracker)](https://www.semrush.com/blog/website-audit/) | Semrush Blog | 130 | AI Search | 2026-04-15 09:59 UTC |
-| [Google Knowledge Graph: What it is &amp; why it matters](https://www.semrush.com/blog/knowledge-graph/) | Semrush Blog | 130 | AI Search | 2026-04-15 09:21 UTC |
-| [Google rolls out worldwide agentic restaurant booking via AI Mode](https://www.semrush.com/blog/ai-mode-agentic-restaurant-booking/) | Semrush Blog | 130 | AI Search | 2026-04-15 08:59 UTC |
+| [How to do a website audit in 2026 (+ free tracker)](https://www.semrush.com/blog/website-audit/) | Semrush Blog | 110 | AI Search | 2026-04-15 09:59 UTC |
+| [Google Knowledge Graph: What it is &amp; why it matters](https://www.semrush.com/blog/knowledge-graph/) | Semrush Blog | 110 | AI Search | 2026-04-15 09:21 UTC |
+| [Google rolls out worldwide agentic restaurant booking via AI Mode](https://www.semrush.com/blog/ai-mode-agentic-restaurant-booking/) | Semrush Blog | 110 | AI Search | 2026-04-15 08:59 UTC |
 | [5 Ways to Increase Your Website Authority in 2026](https://www.semrush.com/blog/how-to-build-website-authority/) | Semrush Blog | 110 | Links | 2026-04-14 08:56 UTC |
 | [Local Keyword Research for SEO: What It Is &amp; How to Do It](https://www.semrush.com/blog/local-keyword-research/) | Semrush Blog | 110 | Local SEO | 2026-04-14 08:19 UTC |
 | [How to Create an Effective SEO Report in 2026 (+ Free Template)](https://www.semrush.com/blog/seo-report/) | Semrush Blog | 95 | AI Search | 2026-04-10 13:15 UTC |
