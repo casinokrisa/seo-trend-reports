@@ -25,7 +25,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Clarifying the use of spam reports](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | AI Search | 2026-04-14 00:00 UTC |
 | [Google Bans Back Button Hijacking, Agentic Search Grows](https://www.searchenginejournal.com/seo-pulse-google-targets-back-button-hijacking-agentic-search-grows/572282/) | Search Engine Journal | 180 | General | 2026-04-17 12:30 UTC |
 | [Google’s Product Feed Strategy Points To The Future Of Retail Discovery](https://www.searchenginejournal.com/googles-product-feed-strategy-points-to-the-future-of-retail-discovery/572291/) | Search Engine Journal | 180 | AI Search | 2026-04-17 11:30 UTC |
-| [Google AI Mode in Chrome Gets Side-by-Side Browsing](https://www.searchenginejournal.com/google-ai-mode-in-chrome-gets-side-by-side-browsing/572273/) | Search Engine Journal | 180 | AI Search | 2026-04-16 21:02 UTC |
 | [Daily Search Forum Recap: April 16, 2026](https://www.seroundtable.com/recap-04-16-2026-41172.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-16 14:00 UTC |
 | [Google Ads PMax Channel Performance Spend Over Time](https://www.seroundtable.com/google-ads-pmax-channel-performance-spend-over-time-41165.html) | Search Engine Roundtable | 170 | General | 2026-04-16 11:51 UTC |
 | [Wikipedia Deletes World-Famous SEO From Site: An Ode To Barry](https://www.seroundtable.com/wikipedia-deletes-seo-new-journalist-from-site-41169.html) | Search Engine Roundtable | 170 | General | 2026-04-16 11:41 UTC |
@@ -34,6 +33,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google AdSense Offerwall Is Now Generally Available](https://www.seroundtable.com/google-adsense-offerwall-generally-available-41164.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-16 11:11 UTC |
 | [Daily Search Forum Recap: April 15, 2026](https://www.seroundtable.com/recap-04-15-2026-41168.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-15 14:00 UTC |
 | [Lead generation: The evolution from spray-and-pray to precision targeting](https://searchengineland.com/guide/what-is-lead-generation) | Search Engine Land | 160 | AI Search | 2026-04-16 18:33 UTC |
+| [Google AI Mode in Chrome Gets Side-by-Side Browsing](https://www.searchenginejournal.com/google-ai-mode-in-chrome-gets-side-by-side-browsing/572273/) | Search Engine Journal | 160 | AI Search | 2026-04-16 21:02 UTC |
 | [ChatGPT Often Retrieves But Rarely Cites Reddit Pages, Data Shows](https://www.searchenginejournal.com/chatgpt-often-retrieves-but-rarely-cites-reddit-pages-data-shows/572243/) | Search Engine Journal | 160 | AI Search | 2026-04-16 16:54 UTC |
 | [Gen Z Workers Pick Human-Only Output Over AI-Assisted](https://www.searchenginejournal.com/gen-z-workers-pick-human-only-output-over-ai-assisted/572230/) | Search Engine Journal | 160 | AI Search | 2026-04-16 14:47 UTC |
 | [Ask Me Anything About PPC Archives](https://www.searchenginejournal.com/category/paid-media/ask-ppc/) | Search Engine Journal | 160 | AI Search | 2026-04-16 13:58 UTC |
