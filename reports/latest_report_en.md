@@ -18,7 +18,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: April 17, 2026](https://www.seroundtable.com/recap-04-17-2026-41179.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-17 14:00 UTC |
+| [Google Discover and the content discovery revolution transforming digital marketing](https://searchengineland.com/guide/what-is-google-discover) | Search Engine Land | 200 | Content | 2026-04-17 19:11 UTC |
+| [Daily Search Forum Recap: April 17, 2026](https://www.seroundtable.com/recap-04-17-2026-41179.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-17 14:00 UTC |
 | [Search News Buzz Video Recap: Google Back Button Hijacking Penalty, Spam Reporting Change, Google Ads AI Max Replacing DSAs &amp; More](https://www.seroundtable.com/video-04-17-2026-41177.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-17 12:00 UTC |
 | [Google Maps Blocked 292 Million Reviews &amp; Removed 13 Million Fake Profiles](https://www.seroundtable.com/google-maps-spam-fighting-2025-41176.html) | Search Engine Roundtable | 190 | Local SEO | 2026-04-17 11:51 UTC |
 | [Google Ads Removed 8.3 Billion Ads - Up Over 60% (Most Before Serving)](https://www.seroundtable.com/google-ads-safety-report-41173.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-17 11:41 UTC |
@@ -37,7 +38,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google AdSense Offerwall Is Now Generally Available](https://www.seroundtable.com/google-adsense-offerwall-generally-available-41164.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-16 11:11 UTC |
 | [Lead generation: The evolution from spray-and-pray to precision targeting](https://searchengineland.com/guide/what-is-lead-generation) | Search Engine Land | 160 | AI Search | 2026-04-16 18:33 UTC |
 | [ChatGPT Often Retrieves But Rarely Cites Reddit Pages, Data Shows](https://www.searchenginejournal.com/chatgpt-often-retrieves-but-rarely-cites-reddit-pages-data-shows/572243/) | Search Engine Journal | 160 | AI Search | 2026-04-16 16:54 UTC |
-| [Gen Z Workers Pick Human-Only Output Over AI-Assisted](https://www.searchenginejournal.com/gen-z-workers-pick-human-only-output-over-ai-assisted/572230/) | Search Engine Journal | 160 | AI Search | 2026-04-16 14:47 UTC |
 
 ## Notes for manual writing
 

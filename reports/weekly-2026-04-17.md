@@ -12,8 +12,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: April 17, 2026](https://www.seroundtable.com/recap-04-17-2026-41179.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-17 14:00 UTC |
+| [Google Discover and the content discovery revolution transforming digital marketing](https://searchengineland.com/guide/what-is-google-discover) | Search Engine Land | 200 | Content | 2026-04-17 19:11 UTC |
 | [Introducing a new spam policy for "back button hijacking"](https://developers.google.com/search/blog/2026/04/back-button-hijacking) | Google Search Central Blog | 195 | General | 2026-04-13 00:00 UTC |
+| [Daily Search Forum Recap: April 17, 2026](https://www.seroundtable.com/recap-04-17-2026-41179.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-17 14:00 UTC |
 | [Search News Buzz Video Recap: Google Back Button Hijacking Penalty, Spam Reporting Change, Google Ads AI Max Replacing DSAs &amp; More](https://www.seroundtable.com/video-04-17-2026-41177.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-17 12:00 UTC |
 | [Google Maps Blocked 292 Million Reviews &amp; Removed 13 Million Fake Profiles](https://www.seroundtable.com/google-maps-spam-fighting-2025-41176.html) | Search Engine Roundtable | 190 | Local SEO | 2026-04-17 11:51 UTC |
 | [Google Ads Removed 8.3 Billion Ads - Up Over 60% (Most Before Serving)](https://www.seroundtable.com/google-ads-safety-report-41173.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-17 11:41 UTC |
