@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [More than $15k for AI Writing](https://www.reddit.com/r/seogrowth/comments/1snsawy/more_than_15k_for_ai_writing/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | AI Search | 2026-04-17 05:58 UTC |
-| [Crawled - currently not indexed. GSC- Please help](https://www.reddit.com/r/TechSEO/comments/1sns3qy/crawled_currently_not_indexed_gsc_please_help/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | Indexing | 2026-04-17 05:46 UTC |
-| [Best practice for DBA?](https://www.reddit.com/r/localseo/comments/1snrw1h/best_practice_for_dba/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-17 05:35 UTC |
-| [How do you actually manage listing consistency at scale without losing your mind?](https://www.reddit.com/r/localseo/comments/1snrtil/how_do_you_actually_manage_listing_consistency_at/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-17 05:31 UTC |
-| [3 outbound mistakes that were silently killing my reply rates for months and I only figured](https://www.reddit.com/r/DigitalMarketing/comments/1snroe7/3_outbound_mistakes_that_were_silently_killing_my/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Links | 2026-04-17 05:24 UTC |
-| [Answer my Question Regarding Digital Marketing](https://www.reddit.com/r/seogrowth/comments/1snqvgp/answer_my_question_regarding_digital_marketing/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | General | 2026-04-17 04:41 UTC |
-| [Broke down my 200 LinkedIn posts to figure out what actually drives comments. 3 patterns explained almost everything.](https://www.reddit.com/r/DigitalMarketing/comments/1snpvln/broke_down_my_200_linkedin_posts_to_figure_out/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Links | 2026-04-17 03:51 UTC |
-| [Is WeaveRev any good for Google Reviews management?](https://www.reddit.com/r/localseo/comments/1snp0yq/is_weaverev_any_good_for_google_reviews_management/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-17 03:11 UTC |
-| [anyone ever had to market a product they know is genuinely bad](https://www.reddit.com/r/DigitalMarketing/comments/1snonix/anyone_ever_had_to_market_a_product_they_know_is/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-17 02:54 UTC |
-| [Feedback for r/SEO meetups and in-person events for the Global SEO Community](https://www.reddit.com/r/SEO/comments/1snnxes/feedback_for_rseo_meetups_and_inperson_events_for/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | General | 2026-04-17 02:21 UTC |
-| [why do companies hire seo specialists rather than doing it themselves? It seems simple (I could be wrong)](https://www.reddit.com/r/DigitalMarketing/comments/1snm34a/why_do_companies_hire_seo_specialists_rather_than/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-17 00:57 UTC |
-| [Backlinks really matter](https://www.reddit.com/r/SEO/comments/1snlzvk/backlinks_really_matter/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Indexing | 2026-04-17 00:53 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
@@ -79,7 +68,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Knowledge Graph: What it is &amp; why it matters](https://www.semrush.com/blog/knowledge-graph/) | Semrush Blog | 110 | AI Search | 2026-04-15 09:21 UTC |
 | [Google rolls out worldwide agentic restaurant booking via AI Mode](https://www.semrush.com/blog/ai-mode-agentic-restaurant-booking/) | Semrush Blog | 110 | AI Search | 2026-04-15 08:59 UTC |
 | [5 Ways to Increase Your Website Authority in 2026](https://www.semrush.com/blog/how-to-build-website-authority/) | Semrush Blog | 110 | Links | 2026-04-14 08:56 UTC |
-| [Local Keyword Research for SEO: What It Is &amp; How to Do It](https://www.semrush.com/blog/local-keyword-research/) | Semrush Blog | 110 | Local SEO | 2026-04-14 08:19 UTC |
+| [Local Keyword Research for SEO: What It Is &amp; How to Do It](https://www.semrush.com/blog/local-keyword-research/) | Semrush Blog | 95 | Local SEO | 2026-04-14 08:19 UTC |
 | [How to Create an Effective SEO Report in 2026 (+ Free Template)](https://www.semrush.com/blog/seo-report/) | Semrush Blog | 95 | AI Search | 2026-04-10 13:15 UTC |
 | [The 11 Best Local SEO Tools in 2026](https://www.semrush.com/blog/local-seo-tools/) | Semrush Blog | 95 | Local SEO | 2026-04-10 13:06 UTC |
 | [10 Best Website Traffic Analysis Tools for 2026 (Features &amp; Pricing)](https://www.semrush.com/blog/website-traffic-analysis-tools/) | Semrush Blog | 95 | AI Search | 2026-04-10 12:53 UTC |
