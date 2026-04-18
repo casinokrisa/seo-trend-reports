@@ -48,7 +48,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Is Replacing Dynamic Search Ads With AI Max](https://www.searchenginejournal.com/google-is-replacing-dynamic-search-ads-with-ai-max/571949/) | Search Engine Journal | 160 | AI Search | 2026-04-15 13:00 UTC |
 | [The Modern SEO Center Of Excellence: Governance, Not Guidelines](https://www.searchenginejournal.com/the-modern-seo-center-of-excellence-governance-not-guidelines/566097/) | Search Engine Journal | 160 | Content | 2026-04-15 12:30 UTC |
 | [Why Your Search Data Doesn’t Agree (And What To Do About It)](https://www.searchenginejournal.com/why-your-search-data-doesnt-agree-and-what-to-do-about-it/570180/) | Search Engine Journal | 160 | General | 2026-04-15 11:00 UTC |
-| [Google Just Made It Easy For SEOs To Kick Out Spammy Sites](https://www.searchenginejournal.com/google-just-made-it-easy-for-seos-to-kick-out-spammy-sites/572118/) | Search Engine Journal | 160 | Indexing | 2026-04-15 10:00 UTC |
+| [Google Just Made It Easy For SEOs To Kick Out Spammy Sites](https://www.searchenginejournal.com/google-just-made-it-easy-for-seos-to-kick-out-spammy-sites/572118/) | Search Engine Journal | 145 | Indexing | 2026-04-15 10:00 UTC |
 | [New Google Search Console Message Glitch Gives SEOs A Scare](https://www.searchenginejournal.com/new-google-search-console-message-glitch-gives-seos-a-scare/572072/) | Search Engine Journal | 145 | GSC | 2026-04-14 22:22 UTC |
 | [Google Chrome Skills Turn Gemini Prompts Into Reusable Workflows](https://www.searchenginejournal.com/google-chrome-skills-turn-gemini-prompts-into-reusable-workflows/571994/) | Search Engine Journal | 145 | AI Search | 2026-04-14 19:10 UTC |
 | [Why Your Webinar Program Isn't Working (So, Copy Ours)](https://www.searchenginejournal.com/why-your-webinar-program-isnt-working-so-copy-ours/571950/) | Search Engine Journal | 145 | General | 2026-04-14 16:48 UTC |
@@ -64,7 +64,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Why ChatGPT Cites One Page Over Another (Study of 1.4M Prompts)](https://ahrefs.com/blog/why-chatgpt-cites-pages/) | Ahrefs Blog | 120 | Indexing | 2026-04-15 14:33 UTC |
 | [What Is Answer Engine Optimization? And How to Do It](https://www.semrush.com/blog/answer-engine-optimization/) | Semrush Blog | 110 | AI Search | 2026-04-16 12:20 UTC |
 | [Generative Engine Optimization: A Practical Guide](https://www.semrush.com/blog/generative-engine-optimization/) | Semrush Blog | 110 | AI Search | 2026-04-16 12:11 UTC |
-| [How to do a website audit in 2026 (+ free tracker)](https://www.semrush.com/blog/website-audit/) | Semrush Blog | 110 | AI Search | 2026-04-15 09:59 UTC |
+| [How to do a website audit in 2026 (+ free tracker)](https://www.semrush.com/blog/website-audit/) | Semrush Blog | 95 | AI Search | 2026-04-15 09:59 UTC |
 | [Google Knowledge Graph: What it is &amp; why it matters](https://www.semrush.com/blog/knowledge-graph/) | Semrush Blog | 95 | AI Search | 2026-04-15 09:21 UTC |
 | [Google rolls out worldwide agentic restaurant booking via AI Mode](https://www.semrush.com/blog/ai-mode-agentic-restaurant-booking/) | Semrush Blog | 95 | AI Search | 2026-04-15 08:59 UTC |
 | [5 Ways to Increase Your Website Authority in 2026](https://www.semrush.com/blog/how-to-build-website-authority/) | Semrush Blog | 95 | Links | 2026-04-14 08:56 UTC |
