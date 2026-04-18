@@ -29,7 +29,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Discover and the content discovery revolution transforming digital marketing](https://searchengineland.com/guide/what-is-google-discover) | Search Engine Land | 180 | Content | 2026-04-17 19:11 UTC |
 | [Google Bans Back Button Hijacking, Agentic Search Grows](https://www.searchenginejournal.com/seo-pulse-google-targets-back-button-hijacking-agentic-search-grows/572282/) | Search Engine Journal | 180 | General | 2026-04-17 12:30 UTC |
 | [Google’s Product Feed Strategy Points To The Future Of Retail Discovery](https://www.searchenginejournal.com/googles-product-feed-strategy-points-to-the-future-of-retail-discovery/572291/) | Search Engine Journal | 180 | AI Search | 2026-04-17 11:30 UTC |
-| [Google AI Mode in Chrome Gets Side-by-Side Browsing](https://www.searchenginejournal.com/google-ai-mode-in-chrome-gets-side-by-side-browsing/572273/) | Search Engine Journal | 160 | AI Search | 2026-04-16 21:02 UTC |
 
 ## Notes for manual writing
 

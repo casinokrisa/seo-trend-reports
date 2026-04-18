@@ -66,7 +66,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Generative Engine Optimization: A Practical Guide](https://www.semrush.com/blog/generative-engine-optimization/) | Semrush Blog | 110 | AI Search | 2026-04-16 12:11 UTC |
 | [How to do a website audit in 2026 (+ free tracker)](https://www.semrush.com/blog/website-audit/) | Semrush Blog | 110 | AI Search | 2026-04-15 09:59 UTC |
 | [Google Knowledge Graph: What it is &amp; why it matters](https://www.semrush.com/blog/knowledge-graph/) | Semrush Blog | 110 | AI Search | 2026-04-15 09:21 UTC |
-| [Google rolls out worldwide agentic restaurant booking via AI Mode](https://www.semrush.com/blog/ai-mode-agentic-restaurant-booking/) | Semrush Blog | 110 | AI Search | 2026-04-15 08:59 UTC |
+| [Google rolls out worldwide agentic restaurant booking via AI Mode](https://www.semrush.com/blog/ai-mode-agentic-restaurant-booking/) | Semrush Blog | 95 | AI Search | 2026-04-15 08:59 UTC |
 | [5 Ways to Increase Your Website Authority in 2026](https://www.semrush.com/blog/how-to-build-website-authority/) | Semrush Blog | 95 | Links | 2026-04-14 08:56 UTC |
 | [Local Keyword Research for SEO: What It Is &amp; How to Do It](https://www.semrush.com/blog/local-keyword-research/) | Semrush Blog | 95 | Local SEO | 2026-04-14 08:19 UTC |
 
