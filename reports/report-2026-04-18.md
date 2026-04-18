@@ -18,8 +18,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [AI Adoption Outpaced The PC & Internet: Dive Into The Stanford Report Data](https://www.searchenginejournal.com/ai-adoption-outpaced-the-pc-internet-dive-into-the-stanford-report-data/572305/) | Search Engine Journal | 200 | Indexing | 2026-04-18 12:00 UTC |
 | [Google Discover and the content discovery revolution transforming digital marketing](https://searchengineland.com/guide/what-is-google-discover) | Search Engine Land | 180 | Content | 2026-04-17 19:11 UTC |
+| [AI Adoption Outpaced The PC & Internet: Dive Into The Stanford Report Data](https://www.searchenginejournal.com/ai-adoption-outpaced-the-pc-internet-dive-into-the-stanford-report-data/572305/) | Search Engine Journal | 180 | Indexing | 2026-04-18 12:00 UTC |
 | [Daily Search Forum Recap: April 17, 2026](https://www.seroundtable.com/recap-04-17-2026-41179.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-17 14:00 UTC |
 | [Search News Buzz Video Recap: Google Back Button Hijacking Penalty, Spam Reporting Change, Google Ads AI Max Replacing DSAs &amp; More](https://www.seroundtable.com/video-04-17-2026-41177.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-17 12:00 UTC |
 | [Google Maps Blocked 292 Million Reviews &amp; Removed 13 Million Fake Profiles](https://www.seroundtable.com/google-maps-spam-fighting-2025-41176.html) | Search Engine Roundtable | 170 | Local SEO | 2026-04-17 11:51 UTC |
