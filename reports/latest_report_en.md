@@ -18,7 +18,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [AI Adoption Outpaced The PC & Internet: Dive Into The Stanford Report Data](https://www.searchenginejournal.com/ai-adoption-outpaced-the-pc-internet-dive-into-the-stanford-report-data/572305/) | Search Engine Journal | 180 | Indexing | 2026-04-18 12:00 UTC |
+| [Selling To AI: The Complete Guide To Agentic Commerce](https://www.searchenginejournal.com/selling-to-ai-the-complete-guide-to-agentic-commerce/570452/) | Search Engine Journal | 200 | AI Search | 2026-04-19 12:00 UTC |
+| [AI Adoption Outpaced The PC & Internet: Dive Into The Stanford Report Data](https://www.searchenginejournal.com/ai-adoption-outpaced-the-pc-internet-dive-into-the-stanford-report-data/572305/) | Search Engine Journal | 160 | Indexing | 2026-04-18 12:00 UTC |
 
 ## Notes for manual writing
 
