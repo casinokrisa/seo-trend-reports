@@ -12,6 +12,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Added a section about &quot;read more&quot; deep links](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 220 | Links | 2026-04-20 00:00 UTC |
+| [Daily Search Forum Recap: April 20, 2026](https://www.seroundtable.com/recap-04-20-2026-41185.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-20 14:00 UTC |
 | [Google Search Tests Opening Search Results In New Window](https://www.seroundtable.com/google-opening-search-results-in-new-window-41184.html) | Search Engine Roundtable | 210 | GSC | 2026-04-20 11:51 UTC |
 | [Google Local Search Ads With Videos Ads](https://www.seroundtable.com/google-local-video-ads-41183.html) | Search Engine Roundtable | 210 | General | 2026-04-20 11:41 UTC |
 | [Can Google Handle Domains With One Letter Difference? Usually](https://www.seroundtable.com/one-letter-domain-difference-google-41182.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-20 11:31 UTC |
@@ -22,7 +24,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Lists Best Practices For Read More Deep Links](https://www.searchenginejournal.com/google-lists-best-practices-for-read-more-deep-links/572423/) | Search Engine Journal | 200 | Links | 2026-04-20 12:15 UTC |
 | [What Search Engines Trust Now: Authority, Freshness & First-Party Signals](https://www.searchenginejournal.com/what-search-engines-trust-now-authority-freshness-first-party-signals/570553/) | Search Engine Journal | 200 | AI Search | 2026-04-20 12:00 UTC |
 | [68 Million AI Crawler Visits Show What Drives AI Search Visibility](https://www.searchenginejournal.com/68-million-ai-crawler-visits-show-what-drives-ai-search-visibility/572386/) | Search Engine Journal | 200 | Indexing | 2026-04-20 10:15 UTC |
-| [Clarifying the use of spam reports](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | AI Search | 2026-04-14 00:00 UTC |
 | [Google Discover and the content discovery revolution transforming digital marketing](https://searchengineland.com/guide/what-is-google-discover) | Search Engine Land | 160 | Content | 2026-04-17 19:11 UTC |
 | [Selling To AI: The Complete Guide To Agentic Commerce](https://www.searchenginejournal.com/selling-to-ai-the-complete-guide-to-agentic-commerce/570452/) | Search Engine Journal | 160 | AI Search | 2026-04-19 12:00 UTC |
 | [AI Adoption Outpaced The PC & Internet: Dive Into The Stanford Report Data](https://www.searchenginejournal.com/ai-adoption-outpaced-the-pc-internet-dive-into-the-stanford-report-data/572305/) | Search Engine Journal | 160 | Indexing | 2026-04-18 12:00 UTC |
@@ -35,8 +36,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Updates Reviews Policy To Restrict Staff Mentions &amp; Solicitations](https://www.seroundtable.com/google-reviews-policy-staff-mentions-solicitations-41175.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-17 11:21 UTC |
 | [Google Local Service Ads To Pull Rich Content Through Your URLs](https://www.seroundtable.com/google-local-service-ads-rich-content-urls-41174.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-17 11:11 UTC |
 | [Daily Search Forum Recap: April 16, 2026](https://www.seroundtable.com/recap-04-16-2026-41172.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-16 14:00 UTC |
-| [Google Ads PMax Channel Performance Spend Over Time](https://www.seroundtable.com/google-ads-pmax-channel-performance-spend-over-time-41165.html) | Search Engine Roundtable | 155 | General | 2026-04-16 11:51 UTC |
-| [SEO checklist: 43 tips to optimize your website](https://www.semrush.com/blog/seo-checklist/) | Semrush Blog | 150 | AI Search | 2026-04-20 08:35 UTC |
 | [Lead generation: The evolution from spray-and-pray to precision targeting](https://searchengineland.com/guide/what-is-lead-generation) | Search Engine Land | 145 | AI Search | 2026-04-16 18:33 UTC |
 | [Google Bans Back Button Hijacking, Agentic Search Grows](https://www.searchenginejournal.com/seo-pulse-google-targets-back-button-hijacking-agentic-search-grows/572282/) | Search Engine Journal | 145 | General | 2026-04-17 12:30 UTC |
 | [Google’s Product Feed Strategy Points To The Future Of Retail Discovery](https://www.searchenginejournal.com/googles-product-feed-strategy-points-to-the-future-of-retail-discovery/572291/) | Search Engine Journal | 145 | AI Search | 2026-04-17 11:30 UTC |
@@ -61,6 +60,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Why Your Webinar Program Isn't Working (So, Copy Ours)](https://www.searchenginejournal.com/why-your-webinar-program-isnt-working-so-copy-ours/571950/) | Search Engine Journal | 145 | General | 2026-04-14 16:48 UTC |
 | [Shorter, Focused Content Wins In ChatGPT](https://www.searchenginejournal.com/shorter-focused-content-wins-in-chatgpt/571857/) | Search Engine Journal | 145 | AI Search | 2026-04-14 13:30 UTC |
 | [How To Break Through An Affiliate Site Plateau & Find New Growth](https://www.searchenginejournal.com/ask-an-seo-how-to-break-through-an-affiliate-site-plateau/566270/) | Search Engine Journal | 145 | Content | 2026-04-14 11:30 UTC |
+| [SEO checklist: 43 tips to optimize your website](https://www.semrush.com/blog/seo-checklist/) | Semrush Blog | 130 | AI Search | 2026-04-20 08:35 UTC |
 | [Why ChatGPT Cites One Page Over Another (Study of 1.4M Prompts)](https://ahrefs.com/blog/why-chatgpt-cites-pages/) | Ahrefs Blog | 105 | Indexing | 2026-04-15 14:33 UTC |
 | [What Is Answer Engine Optimization? And How to Do It](https://www.semrush.com/blog/answer-engine-optimization/) | Semrush Blog | 95 | AI Search | 2026-04-16 12:20 UTC |
 | [Generative Engine Optimization: A Practical Guide](https://www.semrush.com/blog/generative-engine-optimization/) | Semrush Blog | 95 | AI Search | 2026-04-16 12:11 UTC |
