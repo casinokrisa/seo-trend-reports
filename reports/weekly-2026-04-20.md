@@ -13,8 +13,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Added a section about &quot;read more&quot; deep links](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 220 | Links | 2026-04-20 00:00 UTC |
-| [Daily Search Forum Recap: April 20, 2026](https://www.seroundtable.com/recap-04-20-2026-41185.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-20 14:00 UTC |
 | [How To Build AI Visibility In 90 Days [Webinar]](https://www.searchenginejournal.com/how-to-build-ai-visibility-in-90-days-webinar/572471/) | Search Engine Journal | 200 | AI Search | 2026-04-20 18:01 UTC |
+| [Daily Search Forum Recap: April 20, 2026](https://www.seroundtable.com/recap-04-20-2026-41185.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-20 14:00 UTC |
 | [Google Search Tests Opening Search Results In New Window](https://www.seroundtable.com/google-opening-search-results-in-new-window-41184.html) | Search Engine Roundtable | 190 | GSC | 2026-04-20 11:51 UTC |
 | [Google Local Search Ads With Videos Ads](https://www.seroundtable.com/google-local-video-ads-41183.html) | Search Engine Roundtable | 190 | General | 2026-04-20 11:41 UTC |
 | [Can Google Handle Domains With One Letter Difference? Usually](https://www.seroundtable.com/one-letter-domain-difference-google-41182.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-20 11:31 UTC |
