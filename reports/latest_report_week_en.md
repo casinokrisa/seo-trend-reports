@@ -36,7 +36,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Updates Reviews Policy To Restrict Staff Mentions &amp; Solicitations](https://www.seroundtable.com/google-reviews-policy-staff-mentions-solicitations-41175.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-17 11:21 UTC |
 | [Google Local Service Ads To Pull Rich Content Through Your URLs](https://www.seroundtable.com/google-local-service-ads-rich-content-urls-41174.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-17 11:11 UTC |
 | [Daily Search Forum Recap: April 16, 2026](https://www.seroundtable.com/recap-04-16-2026-41172.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-16 14:00 UTC |
-| [Brand Mentions: Complete Guide to Tracking, Measuring &amp; Optimizing](https://www.semrush.com/blog/brand-mentions/) | Semrush Blog | 150 | AI Search | 2026-04-20 15:06 UTC |
 | [Google Discover and the content discovery revolution transforming digital marketing](https://searchengineland.com/guide/what-is-google-discover) | Search Engine Land | 145 | Content | 2026-04-17 19:11 UTC |
 | [Lead generation: The evolution from spray-and-pray to precision targeting](https://searchengineland.com/guide/what-is-lead-generation) | Search Engine Land | 145 | AI Search | 2026-04-16 18:33 UTC |
 | [Google Bans Back Button Hijacking, Agentic Search Grows](https://www.searchenginejournal.com/seo-pulse-google-targets-back-button-hijacking-agentic-search-grows/572282/) | Search Engine Journal | 145 | General | 2026-04-17 12:30 UTC |
@@ -61,6 +60,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Chrome Skills Turn Gemini Prompts Into Reusable Workflows](https://www.searchenginejournal.com/google-chrome-skills-turn-gemini-prompts-into-reusable-workflows/571994/) | Search Engine Journal | 145 | AI Search | 2026-04-14 19:10 UTC |
 | [Why Your Webinar Program Isn't Working (So, Copy Ours)](https://www.searchenginejournal.com/why-your-webinar-program-isnt-working-so-copy-ours/571950/) | Search Engine Journal | 145 | General | 2026-04-14 16:48 UTC |
 | [Shorter, Focused Content Wins In ChatGPT](https://www.searchenginejournal.com/shorter-focused-content-wins-in-chatgpt/571857/) | Search Engine Journal | 145 | AI Search | 2026-04-14 13:30 UTC |
+| [Brand Mentions: Complete Guide to Tracking, Measuring &amp; Optimizing](https://www.semrush.com/blog/brand-mentions/) | Semrush Blog | 130 | AI Search | 2026-04-20 15:06 UTC |
 | [SEO checklist: 43 tips to optimize your website](https://www.semrush.com/blog/seo-checklist/) | Semrush Blog | 130 | AI Search | 2026-04-20 08:35 UTC |
 | [Why ChatGPT Cites One Page Over Another (Study of 1.4M Prompts)](https://ahrefs.com/blog/why-chatgpt-cites-pages/) | Ahrefs Blog | 105 | Indexing | 2026-04-15 14:33 UTC |
 | [What Is Answer Engine Optimization? And How to Do It](https://www.semrush.com/blog/answer-engine-optimization/) | Semrush Blog | 95 | AI Search | 2026-04-16 12:20 UTC |
