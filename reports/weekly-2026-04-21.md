@@ -18,6 +18,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Shopping Showing Shopping Ads Within Free Listing Grid](https://www.seroundtable.com/google-shopping-showing-more-shopping-ads-41188.html) | Search Engine Roundtable | 210 | General | 2026-04-21 11:31 UTC |
 | [Google Search Console Performance Report Job Listings Reporting Bug](https://www.seroundtable.com/google-search-console-performance-report-job-listings-report-bug-41187.html) | Search Engine Roundtable | 210 | GSC | 2026-04-21 11:21 UTC |
 | [Google Documents Read More Snippet Links Best Practices](https://www.seroundtable.com/google-search-read-more-snippet-links-best-practices-41186.html) | Search Engine Roundtable | 210 | Links | 2026-04-21 11:11 UTC |
+| [Google Ads Makes Call Recording Default For AI Lead Calls](https://www.searchenginejournal.com/google-ads-makes-call-recording-default-for-ai-lead-calls/572613/) | Search Engine Journal | 200 | AI Search | 2026-04-21 15:16 UTC |
 | [The Ghost Citation Problem](https://www.searchenginejournal.com/the-ghost-citation-problem/572453/) | Search Engine Journal | 200 | AI Search | 2026-04-21 13:30 UTC |
 | [What's The Biggest Technical SEO Blind Spot From Over-Relying On Tools?](https://www.searchenginejournal.com/ask-an-seo-biggest-technical-seo-blind-spot-from-overrelying-on-tools/570188/) | Search Engine Journal | 200 | Technical SEO | 2026-04-21 12:30 UTC |
 | [Google Adds New Tasked-Based Search Features](https://www.searchenginejournal.com/google-adds-new-tasked-based-search-features/572547/) | Search Engine Journal | 200 | General | 2026-04-21 09:47 UTC |
@@ -59,8 +60,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [The Modern SEO Center Of Excellence: Governance, Not Guidelines](https://www.searchenginejournal.com/the-modern-seo-center-of-excellence-governance-not-guidelines/566097/) | Search Engine Journal | 145 | Content | 2026-04-15 12:30 UTC |
 | [Why Your Search Data Doesn’t Agree (And What To Do About It)](https://www.searchenginejournal.com/why-your-search-data-doesnt-agree-and-what-to-do-about-it/570180/) | Search Engine Journal | 145 | General | 2026-04-15 11:00 UTC |
 | [Google Just Made It Easy For SEOs To Kick Out Spammy Sites](https://www.searchenginejournal.com/google-just-made-it-easy-for-seos-to-kick-out-spammy-sites/572118/) | Search Engine Journal | 145 | Indexing | 2026-04-15 10:00 UTC |
-| [New Google Search Console Message Glitch Gives SEOs A Scare](https://www.searchenginejournal.com/new-google-search-console-message-glitch-gives-seos-a-scare/572072/) | Search Engine Journal | 145 | GSC | 2026-04-14 22:22 UTC |
-| [Brand Mentions: Complete Guide to Tracking, Measuring &amp; Optimizing](https://www.semrush.com/blog/brand-mentions/) | Semrush Blog | 130 | AI Search | 2026-04-20 15:06 UTC |
+| [Brand Mentions: Complete Guide to Tracking, Measuring &amp; Optimizing](https://www.semrush.com/blog/brand-mentions/) | Semrush Blog | 110 | AI Search | 2026-04-20 15:06 UTC |
 | [SEO checklist: 43 tips to optimize your website](https://www.semrush.com/blog/seo-checklist/) | Semrush Blog | 110 | AI Search | 2026-04-20 08:35 UTC |
 | [Why ChatGPT Cites One Page Over Another (Study of 1.4M Prompts)](https://ahrefs.com/blog/why-chatgpt-cites-pages/) | Ahrefs Blog | 105 | Indexing | 2026-04-15 14:33 UTC |
 | [What Is Answer Engine Optimization? And How to Do It](https://www.semrush.com/blog/answer-engine-optimization/) | Semrush Blog | 95 | AI Search | 2026-04-16 12:20 UTC |

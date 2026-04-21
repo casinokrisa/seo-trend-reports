@@ -24,6 +24,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Shopping Showing Shopping Ads Within Free Listing Grid](https://www.seroundtable.com/google-shopping-showing-more-shopping-ads-41188.html) | Search Engine Roundtable | 210 | General | 2026-04-21 11:31 UTC |
 | [Google Search Console Performance Report Job Listings Reporting Bug](https://www.seroundtable.com/google-search-console-performance-report-job-listings-report-bug-41187.html) | Search Engine Roundtable | 210 | GSC | 2026-04-21 11:21 UTC |
 | [Google Documents Read More Snippet Links Best Practices](https://www.seroundtable.com/google-search-read-more-snippet-links-best-practices-41186.html) | Search Engine Roundtable | 210 | Links | 2026-04-21 11:11 UTC |
+| [Google Ads Makes Call Recording Default For AI Lead Calls](https://www.searchenginejournal.com/google-ads-makes-call-recording-default-for-ai-lead-calls/572613/) | Search Engine Journal | 200 | AI Search | 2026-04-21 15:16 UTC |
 | [The Ghost Citation Problem](https://www.searchenginejournal.com/the-ghost-citation-problem/572453/) | Search Engine Journal | 200 | AI Search | 2026-04-21 13:30 UTC |
 | [What's The Biggest Technical SEO Blind Spot From Over-Relying On Tools?](https://www.searchenginejournal.com/ask-an-seo-biggest-technical-seo-blind-spot-from-overrelying-on-tools/570188/) | Search Engine Journal | 200 | Technical SEO | 2026-04-21 12:30 UTC |
 | [Google Adds New Tasked-Based Search Features](https://www.searchenginejournal.com/google-adds-new-tasked-based-search-features/572547/) | Search Engine Journal | 200 | General | 2026-04-21 09:47 UTC |
@@ -37,7 +38,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google May Have To Share Search Data With Rivals](https://www.searchenginejournal.com/google-may-have-to-share-search-data-with-rivals/572434/) | Search Engine Journal | 160 | AI Search | 2026-04-20 12:41 UTC |
 | [Winning Google Ads Campaign Structures For DTC Ecommerce](https://www.searchenginejournal.com/winning-google-ads-campaign-structures-for-dtc-ecommerce/571400/) | Search Engine Journal | 160 | AI Search | 2026-04-20 12:30 UTC |
 | [Google Lists Best Practices For Read More Deep Links](https://www.searchenginejournal.com/google-lists-best-practices-for-read-more-deep-links/572423/) | Search Engine Journal | 160 | Links | 2026-04-20 12:15 UTC |
-| [What Search Engines Trust Now: Authority, Freshness & First-Party Signals](https://www.searchenginejournal.com/what-search-engines-trust-now-authority-freshness-first-party-signals/570553/) | Search Engine Journal | 160 | AI Search | 2026-04-20 12:00 UTC |
 
 ## Notes for manual writing
 
