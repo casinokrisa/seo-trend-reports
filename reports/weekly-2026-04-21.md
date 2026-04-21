@@ -12,30 +12,32 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Daily Search Forum Recap: April 21, 2026](https://www.seroundtable.com/recap-04-21-2026-41192.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-21 14:00 UTC |
 | [Google: When It Comes To SEO, Nobody Knows Everything](https://www.seroundtable.com/google-seo-nobody-knows-everything-41190.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-21 11:51 UTC |
 | [Google: You Can Do A Lot Of SEO That Don't Work &amp; Still Do Ok](https://www.seroundtable.com/seo-complex-work-work-41189.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-21 11:41 UTC |
 | [Google Shopping Showing Shopping Ads Within Free Listing Grid](https://www.seroundtable.com/google-shopping-showing-more-shopping-ads-41188.html) | Search Engine Roundtable | 210 | General | 2026-04-21 11:31 UTC |
 | [Google Search Console Performance Report Job Listings Reporting Bug](https://www.seroundtable.com/google-search-console-performance-report-job-listings-report-bug-41187.html) | Search Engine Roundtable | 210 | GSC | 2026-04-21 11:21 UTC |
 | [Google Documents Read More Snippet Links Best Practices](https://www.seroundtable.com/google-search-read-more-snippet-links-best-practices-41186.html) | Search Engine Roundtable | 210 | Links | 2026-04-21 11:11 UTC |
+| [The Ghost Citation Problem](https://www.searchenginejournal.com/the-ghost-citation-problem/572453/) | Search Engine Journal | 200 | AI Search | 2026-04-21 13:30 UTC |
+| [What's The Biggest Technical SEO Blind Spot From Over-Relying On Tools?](https://www.searchenginejournal.com/ask-an-seo-biggest-technical-seo-blind-spot-from-overrelying-on-tools/570188/) | Search Engine Journal | 200 | Technical SEO | 2026-04-21 12:30 UTC |
 | [Google Adds New Tasked-Based Search Features](https://www.searchenginejournal.com/google-adds-new-tasked-based-search-features/572547/) | Search Engine Journal | 200 | General | 2026-04-21 09:47 UTC |
 | [Added a section about &quot;read more&quot; deep links](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Links | 2026-04-20 00:00 UTC |
-| [Daily Search Forum Recap: April 20, 2026](https://www.seroundtable.com/recap-04-20-2026-41185.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-20 14:00 UTC |
 | [How To Build AI Visibility In 90 Days [Webinar]](https://www.searchenginejournal.com/how-to-build-ai-visibility-in-90-days-webinar/572471/) | Search Engine Journal | 180 | AI Search | 2026-04-20 18:01 UTC |
-| [Google May Have To Share Search Data With Rivals](https://www.searchenginejournal.com/google-may-have-to-share-search-data-with-rivals/572434/) | Search Engine Journal | 180 | AI Search | 2026-04-20 12:41 UTC |
-| [Winning Google Ads Campaign Structures For DTC Ecommerce](https://www.searchenginejournal.com/winning-google-ads-campaign-structures-for-dtc-ecommerce/571400/) | Search Engine Journal | 180 | AI Search | 2026-04-20 12:30 UTC |
-| [Google Lists Best Practices For Read More Deep Links](https://www.searchenginejournal.com/google-lists-best-practices-for-read-more-deep-links/572423/) | Search Engine Journal | 180 | Links | 2026-04-20 12:15 UTC |
+| [Daily Search Forum Recap: April 20, 2026](https://www.seroundtable.com/recap-04-20-2026-41185.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-20 14:00 UTC |
 | [Google Search Tests Opening Search Results In New Window](https://www.seroundtable.com/google-opening-search-results-in-new-window-41184.html) | Search Engine Roundtable | 170 | GSC | 2026-04-20 11:51 UTC |
 | [Google Local Search Ads With Videos Ads](https://www.seroundtable.com/google-local-video-ads-41183.html) | Search Engine Roundtable | 170 | General | 2026-04-20 11:41 UTC |
 | [Can Google Handle Domains With One Letter Difference? Usually](https://www.seroundtable.com/one-letter-domain-difference-google-41182.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-20 11:31 UTC |
 | [Better Competitor Targeting In ChatGPT Ads?](https://www.seroundtable.com/example-of-possible-competitor-targeting-in-chatgpt-ads-41181.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-20 11:21 UTC |
 | [Microsoft Bing Offers IndexNow Support To The Internet Archive](https://www.seroundtable.com/microsoft-indexnow-support-internet-archive-41180.html) | Search Engine Roundtable | 170 | Indexing | 2026-04-20 11:11 UTC |
+| [Google May Have To Share Search Data With Rivals](https://www.searchenginejournal.com/google-may-have-to-share-search-data-with-rivals/572434/) | Search Engine Journal | 160 | AI Search | 2026-04-20 12:41 UTC |
+| [Winning Google Ads Campaign Structures For DTC Ecommerce](https://www.searchenginejournal.com/winning-google-ads-campaign-structures-for-dtc-ecommerce/571400/) | Search Engine Journal | 160 | AI Search | 2026-04-20 12:30 UTC |
+| [Google Lists Best Practices For Read More Deep Links](https://www.searchenginejournal.com/google-lists-best-practices-for-read-more-deep-links/572423/) | Search Engine Journal | 160 | Links | 2026-04-20 12:15 UTC |
 | [What Search Engines Trust Now: Authority, Freshness & First-Party Signals](https://www.searchenginejournal.com/what-search-engines-trust-now-authority-freshness-first-party-signals/570553/) | Search Engine Journal | 160 | AI Search | 2026-04-20 12:00 UTC |
 | [68 Million AI Crawler Visits Show What Drives AI Search Visibility](https://www.searchenginejournal.com/68-million-ai-crawler-visits-show-what-drives-ai-search-visibility/572386/) | Search Engine Journal | 160 | Indexing | 2026-04-20 10:15 UTC |
 | [Selling To AI: The Complete Guide To Agentic Commerce](https://www.searchenginejournal.com/selling-to-ai-the-complete-guide-to-agentic-commerce/570452/) | Search Engine Journal | 160 | AI Search | 2026-04-19 12:00 UTC |
 | [Daily Search Forum Recap: April 17, 2026](https://www.seroundtable.com/recap-04-17-2026-41179.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-17 14:00 UTC |
 | [Search News Buzz Video Recap: Google Back Button Hijacking Penalty, Spam Reporting Change, Google Ads AI Max Replacing DSAs &amp; More](https://www.seroundtable.com/video-04-17-2026-41177.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-17 12:00 UTC |
 | [Google Maps Blocked 292 Million Reviews &amp; Removed 13 Million Fake Profiles](https://www.seroundtable.com/google-maps-spam-fighting-2025-41176.html) | Search Engine Roundtable | 155 | Local SEO | 2026-04-17 11:51 UTC |
-| [Google Ads Removed 8.3 Billion Ads - Up Over 60% (Most Before Serving)](https://www.seroundtable.com/google-ads-safety-report-41173.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-17 11:41 UTC |
 | [Google Discover and the content discovery revolution transforming digital marketing](https://searchengineland.com/guide/what-is-google-discover) | Search Engine Land | 145 | Content | 2026-04-17 19:11 UTC |
 | [Lead generation: The evolution from spray-and-pray to precision targeting](https://searchengineland.com/guide/what-is-lead-generation) | Search Engine Land | 145 | AI Search | 2026-04-16 18:33 UTC |
 | [AI Adoption Outpaced The PC & Internet: Dive Into The Stanford Report Data](https://www.searchenginejournal.com/ai-adoption-outpaced-the-pc-internet-dive-into-the-stanford-report-data/572305/) | Search Engine Journal | 145 | Indexing | 2026-04-18 12:00 UTC |
@@ -58,8 +60,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Why Your Search Data Doesn’t Agree (And What To Do About It)](https://www.searchenginejournal.com/why-your-search-data-doesnt-agree-and-what-to-do-about-it/570180/) | Search Engine Journal | 145 | General | 2026-04-15 11:00 UTC |
 | [Google Just Made It Easy For SEOs To Kick Out Spammy Sites](https://www.searchenginejournal.com/google-just-made-it-easy-for-seos-to-kick-out-spammy-sites/572118/) | Search Engine Journal | 145 | Indexing | 2026-04-15 10:00 UTC |
 | [New Google Search Console Message Glitch Gives SEOs A Scare](https://www.searchenginejournal.com/new-google-search-console-message-glitch-gives-seos-a-scare/572072/) | Search Engine Journal | 145 | GSC | 2026-04-14 22:22 UTC |
-| [Google Chrome Skills Turn Gemini Prompts Into Reusable Workflows](https://www.searchenginejournal.com/google-chrome-skills-turn-gemini-prompts-into-reusable-workflows/571994/) | Search Engine Journal | 145 | AI Search | 2026-04-14 19:10 UTC |
-| [Why Your Webinar Program Isn't Working (So, Copy Ours)](https://www.searchenginejournal.com/why-your-webinar-program-isnt-working-so-copy-ours/571950/) | Search Engine Journal | 145 | General | 2026-04-14 16:48 UTC |
 | [Brand Mentions: Complete Guide to Tracking, Measuring &amp; Optimizing](https://www.semrush.com/blog/brand-mentions/) | Semrush Blog | 130 | AI Search | 2026-04-20 15:06 UTC |
 | [SEO checklist: 43 tips to optimize your website](https://www.semrush.com/blog/seo-checklist/) | Semrush Blog | 110 | AI Search | 2026-04-20 08:35 UTC |
 | [Why ChatGPT Cites One Page Over Another (Study of 1.4M Prompts)](https://ahrefs.com/blog/why-chatgpt-cites-pages/) | Ahrefs Blog | 105 | Indexing | 2026-04-15 14:33 UTC |
