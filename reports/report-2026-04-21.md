@@ -35,9 +35,9 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Adds New Tasked-Based Search Features](https://www.searchenginejournal.com/google-adds-new-tasked-based-search-features/572547/) | Search Engine Journal | 180 | General | 2026-04-21 09:47 UTC |
 | [Daily Search Forum Recap: April 20, 2026](https://www.seroundtable.com/recap-04-20-2026-41185.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-20 14:00 UTC |
 | [Google Search Tests Opening Search Results In New Window](https://www.seroundtable.com/google-opening-search-results-in-new-window-41184.html) | Search Engine Roundtable | 170 | GSC | 2026-04-20 11:51 UTC |
-| [Google Local Search Ads With Videos Ads](https://www.seroundtable.com/google-local-video-ads-41183.html) | Search Engine Roundtable | 170 | General | 2026-04-20 11:41 UTC |
-| [Can Google Handle Domains With One Letter Difference? Usually](https://www.seroundtable.com/one-letter-domain-difference-google-41182.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-20 11:31 UTC |
-| [Better Competitor Targeting In ChatGPT Ads?](https://www.seroundtable.com/example-of-possible-competitor-targeting-in-chatgpt-ads-41181.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-20 11:21 UTC |
+| [How To Build AI Visibility In 90 Days [Webinar]](https://www.searchenginejournal.com/how-to-build-ai-visibility-in-90-days-webinar/572471/) | Search Engine Journal | 160 | AI Search | 2026-04-20 18:01 UTC |
+| [Google May Have To Share Search Data With Rivals](https://www.searchenginejournal.com/google-may-have-to-share-search-data-with-rivals/572434/) | Search Engine Journal | 160 | AI Search | 2026-04-20 12:41 UTC |
+| [Winning Google Ads Campaign Structures For DTC Ecommerce](https://www.searchenginejournal.com/winning-google-ads-campaign-structures-for-dtc-ecommerce/571400/) | Search Engine Journal | 160 | AI Search | 2026-04-20 12:30 UTC |
 
 ## Notes for manual writing
 
