@@ -18,12 +18,13 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: April 21, 2026](https://www.seroundtable.com/recap-04-21-2026-41192.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-21 14:00 UTC |
 | [Query fan-out tools and software to optimize content and track results](https://searchengineland.com/guide/query-fan-out-tools-software) | Search Engine Land | 200 | AI Search | 2026-04-21 18:26 UTC |
 | [Query fan-out optimization guide: How to rank in AI searches](https://searchengineland.com/guide/how-to-optimize-for-query-fan-out) | Search Engine Land | 200 | AI Search | 2026-04-21 18:25 UTC |
 | [Query fan-out in AI search: What is it and how does it work?](https://searchengineland.com/guide/query-fan-out-2) | Search Engine Land | 200 | AI Search | 2026-04-21 18:13 UTC |
 | [Query fan-out in AI search: What is it and how does it work?](https://searchengineland.com/guide/query-fan-out) | Search Engine Land | 200 | AI Search | 2026-04-21 18:13 UTC |
+| [ChatGPT Ads Now Offer CPC Bidding Between $3 And $5: Report](https://www.searchenginejournal.com/chatgpt-ads-now-offer-cpc-bidding-between-3-and-5-report/572652/) | Search Engine Journal | 200 | AI Search | 2026-04-21 19:53 UTC |
 | [Google Ads Makes Call Recording Default For AI Lead Calls](https://www.searchenginejournal.com/google-ads-makes-call-recording-default-for-ai-lead-calls/572613/) | Search Engine Journal | 200 | AI Search | 2026-04-21 15:16 UTC |
+| [Daily Search Forum Recap: April 21, 2026](https://www.seroundtable.com/recap-04-21-2026-41192.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-21 14:00 UTC |
 | [Google: When It Comes To SEO, Nobody Knows Everything](https://www.seroundtable.com/google-seo-nobody-knows-everything-41190.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-21 11:51 UTC |
 | [Google: You Can Do A Lot Of SEO That Don't Work &amp; Still Do Ok](https://www.seroundtable.com/seo-complex-work-work-41189.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-21 11:41 UTC |
 | [Google Shopping Showing Shopping Ads Within Free Listing Grid](https://www.seroundtable.com/google-shopping-showing-more-shopping-ads-41188.html) | Search Engine Roundtable | 190 | General | 2026-04-21 11:31 UTC |
@@ -37,7 +38,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Local Search Ads With Videos Ads](https://www.seroundtable.com/google-local-video-ads-41183.html) | Search Engine Roundtable | 170 | General | 2026-04-20 11:41 UTC |
 | [Can Google Handle Domains With One Letter Difference? Usually](https://www.seroundtable.com/one-letter-domain-difference-google-41182.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-20 11:31 UTC |
 | [Better Competitor Targeting In ChatGPT Ads?](https://www.seroundtable.com/example-of-possible-competitor-targeting-in-chatgpt-ads-41181.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-20 11:21 UTC |
-| [Microsoft Bing Offers IndexNow Support To The Internet Archive](https://www.seroundtable.com/microsoft-indexnow-support-internet-archive-41180.html) | Search Engine Roundtable | 170 | Indexing | 2026-04-20 11:11 UTC |
 
 ## Notes for manual writing
 

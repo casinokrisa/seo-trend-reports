@@ -12,13 +12,14 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: April 21, 2026](https://www.seroundtable.com/recap-04-21-2026-41192.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-21 14:00 UTC |
 | [Query fan-out tools and software to optimize content and track results](https://searchengineland.com/guide/query-fan-out-tools-software) | Search Engine Land | 200 | AI Search | 2026-04-21 18:26 UTC |
 | [Query fan-out optimization guide: How to rank in AI searches](https://searchengineland.com/guide/how-to-optimize-for-query-fan-out) | Search Engine Land | 200 | AI Search | 2026-04-21 18:25 UTC |
 | [Query fan-out in AI search: What is it and how does it work?](https://searchengineland.com/guide/query-fan-out-2) | Search Engine Land | 200 | AI Search | 2026-04-21 18:13 UTC |
 | [Query fan-out in AI search: What is it and how does it work?](https://searchengineland.com/guide/query-fan-out) | Search Engine Land | 200 | AI Search | 2026-04-21 18:13 UTC |
+| [ChatGPT Ads Now Offer CPC Bidding Between $3 And $5: Report](https://www.searchenginejournal.com/chatgpt-ads-now-offer-cpc-bidding-between-3-and-5-report/572652/) | Search Engine Journal | 200 | AI Search | 2026-04-21 19:53 UTC |
 | [Google Ads Makes Call Recording Default For AI Lead Calls](https://www.searchenginejournal.com/google-ads-makes-call-recording-default-for-ai-lead-calls/572613/) | Search Engine Journal | 200 | AI Search | 2026-04-21 15:16 UTC |
 | [Added a section about &quot;read more&quot; deep links](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Links | 2026-04-20 00:00 UTC |
+| [Daily Search Forum Recap: April 21, 2026](https://www.seroundtable.com/recap-04-21-2026-41192.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-21 14:00 UTC |
 | [Google: When It Comes To SEO, Nobody Knows Everything](https://www.seroundtable.com/google-seo-nobody-knows-everything-41190.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-21 11:51 UTC |
 | [Google: You Can Do A Lot Of SEO That Don't Work &amp; Still Do Ok](https://www.seroundtable.com/seo-complex-work-work-41189.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-21 11:41 UTC |
 | [Google Shopping Showing Shopping Ads Within Free Listing Grid](https://www.seroundtable.com/google-shopping-showing-more-shopping-ads-41188.html) | Search Engine Roundtable | 190 | General | 2026-04-21 11:31 UTC |
@@ -63,7 +64,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Is Replacing Dynamic Search Ads With AI Max](https://www.searchenginejournal.com/google-is-replacing-dynamic-search-ads-with-ai-max/571949/) | Search Engine Journal | 145 | AI Search | 2026-04-15 13:00 UTC |
 | [The Modern SEO Center Of Excellence: Governance, Not Guidelines](https://www.searchenginejournal.com/the-modern-seo-center-of-excellence-governance-not-guidelines/566097/) | Search Engine Journal | 145 | Content | 2026-04-15 12:30 UTC |
 | [Why Your Search Data Doesn’t Agree (And What To Do About It)](https://www.searchenginejournal.com/why-your-search-data-doesnt-agree-and-what-to-do-about-it/570180/) | Search Engine Journal | 145 | General | 2026-04-15 11:00 UTC |
-| [Google Just Made It Easy For SEOs To Kick Out Spammy Sites](https://www.searchenginejournal.com/google-just-made-it-easy-for-seos-to-kick-out-spammy-sites/572118/) | Search Engine Journal | 145 | Indexing | 2026-04-15 10:00 UTC |
 | [Brand Mentions: Complete Guide to Tracking, Measuring &amp; Optimizing](https://www.semrush.com/blog/brand-mentions/) | Semrush Blog | 110 | AI Search | 2026-04-20 15:06 UTC |
 | [SEO checklist: 43 tips to optimize your website](https://www.semrush.com/blog/seo-checklist/) | Semrush Blog | 110 | AI Search | 2026-04-20 08:35 UTC |
 | [Why ChatGPT Cites One Page Over Another (Study of 1.4M Prompts)](https://ahrefs.com/blog/why-chatgpt-cites-pages/) | Ahrefs Blog | 105 | Indexing | 2026-04-15 14:33 UTC |
