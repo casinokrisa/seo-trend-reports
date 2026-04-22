@@ -18,6 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Daily Search Forum Recap: April 22, 2026](https://www.seroundtable.com/recap-04-22-2026-41197.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-22 14:00 UTC |
 | [OAI-AdsBot - New OpenAI Ads Bot](https://www.seroundtable.com/oai-adsbot-41196.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-22 11:51 UTC |
 | [ChatGPT Ad Manager Interface](https://www.seroundtable.com/chatgpt-ad-manager-interface-41195.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-22 11:41 UTC |
 | [Microsoft Advertising Releases New AI Features](https://www.seroundtable.com/microsoft-advertising-new-ai-features-41194.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-22 11:31 UTC |
