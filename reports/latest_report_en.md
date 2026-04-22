@@ -33,7 +33,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [The Ghost Citation Problem](https://www.searchenginejournal.com/the-ghost-citation-problem/572453/) | Search Engine Journal | 180 | AI Search | 2026-04-21 13:30 UTC |
 | [What's The Biggest Technical SEO Blind Spot From Over-Relying On Tools?](https://www.searchenginejournal.com/ask-an-seo-biggest-technical-seo-blind-spot-from-overrelying-on-tools/570188/) | Search Engine Journal | 180 | Technical SEO | 2026-04-21 12:30 UTC |
 | [Google Adds New Tasked-Based Search Features](https://www.searchenginejournal.com/google-adds-new-tasked-based-search-features/572547/) | Search Engine Journal | 180 | General | 2026-04-21 09:47 UTC |
-| [How To Build AI Visibility In 90 Days [Webinar]](https://www.searchenginejournal.com/how-to-build-ai-visibility-in-90-days-webinar/572471/) | Search Engine Journal | 160 | AI Search | 2026-04-20 18:01 UTC |
 
 ## Notes for manual writing
 
