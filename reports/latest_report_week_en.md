@@ -6,7 +6,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Feeling dumb and scared for tomorrow meeting with my SEO client, plz help!](https://www.reddit.com/r/SEO/comments/1ssd5f7/feeling_dumb_and_scared_for_tomorrow_meeting_with/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | AI Search | 2026-04-22 06:17 UTC |
+| [Is Reddit marketing for SEO worth the time or overrated?](https://www.reddit.com/r/DigitalMarketing/comments/1sscmfv/is_reddit_marketing_for_seo_worth_the_time_or/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-22 05:48 UTC |
+| [clients stopped asking me to "generate leads." they now ask me to "make sure ai recommends us." i don't know how to bill for that.](https://www.reddit.com/r/DigitalMarketing/comments/1sscgze/clients_stopped_asking_me_to_generate_leads_they/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | AI Search | 2026-04-22 05:39 UTC |
+| [This Hreflang is over my head. Help?](https://www.reddit.com/r/TechSEO/comments/1ssb9xt/this_hreflang_is_over_my_head_help/) | [r/TechSEO](https://www.reddit.com/r/TechSEO) | — | — | GSC | 2026-04-22 04:36 UTC |
+| [Website redesign using Claude AI](https://www.reddit.com/r/SEO/comments/1ssafi5/website_redesign_using_claude_ai/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | Links | 2026-04-22 03:54 UTC |
+| [Loosing impressions](https://www.reddit.com/r/bigseo/comments/1ss9rif/loosing_impressions/) | [r/bigseo](https://www.reddit.com/r/bigseo) | — | — | GSC | 2026-04-22 03:23 UTC |
+| [What’s your step-by-step process for building a website from scratch?](https://www.reddit.com/r/DigitalMarketing/comments/1ss9nsp/whats_your_stepbystep_process_for_building_a/) | [r/DigitalMarketing](https://www.reddit.com/r/DigitalMarketing) | — | — | Indexing | 2026-04-22 03:18 UTC |
+| [Homepage + Local SEO Visibility for a High-Ticket Custom Home Builder (USA)](https://www.reddit.com/r/seogrowth/comments/1ss8v2h/homepage_local_seo_visibility_for_a_highticket/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | Local SEO | 2026-04-22 02:42 UTC |
+| [BOFU keywords](https://www.reddit.com/r/SEO/comments/1ss8hnd/bofu_keywords/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | GSC | 2026-04-22 02:25 UTC |
+| [Ai written blog](https://www.reddit.com/r/seogrowth/comments/1ss8gws/ai_written_blog/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | AI Search | 2026-04-22 02:24 UTC |
+| [I’m finally admitting it: Keyword research was making me slower, not smarter.](https://www.reddit.com/r/seogrowth/comments/1ss8g6a/im_finally_admitting_it_keyword_research_was/) | [r/seogrowth](https://www.reddit.com/r/seogrowth) | — | — | GSC | 2026-04-22 02:23 UTC |
+| [how to structure headings for listicles?](https://www.reddit.com/r/SEO/comments/1ss6uxv/how_to_structure_headings_for_listicles/) | [r/SEO](https://www.reddit.com/r/SEO) | — | — | AI Search | 2026-04-22 01:13 UTC |
 
 ## Weekly notable items (Sites)
 
