@@ -13,11 +13,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: April 22, 2026](https://www.seroundtable.com/recap-04-22-2026-41197.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-22 14:00 UTC |
-| [OAI-AdsBot - New OpenAI Ads Bot](https://www.seroundtable.com/oai-adsbot-41196.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-22 11:51 UTC |
-| [ChatGPT Ad Manager Interface](https://www.seroundtable.com/chatgpt-ad-manager-interface-41195.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-22 11:41 UTC |
-| [Microsoft Advertising Releases New AI Features](https://www.seroundtable.com/microsoft-advertising-new-ai-features-41194.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-22 11:31 UTC |
-| [Google Ads New AI-Qualified Call Conversions](https://www.seroundtable.com/google-ads-ai-qualified-call-conversions-41193.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-22 11:21 UTC |
 | [Added a section about &quot;read more&quot; deep links](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Links | 2026-04-20 00:00 UTC |
+| [OAI-AdsBot - New OpenAI Ads Bot](https://www.seroundtable.com/oai-adsbot-41196.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-22 11:51 UTC |
+| [ChatGPT Ad Manager Interface](https://www.seroundtable.com/chatgpt-ad-manager-interface-41195.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-22 11:41 UTC |
+| [Microsoft Advertising Releases New AI Features](https://www.seroundtable.com/microsoft-advertising-new-ai-features-41194.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-22 11:31 UTC |
+| [Google Ads New AI-Qualified Call Conversions](https://www.seroundtable.com/google-ads-ai-qualified-call-conversions-41193.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-22 11:21 UTC |
 | [Google Ads Advisor Gains Troubleshooting, Security Monitoring &amp; Instant Certification](https://www.seroundtable.com/google-ads-advisor-three-new-features-41191.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-22 11:11 UTC |
 | [Daily Search Forum Recap: April 21, 2026](https://www.seroundtable.com/recap-04-21-2026-41192.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-21 14:00 UTC |
 | [Google: When It Comes To SEO, Nobody Knows Everything](https://www.seroundtable.com/google-seo-nobody-knows-everything-41190.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-21 11:51 UTC |
@@ -28,6 +28,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Daily Search Forum Recap: April 20, 2026](https://www.seroundtable.com/recap-04-20-2026-41185.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-20 14:00 UTC |
 | [Google Search Tests Opening Search Results In New Window](https://www.seroundtable.com/google-opening-search-results-in-new-window-41184.html) | Search Engine Roundtable | 170 | GSC | 2026-04-20 11:51 UTC |
 | [Google Local Search Ads With Videos Ads](https://www.seroundtable.com/google-local-video-ads-41183.html) | Search Engine Roundtable | 170 | General | 2026-04-20 11:41 UTC |
+| [How to use Semrush for keyword research](https://www.semrush.com/blog/how-to-use-semrush-keyword-research/) | Semrush Blog | 150 | AI Search | 2026-04-22 17:34 UTC |
 | [10 link building strategies that still work in 2026](https://www.semrush.com/blog/link-building-strategies/) | Semrush Blog | 130 | Links | 2026-04-22 10:19 UTC |
 | [How to Get Backlinks in 2026: 10 Tactics That Actually Work](https://www.semrush.com/blog/how-to-get-backlinks/) | Semrush Blog | 130 | Links | 2026-04-22 10:02 UTC |
 | [How to Perform a Complete SEO Audit in 20 Steps](https://www.semrush.com/blog/seo-audit/) | Semrush Blog | 130 | AI Search | 2026-04-22 09:43 UTC |
