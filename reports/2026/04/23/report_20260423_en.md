@@ -26,11 +26,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Job Listing For Generative Engine Optimization (GEO) Partner Manager](https://www.seroundtable.com/google-hiring-geo-partner-manager-41199.html) | Search Engine Roundtable | 190 | General | 2026-04-23 11:21 UTC |
 | [Google Ads API Version 24 Now Available](https://www.seroundtable.com/google-ads-api-version-24-41204.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-23 11:11 UTC |
 | [Daily Search Forum Recap: April 22, 2026](https://www.seroundtable.com/recap-04-22-2026-41197.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-22 14:00 UTC |
-| [OAI-AdsBot - New OpenAI Ads Bot](https://www.seroundtable.com/oai-adsbot-41196.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-22 11:51 UTC |
-| [ChatGPT Ad Manager Interface](https://www.seroundtable.com/chatgpt-ad-manager-interface-41195.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-22 11:41 UTC |
-| [Microsoft Advertising Releases New AI Features](https://www.seroundtable.com/microsoft-advertising-new-ai-features-41194.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-22 11:31 UTC |
-| [Google Ads New AI-Qualified Call Conversions](https://www.seroundtable.com/google-ads-ai-qualified-call-conversions-41193.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-22 11:21 UTC |
-| [Google Ads Advisor Gains Troubleshooting, Security Monitoring &amp; Instant Certification](https://www.seroundtable.com/google-ads-advisor-three-new-features-41191.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-22 11:11 UTC |
 | [How to use Google Trends for SEO in 2026](https://www.semrush.com/blog/google-trends/) | Semrush Blog | 130 | Migration | 2026-04-23 10:16 UTC |
 | [On-page SEO checklist: The complete task list for 2026](https://www.semrush.com/blog/on-page-seo-checklist/) | Semrush Blog | 130 | AI Search | 2026-04-23 09:46 UTC |
 | [What is technical SEO? Basics and best practices](https://www.semrush.com/blog/technical-seo/) | Semrush Blog | 130 | Indexing | 2026-04-23 09:22 UTC |
