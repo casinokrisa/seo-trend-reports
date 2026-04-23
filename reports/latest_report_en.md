@@ -19,7 +19,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: April 23, 2026](https://www.seroundtable.com/recap-04-23-2026-41206.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-23 14:00 UTC |
-| [Google On Publishing Commodity Content](https://www.seroundtable.com/google-commodity-content-41200.html) | Search Engine Roundtable | 210 | Content | 2026-04-23 11:51 UTC |
+| [Google On Publishing Commodity Content](https://www.seroundtable.com/google-commodity-content-41200.html) | Search Engine Roundtable | 190 | Content | 2026-04-23 11:51 UTC |
 | [Google Local Review Replies Are Now Moderated (ReviewReplyState)](https://www.seroundtable.com/google-local-review-replies-moderated-41203.html) | Search Engine Roundtable | 190 | Local SEO | 2026-04-23 11:41 UTC |
 | [Google Search Ranking Volatility Heating Up April 23rd](https://www.seroundtable.com/google-search-ranking-volatility-heating-up-41205.html) | Search Engine Roundtable | 190 | General | 2026-04-23 11:34 UTC |
 | [Google Chrome Tab Transforming To Gemini With Deep Search &amp; Create Images](https://www.seroundtable.com/google-chrome-tab-deep-search-images-41201.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-23 11:31 UTC |
