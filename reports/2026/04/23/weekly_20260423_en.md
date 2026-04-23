@@ -28,10 +28,12 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Daily Search Forum Recap: April 20, 2026](https://www.seroundtable.com/recap-04-20-2026-41185.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-20 14:00 UTC |
 | [Google Search Tests Opening Search Results In New Window](https://www.seroundtable.com/google-opening-search-results-in-new-window-41184.html) | Search Engine Roundtable | 170 | GSC | 2026-04-20 11:51 UTC |
 | [Google Local Search Ads With Videos Ads](https://www.seroundtable.com/google-local-video-ads-41183.html) | Search Engine Roundtable | 170 | General | 2026-04-20 11:41 UTC |
+| [On-page SEO checklist: The complete task list for 2026](https://www.semrush.com/blog/on-page-seo-checklist/) | Semrush Blog | 150 | AI Search | 2026-04-23 09:46 UTC |
+| [What is technical SEO? Basics and best practices](https://www.semrush.com/blog/technical-seo/) | Semrush Blog | 150 | Indexing | 2026-04-23 09:22 UTC |
 | [How to use Semrush for keyword research](https://www.semrush.com/blog/how-to-use-semrush-keyword-research/) | Semrush Blog | 130 | AI Search | 2026-04-22 17:34 UTC |
-| [10 link building strategies that still work in 2026](https://www.semrush.com/blog/link-building-strategies/) | Semrush Blog | 130 | Links | 2026-04-22 10:19 UTC |
-| [How to Get Backlinks in 2026: 10 Tactics That Actually Work](https://www.semrush.com/blog/how-to-get-backlinks/) | Semrush Blog | 130 | Links | 2026-04-22 10:02 UTC |
-| [How to Perform a Complete SEO Audit in 20 Steps](https://www.semrush.com/blog/seo-audit/) | Semrush Blog | 130 | AI Search | 2026-04-22 09:43 UTC |
+| [10 link building strategies that still work in 2026](https://www.semrush.com/blog/link-building-strategies/) | Semrush Blog | 110 | Links | 2026-04-22 10:19 UTC |
+| [How to Get Backlinks in 2026: 10 Tactics That Actually Work](https://www.semrush.com/blog/how-to-get-backlinks/) | Semrush Blog | 110 | Links | 2026-04-22 10:02 UTC |
+| [How to Perform a Complete SEO Audit in 20 Steps](https://www.semrush.com/blog/seo-audit/) | Semrush Blog | 110 | AI Search | 2026-04-22 09:43 UTC |
 | [Brand Mentions: Complete Guide to Tracking, Measuring &amp; Optimizing](https://www.semrush.com/blog/brand-mentions/) | Semrush Blog | 110 | AI Search | 2026-04-20 15:06 UTC |
 | [SEO checklist: 43 tips to optimize your website](https://www.semrush.com/blog/seo-checklist/) | Semrush Blog | 95 | AI Search | 2026-04-20 08:35 UTC |
 | [What Is Answer Engine Optimization? And How to Do It](https://www.semrush.com/blog/answer-engine-optimization/) | Semrush Blog | 95 | AI Search | 2026-04-16 12:20 UTC |
