@@ -37,7 +37,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [How to use Semrush for keyword research](https://www.semrush.com/blog/how-to-use-semrush-keyword-research/) | Semrush Blog | 110 | AI Search | 2026-04-22 17:34 UTC |
 | [10 link building strategies that still work in 2026](https://www.semrush.com/blog/link-building-strategies/) | Semrush Blog | 110 | Links | 2026-04-22 10:19 UTC |
 | [How to Get Backlinks in 2026: 10 Tactics That Actually Work](https://www.semrush.com/blog/how-to-get-backlinks/) | Semrush Blog | 110 | Links | 2026-04-22 10:02 UTC |
-| [How to Perform a Complete SEO Audit in 20 Steps](https://www.semrush.com/blog/seo-audit/) | Semrush Blog | 110 | AI Search | 2026-04-22 09:43 UTC |
 
 ## Notes for manual writing
 
