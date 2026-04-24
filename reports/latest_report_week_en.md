@@ -28,9 +28,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Advisor Gains Troubleshooting, Security Monitoring &amp; Instant Certification](https://www.seroundtable.com/google-ads-advisor-three-new-features-41191.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-22 11:11 UTC |
 | [Daily Search Forum Recap: April 21, 2026](https://www.seroundtable.com/recap-04-21-2026-41192.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-21 14:00 UTC |
 | [Google: When It Comes To SEO, Nobody Knows Everything](https://www.seroundtable.com/google-seo-nobody-knows-everything-41190.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-21 11:51 UTC |
-| [How to use Google Trends for SEO in 2026](https://www.semrush.com/blog/google-trends/) | Semrush Blog | 130 | Migration | 2026-04-23 10:16 UTC |
-| [On-page SEO checklist: The complete task list for 2026](https://www.semrush.com/blog/on-page-seo-checklist/) | Semrush Blog | 130 | AI Search | 2026-04-23 09:46 UTC |
-| [What is technical SEO? Basics and best practices](https://www.semrush.com/blog/technical-seo/) | Semrush Blog | 130 | Indexing | 2026-04-23 09:22 UTC |
+| [How to use Google Trends for SEO in 2026](https://www.semrush.com/blog/google-trends/) | Semrush Blog | 110 | Migration | 2026-04-23 10:16 UTC |
+| [On-page SEO checklist: The complete task list for 2026](https://www.semrush.com/blog/on-page-seo-checklist/) | Semrush Blog | 110 | AI Search | 2026-04-23 09:46 UTC |
+| [What is technical SEO? Basics and best practices](https://www.semrush.com/blog/technical-seo/) | Semrush Blog | 110 | Indexing | 2026-04-23 09:22 UTC |
 | [How to use Semrush for keyword research](https://www.semrush.com/blog/how-to-use-semrush-keyword-research/) | Semrush Blog | 110 | AI Search | 2026-04-22 17:34 UTC |
 | [10 link building strategies that still work in 2026](https://www.semrush.com/blog/link-building-strategies/) | Semrush Blog | 110 | Links | 2026-04-22 10:19 UTC |
 | [How to Get Backlinks in 2026: 10 Tactics That Actually Work](https://www.semrush.com/blog/how-to-get-backlinks/) | Semrush Blog | 110 | Links | 2026-04-22 10:02 UTC |
