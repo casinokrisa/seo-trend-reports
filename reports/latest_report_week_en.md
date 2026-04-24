@@ -12,8 +12,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: April 24, 2026](https://www.seroundtable.com/recap-04-24-2026-41213.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-24 14:00 UTC |
 | [Clarifying when and why we may take manual action based on spam reports](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Migration | 2026-04-23 00:00 UTC |
+| [Daily Search Forum Recap: April 24, 2026](https://www.seroundtable.com/recap-04-24-2026-41213.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-24 14:00 UTC |
 | [Search News Buzz Video Recap: Heated Google Ranking Volatility, Commodity Content, Getting SEO Right, Search Ads](https://www.seroundtable.com/video-04-24-2026-41209.html) | Search Engine Roundtable | 190 | Content | 2026-04-24 12:01 UTC |
 | [Liz Reid Of Google Interviewed By Bloomberg On Google Search &amp; AI](https://www.seroundtable.com/liz-reid-of-google-interviewed-by-bloomberg-41210.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-24 11:51 UTC |
 | [Google To Fix AI Mode Bug Where It Changes Title Links](https://www.seroundtable.com/google-fix-ai-mode-citations-bug-41211.html) | Search Engine Roundtable | 190 | Links | 2026-04-24 11:41 UTC |
