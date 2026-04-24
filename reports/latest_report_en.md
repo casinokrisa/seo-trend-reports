@@ -28,7 +28,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [How to use Google Trends for SEO in 2026](https://www.semrush.com/blog/google-trends/) | Semrush Blog | 130 | Migration | 2026-04-23 10:16 UTC |
 | [On-page SEO checklist: The complete task list for 2026](https://www.semrush.com/blog/on-page-seo-checklist/) | Semrush Blog | 130 | AI Search | 2026-04-23 09:46 UTC |
 | [What is technical SEO? Basics and best practices](https://www.semrush.com/blog/technical-seo/) | Semrush Blog | 130 | Indexing | 2026-04-23 09:22 UTC |
-| [How to use Semrush for keyword research](https://www.semrush.com/blog/how-to-use-semrush-keyword-research/) | Semrush Blog | 110 | AI Search | 2026-04-22 17:34 UTC |
 
 ## Notes for manual writing
 
