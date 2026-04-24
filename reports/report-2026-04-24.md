@@ -32,8 +32,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Chrome Tab Transforming To Gemini With Deep Search &amp; Create Images](https://www.seroundtable.com/google-chrome-tab-deep-search-images-41201.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-23 11:31 UTC |
 | [Google Job Listing For Generative Engine Optimization (GEO) Partner Manager](https://www.seroundtable.com/google-hiring-geo-partner-manager-41199.html) | Search Engine Roundtable | 170 | General | 2026-04-23 11:21 UTC |
 | [Google Ads API Version 24 Now Available](https://www.seroundtable.com/google-ads-api-version-24-41204.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-23 11:11 UTC |
-| [AI content optimization: The complete guide](https://www.semrush.com/blog/ai-content-optimization/) | Semrush Blog | 150 | AI Search | 2026-04-24 13:50 UTC |
-| [How to See Your Google Reviews and Easily Manage Them](https://www.semrush.com/blog/how-to-find-and-manage-google-reviews/) | Semrush Blog | 150 | Local SEO | 2026-04-24 13:45 UTC |
+| [AI content optimization: The complete guide](https://www.semrush.com/blog/ai-content-optimization/) | Semrush Blog | 130 | AI Search | 2026-04-24 13:50 UTC |
+| [How to See Your Google Reviews and Easily Manage Them](https://www.semrush.com/blog/how-to-find-and-manage-google-reviews/) | Semrush Blog | 130 | Local SEO | 2026-04-24 13:45 UTC |
 | [How to use Google Trends for SEO in 2026](https://www.semrush.com/blog/google-trends/) | Semrush Blog | 110 | Migration | 2026-04-23 10:16 UTC |
 | [On-page SEO checklist: The complete task list for 2026](https://www.semrush.com/blog/on-page-seo-checklist/) | Semrush Blog | 110 | AI Search | 2026-04-23 09:46 UTC |
 | [What is technical SEO? Basics and best practices](https://www.semrush.com/blog/technical-seo/) | Semrush Blog | 110 | Indexing | 2026-04-23 09:22 UTC |
