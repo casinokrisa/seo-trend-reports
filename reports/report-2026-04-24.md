@@ -34,7 +34,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Ads API Version 24 Now Available](https://www.seroundtable.com/google-ads-api-version-24-41204.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-23 11:11 UTC |
 | [AI content optimization: The complete guide](https://www.semrush.com/blog/ai-content-optimization/) | Semrush Blog | 130 | AI Search | 2026-04-24 13:50 UTC |
 | [How to See Your Google Reviews and Easily Manage Them](https://www.semrush.com/blog/how-to-find-and-manage-google-reviews/) | Semrush Blog | 130 | Local SEO | 2026-04-24 13:45 UTC |
-| [How to use Google Trends for SEO in 2026](https://www.semrush.com/blog/google-trends/) | Semrush Blog | 110 | Migration | 2026-04-23 10:16 UTC |
+| [How to find low-competition keywords with Semrush](https://www.semrush.com/blog/how-to-find-low-competition-keywords-with-semrush/) | Semrush Blog | 130 | Migration | 2026-04-24 13:03 UTC |
 
 ## Notes for manual writing
 
