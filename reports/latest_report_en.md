@@ -6,13 +6,29 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Why I am not able to add Products in my GBP?](https://www.reddit.com/r/localseo/comments/1sv2n98/why_i_am_not_able_to_add_products_in_my_gbp/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-04-25 04:54 UTC |
+| [Thoughts on content hubs vs blog posts?](https://www.reddit.com/r/localseo/comments/1suy80p/thoughts_on_content_hubs_vs_blog_posts/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Content | 2026-04-25 01:21 UTC |
+| [How do you actually vet new SEO hires or tools before trusting them with client work?](https://www.reddit.com/r/localseo/comments/1sutp0j/how_do_you_actually_vet_new_seo_hires_or_tools/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-24 22:03 UTC |
+| [Schema staleness is the silent killer of local rankings — how are you handling it?](https://www.reddit.com/r/localseo/comments/1surp9i/schema_staleness_is_the_silent_killer_of_local/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Technical SEO | 2026-04-24 20:45 UTC |
+| [Profile stuck at 80%](https://www.reddit.com/r/localseo/comments/1suq7ud/profile_stuck_at_80/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-24 19:50 UTC |
+| [How to start learning SEO?](https://www.reddit.com/r/localseo/comments/1sunkt3/how_to_start_learning_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-24 18:13 UTC |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
+| 1 | [Why I am not able to add Products in my GBP?](https://www.reddit.com/r/localseo/comments/1sv2n98/why_i_am_not_able_to_add_products_in_my_gbp/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-04-25 04:54 UTC |
+| 2 | [Thoughts on content hubs vs blog posts?](https://www.reddit.com/r/localseo/comments/1suy80p/thoughts_on_content_hubs_vs_blog_posts/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Content | 2026-04-25 01:21 UTC |
+| 3 | [How do you actually vet new SEO hires or tools before trusting them with client work?](https://www.reddit.com/r/localseo/comments/1sutp0j/how_do_you_actually_vet_new_seo_hires_or_tools/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-24 22:03 UTC |
+| 4 | [Schema staleness is the silent killer of local rankings — how are you handling it?](https://www.reddit.com/r/localseo/comments/1surp9i/schema_staleness_is_the_silent_killer_of_local/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Technical SEO | 2026-04-24 20:45 UTC |
+| 5 | [Profile stuck at 80%](https://www.reddit.com/r/localseo/comments/1suq7ud/profile_stuck_at_80/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-24 19:50 UTC |
+| 6 | [How to start learning SEO?](https://www.reddit.com/r/localseo/comments/1sunkt3/how_to_start_learning_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-24 18:13 UTC |
+| 7 | [Fresher Seeking SEO Internship \| $2/hr \| On-Page &amp; Off-Page SEO \| Quick Learner](https://www.reddit.com/r/localseo/comments/1sung9m/fresher_seeking_seo_internship_2hr_onpage_offpage/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-24 18:08 UTC |
+| 8 | [Google Business Profile Just Got Video Superpowers 🎬](https://www.reddit.com/r/localseo/comments/1sums24/google_business_profile_just_got_video_superpowers/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-04-24 17:44 UTC |
+| 9 | [How to decide which businesses to outreach for Local SEO Services?](https://www.reddit.com/r/localseo/comments/1sume90/how_to_decide_which_businesses_to_outreach_for/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-04-24 17:30 UTC |
+| 10 | [Whatare some of the best Claude SEO checking tool that you use?](https://www.reddit.com/r/localseo/comments/1sug5v9/whatare_some_of_the_best_claude_seo_checking_tool/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-24 13:43 UTC |
+| 11 | [You got that yummy!](https://www.reddit.com/r/localseo/comments/1suekm1/you_got_that_yummy/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-24 12:39 UTC |
+| 12 | [Best internal linking strategy for local home service website?](https://www.reddit.com/r/localseo/comments/1subufz/best_internal_linking_strategy_for_local_home/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-04-24 10:29 UTC |
 
 ## Notable items (Sites)
 
