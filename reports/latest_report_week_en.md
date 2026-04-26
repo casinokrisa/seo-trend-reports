@@ -20,7 +20,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [New: Google Won't Use Spam Reports With Personally Identifying Information](https://www.seroundtable.com/google-spam-reports-personally-identifying-information-41212.html) | Search Engine Roundtable | 170 | General | 2026-04-24 11:31 UTC |
 | [Google Testing Audio Overviews In The Wild (Not Just In Labs)](https://www.seroundtable.com/google-testing-audio-overviews-wild-41207.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-24 11:21 UTC |
 | [Google Business Profiles Sorts Photos By Most Recent](https://www.seroundtable.com/google-business-profiles-photos-most-recent-41198.html) | Search Engine Roundtable | 170 | Local SEO | 2026-04-24 11:11 UTC |
-| [Daily Search Forum Recap: April 23, 2026](https://www.seroundtable.com/recap-04-23-2026-41206.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-23 14:00 UTC |
+| [Daily Search Forum Recap: April 23, 2026](https://www.seroundtable.com/recap-04-23-2026-41206.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-23 14:00 UTC |
 | [Google On Publishing Commodity Content](https://www.seroundtable.com/google-commodity-content-41200.html) | Search Engine Roundtable | 155 | Content | 2026-04-23 11:51 UTC |
 | [Google Local Review Replies Are Now Moderated (ReviewReplyState)](https://www.seroundtable.com/google-local-review-replies-moderated-41203.html) | Search Engine Roundtable | 155 | Local SEO | 2026-04-23 11:41 UTC |
 | [Google Search Ranking Volatility Heating Up April 23rd](https://www.seroundtable.com/google-search-ranking-volatility-heating-up-41205.html) | Search Engine Roundtable | 155 | General | 2026-04-23 11:34 UTC |
