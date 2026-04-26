@@ -31,7 +31,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [AI content optimization: The complete guide](https://www.semrush.com/blog/ai-content-optimization/) | Semrush Blog | 110 | AI Search | 2026-04-24 13:50 UTC |
 | [How to See Your Google Reviews and Easily Manage Them](https://www.semrush.com/blog/how-to-find-and-manage-google-reviews/) | Semrush Blog | 110 | Local SEO | 2026-04-24 13:45 UTC |
 | [How to find low-competition keywords with Semrush](https://www.semrush.com/blog/how-to-find-low-competition-keywords-with-semrush/) | Semrush Blog | 110 | Migration | 2026-04-24 13:03 UTC |
-| [How to use Google Trends for SEO in 2026](https://www.semrush.com/blog/google-trends/) | Semrush Blog | 110 | Migration | 2026-04-23 10:16 UTC |
+| [How to use Google Trends for SEO in 2026](https://www.semrush.com/blog/google-trends/) | Semrush Blog | 95 | Migration | 2026-04-23 10:16 UTC |
 | [On-page SEO checklist: The complete task list for 2026](https://www.semrush.com/blog/on-page-seo-checklist/) | Semrush Blog | 95 | AI Search | 2026-04-23 09:46 UTC |
 | [What is technical SEO? Basics and best practices](https://www.semrush.com/blog/technical-seo/) | Semrush Blog | 95 | Indexing | 2026-04-23 09:22 UTC |
 | [How to use Semrush for keyword research](https://www.semrush.com/blog/how-to-use-semrush-keyword-research/) | Semrush Blog | 95 | AI Search | 2026-04-22 17:34 UTC |
