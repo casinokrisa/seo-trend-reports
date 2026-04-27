@@ -13,11 +13,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: April 27, 2026](https://www.seroundtable.com/recap-04-27-2026-41225.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-27 14:00 UTC |
-| [Google Click Through Rates Improving For Organic Results With AI Overviews](https://www.seroundtable.com/google-ctr-improving-aui-overviews-41222.html) | Search Engine Roundtable | 210 | GSC | 2026-04-27 11:51 UTC |
-| [Google Ads Confirms Demand Gen Image Ads Approval Delays](https://www.seroundtable.com/google-ads-demand-gen-image-ads-approval-delays-41216.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-27 11:41 UTC |
-| [Bing Tests Less Clickable Links In Copilot Search Results](https://www.seroundtable.com/bing-less-clickable-links-41208.html) | Search Engine Roundtable | 210 | Links | 2026-04-27 11:31 UTC |
-| [Google Tests AI Label On Search Ads](https://www.seroundtable.com/google-search-ads-ai-label-41224.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-27 11:21 UTC |
-| [Google Maps Video Editing Within Google App](https://www.seroundtable.com/google-maps-video-editing-app-41223.html) | Search Engine Roundtable | 210 | Local SEO | 2026-04-27 11:11 UTC |
+| [Google Click Through Rates Improving For Organic Results With AI Overviews](https://www.seroundtable.com/google-ctr-improving-aui-overviews-41222.html) | Search Engine Roundtable | 190 | GSC | 2026-04-27 11:51 UTC |
+| [Google Ads Confirms Demand Gen Image Ads Approval Delays](https://www.seroundtable.com/google-ads-demand-gen-image-ads-approval-delays-41216.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-27 11:41 UTC |
+| [Bing Tests Less Clickable Links In Copilot Search Results](https://www.seroundtable.com/bing-less-clickable-links-41208.html) | Search Engine Roundtable | 190 | Links | 2026-04-27 11:31 UTC |
+| [Google Tests AI Label On Search Ads](https://www.seroundtable.com/google-search-ads-ai-label-41224.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-27 11:21 UTC |
+| [Google Maps Video Editing Within Google App](https://www.seroundtable.com/google-maps-video-editing-app-41223.html) | Search Engine Roundtable | 190 | Local SEO | 2026-04-27 11:11 UTC |
 | [Clarifying when and why we may take manual action based on spam reports](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Migration | 2026-04-23 00:00 UTC |
 | [Daily Search Forum Recap: April 24, 2026](https://www.seroundtable.com/recap-04-24-2026-41213.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-24 14:00 UTC |
 | [Search News Buzz Video Recap: Heated Google Ranking Volatility, Commodity Content, Getting SEO Right, Search Ads](https://www.seroundtable.com/video-04-24-2026-41209.html) | Search Engine Roundtable | 155 | Content | 2026-04-24 12:01 UTC |
@@ -28,7 +28,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Business Profiles Sorts Photos By Most Recent](https://www.seroundtable.com/google-business-profiles-photos-most-recent-41198.html) | Search Engine Roundtable | 155 | Local SEO | 2026-04-24 11:11 UTC |
 | [Daily Search Forum Recap: April 23, 2026](https://www.seroundtable.com/recap-04-23-2026-41206.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-23 14:00 UTC |
 | [Google On Publishing Commodity Content](https://www.seroundtable.com/google-commodity-content-41200.html) | Search Engine Roundtable | 155 | Content | 2026-04-23 11:51 UTC |
-| [We analyzed billions of web visits: How AI is reshaping traffic channels](https://www.semrush.com/blog/traffic-channel-mix-study/) | Semrush Blog | 150 | AI Search | 2026-04-27 12:03 UTC |
+| [We analyzed billions of web visits: How AI is reshaping traffic channels](https://www.semrush.com/blog/traffic-channel-mix-study/) | Semrush Blog | 130 | AI Search | 2026-04-27 12:03 UTC |
 | [SaaS AI search optimization: The 8-step playbook](https://www.semrush.com/blog/saas-ai-search-optimization/) | Semrush Blog | 130 | AI Search | 2026-04-27 09:34 UTC |
 | [Why AI Is Citing Third-Party Sources Instead of Your Site?](https://www.semrush.com/blog/ai-citing-my-site-vs-third-party-sources/) | Semrush Blog | 130 | AI Search | 2026-04-27 09:11 UTC |
 | [AI content optimization: The complete guide](https://www.semrush.com/blog/ai-content-optimization/) | Semrush Blog | 95 | AI Search | 2026-04-24 13:50 UTC |
