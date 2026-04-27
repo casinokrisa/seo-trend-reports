@@ -18,7 +18,11 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| _No site items in window_ |  |  |  |  |
+| [Bing Tests Less Clickable Links In Copilot Search Results](https://www.seroundtable.com/bing-less-clickable-links-41208.html) | Search Engine Roundtable | 210 | Links | 2026-04-27 11:31 UTC |
+| [Google Tests AI Label On Search Ads](https://www.seroundtable.com/google-search-ads-ai-label-41224.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-27 11:21 UTC |
+| [Google Maps Video Editing Within Google App](https://www.seroundtable.com/google-maps-video-editing-app-41223.html) | Search Engine Roundtable | 210 | Local SEO | 2026-04-27 11:11 UTC |
+| [SaaS AI search optimization: The 8-step playbook](https://www.semrush.com/blog/saas-ai-search-optimization/) | Semrush Blog | 150 | AI Search | 2026-04-27 09:34 UTC |
+| [Why AI Is Citing Third-Party Sources Instead of Your Site?](https://www.semrush.com/blog/ai-citing-my-site-vs-third-party-sources/) | Semrush Blog | 150 | AI Search | 2026-04-27 09:11 UTC |
 
 ## Notes for manual writing
 
