@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Seo](https://www.reddit.com/r/localseo/comments/1sww186/seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-27 06:53 UTC |
-| [I analyzed 198k hair salons in the US. 53% have no SEO title on their website.](https://www.reddit.com/r/localseo/comments/1swkxoe/i_analyzed_198k_hair_salons_in_the_us_53_have_no/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-04-26 21:59 UTC |
-| [Got ~720-730 agency leads from a survey/lead magnet — how would you monetize or leverage this?](https://www.reddit.com/r/localseo/comments/1swjnxu/got_720730_agency_leads_from_a_surveylead_magnet/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-26 21:08 UTC |
-| [Local Business Update](https://www.reddit.com/r/localseo/comments/1swhb2h/local_business_update/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-26 19:37 UTC |
-| [Search console not updating?](https://www.reddit.com/r/localseo/comments/1swg56i/search_console_not_updating/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-04-26 18:55 UTC |
-| [Alli AI: Enterprise SEO Automation Guide &amp; Performance Optimization Review \| Interconnected](https://www.reddit.com/r/localseo/comments/1swfuy5/alli_ai_enterprise_seo_automation_guide/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-04-26 18:44 UTC |
-| [For local SEO, does GBP matter more than the actual website now?](https://www.reddit.com/r/localseo/comments/1swfgvi/for_local_seo_does_gbp_matter_more_than_the/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-04-26 18:29 UTC |
-| [Need Review worker (Canada Based)](https://www.reddit.com/r/localseo/comments/1sw9isd/need_review_worker_canada_based/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-26 14:48 UTC |
-| [hiring a remote local SEO person - what's actually hard about it](https://www.reddit.com/r/localseo/comments/1sw5zu6/hiring_a_remote_local_seo_person_whats_actually/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-04-26 12:16 UTC |
-| [I accidentally found a weird way to get more Google reviews (no ads, no begging)](https://www.reddit.com/r/localseo/comments/1sw4rp6/i_accidentally_found_a_weird_way_to_get_more/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-26 11:13 UTC |
-| [Quick GBP tip:](https://www.reddit.com/r/localseo/comments/1svyn6m/quick_gbp_tip/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-04-26 05:27 UTC |
-| [galaxy.ai and gemini - self search](https://www.reddit.com/r/localseo/comments/1svwf78/galaxyai_and_gemini_self_search/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-04-26 03:32 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
@@ -50,7 +39,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [How to Get Backlinks in 2026: 10 Tactics That Actually Work](https://www.semrush.com/blog/how-to-get-backlinks/) | Semrush Blog | 95 | Links | 2026-04-22 10:02 UTC |
 | [How to Perform a Complete SEO Audit in 20 Steps](https://www.semrush.com/blog/seo-audit/) | Semrush Blog | 95 | AI Search | 2026-04-22 09:43 UTC |
 | [Brand Mentions: Complete Guide to Tracking, Measuring &amp; Optimizing](https://www.semrush.com/blog/brand-mentions/) | Semrush Blog | 95 | AI Search | 2026-04-20 15:06 UTC |
-| [SEO checklist: 43 tips to optimize your website](https://www.semrush.com/blog/seo-checklist/) | Semrush Blog | 95 | AI Search | 2026-04-20 08:35 UTC |
 
 ## Notes
 
