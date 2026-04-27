@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: April 27, 2026](https://www.seroundtable.com/recap-04-27-2026-41225.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-27 14:00 UTC |
+| [Daily Search Forum Recap: April 27, 2026](https://www.seroundtable.com/recap-04-27-2026-41225.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-27 14:00 UTC |
 | [Google Click Through Rates Improving For Organic Results With AI Overviews](https://www.seroundtable.com/google-ctr-improving-aui-overviews-41222.html) | Search Engine Roundtable | 190 | GSC | 2026-04-27 11:51 UTC |
 | [Google Ads Confirms Demand Gen Image Ads Approval Delays](https://www.seroundtable.com/google-ads-demand-gen-image-ads-approval-delays-41216.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-27 11:41 UTC |
 | [Bing Tests Less Clickable Links In Copilot Search Results](https://www.seroundtable.com/bing-less-clickable-links-41208.html) | Search Engine Roundtable | 190 | Links | 2026-04-27 11:31 UTC |
