@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: April 28, 2026](https://www.seroundtable.com/recap-04-28-2026-41235.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-28 14:00 UTC |
+| [Daily Search Forum Recap: April 28, 2026](https://www.seroundtable.com/recap-04-28-2026-41235.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-28 14:00 UTC |
 | [Bing Webmaster Tools New AI Reporting Features](https://www.seroundtable.com/bing-webmaster-tools-new-ai-reporting-41227.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-28 11:51 UTC |
 | [Google Sends Warning Notices On Back Button Hijacking Spam Penalty](https://www.seroundtable.com/google-warning-back-button-hijacking-spam-penalty-41233.html) | Search Engine Roundtable | 190 | GSC | 2026-04-28 11:41 UTC |
 | [Google Showing How Many Reviews Were Deleted](https://www.seroundtable.com/google-number-reviews-deleted-41226.html) | Search Engine Roundtable | 190 | Local SEO | 2026-04-28 11:31 UTC |
@@ -25,7 +25,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Bing Tests Less Clickable Links In Copilot Search Results](https://www.seroundtable.com/bing-less-clickable-links-41208.html) | Search Engine Roundtable | 170 | Links | 2026-04-27 11:31 UTC |
 | [Google Tests AI Label On Search Ads](https://www.seroundtable.com/google-search-ads-ai-label-41224.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-27 11:21 UTC |
 | [Google Maps Video Editing Within Google App](https://www.seroundtable.com/google-maps-video-editing-app-41223.html) | Search Engine Roundtable | 170 | Local SEO | 2026-04-27 11:11 UTC |
-| [How I Do Content Engineering with Claude Code](https://ahrefs.com/blog/how-i-do-content-engineering-with-claude-code/) | Ahrefs Blog | 160 | AI Search | 2026-04-28 13:00 UTC |
 | [Daily Search Forum Recap: April 24, 2026](https://www.seroundtable.com/recap-04-24-2026-41213.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-24 14:00 UTC |
 | [Search News Buzz Video Recap: Heated Google Ranking Volatility, Commodity Content, Getting SEO Right, Search Ads](https://www.seroundtable.com/video-04-24-2026-41209.html) | Search Engine Roundtable | 155 | Content | 2026-04-24 12:01 UTC |
 | [Liz Reid Of Google Interviewed By Bloomberg On Google Search &amp; AI](https://www.seroundtable.com/liz-reid-of-google-interviewed-by-bloomberg-41210.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-24 11:51 UTC |
