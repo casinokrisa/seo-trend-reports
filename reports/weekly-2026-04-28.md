@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Daily Search Forum Recap: April 28, 2026](https://www.seroundtable.com/recap-04-28-2026-41235.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-28 14:00 UTC |
 | [Bing Webmaster Tools New AI Reporting Features](https://www.seroundtable.com/bing-webmaster-tools-new-ai-reporting-41227.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-28 11:51 UTC |
 | [Google Sends Warning Notices On Back Button Hijacking Spam Penalty](https://www.seroundtable.com/google-warning-back-button-hijacking-spam-penalty-41233.html) | Search Engine Roundtable | 210 | GSC | 2026-04-28 11:41 UTC |
 | [Google Showing How Many Reviews Were Deleted](https://www.seroundtable.com/google-number-reviews-deleted-41226.html) | Search Engine Roundtable | 210 | Local SEO | 2026-04-28 11:31 UTC |
@@ -28,7 +29,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Daily Search Forum Recap: April 24, 2026](https://www.seroundtable.com/recap-04-24-2026-41213.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-24 14:00 UTC |
 | [Search News Buzz Video Recap: Heated Google Ranking Volatility, Commodity Content, Getting SEO Right, Search Ads](https://www.seroundtable.com/video-04-24-2026-41209.html) | Search Engine Roundtable | 155 | Content | 2026-04-24 12:01 UTC |
 | [Liz Reid Of Google Interviewed By Bloomberg On Google Search &amp; AI](https://www.seroundtable.com/liz-reid-of-google-interviewed-by-bloomberg-41210.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-24 11:51 UTC |
-| [Google To Fix AI Mode Bug Where It Changes Title Links](https://www.seroundtable.com/google-fix-ai-mode-citations-bug-41211.html) | Search Engine Roundtable | 155 | Links | 2026-04-24 11:41 UTC |
 | [We analyzed billions of web visits: How AI is reshaping traffic channels](https://www.semrush.com/blog/traffic-channel-mix-study/) | Semrush Blog | 110 | AI Search | 2026-04-27 12:03 UTC |
 | [SaaS AI search optimization: The 8-step playbook](https://www.semrush.com/blog/saas-ai-search-optimization/) | Semrush Blog | 110 | AI Search | 2026-04-27 09:34 UTC |
 | [Why AI Is Citing Third-Party Sources Instead of Your Site?](https://www.semrush.com/blog/ai-citing-my-site-vs-third-party-sources/) | Semrush Blog | 110 | AI Search | 2026-04-27 09:11 UTC |

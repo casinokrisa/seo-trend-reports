@@ -18,6 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Daily Search Forum Recap: April 28, 2026](https://www.seroundtable.com/recap-04-28-2026-41235.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-28 14:00 UTC |
 | [Bing Webmaster Tools New AI Reporting Features](https://www.seroundtable.com/bing-webmaster-tools-new-ai-reporting-41227.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-28 11:51 UTC |
 | [Google Sends Warning Notices On Back Button Hijacking Spam Penalty](https://www.seroundtable.com/google-warning-back-button-hijacking-spam-penalty-41233.html) | Search Engine Roundtable | 210 | GSC | 2026-04-28 11:41 UTC |
 | [Google Showing How Many Reviews Were Deleted](https://www.seroundtable.com/google-number-reviews-deleted-41226.html) | Search Engine Roundtable | 210 | Local SEO | 2026-04-28 11:31 UTC |
