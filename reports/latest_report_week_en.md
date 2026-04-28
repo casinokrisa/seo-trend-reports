@@ -13,11 +13,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: April 28, 2026](https://www.seroundtable.com/recap-04-28-2026-41235.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-28 14:00 UTC |
-| [Bing Webmaster Tools New AI Reporting Features](https://www.seroundtable.com/bing-webmaster-tools-new-ai-reporting-41227.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-28 11:51 UTC |
-| [Google Sends Warning Notices On Back Button Hijacking Spam Penalty](https://www.seroundtable.com/google-warning-back-button-hijacking-spam-penalty-41233.html) | Search Engine Roundtable | 210 | GSC | 2026-04-28 11:41 UTC |
-| [Google Showing How Many Reviews Were Deleted](https://www.seroundtable.com/google-number-reviews-deleted-41226.html) | Search Engine Roundtable | 210 | Local SEO | 2026-04-28 11:31 UTC |
-| [Google Search Ranking Volatility Heating Up April 27th &amp; 28th](https://www.seroundtable.com/google-search-ranking-volatility-heat-41234.html) | Search Engine Roundtable | 210 | General | 2026-04-28 11:21 UTC |
-| [Google Shopping Ads Tests Pricing In Superscript](https://www.seroundtable.com/google-pricing-in-superscript-41214.html) | Search Engine Roundtable | 210 | General | 2026-04-28 11:11 UTC |
+| [Bing Webmaster Tools New AI Reporting Features](https://www.seroundtable.com/bing-webmaster-tools-new-ai-reporting-41227.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-28 11:51 UTC |
+| [Google Sends Warning Notices On Back Button Hijacking Spam Penalty](https://www.seroundtable.com/google-warning-back-button-hijacking-spam-penalty-41233.html) | Search Engine Roundtable | 190 | GSC | 2026-04-28 11:41 UTC |
+| [Google Showing How Many Reviews Were Deleted](https://www.seroundtable.com/google-number-reviews-deleted-41226.html) | Search Engine Roundtable | 190 | Local SEO | 2026-04-28 11:31 UTC |
+| [Google Search Ranking Volatility Heating Up April 27th &amp; 28th](https://www.seroundtable.com/google-search-ranking-volatility-heat-41234.html) | Search Engine Roundtable | 190 | General | 2026-04-28 11:21 UTC |
+| [Google Shopping Ads Tests Pricing In Superscript](https://www.seroundtable.com/google-pricing-in-superscript-41214.html) | Search Engine Roundtable | 190 | General | 2026-04-28 11:11 UTC |
 | [Clarifying when and why we may take manual action based on spam reports](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Migration | 2026-04-23 00:00 UTC |
 | [Daily Search Forum Recap: April 27, 2026](https://www.seroundtable.com/recap-04-27-2026-41225.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-27 14:00 UTC |
 | [Google Click Through Rates Improving For Organic Results With AI Overviews](https://www.seroundtable.com/google-ctr-improving-aui-overviews-41222.html) | Search Engine Roundtable | 170 | GSC | 2026-04-27 11:51 UTC |
