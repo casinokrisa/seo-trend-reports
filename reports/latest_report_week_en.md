@@ -13,11 +13,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: April 29, 2026](https://www.seroundtable.com/recap-04-29-2026-41242.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-29 14:00 UTC |
-| [Google Tests Enter AI Mode Button For AI Overviews](https://www.seroundtable.com/google-enter-ai-mode-41239.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-29 11:51 UTC |
-| [Google AdSense Vignette Ads Setting May Trigger Back Button Hijack Penalty](https://www.seroundtable.com/google-adsense-vignette-ads-back-button-penalty-41238.html) | Search Engine Roundtable | 210 | General | 2026-04-29 11:41 UTC |
-| [Google Local Panel With Show More Action Buttons](https://www.seroundtable.com/google-local-panel-more-action-buttons-41236.html) | Search Engine Roundtable | 210 | Local SEO | 2026-04-29 11:31 UTC |
-| [Google AI Overview Ask Anything Box Sticks As You Scroll](https://www.seroundtable.com/google-ask-anything-scroll-41241.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-29 11:21 UTC |
-| [Google Ads Preview Impact Of Negative Keywords (&amp; More)](https://www.seroundtable.com/google-ads-preview-impact-of-negative-keywords-41237.html) | Search Engine Roundtable | 210 | General | 2026-04-29 11:11 UTC |
+| [Google Tests Enter AI Mode Button For AI Overviews](https://www.seroundtable.com/google-enter-ai-mode-41239.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-29 11:51 UTC |
+| [Google AdSense Vignette Ads Setting May Trigger Back Button Hijack Penalty](https://www.seroundtable.com/google-adsense-vignette-ads-back-button-penalty-41238.html) | Search Engine Roundtable | 190 | General | 2026-04-29 11:41 UTC |
+| [Google Local Panel With Show More Action Buttons](https://www.seroundtable.com/google-local-panel-more-action-buttons-41236.html) | Search Engine Roundtable | 190 | Local SEO | 2026-04-29 11:31 UTC |
+| [Google AI Overview Ask Anything Box Sticks As You Scroll](https://www.seroundtable.com/google-ask-anything-scroll-41241.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-29 11:21 UTC |
+| [Google Ads Preview Impact Of Negative Keywords (&amp; More)](https://www.seroundtable.com/google-ads-preview-impact-of-negative-keywords-41237.html) | Search Engine Roundtable | 190 | General | 2026-04-29 11:11 UTC |
 | [Clarifying when and why we may take manual action based on spam reports](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Migration | 2026-04-23 00:00 UTC |
 | [Daily Search Forum Recap: April 28, 2026](https://www.seroundtable.com/recap-04-28-2026-41235.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-28 14:00 UTC |
 | [Bing Webmaster Tools New AI Reporting Features](https://www.seroundtable.com/bing-webmaster-tools-new-ai-reporting-41227.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-28 11:51 UTC |
@@ -42,7 +42,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [How to use Google Trends for SEO in 2026](https://www.semrush.com/blog/google-trends/) | Semrush Blog | 95 | Migration | 2026-04-23 10:16 UTC |
 | [On-page SEO checklist: The complete task list for 2026](https://www.semrush.com/blog/on-page-seo-checklist/) | Semrush Blog | 95 | AI Search | 2026-04-23 09:46 UTC |
 | [What is technical SEO? Basics and best practices](https://www.semrush.com/blog/technical-seo/) | Semrush Blog | 95 | Indexing | 2026-04-23 09:22 UTC |
-| [How to use Semrush for keyword research](https://www.semrush.com/blog/how-to-use-semrush-keyword-research/) | Semrush Blog | 95 | AI Search | 2026-04-22 17:34 UTC |
 
 ## Notes
 
