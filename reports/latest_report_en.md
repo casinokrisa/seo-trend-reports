@@ -24,7 +24,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Showing How Many Reviews Were Deleted](https://www.seroundtable.com/google-number-reviews-deleted-41226.html) | Search Engine Roundtable | 190 | Local SEO | 2026-04-28 11:31 UTC |
 | [Google Search Ranking Volatility Heating Up April 27th &amp; 28th](https://www.seroundtable.com/google-search-ranking-volatility-heat-41234.html) | Search Engine Roundtable | 190 | General | 2026-04-28 11:21 UTC |
 | [Google Shopping Ads Tests Pricing In Superscript](https://www.seroundtable.com/google-pricing-in-superscript-41214.html) | Search Engine Roundtable | 190 | General | 2026-04-28 11:11 UTC |
-| [Daily Search Forum Recap: April 27, 2026](https://www.seroundtable.com/recap-04-27-2026-41225.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-27 14:00 UTC |
 | [How I Do Content Engineering with Claude Code](https://ahrefs.com/blog/how-i-do-content-engineering-with-claude-code/) | Ahrefs Blog | 140 | AI Search | 2026-04-28 13:00 UTC |
 
 ## Notes for manual writing
