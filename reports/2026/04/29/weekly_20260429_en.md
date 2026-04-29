@@ -13,12 +13,12 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: April 28, 2026](https://www.seroundtable.com/recap-04-28-2026-41235.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-28 14:00 UTC |
-| [Bing Webmaster Tools New AI Reporting Features](https://www.seroundtable.com/bing-webmaster-tools-new-ai-reporting-41227.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-28 11:51 UTC |
-| [Google Sends Warning Notices On Back Button Hijacking Spam Penalty](https://www.seroundtable.com/google-warning-back-button-hijacking-spam-penalty-41233.html) | Search Engine Roundtable | 190 | GSC | 2026-04-28 11:41 UTC |
-| [Google Showing How Many Reviews Were Deleted](https://www.seroundtable.com/google-number-reviews-deleted-41226.html) | Search Engine Roundtable | 190 | Local SEO | 2026-04-28 11:31 UTC |
-| [Google Search Ranking Volatility Heating Up April 27th &amp; 28th](https://www.seroundtable.com/google-search-ranking-volatility-heat-41234.html) | Search Engine Roundtable | 190 | General | 2026-04-28 11:21 UTC |
-| [Google Shopping Ads Tests Pricing In Superscript](https://www.seroundtable.com/google-pricing-in-superscript-41214.html) | Search Engine Roundtable | 190 | General | 2026-04-28 11:11 UTC |
 | [Clarifying when and why we may take manual action based on spam reports](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Migration | 2026-04-23 00:00 UTC |
+| [Bing Webmaster Tools New AI Reporting Features](https://www.seroundtable.com/bing-webmaster-tools-new-ai-reporting-41227.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-28 11:51 UTC |
+| [Google Sends Warning Notices On Back Button Hijacking Spam Penalty](https://www.seroundtable.com/google-warning-back-button-hijacking-spam-penalty-41233.html) | Search Engine Roundtable | 170 | GSC | 2026-04-28 11:41 UTC |
+| [Google Showing How Many Reviews Were Deleted](https://www.seroundtable.com/google-number-reviews-deleted-41226.html) | Search Engine Roundtable | 170 | Local SEO | 2026-04-28 11:31 UTC |
+| [Google Search Ranking Volatility Heating Up April 27th &amp; 28th](https://www.seroundtable.com/google-search-ranking-volatility-heat-41234.html) | Search Engine Roundtable | 170 | General | 2026-04-28 11:21 UTC |
+| [Google Shopping Ads Tests Pricing In Superscript](https://www.seroundtable.com/google-pricing-in-superscript-41214.html) | Search Engine Roundtable | 170 | General | 2026-04-28 11:11 UTC |
 | [Daily Search Forum Recap: April 27, 2026](https://www.seroundtable.com/recap-04-27-2026-41225.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-27 14:00 UTC |
 | [Google Click Through Rates Improving For Organic Results With AI Overviews](https://www.seroundtable.com/google-ctr-improving-aui-overviews-41222.html) | Search Engine Roundtable | 170 | GSC | 2026-04-27 11:51 UTC |
 | [Google Ads Confirms Demand Gen Image Ads Approval Delays](https://www.seroundtable.com/google-ads-demand-gen-image-ads-approval-delays-41216.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-27 11:41 UTC |
@@ -28,6 +28,10 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Daily Search Forum Recap: April 24, 2026](https://www.seroundtable.com/recap-04-24-2026-41213.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-24 14:00 UTC |
 | [Search News Buzz Video Recap: Heated Google Ranking Volatility, Commodity Content, Getting SEO Right, Search Ads](https://www.seroundtable.com/video-04-24-2026-41209.html) | Search Engine Roundtable | 155 | Content | 2026-04-24 12:01 UTC |
 | [Liz Reid Of Google Interviewed By Bloomberg On Google Search &amp; AI](https://www.seroundtable.com/liz-reid-of-google-interviewed-by-bloomberg-41210.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-24 11:51 UTC |
+| [How to build brand visibility in AI search](https://www.semrush.com/blog/brand-visibility/) | Semrush Blog | 150 | AI Search | 2026-04-29 10:04 UTC |
+| [Content marketing funnel: stages, templates &amp; metrics](https://www.semrush.com/blog/content-marketing-funnel/) | Semrush Blog | 150 | Content | 2026-04-29 09:42 UTC |
+| [11 SEO blog tips to rank in Google and get cited by AI](https://www.semrush.com/blog/blog-seo/) | Semrush Blog | 150 | AI Search | 2026-04-29 08:51 UTC |
+| [SEO mistakes: Common SEO issues &amp; how to fix them](https://www.semrush.com/blog/biggest-seo-mistakes/) | Semrush Blog | 150 | Content | 2026-04-29 08:24 UTC |
 | [How I Do Content Engineering with Claude Code](https://ahrefs.com/blog/how-i-do-content-engineering-with-claude-code/) | Ahrefs Blog | 140 | AI Search | 2026-04-28 13:00 UTC |
 | [We analyzed billions of web visits: How AI is reshaping traffic channels](https://www.semrush.com/blog/traffic-channel-mix-study/) | Semrush Blog | 110 | AI Search | 2026-04-27 12:03 UTC |
 | [SaaS AI search optimization: The 8-step playbook](https://www.semrush.com/blog/saas-ai-search-optimization/) | Semrush Blog | 110 | AI Search | 2026-04-27 09:34 UTC |
@@ -39,9 +43,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [On-page SEO checklist: The complete task list for 2026](https://www.semrush.com/blog/on-page-seo-checklist/) | Semrush Blog | 95 | AI Search | 2026-04-23 09:46 UTC |
 | [What is technical SEO? Basics and best practices](https://www.semrush.com/blog/technical-seo/) | Semrush Blog | 95 | Indexing | 2026-04-23 09:22 UTC |
 | [How to use Semrush for keyword research](https://www.semrush.com/blog/how-to-use-semrush-keyword-research/) | Semrush Blog | 95 | AI Search | 2026-04-22 17:34 UTC |
-| [10 link building strategies that still work in 2026](https://www.semrush.com/blog/link-building-strategies/) | Semrush Blog | 95 | Links | 2026-04-22 10:19 UTC |
-| [How to Get Backlinks in 2026: 10 Tactics That Actually Work](https://www.semrush.com/blog/how-to-get-backlinks/) | Semrush Blog | 95 | Links | 2026-04-22 10:02 UTC |
-| [How to Perform a Complete SEO Audit in 20 Steps](https://www.semrush.com/blog/seo-audit/) | Semrush Blog | 95 | AI Search | 2026-04-22 09:43 UTC |
 
 ## Notes
 
