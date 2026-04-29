@@ -12,6 +12,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google Ad Revenue Up 15.5% With Overall Revenue Up 22%](https://www.seroundtable.com/google-ad-revenue-earnings-41246.html) | Search Engine Roundtable | 210 | General | 2026-04-29 20:20 UTC |
+| [Bing Ads Revenue Up 12% - New Growth](https://www.seroundtable.com/microsoft-bing-earnings-41247.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-29 20:12 UTC |
 | [Daily Search Forum Recap: April 29, 2026](https://www.seroundtable.com/recap-04-29-2026-41242.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-29 14:00 UTC |
 | [Google Tests Enter AI Mode Button For AI Overviews](https://www.seroundtable.com/google-enter-ai-mode-41239.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-29 11:51 UTC |
 | [Google AdSense Vignette Ads Setting May Trigger Back Button Hijack Penalty](https://www.seroundtable.com/google-adsense-vignette-ads-back-button-penalty-41238.html) | Search Engine Roundtable | 190 | General | 2026-04-29 11:41 UTC |
@@ -26,8 +28,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Search Ranking Volatility Heating Up April 27th &amp; 28th](https://www.seroundtable.com/google-search-ranking-volatility-heat-41234.html) | Search Engine Roundtable | 170 | General | 2026-04-28 11:21 UTC |
 | [Google Shopping Ads Tests Pricing In Superscript](https://www.seroundtable.com/google-pricing-in-superscript-41214.html) | Search Engine Roundtable | 170 | General | 2026-04-28 11:11 UTC |
 | [Daily Search Forum Recap: April 27, 2026](https://www.seroundtable.com/recap-04-27-2026-41225.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-27 14:00 UTC |
-| [Google Click Through Rates Improving For Organic Results With AI Overviews](https://www.seroundtable.com/google-ctr-improving-aui-overviews-41222.html) | Search Engine Roundtable | 170 | GSC | 2026-04-27 11:51 UTC |
-| [Google Ads Confirms Demand Gen Image Ads Approval Delays](https://www.seroundtable.com/google-ads-demand-gen-image-ads-approval-delays-41216.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-27 11:41 UTC |
 | [How to build brand visibility in AI search](https://www.semrush.com/blog/brand-visibility/) | Semrush Blog | 130 | AI Search | 2026-04-29 10:04 UTC |
 | [Content marketing funnel: stages, templates &amp; metrics](https://www.semrush.com/blog/content-marketing-funnel/) | Semrush Blog | 130 | Content | 2026-04-29 09:42 UTC |
 | [11 SEO blog tips to rank in Google and get cited by AI](https://www.semrush.com/blog/blog-seo/) | Semrush Blog | 130 | AI Search | 2026-04-29 08:51 UTC |
