@@ -30,9 +30,9 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Showing How Many Reviews Were Deleted](https://www.seroundtable.com/google-number-reviews-deleted-41226.html) | Search Engine Roundtable | 170 | Local SEO | 2026-04-28 11:31 UTC |
 | [Google Search Ranking Volatility Heating Up April 27th &amp; 28th](https://www.seroundtable.com/google-search-ranking-volatility-heat-41234.html) | Search Engine Roundtable | 170 | General | 2026-04-28 11:21 UTC |
 | [Google Shopping Ads Tests Pricing In Superscript](https://www.seroundtable.com/google-pricing-in-superscript-41214.html) | Search Engine Roundtable | 170 | General | 2026-04-28 11:11 UTC |
-| [How to build brand visibility in AI search](https://www.semrush.com/blog/brand-visibility/) | Semrush Blog | 150 | AI Search | 2026-04-29 10:04 UTC |
-| [Content marketing funnel: stages, templates &amp; metrics](https://www.semrush.com/blog/content-marketing-funnel/) | Semrush Blog | 150 | Content | 2026-04-29 09:42 UTC |
-| [11 SEO blog tips to rank in Google and get cited by AI](https://www.semrush.com/blog/blog-seo/) | Semrush Blog | 150 | AI Search | 2026-04-29 08:51 UTC |
+| [How to build brand visibility in AI search](https://www.semrush.com/blog/brand-visibility/) | Semrush Blog | 130 | AI Search | 2026-04-29 10:04 UTC |
+| [Content marketing funnel: stages, templates &amp; metrics](https://www.semrush.com/blog/content-marketing-funnel/) | Semrush Blog | 130 | Content | 2026-04-29 09:42 UTC |
+| [11 SEO blog tips to rank in Google and get cited by AI](https://www.semrush.com/blog/blog-seo/) | Semrush Blog | 130 | AI Search | 2026-04-29 08:51 UTC |
 | [SEO mistakes: Common SEO issues &amp; how to fix them](https://www.semrush.com/blog/biggest-seo-mistakes/) | Semrush Blog | 130 | Content | 2026-04-29 08:24 UTC |
 | [How I Do Content Engineering with Claude Code](https://ahrefs.com/blog/how-i-do-content-engineering-with-claude-code/) | Ahrefs Blog | 120 | AI Search | 2026-04-28 13:00 UTC |
 

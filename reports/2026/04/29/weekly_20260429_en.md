@@ -28,9 +28,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Daily Search Forum Recap: April 27, 2026](https://www.seroundtable.com/recap-04-27-2026-41225.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-27 14:00 UTC |
 | [Google Click Through Rates Improving For Organic Results With AI Overviews](https://www.seroundtable.com/google-ctr-improving-aui-overviews-41222.html) | Search Engine Roundtable | 170 | GSC | 2026-04-27 11:51 UTC |
 | [Google Ads Confirms Demand Gen Image Ads Approval Delays](https://www.seroundtable.com/google-ads-demand-gen-image-ads-approval-delays-41216.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-27 11:41 UTC |
-| [How to build brand visibility in AI search](https://www.semrush.com/blog/brand-visibility/) | Semrush Blog | 150 | AI Search | 2026-04-29 10:04 UTC |
-| [Content marketing funnel: stages, templates &amp; metrics](https://www.semrush.com/blog/content-marketing-funnel/) | Semrush Blog | 150 | Content | 2026-04-29 09:42 UTC |
-| [11 SEO blog tips to rank in Google and get cited by AI](https://www.semrush.com/blog/blog-seo/) | Semrush Blog | 150 | AI Search | 2026-04-29 08:51 UTC |
+| [How to build brand visibility in AI search](https://www.semrush.com/blog/brand-visibility/) | Semrush Blog | 130 | AI Search | 2026-04-29 10:04 UTC |
+| [Content marketing funnel: stages, templates &amp; metrics](https://www.semrush.com/blog/content-marketing-funnel/) | Semrush Blog | 130 | Content | 2026-04-29 09:42 UTC |
+| [11 SEO blog tips to rank in Google and get cited by AI](https://www.semrush.com/blog/blog-seo/) | Semrush Blog | 130 | AI Search | 2026-04-29 08:51 UTC |
 | [SEO mistakes: Common SEO issues &amp; how to fix them](https://www.semrush.com/blog/biggest-seo-mistakes/) | Semrush Blog | 130 | Content | 2026-04-29 08:24 UTC |
 | [How I Do Content Engineering with Claude Code](https://ahrefs.com/blog/how-i-do-content-engineering-with-claude-code/) | Ahrefs Blog | 120 | AI Search | 2026-04-28 13:00 UTC |
 | [We analyzed billions of web visits: How AI is reshaping traffic channels](https://www.semrush.com/blog/traffic-channel-mix-study/) | Semrush Blog | 110 | AI Search | 2026-04-27 12:03 UTC |
