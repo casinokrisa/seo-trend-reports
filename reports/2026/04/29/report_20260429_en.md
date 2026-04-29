@@ -6,13 +6,29 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Best fintech SEO agency?](https://www.reddit.com/r/localseo/comments/1syov3n/best_fintech_seo_agency/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-29 04:52 UTC |
+| [Getting ~3 legal leads/month from a local rank &amp; rent site — how would you optimize from here?](https://www.reddit.com/r/localseo/comments/1syoivl/getting_3_legal_leadsmonth_from_a_local_rank_rent/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-29 04:34 UTC |
+| [Need help with an Update](https://www.reddit.com/r/localseo/comments/1syjpwm/need_help_with_an_update/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-29 00:51 UTC |
+| [Local SEO vs Google Ads what actually brought you more consistent leads?](https://www.reddit.com/r/localseo/comments/1syioo8/local_seo_vs_google_ads_what_actually_brought_you/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-04-29 00:05 UTC |
+| [Competitors huge lead?](https://www.reddit.com/r/localseo/comments/1sygrch/competitors_huge_lead/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-28 22:43 UTC |
+| [local rankings are a nightmare](https://www.reddit.com/r/localseo/comments/1sydrfb/local_rankings_are_a_nightmare/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-28 20:47 UTC |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
+| 1 | [Best fintech SEO agency?](https://www.reddit.com/r/localseo/comments/1syov3n/best_fintech_seo_agency/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-29 04:52 UTC |
+| 2 | [Getting ~3 legal leads/month from a local rank &amp; rent site — how would you optimize from here?](https://www.reddit.com/r/localseo/comments/1syoivl/getting_3_legal_leadsmonth_from_a_local_rank_rent/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-29 04:34 UTC |
+| 3 | [Need help with an Update](https://www.reddit.com/r/localseo/comments/1syjpwm/need_help_with_an_update/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-29 00:51 UTC |
+| 4 | [Local SEO vs Google Ads what actually brought you more consistent leads?](https://www.reddit.com/r/localseo/comments/1syioo8/local_seo_vs_google_ads_what_actually_brought_you/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-04-29 00:05 UTC |
+| 5 | [Competitors huge lead?](https://www.reddit.com/r/localseo/comments/1sygrch/competitors_huge_lead/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-28 22:43 UTC |
+| 6 | [local rankings are a nightmare](https://www.reddit.com/r/localseo/comments/1sydrfb/local_rankings_are_a_nightmare/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-28 20:47 UTC |
+| 7 | [GBP only local SEO effort March results for a small aesthetics clinic (Portsmouth, UK)](https://www.reddit.com/r/localseo/comments/1sybzn7/gbp_only_local_seo_effort_march_results_for_a/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-04-28 19:43 UTC |
+| 8 | [website for roofers](https://www.reddit.com/r/localseo/comments/1sybtci/website_for_roofers/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-28 19:37 UTC |
+| 9 | [Any good ranking tools besides SEMRUSH?](https://www.reddit.com/r/localseo/comments/1sybjws/any_good_ranking_tools_besides_semrush/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-28 19:28 UTC |
+| 10 | [We cover 20+ suburbs but GMB only allows for 20 service areas to be listed. Do you pick the most local suburbs or spread them out?](https://www.reddit.com/r/localseo/comments/1sy8d8h/we_cover_20_suburbs_but_gmb_only_allows_for_20/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-04-28 17:36 UTC |
+| 11 | [Am I doing location pages right for my small business?](https://www.reddit.com/r/localseo/comments/1sy6znz/am_i_doing_location_pages_right_for_my_small/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-28 16:49 UTC |
+| 12 | [SEO is already dead.](https://www.reddit.com/r/localseo/comments/1sy4lau/seo_is_already_dead/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-28 15:24 UTC |
 
 ## Notable items (Sites)
 
