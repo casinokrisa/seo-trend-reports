@@ -6,7 +6,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [GBP and reviews still doing more work than AI content for most local clients](https://www.reddit.com/r/localseo/comments/1szkvck/gbp_and_reviews_still_doing_more_work_than_ai/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-04-30 03:43 UTC |
+| [How do small businesses get more 5-star Google reviews without looking desperate?](https://www.reddit.com/r/localseo/comments/1szh471/how_do_small_businesses_get_more_5star_google/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-30 00:51 UTC |
+| [Codex](https://www.reddit.com/r/localseo/comments/1szdx1v/codex/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-29 22:33 UTC |
+| [The Hybrid Architect: Why AI Can't Replace the Social Media Manager in 2026](https://www.reddit.com/r/localseo/comments/1sz9htj/the_hybrid_architect_why_ai_cant_replace_the/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-04-29 19:47 UTC |
+| [DIY SEO for small biz setting](https://www.reddit.com/r/localseo/comments/1sz8hqr/diy_seo_for_small_biz_setting/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-29 19:10 UTC |
+| [Building Authority for Local SEO in 2026?](https://www.reddit.com/r/localseo/comments/1sz698z/building_authority_for_local_seo_in_2026/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-04-29 17:53 UTC |
+| [tell me why this eval sucks.](https://www.reddit.com/r/localseo/comments/1sz5w9y/tell_me_why_this_eval_sucks/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-29 17:41 UTC |
+| [Are we over-optimizing for Google instead of training customers how to choose us?](https://www.reddit.com/r/localseo/comments/1sz3t2q/are_we_overoptimizing_for_google_instead_of/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-04-29 16:27 UTC |
+| [Higher GSC manual index quota?](https://www.reddit.com/r/localseo/comments/1sz3fq5/higher_gsc_manual_index_quota/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Indexing | 2026-04-29 16:14 UTC |
+| [Daily Roofing Marketing Check In👇](https://www.reddit.com/r/localseo/comments/1sz36ke/daily_roofing_marketing_check_in/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-04-29 16:05 UTC |
+| [Better to target my main town on homepage and main service page or keep them general?](https://www.reddit.com/r/localseo/comments/1sz0c7p/better_to_target_my_main_town_on_homepage_and/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-04-29 14:24 UTC |
+| [Healthcare business and responding to reviews](https://www.reddit.com/r/localseo/comments/1syz034/healthcare_business_and_responding_to_reviews/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-29 13:34 UTC |
 
 ## Weekly notable items (Sites)
 
