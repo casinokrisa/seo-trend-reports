@@ -12,8 +12,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Ad Revenue Up 15.5% With Overall Revenue Up 22%](https://www.seroundtable.com/google-ad-revenue-earnings-41246.html) | Search Engine Roundtable | 210 | General | 2026-04-29 20:20 UTC |
-| [Bing Ads Revenue Up 12% - New Growth](https://www.seroundtable.com/microsoft-bing-earnings-41247.html) | Search Engine Roundtable | 210 | AI Search | 2026-04-29 20:12 UTC |
+| [Google Ad Revenue Up 15.5% With Overall Revenue Up 22%](https://www.seroundtable.com/google-ad-revenue-earnings-41246.html) | Search Engine Roundtable | 190 | General | 2026-04-29 20:20 UTC |
+| [Bing Ads Revenue Up 12% - New Growth](https://www.seroundtable.com/microsoft-bing-earnings-41247.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-29 20:12 UTC |
 | [Daily Search Forum Recap: April 29, 2026](https://www.seroundtable.com/recap-04-29-2026-41242.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-29 14:00 UTC |
 | [Google Tests Enter AI Mode Button For AI Overviews](https://www.seroundtable.com/google-enter-ai-mode-41239.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-29 11:51 UTC |
 | [Google AdSense Vignette Ads Setting May Trigger Back Button Hijack Penalty](https://www.seroundtable.com/google-adsense-vignette-ads-back-button-penalty-41238.html) | Search Engine Roundtable | 190 | General | 2026-04-29 11:41 UTC |
