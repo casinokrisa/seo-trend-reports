@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: May 1, 2026](https://www.seroundtable.com/recap-05-01-2026-41257.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-01 14:00 UTC |
+| [Daily Search Forum Recap: May 1, 2026](https://www.seroundtable.com/recap-05-01-2026-41257.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-01 14:00 UTC |
 | [Search News Buzz Video Recap: Google Ranking Volatility, Back Button Hijacking Notices &amp; AdSense Triggers, Bing Webmaster Tools Teases AI Reporting &amp; More](https://www.seroundtable.com/video-04-01-2026-41254.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-01 12:01 UTC |
 | [Google Search May Be Deindexing URLs At Higher Rates](https://www.seroundtable.com/google-search-deindexing-urls-41252.html) | Search Engine Roundtable | 190 | Indexing | 2026-05-01 11:51 UTC |
 | [Google Preferred Sources Now Available For All Languages Globally](https://www.seroundtable.com/google-preferred-sources-all-languages-globally-41253.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-01 11:31 UTC |
@@ -30,10 +30,10 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Showing More Links &amp; Citations Within AI Mode?](https://www.seroundtable.com/google-showing-more-links-ai-mode-41245.html) | Search Engine Roundtable | 170 | Links | 2026-04-30 11:31 UTC |
 | [Google Ads PMax Tests Select Partners To Run Ads With](https://www.seroundtable.com/google-ads-select-partners-to-run-ads-with-41248.html) | Search Engine Roundtable | 170 | General | 2026-04-30 11:21 UTC |
 | [Google Ads Recommendations New Results Tab](https://www.seroundtable.com/google-ads-recommendations-results-tab-41243.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-30 11:11 UTC |
-| [How to optimize for agentic search with Semrush](https://www.semrush.com/blog/agentic-search-optimization-with-semrush/) | Semrush Blog | 150 | General | 2026-05-01 14:03 UTC |
+| [Use Semrush's keyword clustering tool to build your strategy](https://www.semrush.com/blog/keyword-manager-clustering-tool/) | Semrush Blog | 150 | Migration | 2026-05-01 16:19 UTC |
+| [How to optimize for agentic search with Semrush](https://www.semrush.com/blog/agentic-search-optimization-with-semrush/) | Semrush Blog | 130 | General | 2026-05-01 14:03 UTC |
 | [AI Keyword Research: How It Works and 9 Prompts to Start](https://ahrefs.com/blog/ai-keyword-research/) | Ahrefs Blog | 120 | AI Search | 2026-04-30 14:48 UTC |
 | [6 Semrush tools to monitor AI Overviews in your niche](https://www.semrush.com/blog/semrush-tools-to-monitor-ai-overviews/) | Semrush Blog | 110 | AI Search | 2026-04-30 13:42 UTC |
-| [How to turn Claude Code into your SEO analyst (with Semrush data)](https://www.semrush.com/blog/claude-code-seo/) | Semrush Blog | 110 | GSC | 2026-04-30 08:53 UTC |
 
 ## Notes for manual writing
 
