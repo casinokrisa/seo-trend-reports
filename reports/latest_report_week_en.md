@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [I need 5 small businesses to give free SEO results to (No catch)](https://www.reddit.com/r/localseo/comments/1t0m8u0/i_need_5_small_businesses_to_give_free_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-01 07:19 UTC |
-| [How can Small Local businesses get their First 100 customers using SEO? - Few tactics and tips.](https://www.reddit.com/r/localseo/comments/1t0lf2l/how_can_small_local_businesses_get_their_first/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-01 06:33 UTC |
-| [Newbie, 2 days, 7 GBP profiles to audit help!](https://www.reddit.com/r/localseo/comments/1t0jjyq/newbie_2_days_7_gbp_profiles_to_audit_help/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-01 04:54 UTC |
-| [Launched a new travel website March 31. 28 days later: 200 clicks, 7.83K impressions, avg position 10.4](https://www.reddit.com/r/localseo/comments/1t0hi4r/launched_a_new_travel_website_march_31_28_days/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-05-01 03:11 UTC |
-| [Local clients have a specific internal linking problem that national sites don't — and it's killing their map pack rankings](https://www.reddit.com/r/localseo/comments/1t0hh12/local_clients_have_a_specific_internal_linking/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-01 03:10 UTC |
-| [Large Resort NAP Best Practices](https://www.reddit.com/r/localseo/comments/1t0cel7/large_resort_nap_best_practices/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-30 23:22 UTC |
-| [GBP disabled + no appeal option + “Get Verified” loop - anyone seen this before?](https://www.reddit.com/r/localseo/comments/1t08tsr/gbp_disabled_no_appeal_option_get_verified_loop/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-04-30 20:58 UTC |
-| [Nominate or vote for the prestigious AIV Award.](https://www.reddit.com/r/localseo/comments/1t07rgy/nominate_or_vote_for_the_prestigious_aiv_award/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-04-30 20:19 UTC |
-| [How many Categories should I use for an Immigration Law Firm?](https://www.reddit.com/r/localseo/comments/1t066vf/how_many_categories_should_i_use_for_an/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Migration | 2026-04-30 19:22 UTC |
-| [Local GBP Access](https://www.reddit.com/r/localseo/comments/1t03it5/local_gbp_access/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-04-30 17:47 UTC |
-| [Google business software company](https://www.reddit.com/r/localseo/comments/1szzsvz/google_business_software_company/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-04-30 15:37 UTC |
-| [Are there any free sites tools when you enter a site URL and receive a proper json-ld?](https://www.reddit.com/r/localseo/comments/1szu8bp/are_there_any_free_sites_tools_when_you_enter_a/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Technical SEO | 2026-04-30 12:08 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
