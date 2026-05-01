@@ -30,7 +30,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Showing More Links &amp; Citations Within AI Mode?](https://www.seroundtable.com/google-showing-more-links-ai-mode-41245.html) | Search Engine Roundtable | 170 | Links | 2026-04-30 11:31 UTC |
 | [Google Ads PMax Tests Select Partners To Run Ads With](https://www.seroundtable.com/google-ads-select-partners-to-run-ads-with-41248.html) | Search Engine Roundtable | 170 | General | 2026-04-30 11:21 UTC |
 | [Google Ads Recommendations New Results Tab](https://www.seroundtable.com/google-ads-recommendations-results-tab-41243.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-30 11:11 UTC |
-| [Use Semrush's keyword clustering tool to build your strategy](https://www.semrush.com/blog/keyword-manager-clustering-tool/) | Semrush Blog | 150 | Migration | 2026-05-01 16:19 UTC |
+| [Use Semrush's keyword clustering tool to build your strategy](https://www.semrush.com/blog/keyword-manager-clustering-tool/) | Semrush Blog | 130 | Migration | 2026-05-01 16:19 UTC |
 | [How to optimize for agentic search with Semrush](https://www.semrush.com/blog/agentic-search-optimization-with-semrush/) | Semrush Blog | 130 | General | 2026-05-01 14:03 UTC |
 | [AI Keyword Research: How It Works and 9 Prompts to Start](https://ahrefs.com/blog/ai-keyword-research/) | Ahrefs Blog | 120 | AI Search | 2026-04-30 14:48 UTC |
 | [6 Semrush tools to monitor AI Overviews in your niche](https://www.semrush.com/blog/semrush-tools-to-monitor-ai-overviews/) | Semrush Blog | 110 | AI Search | 2026-04-30 13:42 UTC |
