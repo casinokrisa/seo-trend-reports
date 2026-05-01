@@ -23,7 +23,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Microsoft Ads PMax Website Publisher URL Report Gains Conversion &amp; Spend](https://www.seroundtable.com/microsoft-pmax-website-publisher-url-update-41249.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-30 11:41 UTC |
 | [Google Showing More Links &amp; Citations Within AI Mode?](https://www.seroundtable.com/google-showing-more-links-ai-mode-41245.html) | Search Engine Roundtable | 190 | Links | 2026-04-30 11:31 UTC |
 | [Google Ads PMax Tests Select Partners To Run Ads With](https://www.seroundtable.com/google-ads-select-partners-to-run-ads-with-41248.html) | Search Engine Roundtable | 190 | General | 2026-04-30 11:21 UTC |
-| [Google Ads Recommendations New Results Tab](https://www.seroundtable.com/google-ads-recommendations-results-tab-41243.html) | Search Engine Roundtable | 190 | AI Search | 2026-04-30 11:11 UTC |
+| [Google Ads Recommendations New Results Tab](https://www.seroundtable.com/google-ads-recommendations-results-tab-41243.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-30 11:11 UTC |
 | [AI Keyword Research: How It Works and 9 Prompts to Start](https://ahrefs.com/blog/ai-keyword-research/) | Ahrefs Blog | 140 | AI Search | 2026-04-30 14:48 UTC |
 | [6 Semrush tools to monitor AI Overviews in your niche](https://www.semrush.com/blog/semrush-tools-to-monitor-ai-overviews/) | Semrush Blog | 130 | AI Search | 2026-04-30 13:42 UTC |
 | [How to turn Claude Code into your SEO analyst (with Semrush data)](https://www.semrush.com/blog/claude-code-seo/) | Semrush Blog | 110 | GSC | 2026-04-30 08:53 UTC |
