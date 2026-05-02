@@ -14,7 +14,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 |---|---|---:|---|---:|
 | [Expanding preferred sources to all languages where Google Search is available](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | AI Search | 2026-04-30 00:00 UTC |
 | [Daily Search Forum Recap: May 1, 2026](https://www.seroundtable.com/recap-05-01-2026-41257.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-01 14:00 UTC |
-| [Search News Buzz Video Recap: Google Ranking Volatility, Back Button Hijacking Notices &amp; AdSense Triggers, Bing Webmaster Tools Teases AI Reporting &amp; More](https://www.seroundtable.com/video-04-01-2026-41254.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-01 12:01 UTC |
+| [Search News Buzz Video Recap: Google Ranking Volatility, Back Button Hijacking Notices &amp; AdSense Triggers, Bing Webmaster Tools Teases AI Reporting &amp; More](https://www.seroundtable.com/video-04-01-2026-41254.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-01 12:01 UTC |
 | [Google Search May Be Deindexing URLs At Higher Rates](https://www.seroundtable.com/google-search-deindexing-urls-41252.html) | Search Engine Roundtable | 170 | Indexing | 2026-05-01 11:51 UTC |
 | [Google Preferred Sources Now Available For All Languages Globally](https://www.seroundtable.com/google-preferred-sources-all-languages-globally-41253.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-01 11:31 UTC |
 | [Google Ads AI Max: AI Brief, Text Disclaimers &amp; Shopping &amp; Travel Expansion](https://www.seroundtable.com/google-ads-ai-max-ai-brief-text-disclaimers-more-41240.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-01 11:31 UTC |
