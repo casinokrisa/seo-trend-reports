@@ -28,8 +28,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ad Revenue Up 15.5% With Overall Revenue Up 22%](https://www.seroundtable.com/google-ad-revenue-earnings-41246.html) | Search Engine Roundtable | 170 | General | 2026-04-29 20:20 UTC |
 | [Bing Ads Revenue Up 12% - 1 Billion Monthly Action Users Milestone](https://www.seroundtable.com/microsoft-bing-earnings-41247.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-29 20:12 UTC |
 | [Daily Search Forum Recap: April 29, 2026](https://www.seroundtable.com/recap-04-29-2026-41242.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-29 14:00 UTC |
-| [Use Semrush's keyword clustering tool to build your strategy](https://www.semrush.com/blog/keyword-manager-clustering-tool/) | Semrush Blog | 130 | Migration | 2026-05-01 16:19 UTC |
 | [AI Keyword Research: How It Works and 9 Prompts to Start](https://ahrefs.com/blog/ai-keyword-research/) | Ahrefs Blog | 120 | AI Search | 2026-04-30 14:48 UTC |
+| [Use Semrush's keyword clustering tool to build your strategy](https://www.semrush.com/blog/keyword-manager-clustering-tool/) | Semrush Blog | 110 | Migration | 2026-05-01 16:19 UTC |
 | [How to optimize for agentic search with Semrush](https://www.semrush.com/blog/agentic-search-optimization-with-semrush/) | Semrush Blog | 110 | General | 2026-05-01 14:03 UTC |
 | [6 Semrush tools to monitor AI Overviews in your niche](https://www.semrush.com/blog/semrush-tools-to-monitor-ai-overviews/) | Semrush Blog | 110 | AI Search | 2026-04-30 13:42 UTC |
 | [How to turn Claude Code into your SEO analyst (with Semrush data)](https://www.semrush.com/blog/claude-code-seo/) | Semrush Blog | 110 | GSC | 2026-04-30 08:53 UTC |
