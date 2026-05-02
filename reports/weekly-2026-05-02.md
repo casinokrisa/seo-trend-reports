@@ -25,8 +25,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Showing More Links &amp; Citations Within AI Mode?](https://www.seroundtable.com/google-showing-more-links-ai-mode-41245.html) | Search Engine Roundtable | 170 | Links | 2026-04-30 11:31 UTC |
 | [Google Ads PMax Tests Select Partners To Run Ads With](https://www.seroundtable.com/google-ads-select-partners-to-run-ads-with-41248.html) | Search Engine Roundtable | 170 | General | 2026-04-30 11:21 UTC |
 | [Google Ads Recommendations New Results Tab](https://www.seroundtable.com/google-ads-recommendations-results-tab-41243.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-30 11:11 UTC |
-| [Google Ad Revenue Up 15.5% With Overall Revenue Up 22%](https://www.seroundtable.com/google-ad-revenue-earnings-41246.html) | Search Engine Roundtable | 170 | General | 2026-04-29 20:20 UTC |
-| [Bing Ads Revenue Up 12% - 1 Billion Monthly Action Users Milestone](https://www.seroundtable.com/microsoft-bing-earnings-41247.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-29 20:12 UTC |
+| [Google Ad Revenue Up 15.5% With Overall Revenue Up 22%](https://www.seroundtable.com/google-ad-revenue-earnings-41246.html) | Search Engine Roundtable | 155 | General | 2026-04-29 20:20 UTC |
+| [Bing Ads Revenue Up 12% - 1 Billion Monthly Action Users Milestone](https://www.seroundtable.com/microsoft-bing-earnings-41247.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-29 20:12 UTC |
 | [Daily Search Forum Recap: April 29, 2026](https://www.seroundtable.com/recap-04-29-2026-41242.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-29 14:00 UTC |
 | [AI Keyword Research: How It Works and 9 Prompts to Start](https://ahrefs.com/blog/ai-keyword-research/) | Ahrefs Blog | 120 | AI Search | 2026-04-30 14:48 UTC |
 | [Use Semrush's keyword clustering tool to build your strategy](https://www.semrush.com/blog/keyword-manager-clustering-tool/) | Semrush Blog | 110 | Migration | 2026-05-01 16:19 UTC |
