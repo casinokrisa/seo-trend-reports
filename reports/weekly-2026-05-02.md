@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [NAP format for Units/Suites](https://www.reddit.com/r/localseo/comments/1t1fh2o/nap_format_for_unitssuites/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-02 04:12 UTC |
-| [What's actually moving the needle for Google Business Profile rankings in 2026? Reviews, posts, photos — what are you prioritizing?](https://www.reddit.com/r/localseo/comments/1t1fbef/whats_actually_moving_the_needle_for_google/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-02 04:04 UTC |
-| [interesting: People are finally using Reddit’s search](https://www.reddit.com/r/localseo/comments/1t1bedk/interesting_people_are_finally_using_reddits/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-02 00:57 UTC |
-| [Losing #1 map pack completely after changing website](https://www.reddit.com/r/localseo/comments/1t19zk1/losing_1_map_pack_completely_after_changing/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-01 23:52 UTC |
-| [I built a local SEO heatmap tool and tested it on a real travel business (looking for feedback)](https://www.reddit.com/r/localseo/comments/1t18v4y/i_built_a_local_seo_heatmap_tool_and_tested_it_on/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-01 23:03 UTC |
-| [How I doubled my reviews without asking](https://www.reddit.com/r/localseo/comments/1t18u77/how_i_doubled_my_reviews_without_asking/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-01 23:02 UTC |
-| [great SEO domain names that dropped today. free for the taking boys!](https://www.reddit.com/r/localseo/comments/1t14zc1/great_seo_domain_names_that_dropped_today_free/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-05-01 20:28 UTC |
-| [Building a website for my business. Please give me feedback on the SEO.](https://www.reddit.com/r/localseo/comments/1t12rc7/building_a_website_for_my_business_please_give_me/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-01 19:06 UTC |
-| [Your local business has great reviews but still gets no calls ? You don't have a Google problem actually you have a visibility problem.](https://www.reddit.com/r/localseo/comments/1t10byv/your_local_business_has_great_reviews_but_still/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-01 17:39 UTC |
-| [Paid to pod ! Insane](https://www.reddit.com/r/localseo/comments/1t0ygt6/paid_to_pod_insane/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-05-01 16:33 UTC |
-| [Utm getting removed](https://www.reddit.com/r/localseo/comments/1t0tk0e/utm_getting_removed/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-01 13:32 UTC |
-| [Local SEO vs Traditional SEO — Which One Drives More Leads?](https://www.reddit.com/r/localseo/comments/1t0q1vc/local_seo_vs_traditional_seo_which_one_drives/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-01 10:55 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
@@ -47,8 +36,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [How to build brand visibility in AI search](https://www.semrush.com/blog/brand-visibility/) | Semrush Blog | 110 | AI Search | 2026-04-29 10:04 UTC |
 | [Content marketing funnel: stages, templates &amp; metrics](https://www.semrush.com/blog/content-marketing-funnel/) | Semrush Blog | 110 | Content | 2026-04-29 09:42 UTC |
 | [11 SEO blog tips to rank in Google and get cited by AI](https://www.semrush.com/blog/blog-seo/) | Semrush Blog | 110 | AI Search | 2026-04-29 08:51 UTC |
-| [SEO mistakes: Common SEO issues &amp; how to fix them](https://www.semrush.com/blog/biggest-seo-mistakes/) | Semrush Blog | 110 | Content | 2026-04-29 08:24 UTC |
 | [How I Do Content Engineering with Claude Code](https://ahrefs.com/blog/how-i-do-content-engineering-with-claude-code/) | Ahrefs Blog | 105 | AI Search | 2026-04-28 13:00 UTC |
+| [SEO mistakes: Common SEO issues &amp; how to fix them](https://www.semrush.com/blog/biggest-seo-mistakes/) | Semrush Blog | 95 | Content | 2026-04-29 08:24 UTC |
 | [We analyzed billions of web visits: How AI is reshaping traffic channels](https://www.semrush.com/blog/traffic-channel-mix-study/) | Semrush Blog | 95 | AI Search | 2026-04-27 12:03 UTC |
 | [SaaS AI search optimization: The 8-step playbook](https://www.semrush.com/blog/saas-ai-search-optimization/) | Semrush Blog | 95 | AI Search | 2026-04-27 09:34 UTC |
 | [Why AI Is Citing Third-Party Sources Instead of Your Site?](https://www.semrush.com/blog/ai-citing-my-site-vs-third-party-sources/) | Semrush Blog | 95 | AI Search | 2026-04-27 09:11 UTC |
