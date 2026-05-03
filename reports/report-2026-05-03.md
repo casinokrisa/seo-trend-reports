@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Use Semrush's keyword clustering tool to build your strategy](https://www.semrush.com/blog/keyword-manager-clustering-tool/) | Semrush Blog | 110 | Migration | 2026-05-01 16:19 UTC |
+| _No site items in window_ |  |  |  |  |
 
 ## Notes for manual writing
 
