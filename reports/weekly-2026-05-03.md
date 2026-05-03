@@ -31,8 +31,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [AI Keyword Research: How It Works and 9 Prompts to Start](https://ahrefs.com/blog/ai-keyword-research/) | Ahrefs Blog | 120 | AI Search | 2026-04-30 14:48 UTC |
 | [Use Semrush's keyword clustering tool to build your strategy](https://www.semrush.com/blog/keyword-manager-clustering-tool/) | Semrush Blog | 110 | Migration | 2026-05-01 16:19 UTC |
 | [How to optimize for agentic search with Semrush](https://www.semrush.com/blog/agentic-search-optimization-with-semrush/) | Semrush Blog | 110 | General | 2026-05-01 14:03 UTC |
-| [6 Semrush tools to monitor AI Overviews in your niche](https://www.semrush.com/blog/semrush-tools-to-monitor-ai-overviews/) | Semrush Blog | 110 | AI Search | 2026-04-30 13:42 UTC |
 | [How I Do Content Engineering with Claude Code](https://ahrefs.com/blog/how-i-do-content-engineering-with-claude-code/) | Ahrefs Blog | 105 | AI Search | 2026-04-28 13:00 UTC |
+| [6 Semrush tools to monitor AI Overviews in your niche](https://www.semrush.com/blog/semrush-tools-to-monitor-ai-overviews/) | Semrush Blog | 95 | AI Search | 2026-04-30 13:42 UTC |
 | [How to turn Claude Code into your SEO analyst (with Semrush data)](https://www.semrush.com/blog/claude-code-seo/) | Semrush Blog | 95 | GSC | 2026-04-30 08:53 UTC |
 | [How to build brand visibility in AI search](https://www.semrush.com/blog/brand-visibility/) | Semrush Blog | 95 | AI Search | 2026-04-29 10:04 UTC |
 | [Content marketing funnel: stages, templates &amp; metrics](https://www.semrush.com/blog/content-marketing-funnel/) | Semrush Blog | 95 | Content | 2026-04-29 09:42 UTC |
