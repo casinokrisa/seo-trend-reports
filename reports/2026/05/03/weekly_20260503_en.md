@@ -21,10 +21,10 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Discover With New You Asked To See Label](https://www.seroundtable.com/google-discover-you-asked-to-see-label-41215.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-01 11:21 UTC |
 | [April &amp; May 2026 Google Webmaster Report](https://www.seroundtable.com/april-may-2026-google-webmaster-report-41251.html) | Search Engine Roundtable | 170 | General | 2026-05-01 11:11 UTC |
 | [Daily Search Forum Recap: April 30, 2026](https://www.seroundtable.com/recap-04-30-2026-41250.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-30 14:00 UTC |
-| [Microsoft Ads PMax Website Publisher URL Report Gains Conversion &amp; Spend](https://www.seroundtable.com/microsoft-pmax-website-publisher-url-update-41249.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-30 11:41 UTC |
-| [Google Showing More Links &amp; Citations Within AI Mode?](https://www.seroundtable.com/google-showing-more-links-ai-mode-41245.html) | Search Engine Roundtable | 170 | Links | 2026-04-30 11:31 UTC |
-| [Google Ads PMax Tests Select Partners To Run Ads With](https://www.seroundtable.com/google-ads-select-partners-to-run-ads-with-41248.html) | Search Engine Roundtable | 170 | General | 2026-04-30 11:21 UTC |
-| [Google Ads Recommendations New Results Tab](https://www.seroundtable.com/google-ads-recommendations-results-tab-41243.html) | Search Engine Roundtable | 170 | AI Search | 2026-04-30 11:11 UTC |
+| [Microsoft Ads PMax Website Publisher URL Report Gains Conversion &amp; Spend](https://www.seroundtable.com/microsoft-pmax-website-publisher-url-update-41249.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-30 11:41 UTC |
+| [Google Showing More Links &amp; Citations Within AI Mode?](https://www.seroundtable.com/google-showing-more-links-ai-mode-41245.html) | Search Engine Roundtable | 155 | Links | 2026-04-30 11:31 UTC |
+| [Google Ads PMax Tests Select Partners To Run Ads With](https://www.seroundtable.com/google-ads-select-partners-to-run-ads-with-41248.html) | Search Engine Roundtable | 155 | General | 2026-04-30 11:21 UTC |
+| [Google Ads Recommendations New Results Tab](https://www.seroundtable.com/google-ads-recommendations-results-tab-41243.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-30 11:11 UTC |
 | [Google Ad Revenue Up 15.5% With Overall Revenue Up 22%](https://www.seroundtable.com/google-ad-revenue-earnings-41246.html) | Search Engine Roundtable | 155 | General | 2026-04-29 20:20 UTC |
 | [Bing Ads Revenue Up 12% - 1 Billion Monthly Action Users Milestone](https://www.seroundtable.com/microsoft-bing-earnings-41247.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-29 20:12 UTC |
 | [Daily Search Forum Recap: April 29, 2026](https://www.seroundtable.com/recap-04-29-2026-41242.html) | Search Engine Roundtable | 155 | AI Search | 2026-04-29 14:00 UTC |
