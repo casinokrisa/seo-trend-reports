@@ -18,7 +18,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| _No site items in window_ |  |  |  |  |
+| [How to rank in AI search (6-month playbook)](https://www.semrush.com/blog/how-to-rank-in-ai-search/) | Semrush Blog | 150 | AI Search | 2026-05-04 09:47 UTC |
+| [Fintech AI search case study: 4 lessons from Wise.com](https://www.semrush.com/blog/fintech-in-ai-search-how-wise-com-wins-ai-visibility/) | Semrush Blog | 150 | AI Search | 2026-05-04 09:19 UTC |
 
 ## Notes for manual writing
 
