@@ -19,11 +19,11 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: May 5, 2026](https://www.seroundtable.com/recap-05-05-2026-41271.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-05 14:00 UTC |
-| [Google Business Profile Suspensions Spike Over User Account Restrictions](https://www.seroundtable.com/google-business-profile-suspensions-account-restrictions-41268.html) | Search Engine Roundtable | 210 | Local SEO | 2026-05-05 11:51 UTC |
-| [Bing: 1 Billion Monthly Users Are Human, Not Agents](https://www.seroundtable.com/bing-1-billion-monthly-users-are-human-41266.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-05 11:41 UTC |
-| [Google Ads Data Retention Policy Updated](https://www.seroundtable.com/google-ads-updates-data-retention-policy-41269.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-05 11:31 UTC |
-| [Similarweb Data: ChatGPT Ads Click-Through Rates](https://www.seroundtable.com/chatgpt-ads-click-through-rates-41267.html) | Search Engine Roundtable | 210 | GSC | 2026-05-05 11:21 UTC |
-| [Google Web Bot Auth: Validate Authentic Bots](https://www.seroundtable.com/google-web-bot-auth-41270.html) | Search Engine Roundtable | 210 | General | 2026-05-05 11:11 UTC |
+| [Google Business Profile Suspensions Spike Over User Account Restrictions](https://www.seroundtable.com/google-business-profile-suspensions-account-restrictions-41268.html) | Search Engine Roundtable | 190 | Local SEO | 2026-05-05 11:51 UTC |
+| [Bing: 1 Billion Monthly Users Are Human, Not Agents](https://www.seroundtable.com/bing-1-billion-monthly-users-are-human-41266.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-05 11:41 UTC |
+| [Google Ads Data Retention Policy Updated](https://www.seroundtable.com/google-ads-updates-data-retention-policy-41269.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-05 11:31 UTC |
+| [Similarweb Data: ChatGPT Ads Click-Through Rates](https://www.seroundtable.com/chatgpt-ads-click-through-rates-41267.html) | Search Engine Roundtable | 190 | GSC | 2026-05-05 11:21 UTC |
+| [Google Web Bot Auth: Validate Authentic Bots](https://www.seroundtable.com/google-web-bot-auth-41270.html) | Search Engine Roundtable | 190 | General | 2026-05-05 11:11 UTC |
 | [Daily Search Forum Recap: May 4, 2026](https://www.seroundtable.com/recap-05-04-2026-41265.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-04 14:00 UTC |
 | [Google Search Console Fixed The 50 Week Data Logging Issue](https://www.seroundtable.com/google-search-console-fix-data-logging-issue-41260.html) | Search Engine Roundtable | 170 | GSC | 2026-05-04 11:51 UTC |
 | [Ask.com Shut Down After Almost 30 Years](https://www.seroundtable.com/ask-com-shuts-down-41259.html) | Search Engine Roundtable | 170 | General | 2026-05-04 11:41 UTC |
