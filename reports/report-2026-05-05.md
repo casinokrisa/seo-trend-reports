@@ -30,13 +30,11 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Adds Use AI To Add Products](https://www.seroundtable.com/google-ads-use-ai-to-add-products-41255.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-04 11:31 UTC |
 | [Google On AI Overviews &amp; AI Mode Being Isolated Systems (Or Not)](https://www.seroundtable.com/google-ai-overviews-vs-ai-mode-isolated-systems-41258.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-04 11:21 UTC |
 | [Google Tests Fresh Updates Label For Search Snippets](https://www.seroundtable.com/google-search-fresh-updates-label-41264.html) | Search Engine Roundtable | 170 | General | 2026-05-04 11:11 UTC |
-| [How to do keyword research in 2026 (6 ways + framework)](https://www.semrush.com/blog/keyword-research/) | Semrush Blog | 150 | Migration | 2026-05-05 15:15 UTC |
-| [The Complete Website Migration Checklist [SEO-Friendly]](https://www.semrush.com/blog/website-migration-checklist/) | Semrush Blog | 150 | Migration | 2026-05-05 14:57 UTC |
+| [How to do keyword research in 2026 (6 ways + framework)](https://www.semrush.com/blog/keyword-research/) | Semrush Blog | 130 | Migration | 2026-05-05 15:15 UTC |
+| [The Complete Website Migration Checklist [SEO-Friendly]](https://www.semrush.com/blog/website-migration-checklist/) | Semrush Blog | 130 | Migration | 2026-05-05 14:57 UTC |
 | [Attribution gap in agentic search: how to close it](https://www.semrush.com/blog/attribution-gap-in-agentic-search/) | Semrush Blog | 130 | AI Search | 2026-05-05 08:23 UTC |
 | [The Most Searched Things on Google [2026]](https://www.semrush.com/blog/most-searched-keywords-google/) | Semrush Blog | 110 | Migration | 2026-05-04 11:13 UTC |
 | [How to do a website content audit in 2026 (with template)](https://www.semrush.com/blog/content-audit/) | Semrush Blog | 110 | AI Search | 2026-05-04 10:27 UTC |
-| [How to rank in AI search (6-month playbook)](https://www.semrush.com/blog/how-to-rank-in-ai-search/) | Semrush Blog | 110 | AI Search | 2026-05-04 09:47 UTC |
-| [Fintech AI search case study: 4 lessons from Wise.com](https://www.semrush.com/blog/fintech-in-ai-search-how-wise-com-wins-ai-visibility/) | Semrush Blog | 110 | AI Search | 2026-05-04 09:19 UTC |
 
 ## Notes for manual writing
 

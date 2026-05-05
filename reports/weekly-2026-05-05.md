@@ -28,8 +28,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Daily Search Forum Recap: May 1, 2026](https://www.seroundtable.com/recap-05-01-2026-41257.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-01 14:00 UTC |
 | [Search News Buzz Video Recap: Google Ranking Volatility, Back Button Hijacking Notices &amp; AdSense Triggers, Bing Webmaster Tools Teases AI Reporting &amp; More](https://www.seroundtable.com/video-04-01-2026-41254.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-01 12:01 UTC |
 | [Google Search May Be Deindexing URLs At Higher Rates](https://www.seroundtable.com/google-search-deindexing-urls-41252.html) | Search Engine Roundtable | 155 | Indexing | 2026-05-01 11:51 UTC |
-| [How to do keyword research in 2026 (6 ways + framework)](https://www.semrush.com/blog/keyword-research/) | Semrush Blog | 150 | Migration | 2026-05-05 15:15 UTC |
-| [The Complete Website Migration Checklist [SEO-Friendly]](https://www.semrush.com/blog/website-migration-checklist/) | Semrush Blog | 150 | Migration | 2026-05-05 14:57 UTC |
+| [How to do keyword research in 2026 (6 ways + framework)](https://www.semrush.com/blog/keyword-research/) | Semrush Blog | 130 | Migration | 2026-05-05 15:15 UTC |
+| [The Complete Website Migration Checklist [SEO-Friendly]](https://www.semrush.com/blog/website-migration-checklist/) | Semrush Blog | 130 | Migration | 2026-05-05 14:57 UTC |
 | [Attribution gap in agentic search: how to close it](https://www.semrush.com/blog/attribution-gap-in-agentic-search/) | Semrush Blog | 130 | AI Search | 2026-05-05 08:23 UTC |
 | [The Most Searched Things on Google [2026]](https://www.semrush.com/blog/most-searched-keywords-google/) | Semrush Blog | 110 | Migration | 2026-05-04 11:13 UTC |
 | [How to do a website content audit in 2026 (with template)](https://www.semrush.com/blog/content-audit/) | Semrush Blog | 110 | AI Search | 2026-05-04 10:27 UTC |
