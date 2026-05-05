@@ -34,7 +34,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [The Complete Website Migration Checklist [SEO-Friendly]](https://www.semrush.com/blog/website-migration-checklist/) | Semrush Blog | 130 | Migration | 2026-05-05 14:57 UTC |
 | [Attribution gap in agentic search: how to close it](https://www.semrush.com/blog/attribution-gap-in-agentic-search/) | Semrush Blog | 130 | AI Search | 2026-05-05 08:23 UTC |
 | [The Most Searched Things on Google [2026]](https://www.semrush.com/blog/most-searched-keywords-google/) | Semrush Blog | 110 | Migration | 2026-05-04 11:13 UTC |
-| [How to do a website content audit in 2026 (with template)](https://www.semrush.com/blog/content-audit/) | Semrush Blog | 110 | AI Search | 2026-05-04 10:27 UTC |
 
 ## Notes for manual writing
 
