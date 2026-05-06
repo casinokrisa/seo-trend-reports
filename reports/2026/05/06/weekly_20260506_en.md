@@ -28,7 +28,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Web Bot Auth: Validate Authentic Bots](https://www.seroundtable.com/google-web-bot-auth-41270.html) | Search Engine Roundtable | 170 | General | 2026-05-05 11:11 UTC |
 | [Daily Search Forum Recap: May 4, 2026](https://www.seroundtable.com/recap-05-04-2026-41265.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-04 14:00 UTC |
 | [Google Search Console Fixed The 50 Week Data Logging Issue](https://www.seroundtable.com/google-search-console-fix-data-logging-issue-41260.html) | Search Engine Roundtable | 170 | GSC | 2026-05-04 11:51 UTC |
-| [Agentic AI vs. Generative AI: What’s the Difference, and Why Does It Matter?](https://ahrefs.com/blog/agentic-ai-vs-generative-ai/) | Ahrefs Blog | 160 | AI Search | 2026-05-06 16:47 UTC |
+| [Agentic AI vs. Generative AI: What’s the Difference, and Why Does It Matter?](https://ahrefs.com/blog/agentic-ai-vs-generative-ai/) | Ahrefs Blog | 140 | AI Search | 2026-05-06 16:47 UTC |
 | [How to track ChatGPT traffic for you and for competitors](https://www.semrush.com/blog/track-chatgpt-traffic-and-competitors/) | Semrush Blog | 130 | AI Search | 2026-05-06 12:50 UTC |
 | [How to optimize for AI search results in 2026](https://www.semrush.com/blog/ai-search-optimization/) | Semrush Blog | 130 | AI Search | 2026-05-06 08:31 UTC |
 | [How to do keyword research in 2026 (6 ways + framework)](https://www.semrush.com/blog/keyword-research/) | Semrush Blog | 110 | Migration | 2026-05-05 15:15 UTC |
