@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: May 6, 2026](https://www.seroundtable.com/recap-05-06-2026-41282.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-06 14:00 UTC |
+| [Daily Search Forum Recap: May 6, 2026](https://www.seroundtable.com/recap-05-06-2026-41282.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-06 14:00 UTC |
 | [Google AI Overviews With Author Names &amp; Source (Again)](https://www.seroundtable.com/google-ai-overviews-with-author-names-source-41261.html) | Search Engine Roundtable | 190 | Links | 2026-05-06 11:51 UTC |
 | [Google Tests New Anchor Links &amp; Favicon Experiences In AI Mode](https://www.seroundtable.com/google-anchor-links-favicon-ai-mode-41281.html) | Search Engine Roundtable | 190 | Links | 2026-05-06 11:45 UTC |
 | [Google Expands UCP Checkout To Main Search Results](https://www.seroundtable.com/google-expands-ucp-checkout-to-search-41272.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-06 11:41 UTC |
@@ -36,7 +36,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [How to optimize for AI search results in 2026](https://www.semrush.com/blog/ai-search-optimization/) | Semrush Blog | 130 | AI Search | 2026-05-06 08:31 UTC |
 | [How to do keyword research in 2026 (6 ways + framework)](https://www.semrush.com/blog/keyword-research/) | Semrush Blog | 110 | Migration | 2026-05-05 15:15 UTC |
 | [The Complete Website Migration Checklist [SEO-Friendly]](https://www.semrush.com/blog/website-migration-checklist/) | Semrush Blog | 110 | Migration | 2026-05-05 14:57 UTC |
-| [Attribution gap in agentic search: how to close it](https://www.semrush.com/blog/attribution-gap-in-agentic-search/) | Semrush Blog | 110 | AI Search | 2026-05-05 08:23 UTC |
 
 ## Notes for manual writing
 

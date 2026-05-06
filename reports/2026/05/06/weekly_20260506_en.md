@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: May 6, 2026](https://www.seroundtable.com/recap-05-06-2026-41282.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-06 14:00 UTC |
+| [Daily Search Forum Recap: May 6, 2026](https://www.seroundtable.com/recap-05-06-2026-41282.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-06 14:00 UTC |
 | [Google AI Overviews With Author Names &amp; Source (Again)](https://www.seroundtable.com/google-ai-overviews-with-author-names-source-41261.html) | Search Engine Roundtable | 190 | Links | 2026-05-06 11:51 UTC |
 | [Google Tests New Anchor Links &amp; Favicon Experiences In AI Mode](https://www.seroundtable.com/google-anchor-links-favicon-ai-mode-41281.html) | Search Engine Roundtable | 190 | Links | 2026-05-06 11:45 UTC |
 | [Google Expands UCP Checkout To Main Search Results](https://www.seroundtable.com/google-expands-ucp-checkout-to-search-41272.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-06 11:41 UTC |
