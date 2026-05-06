@@ -31,9 +31,11 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Data Retention Policy Updated](https://www.seroundtable.com/google-ads-updates-data-retention-policy-41269.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-05 11:31 UTC |
 | [Similarweb Data: ChatGPT Ads Click-Through Rates](https://www.seroundtable.com/chatgpt-ads-click-through-rates-41267.html) | Search Engine Roundtable | 170 | GSC | 2026-05-05 11:21 UTC |
 | [Google Web Bot Auth: Validate Authentic Bots](https://www.seroundtable.com/google-web-bot-auth-41270.html) | Search Engine Roundtable | 170 | General | 2026-05-05 11:11 UTC |
+| [Agentic AI vs. Generative AI: What’s the Difference, and Why Does It Matter?](https://ahrefs.com/blog/agentic-ai-vs-generative-ai/) | Ahrefs Blog | 160 | AI Search | 2026-05-06 16:47 UTC |
+| [How to track ChatGPT traffic for you and for competitors](https://www.semrush.com/blog/track-chatgpt-traffic-and-competitors/) | Semrush Blog | 150 | AI Search | 2026-05-06 12:50 UTC |
 | [How to optimize for AI search results in 2026](https://www.semrush.com/blog/ai-search-optimization/) | Semrush Blog | 130 | AI Search | 2026-05-06 08:31 UTC |
-| [How to do keyword research in 2026 (6 ways + framework)](https://www.semrush.com/blog/keyword-research/) | Semrush Blog | 130 | Migration | 2026-05-05 15:15 UTC |
-| [The Complete Website Migration Checklist [SEO-Friendly]](https://www.semrush.com/blog/website-migration-checklist/) | Semrush Blog | 130 | Migration | 2026-05-05 14:57 UTC |
+| [How to do keyword research in 2026 (6 ways + framework)](https://www.semrush.com/blog/keyword-research/) | Semrush Blog | 110 | Migration | 2026-05-05 15:15 UTC |
+| [The Complete Website Migration Checklist [SEO-Friendly]](https://www.semrush.com/blog/website-migration-checklist/) | Semrush Blog | 110 | Migration | 2026-05-05 14:57 UTC |
 | [Attribution gap in agentic search: how to close it](https://www.semrush.com/blog/attribution-gap-in-agentic-search/) | Semrush Blog | 110 | AI Search | 2026-05-05 08:23 UTC |
 
 ## Notes for manual writing
