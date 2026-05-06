@@ -18,12 +18,14 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google Local Service Ads Account Access Not Loading For Advertisers](https://www.seroundtable.com/google-local-service-ads-account-access-broken-41277.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-06 11:11 UTC |
 | [Daily Search Forum Recap: May 5, 2026](https://www.seroundtable.com/recap-05-05-2026-41271.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-05 14:00 UTC |
-| [Google Business Profile Suspensions Spike Over User Account Restrictions](https://www.seroundtable.com/google-business-profile-suspensions-account-restrictions-41268.html) | Search Engine Roundtable | 190 | Local SEO | 2026-05-05 11:51 UTC |
-| [Bing: 1 Billion Monthly Users Are Human, Not Agents](https://www.seroundtable.com/bing-1-billion-monthly-users-are-human-41266.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-05 11:41 UTC |
-| [Google Ads Data Retention Policy Updated](https://www.seroundtable.com/google-ads-updates-data-retention-policy-41269.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-05 11:31 UTC |
-| [Similarweb Data: ChatGPT Ads Click-Through Rates](https://www.seroundtable.com/chatgpt-ads-click-through-rates-41267.html) | Search Engine Roundtable | 190 | GSC | 2026-05-05 11:21 UTC |
-| [Google Web Bot Auth: Validate Authentic Bots](https://www.seroundtable.com/google-web-bot-auth-41270.html) | Search Engine Roundtable | 190 | General | 2026-05-05 11:11 UTC |
+| [Google Business Profile Suspensions Spike Over User Account Restrictions](https://www.seroundtable.com/google-business-profile-suspensions-account-restrictions-41268.html) | Search Engine Roundtable | 170 | Local SEO | 2026-05-05 11:51 UTC |
+| [Bing: 1 Billion Monthly Users Are Human, Not Agents](https://www.seroundtable.com/bing-1-billion-monthly-users-are-human-41266.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-05 11:41 UTC |
+| [Google Ads Data Retention Policy Updated](https://www.seroundtable.com/google-ads-updates-data-retention-policy-41269.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-05 11:31 UTC |
+| [Similarweb Data: ChatGPT Ads Click-Through Rates](https://www.seroundtable.com/chatgpt-ads-click-through-rates-41267.html) | Search Engine Roundtable | 170 | GSC | 2026-05-05 11:21 UTC |
+| [Google Web Bot Auth: Validate Authentic Bots](https://www.seroundtable.com/google-web-bot-auth-41270.html) | Search Engine Roundtable | 170 | General | 2026-05-05 11:11 UTC |
+| [How to optimize for AI search results in 2026](https://www.semrush.com/blog/ai-search-optimization/) | Semrush Blog | 150 | AI Search | 2026-05-06 08:31 UTC |
 | [How to do keyword research in 2026 (6 ways + framework)](https://www.semrush.com/blog/keyword-research/) | Semrush Blog | 130 | Migration | 2026-05-05 15:15 UTC |
 | [The Complete Website Migration Checklist [SEO-Friendly]](https://www.semrush.com/blog/website-migration-checklist/) | Semrush Blog | 130 | Migration | 2026-05-05 14:57 UTC |
 | [Attribution gap in agentic search: how to close it](https://www.semrush.com/blog/attribution-gap-in-agentic-search/) | Semrush Blog | 110 | AI Search | 2026-05-05 08:23 UTC |
