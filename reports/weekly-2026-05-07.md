@@ -27,8 +27,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Local Service Ads Account Access Not Loading For Advertisers](https://www.seroundtable.com/google-local-service-ads-account-access-broken-41277.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-06 11:11 UTC |
 | [Daily Search Forum Recap: May 5, 2026](https://www.seroundtable.com/recap-05-05-2026-41271.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-05 14:00 UTC |
 | [Google Business Profile Suspensions Spike Over User Account Restrictions](https://www.seroundtable.com/google-business-profile-suspensions-account-restrictions-41268.html) | Search Engine Roundtable | 170 | Local SEO | 2026-05-05 11:51 UTC |
-| [How Does AI Get Its Information? Training Data, RAG, MCPs, and APIs Explained](https://ahrefs.com/blog/how-does-ai-get-its-information/) | Ahrefs Blog | 160 | AI Search | 2026-05-07 15:33 UTC |
-| [11 Google Ads best practices to maximize return on ad spend](https://www.semrush.com/blog/google-ads-best-practices/) | Semrush Blog | 150 | AI Search | 2026-05-07 14:57 UTC |
+| [How Does AI Get Its Information? Training Data, RAG, MCPs, and APIs Explained](https://ahrefs.com/blog/how-does-ai-get-its-information/) | Ahrefs Blog | 140 | AI Search | 2026-05-07 15:33 UTC |
+| [11 Google Ads best practices to maximize return on ad spend](https://www.semrush.com/blog/google-ads-best-practices/) | Semrush Blog | 130 | AI Search | 2026-05-07 14:57 UTC |
 | [Google’s Universal Commerce Protocol capabilities expand to main SERP](https://www.semrush.com/blog/google-ucp-checkout-in-main-serp/) | Semrush Blog | 130 | AI Search | 2026-05-07 08:36 UTC |
 | [Agentic AI vs. Generative AI: What’s the Difference, and Why Does It Matter?](https://ahrefs.com/blog/agentic-ai-vs-generative-ai/) | Ahrefs Blog | 120 | AI Search | 2026-05-06 16:47 UTC |
 | [How to track ChatGPT traffic for you and for competitors](https://www.semrush.com/blog/track-chatgpt-traffic-and-competitors/) | Semrush Blog | 110 | AI Search | 2026-05-06 12:50 UTC |
