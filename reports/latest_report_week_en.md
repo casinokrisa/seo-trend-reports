@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: May 7, 2026](https://www.seroundtable.com/recap-05-07-2026-41287.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-07 14:00 UTC |
+| [Daily Search Forum Recap: May 7, 2026](https://www.seroundtable.com/recap-05-07-2026-41287.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-07 14:00 UTC |
 | [Google Improves Links Within AI Mode &amp; AI Overviews In 5 Ways](https://www.seroundtable.com/google-improves-links-ai-mode-ai-overviews-41280.html) | Search Engine Roundtable | 190 | Links | 2026-05-07 11:51 UTC |
 | [Microsoft Bing On Search Indexing vs. Grounding Indexing](https://www.seroundtable.com/bing-search-indexing-vs-grounding-indexing-41284.html) | Search Engine Roundtable | 190 | Indexing | 2026-05-07 11:41 UTC |
 | [Google Ads AI Max Content &amp; Titles Exclusions On Account Level Coming](https://www.seroundtable.com/google-ads-ai-max-content-titles-exclusions-41285.html) | Search Engine Roundtable | 190 | Links | 2026-05-07 11:31 UTC |
