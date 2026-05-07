@@ -6,7 +6,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [client's map pack ranking dropped 4 spots and nothing changed on their end. what do you check first](https://www.reddit.com/r/localseo/comments/1t61i3y/clients_map_pack_ranking_dropped_4_spots_and/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-07 05:42 UTC |
+| [Seeing lower crawl activity after recent technical SEO cleanup. No major 4xx/5xx spikes, response time is stable, and indexing seems okay. Is Google simply recalibrating crawl demand, or could internal linking/content updates affect this much?](https://www.reddit.com/r/localseo/comments/1t6153b/seeing_lower_crawl_activity_after_recent/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Indexing | 2026-05-07 05:22 UTC |
+| [Expanding on local reach](https://www.reddit.com/r/localseo/comments/1t5zs9x/expanding_on_local_reach/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-07 04:11 UTC |
+| [Using ChatGPT for Local SEO Content — What’s the Best Workflow?](https://www.reddit.com/r/localseo/comments/1t5wxie/using_chatgpt_for_local_seo_content_whats_the/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-07 01:57 UTC |
+| [Managing multiple GBP suspension appeals at once — what’s your system?](https://www.reddit.com/r/localseo/comments/1t5ot5e/managing_multiple_gbp_suspension_appeals_at_once/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-06 20:26 UTC |
+| [GBP optimization question](https://www.reddit.com/r/localseo/comments/1t5o521/gbp_optimization_question/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-06 20:02 UTC |
+| [:Are SEO tools too complicated? Thinking of building something for Google Maps](https://www.reddit.com/r/localseo/comments/1t5n0iu/are_seo_tools_too_complicated_thinking_of/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-06 19:23 UTC |
+| [SEO is not just words and Excel spreadsheets...](https://www.reddit.com/r/localseo/comments/1t5msd0/seo_is_not_just_words_and_excel_spreadsheets/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-06 19:15 UTC |
+| [Local SEO rebuild case study: car detailing site, 15+ calls/month, 90-day breakdown](https://www.reddit.com/r/localseo/comments/1t5lkz9/local_seo_rebuild_case_study_car_detailing_site/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-06 18:32 UTC |
+| [Local SEO Tip: Smart Review Replies](https://www.reddit.com/r/localseo/comments/1t5khn5/local_seo_tip_smart_review_replies/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-06 17:55 UTC |
+| [I helped a friend automate his SEO reporting, posted the workflow on Reddit, got 2 DMs asking me to build it... so I built the product](https://www.reddit.com/r/localseo/comments/1t5h003/i_helped_a_friend_automate_his_seo_reporting/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-06 15:55 UTC |
+| [Local SEO plateaus when the website and GBP are treated like two separate workflows.](https://www.reddit.com/r/localseo/comments/1t5g88f/local_seo_plateaus_when_the_website_and_gbp_are/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-06 15:28 UTC |
 
 ## Weekly notable items (Sites)
 
