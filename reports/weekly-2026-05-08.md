@@ -12,21 +12,22 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: May 7, 2026](https://www.seroundtable.com/recap-05-07-2026-41287.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-07 14:00 UTC |
-| [Google Improves Links Within AI Mode &amp; AI Overviews In 5 Ways](https://www.seroundtable.com/google-improves-links-ai-mode-ai-overviews-41280.html) | Search Engine Roundtable | 190 | Links | 2026-05-07 11:51 UTC |
+| [Daily Search Forum Recap: May 8, 2026](https://www.seroundtable.com/recap-05-08-2026-41294.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-08 14:00 UTC |
+| [Search News Buzz Video Recap: Google AI Systems Black Box, Links In AI, UCP Checkout Expands, ChatGPT Ad Manager, Ask.com Shutters &amp; More](https://www.seroundtable.com/video-05-08-2026-41290.html) | Search Engine Roundtable | 210 | Links | 2026-05-08 12:01 UTC |
+| [Google Search Ranking Volatility Heated Today - May 8th](https://www.seroundtable.com/google-search-ranking-volatility-heated-41293.html) | Search Engine Roundtable | 210 | General | 2026-05-08 11:55 UTC |
+| [Google Ads Journey-Aware Bidding, Expands Smart Bidding Exploration &amp; Budget Pacing](https://www.seroundtable.com/google-ads-smart-bidding-exploration-budget-pacing-41288.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-08 11:51 UTC |
+| [Google May Adjust Its Site Reputation Abuse Policy For EU News Sites](https://www.seroundtable.com/google-site-reputation-abuse-policy-eu-news-41289.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-08 11:41 UTC |
+| [Google AdSense Vignette Ads Drops Back Button Trigger Over Hijack Penalty](https://www.seroundtable.com/google-adsense-back-button-trigger-gone-41292.html) | Search Engine Roundtable | 210 | General | 2026-05-08 11:31 UTC |
+| [Google Ads To Require Passkey For Certain Sensitive Actions After July 15](https://www.seroundtable.com/google-ads-passkey-sensitive-actions-41286.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-08 11:21 UTC |
+| [Microsoft Advertising Custom Columns Supports All Conversion Metrics](https://www.seroundtable.com/microsoft-ads-custom-columns-conversion-metrics-41291.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-08 11:11 UTC |
+| [Daily Search Forum Recap: May 7, 2026](https://www.seroundtable.com/recap-05-07-2026-41287.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-07 14:00 UTC |
+| [Google Improves Links Within AI Mode &amp; AI Overviews In 5 Ways](https://www.seroundtable.com/google-improves-links-ai-mode-ai-overviews-41280.html) | Search Engine Roundtable | 170 | Links | 2026-05-07 11:51 UTC |
 | [Microsoft Bing On Search Indexing vs. Grounding Indexing](https://www.seroundtable.com/bing-search-indexing-vs-grounding-indexing-41284.html) | Search Engine Roundtable | 170 | Indexing | 2026-05-07 11:41 UTC |
 | [Google Ads AI Max Content &amp; Titles Exclusions On Account Level Coming](https://www.seroundtable.com/google-ads-ai-max-content-titles-exclusions-41285.html) | Search Engine Roundtable | 170 | Links | 2026-05-07 11:31 UTC |
 | [Bing Places For Business Finally Mobile Friendly](https://www.seroundtable.com/bing-places-for-business-mobile-friendly-41283.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-07 11:21 UTC |
 | [Google Ads Call Recording To Default To Yes On July 1st](https://www.seroundtable.com/google-ads-call-recording-default-yes-41262.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-07 11:11 UTC |
 | [Daily Search Forum Recap: May 6, 2026](https://www.seroundtable.com/recap-05-06-2026-41282.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-06 14:00 UTC |
-| [Google AI Overviews With Author Names &amp; Source (Again)](https://www.seroundtable.com/google-ai-overviews-with-author-names-source-41261.html) | Search Engine Roundtable | 170 | Links | 2026-05-06 11:51 UTC |
-| [Google Tests New Anchor Links &amp; Favicon Experiences In AI Mode](https://www.seroundtable.com/google-anchor-links-favicon-ai-mode-41281.html) | Search Engine Roundtable | 170 | Links | 2026-05-06 11:45 UTC |
-| [Google Expands UCP Checkout To Main Search Results](https://www.seroundtable.com/google-expands-ucp-checkout-to-search-41272.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-06 11:41 UTC |
-| [Google Tests Gemini 3 Model Options In Search Bar](https://www.seroundtable.com/google-gemini-3-model-options-search-41278.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-06 11:31 UTC |
-| [Official: OpenAI Beta Self-Serve Ads Manager For ChatGPT Ads](https://www.seroundtable.com/openai-self-serve-ads-manager-41279.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-06 11:21 UTC |
-| [Google Local Service Ads Account Access Not Loading For Advertisers](https://www.seroundtable.com/google-local-service-ads-account-access-broken-41277.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-06 11:11 UTC |
-| [Daily Search Forum Recap: May 5, 2026](https://www.seroundtable.com/recap-05-05-2026-41271.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-05 14:00 UTC |
-| [Google Business Profile Suspensions Spike Over User Account Restrictions](https://www.seroundtable.com/google-business-profile-suspensions-account-restrictions-41268.html) | Search Engine Roundtable | 170 | Local SEO | 2026-05-05 11:51 UTC |
+| [On-Page AEO: 4 Writing Frameworks for Better AI Visibility](https://ahrefs.com/blog/on-page-aeo/) | Ahrefs Blog | 160 | AI Search | 2026-05-08 13:35 UTC |
 | [ToFu, MoFu, BoFu: A practical guide to the conversion funnel](https://www.semrush.com/blog/tofu-mofu-bofu-a-practical-guide-to-the-conversion-funnel/) | Semrush Blog | 150 | Content | 2026-05-08 09:16 UTC |
 | [How to find and fix what AI gets wrong about your brand](https://www.semrush.com/blog/fix-ai-brand-misinformation/) | Semrush Blog | 150 | AI Search | 2026-05-08 08:55 UTC |
 | [How Does AI Get Its Information? Training Data, RAG, MCPs, and APIs Explained](https://ahrefs.com/blog/how-does-ai-get-its-information/) | Ahrefs Blog | 140 | AI Search | 2026-05-07 15:33 UTC |
@@ -43,7 +44,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [How to rank in AI search (6-month playbook)](https://www.semrush.com/blog/how-to-rank-in-ai-search/) | Semrush Blog | 95 | AI Search | 2026-05-04 09:47 UTC |
 | [Fintech AI search case study: 4 lessons from Wise.com](https://www.semrush.com/blog/fintech-in-ai-search-how-wise-com-wins-ai-visibility/) | Semrush Blog | 95 | AI Search | 2026-05-04 09:19 UTC |
 | [Use Semrush's keyword clustering tool to build your strategy](https://www.semrush.com/blog/keyword-manager-clustering-tool/) | Semrush Blog | 95 | Migration | 2026-05-01 16:19 UTC |
-| [How to optimize for agentic search with Semrush](https://www.semrush.com/blog/agentic-search-optimization-with-semrush/) | Semrush Blog | 95 | General | 2026-05-01 14:03 UTC |
 
 ## Notes
 
