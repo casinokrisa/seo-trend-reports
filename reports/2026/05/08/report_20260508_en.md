@@ -27,7 +27,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [How Does AI Get Its Information? Training Data, RAG, MCPs, and APIs Explained](https://ahrefs.com/blog/how-does-ai-get-its-information/) | Ahrefs Blog | 140 | AI Search | 2026-05-07 15:33 UTC |
 | [11 Google Ads best practices to maximize return on ad spend](https://www.semrush.com/blog/google-ads-best-practices/) | Semrush Blog | 130 | AI Search | 2026-05-07 14:57 UTC |
 | [Google’s Universal Commerce Protocol capabilities expand to main SERP](https://www.semrush.com/blog/google-ucp-checkout-in-main-serp/) | Semrush Blog | 130 | AI Search | 2026-05-07 08:36 UTC |
-| [Agentic AI vs. Generative AI: What’s the Difference, and Why Does It Matter?](https://ahrefs.com/blog/agentic-ai-vs-generative-ai/) | Ahrefs Blog | 120 | AI Search | 2026-05-06 16:47 UTC |
 
 ## Notes for manual writing
 
