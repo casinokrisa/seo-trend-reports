@@ -29,13 +29,13 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Business Profile Suspensions Spike Over User Account Restrictions](https://www.seroundtable.com/google-business-profile-suspensions-account-restrictions-41268.html) | Search Engine Roundtable | 170 | Local SEO | 2026-05-05 11:51 UTC |
 | [How Does AI Get Its Information? Training Data, RAG, MCPs, and APIs Explained](https://ahrefs.com/blog/how-does-ai-get-its-information/) | Ahrefs Blog | 140 | AI Search | 2026-05-07 15:33 UTC |
 | [11 Google Ads best practices to maximize return on ad spend](https://www.semrush.com/blog/google-ads-best-practices/) | Semrush Blog | 130 | AI Search | 2026-05-07 14:57 UTC |
-| [Google’s Universal Commerce Protocol capabilities expand to main SERP](https://www.semrush.com/blog/google-ucp-checkout-in-main-serp/) | Semrush Blog | 130 | AI Search | 2026-05-07 08:36 UTC |
 | [Agentic AI vs. Generative AI: What’s the Difference, and Why Does It Matter?](https://ahrefs.com/blog/agentic-ai-vs-generative-ai/) | Ahrefs Blog | 120 | AI Search | 2026-05-06 16:47 UTC |
+| [Google’s Universal Commerce Protocol capabilities expand to main SERP](https://www.semrush.com/blog/google-ucp-checkout-in-main-serp/) | Semrush Blog | 110 | AI Search | 2026-05-07 08:36 UTC |
 | [How to track ChatGPT traffic for you and for competitors](https://www.semrush.com/blog/track-chatgpt-traffic-and-competitors/) | Semrush Blog | 110 | AI Search | 2026-05-06 12:50 UTC |
 | [How to optimize for AI search results in 2026](https://www.semrush.com/blog/ai-search-optimization/) | Semrush Blog | 110 | AI Search | 2026-05-06 08:31 UTC |
 | [How to do keyword research in 2026 (6 ways + framework)](https://www.semrush.com/blog/keyword-research/) | Semrush Blog | 110 | Migration | 2026-05-05 15:15 UTC |
 | [The Complete Website Migration Checklist [SEO-Friendly]](https://www.semrush.com/blog/website-migration-checklist/) | Semrush Blog | 110 | Migration | 2026-05-05 14:57 UTC |
-| [Attribution gap in agentic search: how to close it](https://www.semrush.com/blog/attribution-gap-in-agentic-search/) | Semrush Blog | 110 | AI Search | 2026-05-05 08:23 UTC |
+| [Attribution gap in agentic search: how to close it](https://www.semrush.com/blog/attribution-gap-in-agentic-search/) | Semrush Blog | 95 | AI Search | 2026-05-05 08:23 UTC |
 | [The Most Searched Things on Google [2026]](https://www.semrush.com/blog/most-searched-keywords-google/) | Semrush Blog | 95 | Migration | 2026-05-04 11:13 UTC |
 | [How to do a website content audit in 2026 (with template)](https://www.semrush.com/blog/content-audit/) | Semrush Blog | 95 | AI Search | 2026-05-04 10:27 UTC |
 | [How to rank in AI search (6-month playbook)](https://www.semrush.com/blog/how-to-rank-in-ai-search/) | Semrush Blog | 95 | AI Search | 2026-05-04 09:47 UTC |

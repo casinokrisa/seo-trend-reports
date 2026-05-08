@@ -26,7 +26,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Call Recording To Default To Yes On July 1st](https://www.seroundtable.com/google-ads-call-recording-default-yes-41262.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-07 11:11 UTC |
 | [How Does AI Get Its Information? Training Data, RAG, MCPs, and APIs Explained](https://ahrefs.com/blog/how-does-ai-get-its-information/) | Ahrefs Blog | 140 | AI Search | 2026-05-07 15:33 UTC |
 | [11 Google Ads best practices to maximize return on ad spend](https://www.semrush.com/blog/google-ads-best-practices/) | Semrush Blog | 130 | AI Search | 2026-05-07 14:57 UTC |
-| [Google’s Universal Commerce Protocol capabilities expand to main SERP](https://www.semrush.com/blog/google-ucp-checkout-in-main-serp/) | Semrush Blog | 130 | AI Search | 2026-05-07 08:36 UTC |
+| [Google’s Universal Commerce Protocol capabilities expand to main SERP](https://www.semrush.com/blog/google-ucp-checkout-in-main-serp/) | Semrush Blog | 110 | AI Search | 2026-05-07 08:36 UTC |
 
 ## Notes for manual writing
 
