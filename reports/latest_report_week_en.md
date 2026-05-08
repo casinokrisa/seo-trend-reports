@@ -28,7 +28,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Bing Places For Business Finally Mobile Friendly](https://www.seroundtable.com/bing-places-for-business-mobile-friendly-41283.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-07 11:21 UTC |
 | [Google Ads Call Recording To Default To Yes On July 1st](https://www.seroundtable.com/google-ads-call-recording-default-yes-41262.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-07 11:11 UTC |
 | [Daily Search Forum Recap: May 6, 2026](https://www.seroundtable.com/recap-05-06-2026-41282.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-06 14:00 UTC |
-| [Claude Skills for SEO and Marketing: What They Are and How to Use Them](https://ahrefs.com/blog/claude-skills/) | Ahrefs Blog | 160 | Links | 2026-05-08 16:59 UTC |
+| [Claude Skills for SEO and Marketing: What They Are and How to Use Them](https://ahrefs.com/blog/claude-skills/) | Ahrefs Blog | 140 | Links | 2026-05-08 16:59 UTC |
 | [On-Page AEO: 4 Writing Frameworks for Better AI Visibility](https://ahrefs.com/blog/on-page-aeo/) | Ahrefs Blog | 140 | AI Search | 2026-05-08 13:35 UTC |
 | [ToFu, MoFu, BoFu: A practical guide to the conversion funnel](https://www.semrush.com/blog/tofu-mofu-bofu-a-practical-guide-to-the-conversion-funnel/) | Semrush Blog | 130 | Content | 2026-05-08 09:16 UTC |
 | [How to find and fix what AI gets wrong about your brand](https://www.semrush.com/blog/fix-ai-brand-misinformation/) | Semrush Blog | 130 | AI Search | 2026-05-08 08:55 UTC |
