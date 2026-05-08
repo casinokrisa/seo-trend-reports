@@ -18,6 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Deprecating the FAQ rich result feature](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 220 | Migration | 2026-05-08 00:00 UTC |
 | [Daily Search Forum Recap: May 8, 2026](https://www.seroundtable.com/recap-05-08-2026-41294.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-08 14:00 UTC |
 | [Search News Buzz Video Recap: Google AI Systems Black Box, Links In AI, UCP Checkout Expands, ChatGPT Ad Manager, Ask.com Shutters &amp; More](https://www.seroundtable.com/video-05-08-2026-41290.html) | Search Engine Roundtable | 210 | Links | 2026-05-08 12:01 UTC |
 | [Google Search Ranking Volatility Heated Today - May 8th](https://www.seroundtable.com/google-search-ranking-volatility-heated-41293.html) | Search Engine Roundtable | 210 | General | 2026-05-08 11:55 UTC |
@@ -33,11 +34,10 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Bing Places For Business Finally Mobile Friendly](https://www.seroundtable.com/bing-places-for-business-mobile-friendly-41283.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-07 11:21 UTC |
 | [Google Ads Call Recording To Default To Yes On July 1st](https://www.seroundtable.com/google-ads-call-recording-default-yes-41262.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-07 11:11 UTC |
 | [On-Page AEO: 4 Writing Frameworks for Better AI Visibility](https://ahrefs.com/blog/on-page-aeo/) | Ahrefs Blog | 160 | AI Search | 2026-05-08 13:35 UTC |
-| [ToFu, MoFu, BoFu: A practical guide to the conversion funnel](https://www.semrush.com/blog/tofu-mofu-bofu-a-practical-guide-to-the-conversion-funnel/) | Semrush Blog | 150 | Content | 2026-05-08 09:16 UTC |
-| [How to find and fix what AI gets wrong about your brand](https://www.semrush.com/blog/fix-ai-brand-misinformation/) | Semrush Blog | 150 | AI Search | 2026-05-08 08:55 UTC |
-| [How Does AI Get Its Information? Training Data, RAG, MCPs, and APIs Explained](https://ahrefs.com/blog/how-does-ai-get-its-information/) | Ahrefs Blog | 140 | AI Search | 2026-05-07 15:33 UTC |
-| [11 Google Ads best practices to maximize return on ad spend](https://www.semrush.com/blog/google-ads-best-practices/) | Semrush Blog | 130 | AI Search | 2026-05-07 14:57 UTC |
-| [Google’s Universal Commerce Protocol capabilities expand to main SERP](https://www.semrush.com/blog/google-ucp-checkout-in-main-serp/) | Semrush Blog | 110 | AI Search | 2026-05-07 08:36 UTC |
+| [ToFu, MoFu, BoFu: A practical guide to the conversion funnel](https://www.semrush.com/blog/tofu-mofu-bofu-a-practical-guide-to-the-conversion-funnel/) | Semrush Blog | 130 | Content | 2026-05-08 09:16 UTC |
+| [How to find and fix what AI gets wrong about your brand](https://www.semrush.com/blog/fix-ai-brand-misinformation/) | Semrush Blog | 130 | AI Search | 2026-05-08 08:55 UTC |
+| [How Does AI Get Its Information? Training Data, RAG, MCPs, and APIs Explained](https://ahrefs.com/blog/how-does-ai-get-its-information/) | Ahrefs Blog | 120 | AI Search | 2026-05-07 15:33 UTC |
+| [11 Google Ads best practices to maximize return on ad spend](https://www.semrush.com/blog/google-ads-best-practices/) | Semrush Blog | 110 | AI Search | 2026-05-07 14:57 UTC |
 
 ## Notes for manual writing
 
