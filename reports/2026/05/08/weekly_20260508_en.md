@@ -14,10 +14,10 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: May 7, 2026](https://www.seroundtable.com/recap-05-07-2026-41287.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-07 14:00 UTC |
 | [Google Improves Links Within AI Mode &amp; AI Overviews In 5 Ways](https://www.seroundtable.com/google-improves-links-ai-mode-ai-overviews-41280.html) | Search Engine Roundtable | 190 | Links | 2026-05-07 11:51 UTC |
-| [Microsoft Bing On Search Indexing vs. Grounding Indexing](https://www.seroundtable.com/bing-search-indexing-vs-grounding-indexing-41284.html) | Search Engine Roundtable | 190 | Indexing | 2026-05-07 11:41 UTC |
-| [Google Ads AI Max Content &amp; Titles Exclusions On Account Level Coming](https://www.seroundtable.com/google-ads-ai-max-content-titles-exclusions-41285.html) | Search Engine Roundtable | 190 | Links | 2026-05-07 11:31 UTC |
-| [Bing Places For Business Finally Mobile Friendly](https://www.seroundtable.com/bing-places-for-business-mobile-friendly-41283.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-07 11:21 UTC |
-| [Google Ads Call Recording To Default To Yes On July 1st](https://www.seroundtable.com/google-ads-call-recording-default-yes-41262.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-07 11:11 UTC |
+| [Microsoft Bing On Search Indexing vs. Grounding Indexing](https://www.seroundtable.com/bing-search-indexing-vs-grounding-indexing-41284.html) | Search Engine Roundtable | 170 | Indexing | 2026-05-07 11:41 UTC |
+| [Google Ads AI Max Content &amp; Titles Exclusions On Account Level Coming](https://www.seroundtable.com/google-ads-ai-max-content-titles-exclusions-41285.html) | Search Engine Roundtable | 170 | Links | 2026-05-07 11:31 UTC |
+| [Bing Places For Business Finally Mobile Friendly](https://www.seroundtable.com/bing-places-for-business-mobile-friendly-41283.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-07 11:21 UTC |
+| [Google Ads Call Recording To Default To Yes On July 1st](https://www.seroundtable.com/google-ads-call-recording-default-yes-41262.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-07 11:11 UTC |
 | [Daily Search Forum Recap: May 6, 2026](https://www.seroundtable.com/recap-05-06-2026-41282.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-06 14:00 UTC |
 | [Google AI Overviews With Author Names &amp; Source (Again)](https://www.seroundtable.com/google-ai-overviews-with-author-names-source-41261.html) | Search Engine Roundtable | 170 | Links | 2026-05-06 11:51 UTC |
 | [Google Tests New Anchor Links &amp; Favicon Experiences In AI Mode](https://www.seroundtable.com/google-anchor-links-favicon-ai-mode-41281.html) | Search Engine Roundtable | 170 | Links | 2026-05-06 11:45 UTC |
@@ -27,6 +27,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Local Service Ads Account Access Not Loading For Advertisers](https://www.seroundtable.com/google-local-service-ads-account-access-broken-41277.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-06 11:11 UTC |
 | [Daily Search Forum Recap: May 5, 2026](https://www.seroundtable.com/recap-05-05-2026-41271.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-05 14:00 UTC |
 | [Google Business Profile Suspensions Spike Over User Account Restrictions](https://www.seroundtable.com/google-business-profile-suspensions-account-restrictions-41268.html) | Search Engine Roundtable | 170 | Local SEO | 2026-05-05 11:51 UTC |
+| [ToFu, MoFu, BoFu: A practical guide to the conversion funnel](https://www.semrush.com/blog/tofu-mofu-bofu-a-practical-guide-to-the-conversion-funnel/) | Semrush Blog | 150 | Content | 2026-05-08 09:16 UTC |
+| [How to find and fix what AI gets wrong about your brand](https://www.semrush.com/blog/fix-ai-brand-misinformation/) | Semrush Blog | 150 | AI Search | 2026-05-08 08:55 UTC |
 | [How Does AI Get Its Information? Training Data, RAG, MCPs, and APIs Explained](https://ahrefs.com/blog/how-does-ai-get-its-information/) | Ahrefs Blog | 140 | AI Search | 2026-05-07 15:33 UTC |
 | [11 Google Ads best practices to maximize return on ad spend](https://www.semrush.com/blog/google-ads-best-practices/) | Semrush Blog | 130 | AI Search | 2026-05-07 14:57 UTC |
 | [Agentic AI vs. Generative AI: What’s the Difference, and Why Does It Matter?](https://ahrefs.com/blog/agentic-ai-vs-generative-ai/) | Ahrefs Blog | 120 | AI Search | 2026-05-06 16:47 UTC |
