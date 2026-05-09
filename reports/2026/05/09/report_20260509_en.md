@@ -6,29 +6,13 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Do local businesses actually benefit from posting daily on Google Business Profile anymore?](https://www.reddit.com/r/localseo/comments/1t7x44y/do_local_businesses_actually_benefit_from_posting/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-09 06:37 UTC |
-| [Google is officially ending FAQ rich results in Search.](https://www.reddit.com/r/localseo/comments/1t7vwdv/google_is_officially_ending_faq_rich_results_in/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-09 05:32 UTC |
-| [What would you do](https://www.reddit.com/r/localseo/comments/1t7txl0/what_would_you_do/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-09 03:52 UTC |
-| [Hot take: most local businesses are optimizing for the wrong search intent entirely](https://www.reddit.com/r/localseo/comments/1t7qilc/hot_take_most_local_businesses_are_optimizing_for/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-09 01:10 UTC |
-| [Las mejores extensiones de dominio en 2026: .ai, .io, .shop y .cloud](https://www.reddit.com/r/localseo/comments/1t7ntgq/las_mejores_extensiones_de_dominio_en_2026_ai_io/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-05-08 23:10 UTC |
-| [What does it take to be the top?](https://www.reddit.com/r/localseo/comments/1t7nkrc/what_does_it_take_to_be_the_top/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-08 23:00 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-| 1 | [Do local businesses actually benefit from posting daily on Google Business Profile anymore?](https://www.reddit.com/r/localseo/comments/1t7x44y/do_local_businesses_actually_benefit_from_posting/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-09 06:37 UTC |
-| 2 | [Google is officially ending FAQ rich results in Search.](https://www.reddit.com/r/localseo/comments/1t7vwdv/google_is_officially_ending_faq_rich_results_in/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-09 05:32 UTC |
-| 3 | [What would you do](https://www.reddit.com/r/localseo/comments/1t7txl0/what_would_you_do/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-09 03:52 UTC |
-| 4 | [Hot take: most local businesses are optimizing for the wrong search intent entirely](https://www.reddit.com/r/localseo/comments/1t7qilc/hot_take_most_local_businesses_are_optimizing_for/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-09 01:10 UTC |
-| 5 | [Las mejores extensiones de dominio en 2026: .ai, .io, .shop y .cloud](https://www.reddit.com/r/localseo/comments/1t7ntgq/las_mejores_extensiones_de_dominio_en_2026_ai_io/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-05-08 23:10 UTC |
-| 6 | [What does it take to be the top?](https://www.reddit.com/r/localseo/comments/1t7nkrc/what_does_it_take_to_be_the_top/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-08 23:00 UTC |
-| 7 | [So google no longer accepting faq schema, what do you think?](https://www.reddit.com/r/localseo/comments/1t7l3bx/so_google_no_longer_accepting_faq_schema_what_do/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Technical SEO | 2026-05-08 21:20 UTC |
-| 8 | [Way to confirm SEO experts Map Ranking is accurate?](https://www.reddit.com/r/localseo/comments/1t7ivbr/way_to_confirm_seo_experts_map_ranking_is_accurate/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-08 19:59 UTC |
-| 9 | [I have my unused credits expiring on localfalcon on 10th may(not an ad, i can verify)](https://www.reddit.com/r/localseo/comments/1t7gjkv/i_have_my_unused_credits_expiring_on_localfalcon/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-08 18:33 UTC |
-| 10 | [SEO Rant - Move On?](https://www.reddit.com/r/localseo/comments/1t7gi7j/seo_rant_move_on/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-08 18:32 UTC |
-| 11 | [Same phone number across multiple locations](https://www.reddit.com/r/localseo/comments/1t7fg4p/same_phone_number_across_multiple_locations/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-08 17:55 UTC |
-| 12 | [Why the quality of image get reduced, which is used in publishing GBP Updates?](https://www.reddit.com/r/localseo/comments/1t7fblj/why_the_quality_of_image_get_reduced_which_is/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-08 17:51 UTC |
+|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Notable items (Sites)
 
