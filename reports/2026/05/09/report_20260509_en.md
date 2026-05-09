@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: May 8, 2026](https://www.seroundtable.com/recap-05-08-2026-41294.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-08 14:00 UTC |
+| [Daily Search Forum Recap: May 8, 2026](https://www.seroundtable.com/recap-05-08-2026-41294.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-08 14:00 UTC |
 | [Search News Buzz Video Recap: Google AI Systems Black Box, Links In AI, UCP Checkout Expands, ChatGPT Ad Manager, Ask.com Shutters &amp; More](https://www.seroundtable.com/video-05-08-2026-41290.html) | Search Engine Roundtable | 170 | Links | 2026-05-08 12:01 UTC |
 | [Google Search Ranking Volatility Heated Today - May 8th](https://www.seroundtable.com/google-search-ranking-volatility-heated-41293.html) | Search Engine Roundtable | 170 | General | 2026-05-08 11:55 UTC |
 | [Google Ads Journey-Aware Bidding, Expands Smart Bidding Exploration &amp; Budget Pacing](https://www.seroundtable.com/google-ads-smart-bidding-exploration-budget-pacing-41288.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-08 11:51 UTC |

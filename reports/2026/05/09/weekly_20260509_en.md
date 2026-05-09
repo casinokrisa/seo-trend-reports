@@ -13,7 +13,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Deprecating the FAQ rich result feature](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Migration | 2026-05-08 00:00 UTC |
-| [Daily Search Forum Recap: May 8, 2026](https://www.seroundtable.com/recap-05-08-2026-41294.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-08 14:00 UTC |
+| [Daily Search Forum Recap: May 8, 2026](https://www.seroundtable.com/recap-05-08-2026-41294.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-08 14:00 UTC |
 | [Search News Buzz Video Recap: Google AI Systems Black Box, Links In AI, UCP Checkout Expands, ChatGPT Ad Manager, Ask.com Shutters &amp; More](https://www.seroundtable.com/video-05-08-2026-41290.html) | Search Engine Roundtable | 170 | Links | 2026-05-08 12:01 UTC |
 | [Google Search Ranking Volatility Heated Today - May 8th](https://www.seroundtable.com/google-search-ranking-volatility-heated-41293.html) | Search Engine Roundtable | 170 | General | 2026-05-08 11:55 UTC |
 | [Google Ads Journey-Aware Bidding, Expands Smart Bidding Exploration &amp; Budget Pacing](https://www.seroundtable.com/google-ads-smart-bidding-exploration-budget-pacing-41288.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-08 11:51 UTC |
@@ -27,7 +27,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads AI Max Content &amp; Titles Exclusions On Account Level Coming](https://www.seroundtable.com/google-ads-ai-max-content-titles-exclusions-41285.html) | Search Engine Roundtable | 170 | Links | 2026-05-07 11:31 UTC |
 | [Bing Places For Business Finally Mobile Friendly](https://www.seroundtable.com/bing-places-for-business-mobile-friendly-41283.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-07 11:21 UTC |
 | [Google Ads Call Recording To Default To Yes On July 1st](https://www.seroundtable.com/google-ads-call-recording-default-yes-41262.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-07 11:11 UTC |
-| [Daily Search Forum Recap: May 6, 2026](https://www.seroundtable.com/recap-05-06-2026-41282.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-06 14:00 UTC |
+| [Daily Search Forum Recap: May 6, 2026](https://www.seroundtable.com/recap-05-06-2026-41282.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-06 14:00 UTC |
 | [Claude Skills for SEO and Marketing: What They Are and How to Use Them](https://ahrefs.com/blog/claude-skills/) | Ahrefs Blog | 140 | Links | 2026-05-08 16:59 UTC |
 | [On-Page AEO: 4 Writing Frameworks for Better AI Visibility](https://ahrefs.com/blog/on-page-aeo/) | Ahrefs Blog | 120 | AI Search | 2026-05-08 13:35 UTC |
 | [How Does AI Get Its Information? Training Data, RAG, MCPs, and APIs Explained](https://ahrefs.com/blog/how-does-ai-get-its-information/) | Ahrefs Blog | 120 | AI Search | 2026-05-07 15:33 UTC |
