@@ -21,7 +21,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google AdSense Vignette Ads Drops Back Button Trigger Over Hijack Penalty](https://www.seroundtable.com/google-adsense-back-button-trigger-gone-41292.html) | Search Engine Roundtable | 170 | General | 2026-05-08 11:31 UTC |
 | [Google Ads To Require Passkey For Certain Sensitive Actions After July 15](https://www.seroundtable.com/google-ads-passkey-sensitive-actions-41286.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-08 11:21 UTC |
 | [Microsoft Advertising Custom Columns Supports All Conversion Metrics](https://www.seroundtable.com/microsoft-ads-custom-columns-conversion-metrics-41291.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-08 11:11 UTC |
-| [Daily Search Forum Recap: May 7, 2026](https://www.seroundtable.com/recap-05-07-2026-41287.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-07 14:00 UTC |
+| [Daily Search Forum Recap: May 7, 2026](https://www.seroundtable.com/recap-05-07-2026-41287.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-07 14:00 UTC |
 | [Google Improves Links Within AI Mode &amp; AI Overviews In 5 Ways](https://www.seroundtable.com/google-improves-links-ai-mode-ai-overviews-41280.html) | Search Engine Roundtable | 155 | Links | 2026-05-07 11:51 UTC |
 | [Microsoft Bing On Search Indexing vs. Grounding Indexing](https://www.seroundtable.com/bing-search-indexing-vs-grounding-indexing-41284.html) | Search Engine Roundtable | 155 | Indexing | 2026-05-07 11:41 UTC |
 | [Google Ads AI Max Content &amp; Titles Exclusions On Account Level Coming](https://www.seroundtable.com/google-ads-ai-max-content-titles-exclusions-41285.html) | Search Engine Roundtable | 155 | Links | 2026-05-07 11:31 UTC |
@@ -33,8 +33,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [How Does AI Get Its Information? Training Data, RAG, MCPs, and APIs Explained](https://ahrefs.com/blog/how-does-ai-get-its-information/) | Ahrefs Blog | 120 | AI Search | 2026-05-07 15:33 UTC |
 | [ToFu, MoFu, BoFu: A practical guide to the conversion funnel](https://www.semrush.com/blog/tofu-mofu-bofu-a-practical-guide-to-the-conversion-funnel/) | Semrush Blog | 110 | Content | 2026-05-08 09:16 UTC |
 | [How to find and fix what AI gets wrong about your brand](https://www.semrush.com/blog/fix-ai-brand-misinformation/) | Semrush Blog | 110 | AI Search | 2026-05-08 08:55 UTC |
-| [11 Google Ads best practices to maximize return on ad spend](https://www.semrush.com/blog/google-ads-best-practices/) | Semrush Blog | 110 | AI Search | 2026-05-07 14:57 UTC |
 | [Agentic AI vs. Generative AI: What’s the Difference, and Why Does It Matter?](https://ahrefs.com/blog/agentic-ai-vs-generative-ai/) | Ahrefs Blog | 105 | AI Search | 2026-05-06 16:47 UTC |
+| [11 Google Ads best practices to maximize return on ad spend](https://www.semrush.com/blog/google-ads-best-practices/) | Semrush Blog | 95 | AI Search | 2026-05-07 14:57 UTC |
 | [Google’s Universal Commerce Protocol capabilities expand to main SERP](https://www.semrush.com/blog/google-ucp-checkout-in-main-serp/) | Semrush Blog | 95 | AI Search | 2026-05-07 08:36 UTC |
 | [How to track ChatGPT traffic for you and for competitors](https://www.semrush.com/blog/track-chatgpt-traffic-and-competitors/) | Semrush Blog | 95 | AI Search | 2026-05-06 12:50 UTC |
 | [How to optimize for AI search results in 2026](https://www.semrush.com/blog/ai-search-optimization/) | Semrush Blog | 95 | AI Search | 2026-05-06 08:31 UTC |
