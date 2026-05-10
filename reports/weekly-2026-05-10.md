@@ -22,11 +22,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads To Require Passkey For Certain Sensitive Actions After July 15](https://www.seroundtable.com/google-ads-passkey-sensitive-actions-41286.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-08 11:21 UTC |
 | [Microsoft Advertising Custom Columns Supports All Conversion Metrics](https://www.seroundtable.com/microsoft-ads-custom-columns-conversion-metrics-41291.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-08 11:11 UTC |
 | [Daily Search Forum Recap: May 7, 2026](https://www.seroundtable.com/recap-05-07-2026-41287.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-07 14:00 UTC |
-| [Google Improves Links Within AI Mode &amp; AI Overviews In 5 Ways](https://www.seroundtable.com/google-improves-links-ai-mode-ai-overviews-41280.html) | Search Engine Roundtable | 170 | Links | 2026-05-07 11:51 UTC |
-| [Microsoft Bing On Search Indexing vs. Grounding Indexing](https://www.seroundtable.com/bing-search-indexing-vs-grounding-indexing-41284.html) | Search Engine Roundtable | 170 | Indexing | 2026-05-07 11:41 UTC |
-| [Google Ads AI Max Content &amp; Titles Exclusions On Account Level Coming](https://www.seroundtable.com/google-ads-ai-max-content-titles-exclusions-41285.html) | Search Engine Roundtable | 170 | Links | 2026-05-07 11:31 UTC |
-| [Bing Places For Business Finally Mobile Friendly](https://www.seroundtable.com/bing-places-for-business-mobile-friendly-41283.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-07 11:21 UTC |
-| [Google Ads Call Recording To Default To Yes On July 1st](https://www.seroundtable.com/google-ads-call-recording-default-yes-41262.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-07 11:11 UTC |
+| [Google Improves Links Within AI Mode &amp; AI Overviews In 5 Ways](https://www.seroundtable.com/google-improves-links-ai-mode-ai-overviews-41280.html) | Search Engine Roundtable | 155 | Links | 2026-05-07 11:51 UTC |
+| [Microsoft Bing On Search Indexing vs. Grounding Indexing](https://www.seroundtable.com/bing-search-indexing-vs-grounding-indexing-41284.html) | Search Engine Roundtable | 155 | Indexing | 2026-05-07 11:41 UTC |
+| [Google Ads AI Max Content &amp; Titles Exclusions On Account Level Coming](https://www.seroundtable.com/google-ads-ai-max-content-titles-exclusions-41285.html) | Search Engine Roundtable | 155 | Links | 2026-05-07 11:31 UTC |
+| [Bing Places For Business Finally Mobile Friendly](https://www.seroundtable.com/bing-places-for-business-mobile-friendly-41283.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-07 11:21 UTC |
+| [Google Ads Call Recording To Default To Yes On July 1st](https://www.seroundtable.com/google-ads-call-recording-default-yes-41262.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-07 11:11 UTC |
 | [Daily Search Forum Recap: May 6, 2026](https://www.seroundtable.com/recap-05-06-2026-41282.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-06 14:00 UTC |
 | [Claude Skills for SEO and Marketing: What They Are and How to Use Them](https://ahrefs.com/blog/claude-skills/) | Ahrefs Blog | 120 | Links | 2026-05-08 16:59 UTC |
 | [On-Page AEO: 4 Writing Frameworks for Better AI Visibility](https://ahrefs.com/blog/on-page-aeo/) | Ahrefs Blog | 120 | AI Search | 2026-05-08 13:35 UTC |
