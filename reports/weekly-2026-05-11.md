@@ -19,7 +19,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Merchant Center Gains More Out-of-Stock Options](https://www.seroundtable.com/google-merchant-center-more-out-of-stock-41295.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-11 11:21 UTC |
 | [Google Tag Manager May Be Coming To Google Ads Interface](https://www.seroundtable.com/google-tag-manager-to-google-ads-41296.html) | Search Engine Roundtable | 190 | General | 2026-05-11 11:11 UTC |
 | [Deprecating the FAQ rich result feature](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Migration | 2026-05-08 00:00 UTC |
-| [We Tracked 1,885 Pages Adding Schema. AI Citations Barely Moved.](https://ahrefs.com/blog/schema-ai-citations/) | Ahrefs Blog | 160 | Links | 2026-05-11 16:36 UTC |
 | [Daily Search Forum Recap: May 8, 2026](https://www.seroundtable.com/recap-05-08-2026-41294.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-08 14:00 UTC |
 | [Search News Buzz Video Recap: Google AI Systems Black Box, Links In AI, UCP Checkout Expands, ChatGPT Ad Manager, Ask.com Shutters &amp; More](https://www.seroundtable.com/video-05-08-2026-41290.html) | Search Engine Roundtable | 155 | Links | 2026-05-08 12:01 UTC |
 | [Google Search Ranking Volatility Heated Today - May 8th](https://www.seroundtable.com/google-search-ranking-volatility-heated-41293.html) | Search Engine Roundtable | 155 | General | 2026-05-08 11:55 UTC |
@@ -29,6 +28,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads To Require Passkey For Certain Sensitive Actions After July 15](https://www.seroundtable.com/google-ads-passkey-sensitive-actions-41286.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-08 11:21 UTC |
 | [Microsoft Advertising Custom Columns Supports All Conversion Metrics](https://www.seroundtable.com/microsoft-ads-custom-columns-conversion-metrics-41291.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-08 11:11 UTC |
 | [Daily Search Forum Recap: May 7, 2026](https://www.seroundtable.com/recap-05-07-2026-41287.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-07 14:00 UTC |
+| [We Tracked 1,885 Pages Adding Schema. AI Citations Barely Moved.](https://ahrefs.com/blog/schema-ai-citations/) | Ahrefs Blog | 140 | Links | 2026-05-11 16:36 UTC |
 | [Schema Markup: What It Is &#038; How to Implement It](https://ahrefs.com/blog/schema-markup/) | Ahrefs Blog | 140 | Technical SEO | 2026-05-11 13:00 UTC |
 | [11 ways to use AI for SEO (+best practices &amp; challenges)](https://www.semrush.com/blog/ai-seo/) | Semrush Blog | 130 | AI Search | 2026-05-11 07:50 UTC |
 | [Claude Skills for SEO and Marketing: What They Are and How to Use Them](https://ahrefs.com/blog/claude-skills/) | Ahrefs Blog | 105 | Links | 2026-05-08 16:59 UTC |
