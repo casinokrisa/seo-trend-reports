@@ -12,13 +12,14 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Daily Search Forum Recap: May 11, 2026](https://www.seroundtable.com/recap-05-11-2026-41300.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-11 14:00 UTC |
 | [Google Search Drops FAQ Rich Results In Search &amp; Search Console](https://www.seroundtable.com/google-drops-faq-rich-results-41298.html) | Search Engine Roundtable | 210 | GSC | 2026-05-11 11:51 UTC |
 | [Google Ads Posts Site Visits Assets Documentation](https://www.seroundtable.com/google-ads-site-visits-assets-docs-41297.html) | Search Engine Roundtable | 210 | General | 2026-05-11 11:41 UTC |
 | [Google Vehicle Ads Now In Standard Shopping Campaigns](https://www.seroundtable.com/google-vehicle-ads-standard-shopping-campaigns-41263.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-11 11:31 UTC |
 | [Google Merchant Center Gains More Out-of-Stock Options](https://www.seroundtable.com/google-merchant-center-more-out-of-stock-41295.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-11 11:21 UTC |
 | [Google Tag Manager May Be Coming To Google Ads Interface](https://www.seroundtable.com/google-tag-manager-to-google-ads-41296.html) | Search Engine Roundtable | 210 | General | 2026-05-11 11:11 UTC |
 | [Deprecating the FAQ rich result feature](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Migration | 2026-05-08 00:00 UTC |
-| [Daily Search Forum Recap: May 8, 2026](https://www.seroundtable.com/recap-05-08-2026-41294.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-08 14:00 UTC |
+| [Daily Search Forum Recap: May 8, 2026](https://www.seroundtable.com/recap-05-08-2026-41294.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-08 14:00 UTC |
 | [Search News Buzz Video Recap: Google AI Systems Black Box, Links In AI, UCP Checkout Expands, ChatGPT Ad Manager, Ask.com Shutters &amp; More](https://www.seroundtable.com/video-05-08-2026-41290.html) | Search Engine Roundtable | 155 | Links | 2026-05-08 12:01 UTC |
 | [Google Search Ranking Volatility Heated Today - May 8th](https://www.seroundtable.com/google-search-ranking-volatility-heated-41293.html) | Search Engine Roundtable | 155 | General | 2026-05-08 11:55 UTC |
 | [Google Ads Journey-Aware Bidding, Expands Smart Bidding Exploration &amp; Budget Pacing](https://www.seroundtable.com/google-ads-smart-bidding-exploration-budget-pacing-41288.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-08 11:51 UTC |
@@ -27,10 +28,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads To Require Passkey For Certain Sensitive Actions After July 15](https://www.seroundtable.com/google-ads-passkey-sensitive-actions-41286.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-08 11:21 UTC |
 | [Microsoft Advertising Custom Columns Supports All Conversion Metrics](https://www.seroundtable.com/microsoft-ads-custom-columns-conversion-metrics-41291.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-08 11:11 UTC |
 | [Daily Search Forum Recap: May 7, 2026](https://www.seroundtable.com/recap-05-07-2026-41287.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-07 14:00 UTC |
-| [Google Improves Links Within AI Mode &amp; AI Overviews In 5 Ways](https://www.seroundtable.com/google-improves-links-ai-mode-ai-overviews-41280.html) | Search Engine Roundtable | 155 | Links | 2026-05-07 11:51 UTC |
-| [11 ways to use AI for SEO (+best practices &amp; challenges)](https://www.semrush.com/blog/ai-seo/) | Semrush Blog | 150 | AI Search | 2026-05-11 07:50 UTC |
+| [11 ways to use AI for SEO (+best practices &amp; challenges)](https://www.semrush.com/blog/ai-seo/) | Semrush Blog | 130 | AI Search | 2026-05-11 07:50 UTC |
 | [Claude Skills for SEO and Marketing: What They Are and How to Use Them](https://ahrefs.com/blog/claude-skills/) | Ahrefs Blog | 120 | Links | 2026-05-08 16:59 UTC |
-| [On-Page AEO: 4 Writing Frameworks for Better AI Visibility](https://ahrefs.com/blog/on-page-aeo/) | Ahrefs Blog | 120 | AI Search | 2026-05-08 13:35 UTC |
+| [On-Page AEO: 4 Writing Frameworks for Better AI Visibility](https://ahrefs.com/blog/on-page-aeo/) | Ahrefs Blog | 105 | AI Search | 2026-05-08 13:35 UTC |
 | [How Does AI Get Its Information? Training Data, RAG, MCPs, and APIs Explained](https://ahrefs.com/blog/how-does-ai-get-its-information/) | Ahrefs Blog | 105 | AI Search | 2026-05-07 15:33 UTC |
 | [Agentic AI vs. Generative AI: What’s the Difference, and Why Does It Matter?](https://ahrefs.com/blog/agentic-ai-vs-generative-ai/) | Ahrefs Blog | 105 | AI Search | 2026-05-06 16:47 UTC |
 | [ToFu, MoFu, BoFu: A practical guide to the conversion funnel](https://www.semrush.com/blog/tofu-mofu-bofu-a-practical-guide-to-the-conversion-funnel/) | Semrush Blog | 95 | Content | 2026-05-08 09:16 UTC |
