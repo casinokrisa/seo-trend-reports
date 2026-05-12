@@ -17,7 +17,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Merchant Center For Agencies Now Available Globally](https://www.seroundtable.com/google-merchant-center-for-agencies-global-41302.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-12 11:41 UTC |
 | [Google Tests Dark &amp; Light URLs In Search Results (For The Same URL)](https://www.seroundtable.com/google-dark-light-urls-41301.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-12 11:31 UTC |
 | [PSA: Bing Webmaster Tools Does Not Distinguish Between http and https](https://www.seroundtable.com/bing-webmaster-tools-http-and-https-41299.html) | Search Engine Roundtable | 210 | GSC | 2026-05-12 11:21 UTC |
-| [Google Ads Certification Process Updated For Crypto](https://www.seroundtable.com/google-ads-certification-cryptocurrency-41256.html) | Search Engine Roundtable | 210 | General | 2026-05-12 11:11 UTC |
+| [Google Ads Certification Process Updated For Crypto](https://www.seroundtable.com/google-ads-certification-cryptocurrency-41256.html) | Search Engine Roundtable | 190 | General | 2026-05-12 11:11 UTC |
 | [Deprecating the FAQ rich result feature](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Migration | 2026-05-08 00:00 UTC |
 | [Daily Search Forum Recap: May 11, 2026](https://www.seroundtable.com/recap-05-11-2026-41300.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-11 14:00 UTC |
 | [Google Search Drops FAQ Rich Results In Search &amp; Search Console](https://www.seroundtable.com/google-drops-faq-rich-results-41298.html) | Search Engine Roundtable | 170 | GSC | 2026-05-11 11:51 UTC |
@@ -28,7 +28,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Daily Search Forum Recap: May 8, 2026](https://www.seroundtable.com/recap-05-08-2026-41294.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-08 14:00 UTC |
 | [Search News Buzz Video Recap: Google AI Systems Black Box, Links In AI, UCP Checkout Expands, ChatGPT Ad Manager, Ask.com Shutters &amp; More](https://www.seroundtable.com/video-05-08-2026-41290.html) | Search Engine Roundtable | 155 | Links | 2026-05-08 12:01 UTC |
 | [Google Search Ranking Volatility Heated Today - May 8th](https://www.seroundtable.com/google-search-ranking-volatility-heated-41293.html) | Search Engine Roundtable | 155 | General | 2026-05-08 11:55 UTC |
-| [We Tracked 1,885 Pages Adding Schema. AI Citations Barely Moved.](https://ahrefs.com/blog/schema-ai-citations/) | Ahrefs Blog | 140 | Links | 2026-05-11 16:36 UTC |
+| [What are keywords? Definition, types, &amp; how to use them](https://www.semrush.com/blog/what-are-keywords/) | Semrush Blog | 150 | Content | 2026-05-12 14:48 UTC |
+| [We Tracked 1,885 Pages Adding Schema. AI Citations Barely Moved.](https://ahrefs.com/blog/schema-ai-citations/) | Ahrefs Blog | 120 | Links | 2026-05-11 16:36 UTC |
 | [Schema Markup: What It Is &#038; How to Implement It](https://ahrefs.com/blog/schema-markup/) | Ahrefs Blog | 120 | Technical SEO | 2026-05-11 13:00 UTC |
 | [11 ways to use AI for SEO (+best practices &amp; challenges)](https://www.semrush.com/blog/ai-seo/) | Semrush Blog | 110 | AI Search | 2026-05-11 07:50 UTC |
 | [Claude Skills for SEO and Marketing: What They Are and How to Use Them](https://ahrefs.com/blog/claude-skills/) | Ahrefs Blog | 105 | Links | 2026-05-08 16:59 UTC |
@@ -41,8 +42,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google’s Universal Commerce Protocol capabilities expand to main SERP](https://www.semrush.com/blog/google-ucp-checkout-in-main-serp/) | Semrush Blog | 95 | AI Search | 2026-05-07 08:36 UTC |
 | [How to track ChatGPT traffic for you and for competitors](https://www.semrush.com/blog/track-chatgpt-traffic-and-competitors/) | Semrush Blog | 95 | AI Search | 2026-05-06 12:50 UTC |
 | [How to optimize for AI search results in 2026](https://www.semrush.com/blog/ai-search-optimization/) | Semrush Blog | 95 | AI Search | 2026-05-06 08:31 UTC |
-| [How to do keyword research in 2026 (6 ways + framework)](https://www.semrush.com/blog/keyword-research/) | Semrush Blog | 95 | Migration | 2026-05-05 15:15 UTC |
-| [The Complete Website Migration Checklist [SEO-Friendly]](https://www.semrush.com/blog/website-migration-checklist/) | Semrush Blog | 95 | Migration | 2026-05-05 14:57 UTC |
 
 ## Notes
 
