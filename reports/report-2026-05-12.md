@@ -30,7 +30,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Vehicle Ads Now In Standard Shopping Campaigns](https://www.seroundtable.com/google-vehicle-ads-standard-shopping-campaigns-41263.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-11 11:31 UTC |
 | [Google Merchant Center Gains More Out-of-Stock Options](https://www.seroundtable.com/google-merchant-center-more-out-of-stock-41295.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-11 11:21 UTC |
 | [Google Tag Manager May Be Coming To Google Ads Interface](https://www.seroundtable.com/google-tag-manager-to-google-ads-41296.html) | Search Engine Roundtable | 170 | General | 2026-05-11 11:11 UTC |
-| [What are keywords? Definition, types, &amp; how to use them](https://www.semrush.com/blog/what-are-keywords/) | Semrush Blog | 150 | Content | 2026-05-12 14:48 UTC |
+| [What are keywords? Definition, types, &amp; how to use them](https://www.semrush.com/blog/what-are-keywords/) | Semrush Blog | 130 | Content | 2026-05-12 14:48 UTC |
 | [We Tracked 1,885 Pages Adding Schema. AI Citations Barely Moved.](https://ahrefs.com/blog/schema-ai-citations/) | Ahrefs Blog | 120 | Links | 2026-05-11 16:36 UTC |
 | [Schema Markup: What It Is &#038; How to Implement It](https://ahrefs.com/blog/schema-markup/) | Ahrefs Blog | 120 | Technical SEO | 2026-05-11 13:00 UTC |
 
