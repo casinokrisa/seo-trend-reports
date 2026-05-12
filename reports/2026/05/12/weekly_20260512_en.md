@@ -12,11 +12,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: May 12, 2026](https://www.seroundtable.com/recap-05-12-2026-41305.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-12 14:00 UTC |
-| [Google Discover Publisher Pages To Get Links &amp; Featured Posts](https://www.seroundtable.com/google-discover-publisher-pages-links-featured-41304.html) | Search Engine Roundtable | 210 | Links | 2026-05-12 11:51 UTC |
-| [Google Merchant Center For Agencies Now Available Globally](https://www.seroundtable.com/google-merchant-center-for-agencies-global-41302.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-12 11:41 UTC |
-| [Google Tests Dark &amp; Light URLs In Search Results (For The Same URL)](https://www.seroundtable.com/google-dark-light-urls-41301.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-12 11:31 UTC |
-| [PSA: Bing Webmaster Tools Does Not Distinguish Between http and https](https://www.seroundtable.com/bing-webmaster-tools-http-and-https-41299.html) | Search Engine Roundtable | 210 | GSC | 2026-05-12 11:21 UTC |
+| [Daily Search Forum Recap: May 12, 2026](https://www.seroundtable.com/recap-05-12-2026-41305.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-12 14:00 UTC |
+| [Google Discover Publisher Pages To Get Links &amp; Featured Posts](https://www.seroundtable.com/google-discover-publisher-pages-links-featured-41304.html) | Search Engine Roundtable | 190 | Links | 2026-05-12 11:51 UTC |
+| [Google Merchant Center For Agencies Now Available Globally](https://www.seroundtable.com/google-merchant-center-for-agencies-global-41302.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-12 11:41 UTC |
+| [Google Tests Dark &amp; Light URLs In Search Results (For The Same URL)](https://www.seroundtable.com/google-dark-light-urls-41301.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-12 11:31 UTC |
+| [PSA: Bing Webmaster Tools Does Not Distinguish Between http and https](https://www.seroundtable.com/bing-webmaster-tools-http-and-https-41299.html) | Search Engine Roundtable | 190 | GSC | 2026-05-12 11:21 UTC |
 | [Google Ads Certification Process Updated For Crypto](https://www.seroundtable.com/google-ads-certification-cryptocurrency-41256.html) | Search Engine Roundtable | 190 | General | 2026-05-12 11:11 UTC |
 | [Deprecating the FAQ rich result feature](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Migration | 2026-05-08 00:00 UTC |
 | [Daily Search Forum Recap: May 11, 2026](https://www.seroundtable.com/recap-05-11-2026-41300.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-11 14:00 UTC |
