@@ -25,7 +25,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [PSA: Bing Webmaster Tools Does Not Distinguish Between http and https](https://www.seroundtable.com/bing-webmaster-tools-http-and-https-41299.html) | Search Engine Roundtable | 190 | GSC | 2026-05-12 11:21 UTC |
 | [Google Ads Certification Process Updated For Crypto](https://www.seroundtable.com/google-ads-certification-cryptocurrency-41256.html) | Search Engine Roundtable | 190 | General | 2026-05-12 11:11 UTC |
 | [What are keywords? Definition, types, &amp; how to use them](https://www.semrush.com/blog/what-are-keywords/) | Semrush Blog | 130 | Content | 2026-05-12 14:48 UTC |
-| [We Tracked 1,885 Pages Adding Schema. AI Citations Barely Moved.](https://ahrefs.com/blog/schema-ai-citations/) | Ahrefs Blog | 120 | Links | 2026-05-11 16:36 UTC |
 
 ## Notes for manual writing
 
