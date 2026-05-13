@@ -13,11 +13,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: May 13, 2026](https://www.seroundtable.com/recap-05-13-2026-41318.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-13 14:00 UTC |
-| [Google Discover Performance Report Missing Data May 7 &amp; May 8](https://www.seroundtable.com/google-discover-performance-report-missing-data-41313.html) | Search Engine Roundtable | 210 | GSC | 2026-05-13 11:51 UTC |
-| [Google Ads Teases New Dashboards Powered By Gemini](https://www.seroundtable.com/google-ads-dashboards-41314.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-13 11:41 UTC |
-| [Google Ads Search Terms Report Shows Best Approximation Of User's Intent](https://www.seroundtable.com/google-ads-search-terms-report-best-users-intent-41316.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-13 11:31 UTC |
-| [Study: Adding Schema Did Not Improve AI Citations On Google, ChatGPT &amp; More](https://www.seroundtable.com/study-schema-citations-study-41311.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-13 11:21 UTC |
-| [Google Merchant Center Tests Merchant Advisor](https://www.seroundtable.com/google-merchant-advisor-41319.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-13 11:11 UTC |
+| [Google Discover Performance Report Missing Data May 7 &amp; May 8](https://www.seroundtable.com/google-discover-performance-report-missing-data-41313.html) | Search Engine Roundtable | 190 | GSC | 2026-05-13 11:51 UTC |
+| [Google Ads Teases New Dashboards Powered By Gemini](https://www.seroundtable.com/google-ads-dashboards-41314.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-13 11:41 UTC |
+| [Google Ads Search Terms Report Shows Best Approximation Of User's Intent](https://www.seroundtable.com/google-ads-search-terms-report-best-users-intent-41316.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-13 11:31 UTC |
+| [Study: Adding Schema Did Not Improve AI Citations On Google, ChatGPT &amp; More](https://www.seroundtable.com/study-schema-citations-study-41311.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-13 11:21 UTC |
+| [Google Merchant Center Tests Merchant Advisor](https://www.seroundtable.com/google-merchant-advisor-41319.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-13 11:11 UTC |
 | [Deprecating the FAQ rich result feature](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Migration | 2026-05-08 00:00 UTC |
 | [Daily Search Forum Recap: May 12, 2026](https://www.seroundtable.com/recap-05-12-2026-41305.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-12 14:00 UTC |
 | [Google Discover Publisher Pages To Get Links &amp; Featured Posts](https://www.seroundtable.com/google-discover-publisher-pages-links-featured-41304.html) | Search Engine Roundtable | 170 | Links | 2026-05-12 11:51 UTC |
@@ -37,7 +37,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Claude Skills for SEO and Marketing: What They Are and How to Use Them](https://ahrefs.com/blog/claude-skills/) | Ahrefs Blog | 105 | Links | 2026-05-08 16:59 UTC |
 | [On-Page AEO: 4 Writing Frameworks for Better AI Visibility](https://ahrefs.com/blog/on-page-aeo/) | Ahrefs Blog | 105 | AI Search | 2026-05-08 13:35 UTC |
 | [How Does AI Get Its Information? Training Data, RAG, MCPs, and APIs Explained](https://ahrefs.com/blog/how-does-ai-get-its-information/) | Ahrefs Blog | 105 | AI Search | 2026-05-07 15:33 UTC |
-| [Agentic AI vs. Generative AI: What’s the Difference, and Why Does It Matter?](https://ahrefs.com/blog/agentic-ai-vs-generative-ai/) | Ahrefs Blog | 105 | AI Search | 2026-05-06 16:47 UTC |
 | [ToFu, MoFu, BoFu: A practical guide to the conversion funnel](https://www.semrush.com/blog/tofu-mofu-bofu-a-practical-guide-to-the-conversion-funnel/) | Semrush Blog | 95 | Content | 2026-05-08 09:16 UTC |
 | [How to find and fix what AI gets wrong about your brand](https://www.semrush.com/blog/fix-ai-brand-misinformation/) | Semrush Blog | 95 | AI Search | 2026-05-08 08:55 UTC |
 | [11 Google Ads best practices to maximize return on ad spend](https://www.semrush.com/blog/google-ads-best-practices/) | Semrush Blog | 95 | AI Search | 2026-05-07 14:57 UTC |
