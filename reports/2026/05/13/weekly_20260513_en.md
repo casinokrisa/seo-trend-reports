@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: May 13, 2026](https://www.seroundtable.com/recap-05-13-2026-41318.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-13 14:00 UTC |
+| [Daily Search Forum Recap: May 13, 2026](https://www.seroundtable.com/recap-05-13-2026-41318.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-13 14:00 UTC |
 | [Google Discover Performance Report Missing Data May 7 &amp; May 8](https://www.seroundtable.com/google-discover-performance-report-missing-data-41313.html) | Search Engine Roundtable | 190 | GSC | 2026-05-13 11:51 UTC |
 | [Google Ads Teases New Dashboards Powered By Gemini](https://www.seroundtable.com/google-ads-dashboards-41314.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-13 11:41 UTC |
 | [Google Ads Search Terms Report Shows Best Approximation Of User's Intent](https://www.seroundtable.com/google-ads-search-terms-report-best-users-intent-41316.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-13 11:31 UTC |
@@ -28,7 +28,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Daily Search Forum Recap: May 11, 2026](https://www.seroundtable.com/recap-05-11-2026-41300.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-11 14:00 UTC |
 | [Google Search Drops FAQ Rich Results In Search &amp; Search Console](https://www.seroundtable.com/google-drops-faq-rich-results-41298.html) | Search Engine Roundtable | 170 | GSC | 2026-05-11 11:51 UTC |
 | [Google Ads Posts Site Visits Assets Documentation](https://www.seroundtable.com/google-ads-site-visits-assets-docs-41297.html) | Search Engine Roundtable | 170 | General | 2026-05-11 11:41 UTC |
-| [Social media management: The ultimate guide](https://www.semrush.com/blog/social-media-management/) | Semrush Blog | 150 | Migration | 2026-05-13 14:29 UTC |
+| [Social media management: The ultimate guide](https://www.semrush.com/blog/social-media-management/) | Semrush Blog | 130 | Migration | 2026-05-13 14:29 UTC |
 | [How to Win in a Zero-Click Search Market](https://www.semrush.com/blog/zero-click-searches/) | Semrush Blog | 130 | GSC | 2026-05-13 09:45 UTC |
 | [We Tracked 1,885 Pages Adding Schema. AI Citations Barely Moved.](https://ahrefs.com/blog/schema-ai-citations/) | Ahrefs Blog | 120 | Links | 2026-05-11 16:36 UTC |
 | [Schema Markup: What It Is &#038; How to Implement It](https://ahrefs.com/blog/schema-markup/) | Ahrefs Blog | 120 | Technical SEO | 2026-05-11 13:00 UTC |

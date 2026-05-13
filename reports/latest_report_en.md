@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: May 13, 2026](https://www.seroundtable.com/recap-05-13-2026-41318.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-13 14:00 UTC |
+| [Daily Search Forum Recap: May 13, 2026](https://www.seroundtable.com/recap-05-13-2026-41318.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-13 14:00 UTC |
 | [Google Discover Performance Report Missing Data May 7 &amp; May 8](https://www.seroundtable.com/google-discover-performance-report-missing-data-41313.html) | Search Engine Roundtable | 190 | GSC | 2026-05-13 11:51 UTC |
 | [Google Ads Teases New Dashboards Powered By Gemini](https://www.seroundtable.com/google-ads-dashboards-41314.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-13 11:41 UTC |
 | [Google Ads Search Terms Report Shows Best Approximation Of User's Intent](https://www.seroundtable.com/google-ads-search-terms-report-best-users-intent-41316.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-13 11:31 UTC |
@@ -30,7 +30,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Tests Dark &amp; Light URLs In Search Results (For The Same URL)](https://www.seroundtable.com/google-dark-light-urls-41301.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-12 11:31 UTC |
 | [PSA: Bing Webmaster Tools Does Not Distinguish Between http and https](https://www.seroundtable.com/bing-webmaster-tools-http-and-https-41299.html) | Search Engine Roundtable | 170 | GSC | 2026-05-12 11:21 UTC |
 | [Google Ads Certification Process Updated For Crypto](https://www.seroundtable.com/google-ads-certification-cryptocurrency-41256.html) | Search Engine Roundtable | 170 | General | 2026-05-12 11:11 UTC |
-| [Social media management: The ultimate guide](https://www.semrush.com/blog/social-media-management/) | Semrush Blog | 150 | Migration | 2026-05-13 14:29 UTC |
+| [Social media management: The ultimate guide](https://www.semrush.com/blog/social-media-management/) | Semrush Blog | 130 | Migration | 2026-05-13 14:29 UTC |
 | [How to Win in a Zero-Click Search Market](https://www.semrush.com/blog/zero-click-searches/) | Semrush Blog | 130 | GSC | 2026-05-13 09:45 UTC |
 | [What are keywords? Definition, types, &amp; how to use them](https://www.semrush.com/blog/what-are-keywords/) | Semrush Blog | 110 | Content | 2026-05-12 14:48 UTC |
 
