@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: May 14, 2026](https://www.seroundtable.com/recap-05-14-2026-41326.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-14 14:00 UTC |
+| [Daily Search Forum Recap: May 14, 2026](https://www.seroundtable.com/recap-05-14-2026-41326.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-14 14:00 UTC |
 | [Google Search Ranking Volatility Heated May 13th &amp; 14th](https://www.seroundtable.com/google-search-ranking-volatility-heated-41324.html) | Search Engine Roundtable | 190 | General | 2026-05-14 11:51 UTC |
 | [Google Analytics AI Assistant Traffic: Tracks ChatGPT, Gemini &amp; Claude Traffic](https://www.seroundtable.com/google-analytics-ai-assistant-traffic-41327.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-14 11:41 UTC |
 | [ATVs &amp; Non-Motorized Vehicles Can Now Be Listed In Google Vehicle Ads](https://www.seroundtable.com/google-vehicle-ads-atvs-41322.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-14 11:31 UTC |
@@ -28,7 +28,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Daily Search Forum Recap: May 12, 2026](https://www.seroundtable.com/recap-05-12-2026-41305.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-12 14:00 UTC |
 | [Google Discover Publisher Pages To Get Links &amp; Featured Posts](https://www.seroundtable.com/google-discover-publisher-pages-links-featured-41304.html) | Search Engine Roundtable | 170 | Links | 2026-05-12 11:51 UTC |
 | [Google Merchant Center For Agencies Now Available Globally](https://www.seroundtable.com/google-merchant-center-for-agencies-global-41302.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-12 11:41 UTC |
-| [Google’s Knowledge Graph Explained: How It Influences SEO &#038; AI Search](https://ahrefs.com/blog/google-knowledge-graph/) | Ahrefs Blog | 160 | AI Search | 2026-05-14 14:00 UTC |
+| [Google’s Knowledge Graph Explained: How It Influences SEO &#038; AI Search](https://ahrefs.com/blog/google-knowledge-graph/) | Ahrefs Blog | 140 | AI Search | 2026-05-14 14:00 UTC |
 | [Social media management: The ultimate guide](https://www.semrush.com/blog/social-media-management/) | Semrush Blog | 110 | Migration | 2026-05-13 14:29 UTC |
 | [How to Win in a Zero-Click Search Market](https://www.semrush.com/blog/zero-click-searches/) | Semrush Blog | 110 | GSC | 2026-05-13 09:45 UTC |
 | [What are keywords? Definition, types, &amp; how to use them](https://www.semrush.com/blog/what-are-keywords/) | Semrush Blog | 110 | Content | 2026-05-12 14:48 UTC |
