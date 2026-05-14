@@ -29,9 +29,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Search Drops FAQ Rich Results In Search &amp; Search Console](https://www.seroundtable.com/google-drops-faq-rich-results-41298.html) | Search Engine Roundtable | 170 | GSC | 2026-05-11 11:51 UTC |
 | [Google Ads Posts Site Visits Assets Documentation](https://www.seroundtable.com/google-ads-site-visits-assets-docs-41297.html) | Search Engine Roundtable | 170 | General | 2026-05-11 11:41 UTC |
 | [Social media management: The ultimate guide](https://www.semrush.com/blog/social-media-management/) | Semrush Blog | 130 | Migration | 2026-05-13 14:29 UTC |
-| [How to Win in a Zero-Click Search Market](https://www.semrush.com/blog/zero-click-searches/) | Semrush Blog | 130 | GSC | 2026-05-13 09:45 UTC |
 | [We Tracked 1,885 Pages Adding Schema. AI Citations Barely Moved.](https://ahrefs.com/blog/schema-ai-citations/) | Ahrefs Blog | 120 | Links | 2026-05-11 16:36 UTC |
 | [Schema Markup: What It Is &#038; How to Implement It](https://ahrefs.com/blog/schema-markup/) | Ahrefs Blog | 120 | Technical SEO | 2026-05-11 13:00 UTC |
+| [How to Win in a Zero-Click Search Market](https://www.semrush.com/blog/zero-click-searches/) | Semrush Blog | 110 | GSC | 2026-05-13 09:45 UTC |
 | [What are keywords? Definition, types, &amp; how to use them](https://www.semrush.com/blog/what-are-keywords/) | Semrush Blog | 110 | Content | 2026-05-12 14:48 UTC |
 | [Claude Skills for SEO and Marketing: What They Are and How to Use Them](https://ahrefs.com/blog/claude-skills/) | Ahrefs Blog | 105 | Links | 2026-05-08 16:59 UTC |
 | [On-Page AEO: 4 Writing Frameworks for Better AI Visibility](https://ahrefs.com/blog/on-page-aeo/) | Ahrefs Blog | 105 | AI Search | 2026-05-08 13:35 UTC |
@@ -40,7 +40,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [ToFu, MoFu, BoFu: A practical guide to the conversion funnel](https://www.semrush.com/blog/tofu-mofu-bofu-a-practical-guide-to-the-conversion-funnel/) | Semrush Blog | 95 | Content | 2026-05-08 09:16 UTC |
 | [How to find and fix what AI gets wrong about your brand](https://www.semrush.com/blog/fix-ai-brand-misinformation/) | Semrush Blog | 95 | AI Search | 2026-05-08 08:55 UTC |
 | [11 Google Ads best practices to maximize return on ad spend](https://www.semrush.com/blog/google-ads-best-practices/) | Semrush Blog | 95 | AI Search | 2026-05-07 14:57 UTC |
-| [Google’s Universal Commerce Protocol capabilities expand to main SERP](https://www.semrush.com/blog/google-ucp-checkout-in-main-serp/) | Semrush Blog | 95 | AI Search | 2026-05-07 08:36 UTC |
 
 ## Notes
 
