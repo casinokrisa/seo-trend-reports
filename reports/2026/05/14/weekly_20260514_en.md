@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [After ~1,000 free GBP audits, here are the 5 issues that show up on almost every profile](https://www.reddit.com/r/localseo/comments/1tcquy6/after_1000_free_gbp_audits_here_are_the_5_issues/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-14 07:30 UTC |
-| [Bro didn’t even try to sound professional anymore 💀](https://www.reddit.com/r/localseo/comments/1tcqppx/bro_didnt_even_try_to_sound_professional_anymore/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-14 07:21 UTC |
-| [What’s the best SEO reporting software you’ve actually used?](https://www.reddit.com/r/localseo/comments/1tcpxa4/whats_the_best_seo_reporting_software_youve/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-14 06:38 UTC |
-| [The local SEO checklist I actually follow for every new client (nothing fancy, just what works)](https://www.reddit.com/r/localseo/comments/1tcofu7/the_local_seo_checklist_i_actually_follow_for/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-14 05:19 UTC |
-| [Google is now pulling social media posts directly into Google Business Profiles.](https://www.reddit.com/r/localseo/comments/1tco49w/google_is_now_pulling_social_media_posts_directly/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-14 05:03 UTC |
-| [Business profile with red icon](https://www.reddit.com/r/localseo/comments/1tcj99s/business_profile_with_red_icon/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-14 01:20 UTC |
-| [free audit tool](https://www.reddit.com/r/localseo/comments/1tcg9u3/free_audit_tool/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-13 23:14 UTC |
-| [Anyone else impressions been spiking like crazy lately?](https://www.reddit.com/r/localseo/comments/1tce7ge/anyone_else_impressions_been_spiking_like_crazy/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-05-13 21:53 UTC |
-| [¿Las IAs pueden leer esas publicaciones que haces en tu perfil de Google Maps?](https://www.reddit.com/r/localseo/comments/1tcbv68/las_ias_pueden_leer_esas_publicaciones_que_haces/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-13 20:29 UTC |
-| [SEO: ¿Funciona realmente escribir contenidos con IA?](https://www.reddit.com/r/localseo/comments/1tcajk0/seo_funciona_realmente_escribir_contenidos_con_ia/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-13 19:43 UTC |
-| [lovable and SEO FTW](https://www.reddit.com/r/localseo/comments/1tc1txg/lovable_and_seo_ftw/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-13 14:46 UTC |
-| [How I grew a NYC construction company’s Google Business Profile (358 interactions, +783% calls in 60 days)](https://www.reddit.com/r/localseo/comments/1tc1mrc/how_i_grew_a_nyc_construction_companys_google/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-13 14:39 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
@@ -44,10 +33,10 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [We Tracked 1,885 Pages Adding Schema. AI Citations Barely Moved.](https://ahrefs.com/blog/schema-ai-citations/) | Ahrefs Blog | 120 | Links | 2026-05-11 16:36 UTC |
 | [Schema Markup: What It Is &#038; How to Implement It](https://ahrefs.com/blog/schema-markup/) | Ahrefs Blog | 120 | Technical SEO | 2026-05-11 13:00 UTC |
 | [What are keywords? Definition, types, &amp; how to use them](https://www.semrush.com/blog/what-are-keywords/) | Semrush Blog | 110 | Content | 2026-05-12 14:48 UTC |
-| [11 ways to use AI for SEO (+best practices &amp; challenges)](https://www.semrush.com/blog/ai-seo/) | Semrush Blog | 110 | AI Search | 2026-05-11 07:50 UTC |
 | [Claude Skills for SEO and Marketing: What They Are and How to Use Them](https://ahrefs.com/blog/claude-skills/) | Ahrefs Blog | 105 | Links | 2026-05-08 16:59 UTC |
 | [On-Page AEO: 4 Writing Frameworks for Better AI Visibility](https://ahrefs.com/blog/on-page-aeo/) | Ahrefs Blog | 105 | AI Search | 2026-05-08 13:35 UTC |
 | [How Does AI Get Its Information? Training Data, RAG, MCPs, and APIs Explained](https://ahrefs.com/blog/how-does-ai-get-its-information/) | Ahrefs Blog | 105 | AI Search | 2026-05-07 15:33 UTC |
+| [11 ways to use AI for SEO (+best practices &amp; challenges)](https://www.semrush.com/blog/ai-seo/) | Semrush Blog | 95 | AI Search | 2026-05-11 07:50 UTC |
 | [ToFu, MoFu, BoFu: A practical guide to the conversion funnel](https://www.semrush.com/blog/tofu-mofu-bofu-a-practical-guide-to-the-conversion-funnel/) | Semrush Blog | 95 | Content | 2026-05-08 09:16 UTC |
 | [How to find and fix what AI gets wrong about your brand](https://www.semrush.com/blog/fix-ai-brand-misinformation/) | Semrush Blog | 95 | AI Search | 2026-05-08 08:55 UTC |
 | [11 Google Ads best practices to maximize return on ad spend](https://www.semrush.com/blog/google-ads-best-practices/) | Semrush Blog | 95 | AI Search | 2026-05-07 14:57 UTC |
