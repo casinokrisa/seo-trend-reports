@@ -28,6 +28,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Daily Search Forum Recap: May 12, 2026](https://www.seroundtable.com/recap-05-12-2026-41305.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-12 14:00 UTC |
 | [Google Discover Publisher Pages To Get Links &amp; Featured Posts](https://www.seroundtable.com/google-discover-publisher-pages-links-featured-41304.html) | Search Engine Roundtable | 170 | Links | 2026-05-12 11:51 UTC |
 | [Google Merchant Center For Agencies Now Available Globally](https://www.seroundtable.com/google-merchant-center-for-agencies-global-41302.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-12 11:41 UTC |
+| [Google’s Knowledge Graph Explained: How It Influences SEO &#038; AI Search](https://ahrefs.com/blog/google-knowledge-graph/) | Ahrefs Blog | 160 | AI Search | 2026-05-14 14:00 UTC |
 | [Social media management: The ultimate guide](https://www.semrush.com/blog/social-media-management/) | Semrush Blog | 110 | Migration | 2026-05-13 14:29 UTC |
 | [How to Win in a Zero-Click Search Market](https://www.semrush.com/blog/zero-click-searches/) | Semrush Blog | 110 | GSC | 2026-05-13 09:45 UTC |
 | [What are keywords? Definition, types, &amp; how to use them](https://www.semrush.com/blog/what-are-keywords/) | Semrush Blog | 110 | Content | 2026-05-12 14:48 UTC |

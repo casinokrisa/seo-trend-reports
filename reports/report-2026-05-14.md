@@ -30,6 +30,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Search Terms Report Shows Best Approximation Of User's Intent](https://www.seroundtable.com/google-ads-search-terms-report-best-users-intent-41316.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-13 11:31 UTC |
 | [Study: Adding Schema Did Not Improve AI Citations On Google, ChatGPT &amp; More](https://www.seroundtable.com/study-schema-citations-study-41311.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-13 11:21 UTC |
 | [Google Merchant Center Tests Merchant Advisor](https://www.seroundtable.com/google-merchant-advisor-41319.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-13 11:11 UTC |
+| [Google’s Knowledge Graph Explained: How It Influences SEO &#038; AI Search](https://ahrefs.com/blog/google-knowledge-graph/) | Ahrefs Blog | 160 | AI Search | 2026-05-14 14:00 UTC |
 | [Social media management: The ultimate guide](https://www.semrush.com/blog/social-media-management/) | Semrush Blog | 110 | Migration | 2026-05-13 14:29 UTC |
 | [How to Win in a Zero-Click Search Market](https://www.semrush.com/blog/zero-click-searches/) | Semrush Blog | 110 | GSC | 2026-05-13 09:45 UTC |
 
