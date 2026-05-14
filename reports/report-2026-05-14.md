@@ -6,13 +6,29 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [After ~1,000 free GBP audits, here are the 5 issues that show up on almost every profile](https://www.reddit.com/r/localseo/comments/1tcquy6/after_1000_free_gbp_audits_here_are_the_5_issues/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-14 07:30 UTC |
+| [Bro didn’t even try to sound professional anymore 💀](https://www.reddit.com/r/localseo/comments/1tcqppx/bro_didnt_even_try_to_sound_professional_anymore/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-14 07:21 UTC |
+| [What’s the best SEO reporting software you’ve actually used?](https://www.reddit.com/r/localseo/comments/1tcpxa4/whats_the_best_seo_reporting_software_youve/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-14 06:38 UTC |
+| [The local SEO checklist I actually follow for every new client (nothing fancy, just what works)](https://www.reddit.com/r/localseo/comments/1tcofu7/the_local_seo_checklist_i_actually_follow_for/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-14 05:19 UTC |
+| [Google is now pulling social media posts directly into Google Business Profiles.](https://www.reddit.com/r/localseo/comments/1tco49w/google_is_now_pulling_social_media_posts_directly/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-14 05:03 UTC |
+| [Business profile with red icon](https://www.reddit.com/r/localseo/comments/1tcj99s/business_profile_with_red_icon/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-14 01:20 UTC |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
+| 1 | [After ~1,000 free GBP audits, here are the 5 issues that show up on almost every profile](https://www.reddit.com/r/localseo/comments/1tcquy6/after_1000_free_gbp_audits_here_are_the_5_issues/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-14 07:30 UTC |
+| 2 | [Bro didn’t even try to sound professional anymore 💀](https://www.reddit.com/r/localseo/comments/1tcqppx/bro_didnt_even_try_to_sound_professional_anymore/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-14 07:21 UTC |
+| 3 | [What’s the best SEO reporting software you’ve actually used?](https://www.reddit.com/r/localseo/comments/1tcpxa4/whats_the_best_seo_reporting_software_youve/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-14 06:38 UTC |
+| 4 | [The local SEO checklist I actually follow for every new client (nothing fancy, just what works)](https://www.reddit.com/r/localseo/comments/1tcofu7/the_local_seo_checklist_i_actually_follow_for/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-14 05:19 UTC |
+| 5 | [Google is now pulling social media posts directly into Google Business Profiles.](https://www.reddit.com/r/localseo/comments/1tco49w/google_is_now_pulling_social_media_posts_directly/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-14 05:03 UTC |
+| 6 | [Business profile with red icon](https://www.reddit.com/r/localseo/comments/1tcj99s/business_profile_with_red_icon/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-14 01:20 UTC |
+| 7 | [free audit tool](https://www.reddit.com/r/localseo/comments/1tcg9u3/free_audit_tool/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-13 23:14 UTC |
+| 8 | [Anyone else impressions been spiking like crazy lately?](https://www.reddit.com/r/localseo/comments/1tce7ge/anyone_else_impressions_been_spiking_like_crazy/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-05-13 21:53 UTC |
+| 9 | [¿Las IAs pueden leer esas publicaciones que haces en tu perfil de Google Maps?](https://www.reddit.com/r/localseo/comments/1tcbv68/las_ias_pueden_leer_esas_publicaciones_que_haces/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-13 20:29 UTC |
+| 10 | [SEO: ¿Funciona realmente escribir contenidos con IA?](https://www.reddit.com/r/localseo/comments/1tcajk0/seo_funciona_realmente_escribir_contenidos_con_ia/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-13 19:43 UTC |
+| 11 | [lovable and SEO FTW](https://www.reddit.com/r/localseo/comments/1tc1txg/lovable_and_seo_ftw/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-13 14:46 UTC |
+| 12 | [How I grew a NYC construction company’s Google Business Profile (358 interactions, +783% calls in 60 days)](https://www.reddit.com/r/localseo/comments/1tc1mrc/how_i_grew_a_nyc_construction_companys_google/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-13 14:39 UTC |
 
 ## Notable items (Sites)
 
