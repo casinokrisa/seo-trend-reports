@@ -32,7 +32,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [ATVs &amp; Non-Motorized Vehicles Can Now Be Listed In Google Vehicle Ads](https://www.seroundtable.com/google-vehicle-ads-atvs-41322.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-14 11:31 UTC |
 | [Google Ads To Automatically Link YouTube Channels](https://www.seroundtable.com/google-ads-auto-link-youtube-channel-41303.html) | Search Engine Roundtable | 170 | Links | 2026-05-14 11:21 UTC |
 | [Google Ads API Version 24.1 Now Available](https://www.seroundtable.com/google-ads-api-version-24-1-41323.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-14 11:11 UTC |
-| [AI Agents for SEO: What They Are, How They Work, and How to Build One](https://ahrefs.com/blog/ai-agents-for-seo/) | Ahrefs Blog | 160 | AI Search | 2026-05-15 15:57 UTC |
+| [AI Agents for SEO: What They Are, How They Work, and How to Build One](https://ahrefs.com/blog/ai-agents-for-seo/) | Ahrefs Blog | 140 | AI Search | 2026-05-15 15:57 UTC |
 | [AI Chatbot Traffic: What It Is, and How to Get More](https://ahrefs.com/blog/ai-chatbot-traffic/) | Ahrefs Blog | 140 | AI Search | 2026-05-15 08:43 UTC |
 | [What is a lead generation funnel? And how to build one](https://www.semrush.com/blog/lead-generation-funnel/) | Semrush Blog | 130 | General | 2026-05-15 14:13 UTC |
 | [What is prompt tracking? (+ 4 prompt types to track)](https://www.semrush.com/blog/prompt-tracking/) | Semrush Blog | 130 | AI Search | 2026-05-15 09:28 UTC |
