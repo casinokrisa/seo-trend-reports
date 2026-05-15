@@ -24,9 +24,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [ATVs &amp; Non-Motorized Vehicles Can Now Be Listed In Google Vehicle Ads](https://www.seroundtable.com/google-vehicle-ads-atvs-41322.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-14 11:31 UTC |
 | [Google Ads To Automatically Link YouTube Channels](https://www.seroundtable.com/google-ads-auto-link-youtube-channel-41303.html) | Search Engine Roundtable | 190 | Links | 2026-05-14 11:21 UTC |
 | [Google Ads API Version 24.1 Now Available](https://www.seroundtable.com/google-ads-api-version-24-1-41323.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-14 11:11 UTC |
-| [Daily Search Forum Recap: May 13, 2026](https://www.seroundtable.com/recap-05-13-2026-41318.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-13 14:00 UTC |
 | [Google’s Knowledge Graph Explained: How It Influences SEO &#038; AI Search](https://ahrefs.com/blog/google-knowledge-graph/) | Ahrefs Blog | 140 | AI Search | 2026-05-14 14:00 UTC |
-| [Social media management: The ultimate guide](https://www.semrush.com/blog/social-media-management/) | Semrush Blog | 110 | Migration | 2026-05-13 14:29 UTC |
 
 ## Notes for manual writing
 
