@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Questions about GMB](https://www.reddit.com/r/localseo/comments/1tdlugy/questions_about_gmb/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-15 04:39 UTC |
-| [Question regarding GBP: For multiple locations, what URL to use when there is a location page](https://www.reddit.com/r/localseo/comments/1tdi3rz/question_regarding_gbp_for_multiple_locations/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-15 01:47 UTC |
-| [How much you trust Reddit outreach and posts?](https://www.reddit.com/r/localseo/comments/1tdcrm0/how_much_you_trust_reddit_outreach_and_posts/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-14 22:01 UTC |
-| [How do you explain local SEO value to clients who only care about phone calls?](https://www.reddit.com/r/localseo/comments/1tdchjo/how_do_you_explain_local_seo_value_to_clients_who/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-14 21:51 UTC |
-| [Core Dispatch and Google Voice Services Spam Phone Calls](https://www.reddit.com/r/localseo/comments/1tdbns9/core_dispatch_and_google_voice_services_spam/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-14 21:19 UTC |
-| [Ranking issue on GBP profile](https://www.reddit.com/r/localseo/comments/1td6ihq/ranking_issue_on_gbp_profile/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-14 18:16 UTC |
-| [Star rating rich results for localbusiness schema type (sort of)](https://www.reddit.com/r/localseo/comments/1td34o4/star_rating_rich_results_for_localbusiness_schema/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Technical SEO | 2026-05-14 16:20 UTC |
-| [NAP and domain name. Is it best to have the entire company name as the domain.](https://www.reddit.com/r/localseo/comments/1td12fy/nap_and_domain_name_is_it_best_to_have_the_entire/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-05-14 15:09 UTC |
-| [Local falcon](https://www.reddit.com/r/localseo/comments/1tczvlb/local_falcon/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-14 14:28 UTC |
-| [Do images in Google Business Profile (GBP) reviews have any impact on rankings or SEO?](https://www.reddit.com/r/localseo/comments/1tcul2a/do_images_in_google_business_profile_gbp_reviews/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-14 10:54 UTC |
-| [Did you see google business profile is showing social posts on their GBP?](https://www.reddit.com/r/localseo/comments/1tcudx9/did_you_see_google_business_profile_is_showing/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-14 10:44 UTC |
-| [Is Local SEO Getting Harder in 2026, or Am I Missing Something?](https://www.reddit.com/r/localseo/comments/1tctiun/is_local_seo_getting_harder_in_2026_or_am_i/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-14 09:58 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
