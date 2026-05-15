@@ -19,7 +19,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Clarifying that spam policies apply to generative AI responses in Google Search](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 220 | AI Search | 2026-05-15 00:00 UTC |
-| [Daily Search Forum Recap: May 15, 2026](https://www.seroundtable.com/recap-05-15-2026-41332.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-15 14:00 UTC |
+| [Daily Search Forum Recap: May 15, 2026](https://www.seroundtable.com/recap-05-15-2026-41332.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-15 14:00 UTC |
 | [Search News Buzz Video Recap: Google Ranking Volatility Heated, Discover Data Goes Missing, FAQ Rich Results Totally Gone &amp; Google Ads AI Dashboards](https://www.seroundtable.com/video-05-15-2026-41328.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-15 12:01 UTC |
 | [Google Indexing API Is Inundated By Bloggers](https://www.seroundtable.com/google-indexing-api-inundated-by-bloggers-41329.html) | Search Engine Roundtable | 190 | Indexing | 2026-05-15 11:51 UTC |
 | [Google Search Autocomplete With AI Overview Search Icon](https://www.seroundtable.com/google-autocomplete-ai-overview-icon-41330.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-15 11:41 UTC |
@@ -33,8 +33,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Ads To Automatically Link YouTube Channels](https://www.seroundtable.com/google-ads-auto-link-youtube-channel-41303.html) | Search Engine Roundtable | 170 | Links | 2026-05-14 11:21 UTC |
 | [Google Ads API Version 24.1 Now Available](https://www.seroundtable.com/google-ads-api-version-24-1-41323.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-14 11:11 UTC |
 | [AI Agents for SEO: What They Are, How They Work, and How to Build One](https://ahrefs.com/blog/ai-agents-for-seo/) | Ahrefs Blog | 160 | AI Search | 2026-05-15 15:57 UTC |
-| [What is a lead generation funnel? And how to build one](https://www.semrush.com/blog/lead-generation-funnel/) | Semrush Blog | 150 | General | 2026-05-15 14:13 UTC |
 | [AI Chatbot Traffic: What It Is, and How to Get More](https://ahrefs.com/blog/ai-chatbot-traffic/) | Ahrefs Blog | 140 | AI Search | 2026-05-15 08:43 UTC |
+| [What is a lead generation funnel? And how to build one](https://www.semrush.com/blog/lead-generation-funnel/) | Semrush Blog | 130 | General | 2026-05-15 14:13 UTC |
 | [What is prompt tracking? (+ 4 prompt types to track)](https://www.semrush.com/blog/prompt-tracking/) | Semrush Blog | 130 | AI Search | 2026-05-15 09:28 UTC |
 | [How to find buyer intent keywords for organic &amp; AI search](https://www.semrush.com/blog/buyer-keywords/) | Semrush Blog | 130 | AI Search | 2026-05-15 08:57 UTC |
 | [How to do YouTube keyword research: A complete 2026 guide](https://www.semrush.com/blog/youtube-keyword-research/) | Semrush Blog | 130 | Migration | 2026-05-15 08:45 UTC |
