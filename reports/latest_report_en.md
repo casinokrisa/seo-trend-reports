@@ -25,7 +25,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google: Spam Policies Apply To AI Responses (AI Overviews &amp; AI Mode)](https://www.seroundtable.com/google-spam-policies-apply-ai-responses-41331.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-15 11:31 UTC |
 | [Google Ads Create Video With AI Beta](https://www.seroundtable.com/google-ads-create-video-41321.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-15 11:21 UTC |
 | [Google AI Mode With Direct Hotel Booking Links Inside Responses](https://www.seroundtable.com/google-ai-mode-direct-hotel-booking-links-41317.html) | Search Engine Roundtable | 170 | Links | 2026-05-15 11:11 UTC |
-| [AI Agents for SEO: What They Are, How They Work, and How to Build One](https://ahrefs.com/blog/ai-agents-for-seo/) | Ahrefs Blog | 140 | AI Search | 2026-05-15 15:57 UTC |
+| [AI Agents for SEO: What They Are, How They Work, and How to Build One](https://ahrefs.com/blog/ai-agents-for-seo/) | Ahrefs Blog | 120 | AI Search | 2026-05-15 15:57 UTC |
 | [AI Chatbot Traffic: What It Is, and How to Get More](https://ahrefs.com/blog/ai-chatbot-traffic/) | Ahrefs Blog | 120 | AI Search | 2026-05-15 08:43 UTC |
 | [What is a lead generation funnel? And how to build one](https://www.semrush.com/blog/lead-generation-funnel/) | Semrush Blog | 110 | General | 2026-05-15 14:13 UTC |
 | [What is prompt tracking? (+ 4 prompt types to track)](https://www.semrush.com/blog/prompt-tracking/) | Semrush Blog | 110 | AI Search | 2026-05-15 09:28 UTC |

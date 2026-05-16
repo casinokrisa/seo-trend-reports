@@ -29,7 +29,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads API Version 24.1 Now Available](https://www.seroundtable.com/google-ads-api-version-24-1-41323.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-14 11:11 UTC |
 | [Daily Search Forum Recap: May 13, 2026](https://www.seroundtable.com/recap-05-13-2026-41318.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-13 14:00 UTC |
 | [Google Discover Performance Report Missing Data May 7 &amp; May 8](https://www.seroundtable.com/google-discover-performance-report-missing-data-41313.html) | Search Engine Roundtable | 155 | GSC | 2026-05-13 11:51 UTC |
-| [AI Agents for SEO: What They Are, How They Work, and How to Build One](https://ahrefs.com/blog/ai-agents-for-seo/) | Ahrefs Blog | 140 | AI Search | 2026-05-15 15:57 UTC |
+| [AI Agents for SEO: What They Are, How They Work, and How to Build One](https://ahrefs.com/blog/ai-agents-for-seo/) | Ahrefs Blog | 120 | AI Search | 2026-05-15 15:57 UTC |
 | [AI Chatbot Traffic: What It Is, and How to Get More](https://ahrefs.com/blog/ai-chatbot-traffic/) | Ahrefs Blog | 120 | AI Search | 2026-05-15 08:43 UTC |
 | [Google’s Knowledge Graph Explained: How It Influences SEO &#038; AI Search](https://ahrefs.com/blog/google-knowledge-graph/) | Ahrefs Blog | 120 | AI Search | 2026-05-14 14:00 UTC |
 | [What is a lead generation funnel? And how to build one](https://www.semrush.com/blog/lead-generation-funnel/) | Semrush Blog | 110 | General | 2026-05-15 14:13 UTC |
