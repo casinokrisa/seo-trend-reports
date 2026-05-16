@@ -30,15 +30,15 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Discover Performance Report Missing Data May 7 &amp; May 8](https://www.seroundtable.com/google-discover-performance-report-missing-data-41313.html) | Search Engine Roundtable | 170 | GSC | 2026-05-13 11:51 UTC |
 | [AI Agents for SEO: What They Are, How They Work, and How to Build One](https://ahrefs.com/blog/ai-agents-for-seo/) | Ahrefs Blog | 140 | AI Search | 2026-05-15 15:57 UTC |
 | [What is a lead generation funnel? And how to build one](https://www.semrush.com/blog/lead-generation-funnel/) | Semrush Blog | 130 | General | 2026-05-15 14:13 UTC |
-| [What is prompt tracking? (+ 4 prompt types to track)](https://www.semrush.com/blog/prompt-tracking/) | Semrush Blog | 130 | AI Search | 2026-05-15 09:28 UTC |
-| [How to find buyer intent keywords for organic &amp; AI search](https://www.semrush.com/blog/buyer-keywords/) | Semrush Blog | 130 | AI Search | 2026-05-15 08:57 UTC |
 | [AI Chatbot Traffic: What It Is, and How to Get More](https://ahrefs.com/blog/ai-chatbot-traffic/) | Ahrefs Blog | 120 | AI Search | 2026-05-15 08:43 UTC |
 | [Google’s Knowledge Graph Explained: How It Influences SEO &#038; AI Search](https://ahrefs.com/blog/google-knowledge-graph/) | Ahrefs Blog | 120 | AI Search | 2026-05-14 14:00 UTC |
+| [What is prompt tracking? (+ 4 prompt types to track)](https://www.semrush.com/blog/prompt-tracking/) | Semrush Blog | 110 | AI Search | 2026-05-15 09:28 UTC |
+| [How to find buyer intent keywords for organic &amp; AI search](https://www.semrush.com/blog/buyer-keywords/) | Semrush Blog | 110 | AI Search | 2026-05-15 08:57 UTC |
 | [How to do YouTube keyword research: A complete 2026 guide](https://www.semrush.com/blog/youtube-keyword-research/) | Semrush Blog | 110 | Migration | 2026-05-15 08:45 UTC |
 | [Social media management: The ultimate guide](https://www.semrush.com/blog/social-media-management/) | Semrush Blog | 110 | Migration | 2026-05-13 14:29 UTC |
-| [How to Win in a Zero-Click Search Market](https://www.semrush.com/blog/zero-click-searches/) | Semrush Blog | 110 | GSC | 2026-05-13 09:45 UTC |
 | [We Tracked 1,885 Pages Adding Schema. AI Citations Barely Moved.](https://ahrefs.com/blog/schema-ai-citations/) | Ahrefs Blog | 105 | Links | 2026-05-11 16:36 UTC |
 | [Schema Markup: What It Is &#038; How to Implement It](https://ahrefs.com/blog/schema-markup/) | Ahrefs Blog | 105 | Technical SEO | 2026-05-11 13:00 UTC |
+| [How to Win in a Zero-Click Search Market](https://www.semrush.com/blog/zero-click-searches/) | Semrush Blog | 95 | GSC | 2026-05-13 09:45 UTC |
 | [What are keywords? Definition, types, &amp; how to use them](https://www.semrush.com/blog/what-are-keywords/) | Semrush Blog | 95 | Content | 2026-05-12 14:48 UTC |
 | [11 ways to use AI for SEO (+best practices &amp; challenges)](https://www.semrush.com/blog/ai-seo/) | Semrush Blog | 95 | AI Search | 2026-05-11 07:50 UTC |
 
