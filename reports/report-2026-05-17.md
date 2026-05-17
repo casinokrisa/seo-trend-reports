@@ -18,9 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: May 15, 2026](https://www.seroundtable.com/recap-05-15-2026-41332.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-15 14:00 UTC |
-| [AI Agents for SEO: What They Are, How They Work, and How to Build One](https://ahrefs.com/blog/ai-agents-for-seo/) | Ahrefs Blog | 120 | AI Search | 2026-05-15 15:57 UTC |
-| [What is a lead generation funnel? And how to build one](https://www.semrush.com/blog/lead-generation-funnel/) | Semrush Blog | 110 | General | 2026-05-15 14:13 UTC |
+| _No site items in window_ |  |  |  |  |
 
 ## Notes for manual writing
 
