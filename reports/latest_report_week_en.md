@@ -6,7 +6,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Client Wanted to Rank #1 on Google Maps… Everywhere He Goes 😂](https://www.reddit.com/r/localseo/comments/1tgeda5/client_wanted_to_rank_1_on_google_maps_everywhere/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-18 06:38 UTC |
+| [What's the most outdated SEO advice you still see people giving in 2026? I'll go first.](https://www.reddit.com/r/localseo/comments/1tgcaxj/whats_the_most_outdated_seo_advice_you_still_see/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-18 04:51 UTC |
+| [Looking to Network with Other USA/Canada Site Owners in Home Services](https://www.reddit.com/r/localseo/comments/1tgbvjw/looking_to_network_with_other_usacanada_site/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-18 04:29 UTC |
+| [i spent a year doing traditional SEO for a local client and ignored their GBP completely. that was the entire problem.](https://www.reddit.com/r/localseo/comments/1tg8kgs/i_spent_a_year_doing_traditional_seo_for_a_local/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-18 01:53 UTC |
+| [How often are you actually changing primary GBP categories vs leaving them alone?](https://www.reddit.com/r/localseo/comments/1tg8f70/how_often_are_you_actually_changing_primary_gbp/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-18 01:46 UTC |
+| [How to rank in AI search engines without losing local pack](https://www.reddit.com/r/localseo/comments/1tg7urq/how_to_rank_in_ai_search_engines_without_losing/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-05-18 01:20 UTC |
+| [Best Local SEO Tool ( Google Maps)](https://www.reddit.com/r/localseo/comments/1tg4ngw/best_local_seo_tool_google_maps/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-17 22:58 UTC |
+| [Google LSA is morbidly expensive and takes advantage of small businesses - $210/wk with zero ROI, switching to Thumbtack + Nextdoor](https://www.reddit.com/r/localseo/comments/1tg1rpn/google_lsa_is_morbidly_expensive_and_takes/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-17 21:03 UTC |
+| [Rank and rent](https://www.reddit.com/r/localseo/comments/1tfupvm/rank_and_rent/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-17 16:44 UTC |
+| [Are we overpaying for SEO?](https://www.reddit.com/r/localseo/comments/1tfug85/are_we_overpaying_for_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-17 16:34 UTC |
+| [gemini gems ai visibility auditor - wow!](https://www.reddit.com/r/localseo/comments/1tfu070/gemini_gems_ai_visibility_auditor_wow/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-05-17 16:17 UTC |
+| [Anyone running many single-page sites on separate domains for hyper-local? Trying to understand if this is actually a workflow or a unicorn.](https://www.reddit.com/r/localseo/comments/1tftnkm/anyone_running_many_singlepage_sites_on_separate/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-05-17 16:04 UTC |
 
 ## Weekly notable items (Sites)
 
@@ -41,7 +52,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Social media management: The ultimate guide](https://www.semrush.com/blog/social-media-management/) | Semrush Blog | 95 | Migration | 2026-05-13 14:29 UTC |
 | [How to Win in a Zero-Click Search Market](https://www.semrush.com/blog/zero-click-searches/) | Semrush Blog | 95 | GSC | 2026-05-13 09:45 UTC |
 | [What are keywords? Definition, types, &amp; how to use them](https://www.semrush.com/blog/what-are-keywords/) | Semrush Blog | 95 | Content | 2026-05-12 14:48 UTC |
-| [11 ways to use AI for SEO (+best practices &amp; challenges)](https://www.semrush.com/blog/ai-seo/) | Semrush Blog | 95 | AI Search | 2026-05-11 07:50 UTC |
 
 ## Notes
 
