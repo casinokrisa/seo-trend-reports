@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Client Wanted to Rank #1 on Google Maps… Everywhere He Goes 😂](https://www.reddit.com/r/localseo/comments/1tgeda5/client_wanted_to_rank_1_on_google_maps_everywhere/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-18 06:38 UTC |
-| [What's the most outdated SEO advice you still see people giving in 2026? I'll go first.](https://www.reddit.com/r/localseo/comments/1tgcaxj/whats_the_most_outdated_seo_advice_you_still_see/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-18 04:51 UTC |
-| [Looking to Network with Other USA/Canada Site Owners in Home Services](https://www.reddit.com/r/localseo/comments/1tgbvjw/looking_to_network_with_other_usacanada_site/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-18 04:29 UTC |
-| [i spent a year doing traditional SEO for a local client and ignored their GBP completely. that was the entire problem.](https://www.reddit.com/r/localseo/comments/1tg8kgs/i_spent_a_year_doing_traditional_seo_for_a_local/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-18 01:53 UTC |
-| [How often are you actually changing primary GBP categories vs leaving them alone?](https://www.reddit.com/r/localseo/comments/1tg8f70/how_often_are_you_actually_changing_primary_gbp/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-18 01:46 UTC |
-| [How to rank in AI search engines without losing local pack](https://www.reddit.com/r/localseo/comments/1tg7urq/how_to_rank_in_ai_search_engines_without_losing/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-05-18 01:20 UTC |
-| [Best Local SEO Tool ( Google Maps)](https://www.reddit.com/r/localseo/comments/1tg4ngw/best_local_seo_tool_google_maps/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-17 22:58 UTC |
-| [Google LSA is morbidly expensive and takes advantage of small businesses - $210/wk with zero ROI, switching to Thumbtack + Nextdoor](https://www.reddit.com/r/localseo/comments/1tg1rpn/google_lsa_is_morbidly_expensive_and_takes/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-17 21:03 UTC |
-| [Rank and rent](https://www.reddit.com/r/localseo/comments/1tfupvm/rank_and_rent/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-17 16:44 UTC |
-| [Are we overpaying for SEO?](https://www.reddit.com/r/localseo/comments/1tfug85/are_we_overpaying_for_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-17 16:34 UTC |
-| [gemini gems ai visibility auditor - wow!](https://www.reddit.com/r/localseo/comments/1tfu070/gemini_gems_ai_visibility_auditor_wow/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-05-17 16:17 UTC |
-| [Anyone running many single-page sites on separate domains for hyper-local? Trying to understand if this is actually a workflow or a unicorn.](https://www.reddit.com/r/localseo/comments/1tftnkm/anyone_running_many_singlepage_sites_on_separate/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-05-17 16:04 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
@@ -41,14 +30,14 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Daily Search Forum Recap: May 13, 2026](https://www.seroundtable.com/recap-05-13-2026-41318.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-13 14:00 UTC |
 | [Google Discover Performance Report Missing Data May 7 &amp; May 8](https://www.seroundtable.com/google-discover-performance-report-missing-data-41313.html) | Search Engine Roundtable | 155 | GSC | 2026-05-13 11:51 UTC |
 | [AI Agents for SEO: What They Are, How They Work, and How to Build One](https://ahrefs.com/blog/ai-agents-for-seo/) | Ahrefs Blog | 120 | AI Search | 2026-05-15 15:57 UTC |
-| [AI Chatbot Traffic: What It Is, and How to Get More](https://ahrefs.com/blog/ai-chatbot-traffic/) | Ahrefs Blog | 120 | AI Search | 2026-05-15 08:43 UTC |
 | [What is a lead generation funnel? And how to build one](https://www.semrush.com/blog/lead-generation-funnel/) | Semrush Blog | 110 | General | 2026-05-15 14:13 UTC |
 | [What is prompt tracking? (+ 4 prompt types to track)](https://www.semrush.com/blog/prompt-tracking/) | Semrush Blog | 110 | AI Search | 2026-05-15 09:28 UTC |
 | [How to find buyer intent keywords for organic &amp; AI search](https://www.semrush.com/blog/buyer-keywords/) | Semrush Blog | 110 | AI Search | 2026-05-15 08:57 UTC |
-| [How to do YouTube keyword research: A complete 2026 guide](https://www.semrush.com/blog/youtube-keyword-research/) | Semrush Blog | 110 | Migration | 2026-05-15 08:45 UTC |
+| [AI Chatbot Traffic: What It Is, and How to Get More](https://ahrefs.com/blog/ai-chatbot-traffic/) | Ahrefs Blog | 105 | AI Search | 2026-05-15 08:43 UTC |
 | [Google’s Knowledge Graph Explained: How It Influences SEO &#038; AI Search](https://ahrefs.com/blog/google-knowledge-graph/) | Ahrefs Blog | 105 | AI Search | 2026-05-14 14:00 UTC |
 | [We Tracked 1,885 Pages Adding Schema. AI Citations Barely Moved.](https://ahrefs.com/blog/schema-ai-citations/) | Ahrefs Blog | 105 | Links | 2026-05-11 16:36 UTC |
 | [Schema Markup: What It Is &#038; How to Implement It](https://ahrefs.com/blog/schema-markup/) | Ahrefs Blog | 105 | Technical SEO | 2026-05-11 13:00 UTC |
+| [How to do YouTube keyword research: A complete 2026 guide](https://www.semrush.com/blog/youtube-keyword-research/) | Semrush Blog | 95 | Migration | 2026-05-15 08:45 UTC |
 | [Social media management: The ultimate guide](https://www.semrush.com/blog/social-media-management/) | Semrush Blog | 95 | Migration | 2026-05-13 14:29 UTC |
 | [How to Win in a Zero-Click Search Market](https://www.semrush.com/blog/zero-click-searches/) | Semrush Blog | 95 | GSC | 2026-05-13 09:45 UTC |
 | [What are keywords? Definition, types, &amp; how to use them](https://www.semrush.com/blog/what-are-keywords/) | Semrush Blog | 95 | Content | 2026-05-12 14:48 UTC |
