@@ -12,8 +12,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: May 18, 2026](https://www.seroundtable.com/recap-05-18-2026-41339.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-18 14:00 UTC |
 | [A new resource for optimizing for generative AI in Google Search](https://developers.google.com/search/blog/2026/05/a-new-resource-for-optimizing) | Google Search Central Blog | 195 | AI Search | 2026-05-15 00:00 UTC |
+| [Daily Search Forum Recap: May 18, 2026](https://www.seroundtable.com/recap-05-18-2026-41339.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-18 14:00 UTC |
 | [Google Search On How To Optimize For Generative AI With Myth-Busting](https://www.seroundtable.com/google-optimize-generative-ai-mythbusting-41335.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-18 11:51 UTC |
 | [66% Of SEOs Say AI Mode Won't Replace Google Search](https://www.seroundtable.com/ai-mode-replace-google-search-poll-41337.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-18 11:41 UTC |
 | [Google Search Live Results Updated By AI X Minutes Ago Label](https://www.seroundtable.com/google-search-live-results-updated-by-ai-1-41338.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-18 11:31 UTC |
