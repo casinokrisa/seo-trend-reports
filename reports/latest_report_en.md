@@ -29,7 +29,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [66% Of SEOs Say AI Mode Won't Replace Google Search](https://www.seroundtable.com/ai-mode-replace-google-search-poll-41337.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-18 11:41 UTC |
 | [Google Search Live Results Updated By AI X Minutes Ago Label](https://www.seroundtable.com/google-search-live-results-updated-by-ai-1-41338.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-18 11:31 UTC |
 | [Google Ads Primary Conversion Actions May Be Used For Enhance Predictions](https://www.seroundtable.com/google-ads-primary-conversion-actions-enhance-predictions-41334.html) | Search Engine Roundtable | 170 | General | 2026-05-18 11:21 UTC |
-| [Google AI Mode Animated Invisible Edit &amp; Copy Buttons](https://www.seroundtable.com/google-ai-mode-edit-copy-buttons-41333.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-18 11:11 UTC |
 | [7 Ways to Automate Content Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-content-marketing/) | Ahrefs Blog | 140 | AI Search | 2026-05-19 10:35 UTC |
 | [What Is Content Engineering, and How Do You Do It?](https://ahrefs.com/blog/what-is-content-engineering/) | Ahrefs Blog | 140 | Content | 2026-05-19 08:24 UTC |
 | [What Is Agentic SEO? And How to Get Started This Week](https://ahrefs.com/blog/agentic-seo/) | Ahrefs Blog | 140 | General | 2026-05-19 08:17 UTC |
