@@ -6,7 +6,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Need SEO advice: Homepage keyword strategy for location vs service focus (Mississauga-based agency expanding across Canada)](https://www.reddit.com/r/localseo/comments/1thcj4v/need_seo_advice_homepage_keyword_strategy_for/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-19 04:50 UTC |
+| [competitor has half our reviews, worse website, and no backlinks. been outranking us in the map pack for 8 months. what are we missing](https://www.reddit.com/r/localseo/comments/1th9sq0/competitor_has_half_our_reviews_worse_website_and/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-19 02:44 UTC |
+| [elevenlabs on sites and seo](https://www.reddit.com/r/localseo/comments/1th92mf/elevenlabs_on_sites_and_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-19 02:12 UTC |
+| [Anyone look into the 'score' for reviews](https://www.reddit.com/r/localseo/comments/1th684d/anyone_look_into_the_score_for_reviews/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-19 00:10 UTC |
+| [Are GBP posts doing anything meaningful anymore or just keeping profiles active?](https://www.reddit.com/r/localseo/comments/1th1h9k/are_gbp_posts_doing_anything_meaningful_anymore/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-18 21:13 UTC |
+| [Learnings from a past few months, do you agree?](https://www.reddit.com/r/localseo/comments/1th09lr/learnings_from_a_past_few_months_do_you_agree/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-18 20:31 UTC |
+| [How do you scale local SEO pages with AI without creating repetitive semantic patterns?](https://www.reddit.com/r/localseo/comments/1tgyq38/how_do_you_scale_local_seo_pages_with_ai_without/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-18 19:39 UTC |
+| [Free tool to compare a before and after](https://www.reddit.com/r/localseo/comments/1tgxseu/free_tool_to_compare_a_before_and_after/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-18 19:14 UTC |
+| [google on ai seo](https://www.reddit.com/r/localseo/comments/1tgxnty/google_on_ai_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-05-18 19:11 UTC |
+| [Rank and rent in Australia](https://www.reddit.com/r/localseo/comments/1tgtebn/rank_and_rent_in_australia/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-18 17:20 UTC |
+| [What Tools Are You Using To Get Accurate Keyword Volume?](https://www.reddit.com/r/localseo/comments/1tgq3xq/what_tools_are_you_using_to_get_accurate_keyword/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-18 15:30 UTC |
+| [A beautiful month for a home remodeling GBP](https://www.reddit.com/r/localseo/comments/1tgpo1p/a_beautiful_month_for_a_home_remodeling_gbp/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-18 15:15 UTC |
 
 ## Weekly notable items (Sites)
 
@@ -32,6 +43,13 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [AI Agents for SEO: What They Are, How They Work, and How to Build One](https://ahrefs.com/blog/ai-agents-for-seo/) | Ahrefs Blog | 105 | AI Search | 2026-05-15 15:57 UTC |
 | [AI Chatbot Traffic: What It Is, and How to Get More](https://ahrefs.com/blog/ai-chatbot-traffic/) | Ahrefs Blog | 105 | AI Search | 2026-05-15 08:43 UTC |
 | [Google’s Knowledge Graph Explained: How It Influences SEO &#038; AI Search](https://ahrefs.com/blog/google-knowledge-graph/) | Ahrefs Blog | 105 | AI Search | 2026-05-14 14:00 UTC |
+| [What is a lead generation funnel? And how to build one](https://www.semrush.com/blog/lead-generation-funnel/) | Semrush Blog | 95 | General | 2026-05-15 14:13 UTC |
+| [What is prompt tracking? (+ 4 prompt types to track)](https://www.semrush.com/blog/prompt-tracking/) | Semrush Blog | 95 | AI Search | 2026-05-15 09:28 UTC |
+| [How to find buyer intent keywords for organic &amp; AI search](https://www.semrush.com/blog/buyer-keywords/) | Semrush Blog | 95 | AI Search | 2026-05-15 08:57 UTC |
+| [How to do YouTube keyword research: A complete 2026 guide](https://www.semrush.com/blog/youtube-keyword-research/) | Semrush Blog | 95 | Migration | 2026-05-15 08:45 UTC |
+| [Social media management: The ultimate guide](https://www.semrush.com/blog/social-media-management/) | Semrush Blog | 95 | Migration | 2026-05-13 14:29 UTC |
+| [How to Win in a Zero-Click Search Market](https://www.semrush.com/blog/zero-click-searches/) | Semrush Blog | 95 | GSC | 2026-05-13 09:45 UTC |
+| [What are keywords? Definition, types, &amp; how to use them](https://www.semrush.com/blog/what-are-keywords/) | Semrush Blog | 95 | Content | 2026-05-12 14:48 UTC |
 
 ## Notes
 
