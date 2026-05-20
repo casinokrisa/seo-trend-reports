@@ -19,13 +19,15 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: May 19, 2026](https://www.seroundtable.com/recap-05-19-2026-41345.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-19 14:00 UTC |
-| [Google Adds Markdown Files To Help Docs But Not Used For Search](https://www.seroundtable.com/google-adds-markdown-files-to-help-docs-41342.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-19 11:51 UTC |
-| [Google I/O 2026 Search Ranking Volatility &amp; Update](https://www.seroundtable.com/google-i-o-search-ranking-volatility-41344.html) | Search Engine Roundtable | 190 | General | 2026-05-19 11:41 UTC |
-| [OpenAI / ChatGPT Has A Web Cache](https://www.seroundtable.com/openai-chatgpt-web-cache-41312.html) | Search Engine Roundtable | 190 | Indexing | 2026-05-19 11:31 UTC |
-| [Bing Tests New Fonts, Links &amp; Products Within Copilot Answers](https://www.seroundtable.com/bing-fonts-links-products-copilot-tests-41341.html) | Search Engine Roundtable | 190 | Links | 2026-05-19 11:21 UTC |
-| [Microsoft Clarity New AI Citations Report](https://www.seroundtable.com/microsoft-clarity-ai-citations-report-41340.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-19 11:11 UTC |
-| [7 Ways to Automate Content Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-content-marketing/) | Ahrefs Blog | 140 | AI Search | 2026-05-19 10:35 UTC |
+| [Google Adds Markdown Files To Help Docs But Not Used For Search](https://www.seroundtable.com/google-adds-markdown-files-to-help-docs-41342.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-19 11:51 UTC |
+| [Google I/O 2026 Search Ranking Volatility &amp; Update](https://www.seroundtable.com/google-i-o-search-ranking-volatility-41344.html) | Search Engine Roundtable | 170 | General | 2026-05-19 11:41 UTC |
+| [OpenAI / ChatGPT Has A Web Cache](https://www.seroundtable.com/openai-chatgpt-web-cache-41312.html) | Search Engine Roundtable | 170 | Indexing | 2026-05-19 11:31 UTC |
+| [Bing Tests New Fonts, Links &amp; Products Within Copilot Answers](https://www.seroundtable.com/bing-fonts-links-products-copilot-tests-41341.html) | Search Engine Roundtable | 170 | Links | 2026-05-19 11:21 UTC |
+| [Microsoft Clarity New AI Citations Report](https://www.seroundtable.com/microsoft-clarity-ai-citations-report-41340.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-19 11:11 UTC |
+| [GA4 adds AI Assistant channel for referral tracking](https://www.semrush.com/blog/ga4-adds-ai-assistant-channel/) | Semrush Blog | 150 | AI Search | 2026-05-20 08:59 UTC |
+| [How to measure and report on AI search visibility (what actually matters)](https://www.semrush.com/blog/measure-ai-visibility/) | Semrush Blog | 150 | AI Search | 2026-05-20 08:55 UTC |
 | [Google publishes guide to optimizing for generative AI search](https://www.semrush.com/blog/google-publishes-generative-ai-search-guide/) | Semrush Blog | 130 | AI Search | 2026-05-19 13:52 UTC |
+| [7 Ways to Automate Content Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-content-marketing/) | Ahrefs Blog | 120 | AI Search | 2026-05-19 10:35 UTC |
 | [What Is Content Engineering, and How Do You Do It?](https://ahrefs.com/blog/what-is-content-engineering/) | Ahrefs Blog | 120 | Content | 2026-05-19 08:24 UTC |
 | [What Is Agentic SEO? And How to Get Started This Week](https://ahrefs.com/blog/agentic-seo/) | Ahrefs Blog | 120 | General | 2026-05-19 08:17 UTC |
 
