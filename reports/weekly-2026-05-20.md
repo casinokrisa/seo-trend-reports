@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Can someone help me to boost ai visibility and local rankings of my website?](https://www.reddit.com/r/localseo/comments/1tielu6/can_someone_help_me_to_boost_ai_visibility_and/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-05-20 07:43 UTC |
-| [Business is not showing up on Google? Do this free 30-minute audit. It will tell you exactly why competitors are beating you.](https://www.reddit.com/r/localseo/comments/1tidwj0/business_is_not_showing_up_on_google_do_this_free/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-20 07:03 UTC |
-| [Business name change?](https://www.reddit.com/r/localseo/comments/1tibn9z/business_name_change/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-20 05:04 UTC |
-| [Is anyone still investing heavily in human content writers, or are you using AI-assisted content now?](https://www.reddit.com/r/localseo/comments/1tib4mp/is_anyone_still_investing_heavily_in_human/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-05-20 04:38 UTC |
-| [Anyone else struggling with Google Business Profile verification without a physical office?](https://www.reddit.com/r/localseo/comments/1ti7evu/anyone_else_struggling_with_google_business/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-20 01:51 UTC |
-| [Competitor appears to be copying our blog content and using a questionable Google Business Profile in a key market — what are my options?](https://www.reddit.com/r/localseo/comments/1ti51d7/competitor_appears_to_be_copying_our_blog_content/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-20 00:07 UTC |
-| [Market Near Me](https://www.reddit.com/r/localseo/comments/1ti3lx2/market_near_me/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-19 23:08 UTC |
-| [Traffic collapsing months after migration](https://www.reddit.com/r/localseo/comments/1thyfx6/traffic_collapsing_months_after_migration/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Migration | 2026-05-19 19:58 UTC |
-| [How do I Impact SEO? Seriously?](https://www.reddit.com/r/localseo/comments/1thy2s9/how_do_i_impact_seo_seriously/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-19 19:46 UTC |
-| [We got tired of paying for guest posts that vanished in 6 months, so we built our own marketplace](https://www.reddit.com/r/localseo/comments/1thuwun/we_got_tired_of_paying_for_guest_posts_that/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-05-19 18:01 UTC |
-| [Best Way to Localize Client's Website](https://www.reddit.com/r/localseo/comments/1thpqws/best_way_to_localize_clients_website/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-19 15:06 UTC |
-| [OTT for SEO](https://www.reddit.com/r/localseo/comments/1thok9u/ott_for_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-19 14:24 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
@@ -41,8 +30,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Search News Buzz Video Recap: Google Ranking Volatility Heated, Discover Data Goes Missing, FAQ Rich Results Totally Gone &amp; Google Ads AI Dashboards](https://www.seroundtable.com/video-05-15-2026-41328.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-15 12:01 UTC |
 | [Google Indexing API Is Inundated By Bloggers](https://www.seroundtable.com/google-indexing-api-inundated-by-bloggers-41329.html) | Search Engine Roundtable | 155 | Indexing | 2026-05-15 11:51 UTC |
 | [7 Ways to Automate Content Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-content-marketing/) | Ahrefs Blog | 140 | AI Search | 2026-05-19 10:35 UTC |
-| [What Is Content Engineering, and How Do You Do It?](https://ahrefs.com/blog/what-is-content-engineering/) | Ahrefs Blog | 140 | Content | 2026-05-19 08:24 UTC |
 | [Google publishes guide to optimizing for generative AI search](https://www.semrush.com/blog/google-publishes-generative-ai-search-guide/) | Semrush Blog | 130 | AI Search | 2026-05-19 13:52 UTC |
+| [What Is Content Engineering, and How Do You Do It?](https://ahrefs.com/blog/what-is-content-engineering/) | Ahrefs Blog | 120 | Content | 2026-05-19 08:24 UTC |
 | [What Is Agentic SEO? And How to Get Started This Week](https://ahrefs.com/blog/agentic-seo/) | Ahrefs Blog | 120 | General | 2026-05-19 08:17 UTC |
 | [AI Agents for SEO: What They Are, How They Work, and How to Build One](https://ahrefs.com/blog/ai-agents-for-seo/) | Ahrefs Blog | 105 | AI Search | 2026-05-15 15:57 UTC |
 | [AI Chatbot Traffic: What It Is, and How to Get More](https://ahrefs.com/blog/ai-chatbot-traffic/) | Ahrefs Blog | 105 | AI Search | 2026-05-15 08:43 UTC |
