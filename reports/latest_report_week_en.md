@@ -13,8 +13,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Added hasAdultConsideration to product-related structured data types](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 220 | Links | 2026-05-20 00:00 UTC |
-| [Daily Search Forum Recap: May 20, 2026](https://www.seroundtable.com/recap-05-20-2026-41356.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-20 14:00 UTC |
 | [A new resource for optimizing for generative AI in Google Search](https://developers.google.com/search/blog/2026/05/a-new-resource-for-optimizing) | Google Search Central Blog | 195 | AI Search | 2026-05-15 00:00 UTC |
+| [Daily Search Forum Recap: May 20, 2026](https://www.seroundtable.com/recap-05-20-2026-41356.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-20 14:00 UTC |
 | [Google's New Search Bar, The Intelligent Search Box](https://www.seroundtable.com/google-intelligent-search-box-41343.html) | Search Engine Roundtable | 190 | General | 2026-05-20 11:51 UTC |
 | [Google Search Now Powered By Gemini 3.5 Flash With New Agentic Features](https://www.seroundtable.com/google-search-gemini-3-5-flash-agents-41346.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-20 11:41 UTC |
 | [Google Tests Preferred Sources Label In AI Mode Citations](https://www.seroundtable.com/google-ai-mode-preferred-sources-label-41347.html) | Search Engine Roundtable | 190 | Links | 2026-05-20 11:31 UTC |
@@ -29,8 +29,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Daily Search Forum Recap: May 18, 2026](https://www.seroundtable.com/recap-05-18-2026-41339.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-18 14:00 UTC |
 | [Google Search On How To Optimize For Generative AI With Myth-Busting](https://www.seroundtable.com/google-optimize-generative-ai-mythbusting-41335.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-18 11:51 UTC |
 | [66% Of SEOs Say AI Mode Won't Replace Google Search](https://www.seroundtable.com/ai-mode-replace-google-search-poll-41337.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-18 11:41 UTC |
-| [SEO basics: How to do SEO for beginners](https://www.semrush.com/blog/seo-basics/) | Semrush Blog | 150 | Technical SEO | 2026-05-20 14:56 UTC |
-| [Google unveils Gemini 3.5 Flash and a redesigned ‘intelligent Search box’](https://www.semrush.com/blog/google-announces-intelligent-search-box/) | Semrush Blog | 150 | AI Search | 2026-05-20 13:50 UTC |
+| [How to Persuade Your Boss to Send You to Ahrefs Evolve in San Diego](https://ahrefs.com/blog/how-to-persuade-your-boss-to-send-you-to-ahrefs-evolve/) | Ahrefs Blog | 140 | General | 2026-05-20 14:00 UTC |
+| [SEO basics: How to do SEO for beginners](https://www.semrush.com/blog/seo-basics/) | Semrush Blog | 130 | Technical SEO | 2026-05-20 14:56 UTC |
+| [Google unveils Gemini 3.5 Flash and a redesigned ‘intelligent Search box’](https://www.semrush.com/blog/google-announces-intelligent-search-box/) | Semrush Blog | 130 | AI Search | 2026-05-20 13:50 UTC |
 | [GA4 adds AI Assistant channel for referral tracking](https://www.semrush.com/blog/ga4-adds-ai-assistant-channel/) | Semrush Blog | 130 | AI Search | 2026-05-20 08:59 UTC |
 | [How to measure and report on AI search visibility (what actually matters)](https://www.semrush.com/blog/measure-ai-visibility/) | Semrush Blog | 130 | AI Search | 2026-05-20 08:55 UTC |
 | [7 Ways to Automate Content Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-content-marketing/) | Ahrefs Blog | 120 | AI Search | 2026-05-19 10:35 UTC |
