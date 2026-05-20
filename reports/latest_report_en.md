@@ -36,7 +36,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google unveils Gemini 3.5 Flash and a redesigned ‘intelligent Search box’](https://www.semrush.com/blog/google-announces-intelligent-search-box/) | Semrush Blog | 130 | AI Search | 2026-05-20 13:50 UTC |
 | [GA4 adds AI Assistant channel for referral tracking](https://www.semrush.com/blog/ga4-adds-ai-assistant-channel/) | Semrush Blog | 130 | AI Search | 2026-05-20 08:59 UTC |
 | [How to measure and report on AI search visibility (what actually matters)](https://www.semrush.com/blog/measure-ai-visibility/) | Semrush Blog | 130 | AI Search | 2026-05-20 08:55 UTC |
-| [7 Ways to Automate Content Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-content-marketing/) | Ahrefs Blog | 120 | AI Search | 2026-05-19 10:35 UTC |
 | [Google publishes guide to optimizing for generative AI search](https://www.semrush.com/blog/google-publishes-generative-ai-search-guide/) | Semrush Blog | 110 | AI Search | 2026-05-19 13:52 UTC |
 
 ## Notes for manual writing
