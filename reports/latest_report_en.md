@@ -20,11 +20,11 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 |---|---|---:|---|---:|
 | [Google May 2026 Core Update Is Rolling Out - You Felt It](https://www.seroundtable.com/google-may-2026-core-update-41367.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-21 16:04 UTC |
 | [Daily Search Forum Recap: May 21, 2026](https://www.seroundtable.com/recap-05-21-2026-41362.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-21 14:00 UTC |
-| [Google Tests Conversational Discovery Ads &amp; Highlighted Answers In AI Mode](https://www.seroundtable.com/google-conversational-discovery-ads-highlighted-answers-41352.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-21 11:51 UTC |
-| [Google AI Mode Shopping Ads, Business Agent For Leads &amp; Direct Offers Coming](https://www.seroundtable.com/google-ai-mode-shopping-ads-41353.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-21 11:41 UTC |
-| [Google Ask Advisor Brings Together Ads Advisor &amp; Analytics Advisor](https://www.seroundtable.com/google-ask-advisor-41354.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-21 11:31 UTC |
-| [Google Search Tests For You Label In Product Grid Results](https://www.seroundtable.com/google-search-product-grid-for-you-label-41348.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-21 11:21 UTC |
-| [Google AdSense Adds Dynamic Anchors Ads](https://www.seroundtable.com/google-adsense-dynamic-anchors-ads-41361.html) | Search Engine Roundtable | 210 | Links | 2026-05-21 11:11 UTC |
+| [Google Tests Conversational Discovery Ads &amp; Highlighted Answers In AI Mode](https://www.seroundtable.com/google-conversational-discovery-ads-highlighted-answers-41352.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-21 11:51 UTC |
+| [Google AI Mode Shopping Ads, Business Agent For Leads &amp; Direct Offers Coming](https://www.seroundtable.com/google-ai-mode-shopping-ads-41353.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-21 11:41 UTC |
+| [Google Ask Advisor Brings Together Ads Advisor &amp; Analytics Advisor](https://www.seroundtable.com/google-ask-advisor-41354.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-21 11:31 UTC |
+| [Google Search Tests For You Label In Product Grid Results](https://www.seroundtable.com/google-search-product-grid-for-you-label-41348.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-21 11:21 UTC |
+| [Google AdSense Adds Dynamic Anchors Ads](https://www.seroundtable.com/google-adsense-dynamic-anchors-ads-41361.html) | Search Engine Roundtable | 190 | Links | 2026-05-21 11:11 UTC |
 | [Daily Search Forum Recap: May 20, 2026](https://www.seroundtable.com/recap-05-20-2026-41356.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-20 14:00 UTC |
 | [Google's New Search Bar, The Intelligent Search Box](https://www.seroundtable.com/google-intelligent-search-box-41343.html) | Search Engine Roundtable | 170 | General | 2026-05-20 11:51 UTC |
 | [Google Search Now Powered By Gemini 3.5 Flash With New Agentic Features](https://www.seroundtable.com/google-search-gemini-3-5-flash-agents-41346.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-20 11:41 UTC |
