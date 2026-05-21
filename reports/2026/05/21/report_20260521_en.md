@@ -25,13 +25,11 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Tests Preferred Sources Label In AI Mode Citations](https://www.seroundtable.com/google-ai-mode-preferred-sources-label-41347.html) | Search Engine Roundtable | 190 | Links | 2026-05-20 11:31 UTC |
 | [Google Adult Property Added To Merchant Listing &amp; Product Variant](https://www.seroundtable.com/google-adds-adult-consideration-41355.html) | Search Engine Roundtable | 190 | Technical SEO | 2026-05-20 11:21 UTC |
 | [Microsoft Advertising Updates Import Center, Cross-Account Portfolio Bidding &amp; Bidding Strategy Report](https://www.seroundtable.com/microsoft-advertising-updates-41351.html) | Search Engine Roundtable | 190 | General | 2026-05-20 11:11 UTC |
-| [Daily Search Forum Recap: May 19, 2026](https://www.seroundtable.com/recap-05-19-2026-41345.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-19 14:00 UTC |
 | [How to Persuade Your Boss to Send You to Ahrefs Evolve in San Diego](https://ahrefs.com/blog/how-to-persuade-your-boss-to-send-you-to-ahrefs-evolve/) | Ahrefs Blog | 140 | General | 2026-05-20 14:00 UTC |
 | [SEO basics: How to do SEO for beginners](https://www.semrush.com/blog/seo-basics/) | Semrush Blog | 130 | Technical SEO | 2026-05-20 14:56 UTC |
 | [Google unveils Gemini 3.5 Flash and a redesigned ‘intelligent Search box’](https://www.semrush.com/blog/google-announces-intelligent-search-box/) | Semrush Blog | 130 | AI Search | 2026-05-20 13:50 UTC |
 | [GA4 adds AI Assistant channel for referral tracking](https://www.semrush.com/blog/ga4-adds-ai-assistant-channel/) | Semrush Blog | 130 | AI Search | 2026-05-20 08:59 UTC |
 | [How to measure and report on AI search visibility (what actually matters)](https://www.semrush.com/blog/measure-ai-visibility/) | Semrush Blog | 130 | AI Search | 2026-05-20 08:55 UTC |
-| [Google publishes guide to optimizing for generative AI search](https://www.semrush.com/blog/google-publishes-generative-ai-search-guide/) | Semrush Blog | 110 | AI Search | 2026-05-19 13:52 UTC |
 
 ## Notes for manual writing
 
