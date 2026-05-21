@@ -14,9 +14,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 |---|---|---:|---|---:|
 | [Google Search Console Links Report Is Broken](https://www.seroundtable.com/google-search-console-links-report-broke-41371.html) | Search Engine Roundtable | 210 | Links | 2026-05-21 20:14 UTC |
 | [Programming Note: Offline For Shavuot On Friday](https://www.seroundtable.com/shavuot-5786-41336.html) | Search Engine Roundtable | 210 | General | 2026-05-21 19:00 UTC |
-| [Google May 2026 Core Update Is Rolling Out - You Felt It](https://www.seroundtable.com/google-may-2026-core-update-41367.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-21 16:04 UTC |
 | [Added hasAdultConsideration to product-related structured data types](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Links | 2026-05-20 00:00 UTC |
 | [A new resource for optimizing for generative AI in Google Search](https://developers.google.com/search/blog/2026/05/a-new-resource-for-optimizing) | Google Search Central Blog | 195 | AI Search | 2026-05-15 00:00 UTC |
+| [Google May 2026 Core Update Is Rolling Out - You Felt It](https://www.seroundtable.com/google-may-2026-core-update-41367.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-21 16:04 UTC |
 | [Daily Search Forum Recap: May 21, 2026](https://www.seroundtable.com/recap-05-21-2026-41362.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-21 14:00 UTC |
 | [Google Tests Conversational Discovery Ads &amp; Highlighted Answers In AI Mode](https://www.seroundtable.com/google-conversational-discovery-ads-highlighted-answers-41352.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-21 11:51 UTC |
 | [Google AI Mode Shopping Ads, Business Agent For Leads &amp; Direct Offers Coming](https://www.seroundtable.com/google-ai-mode-shopping-ads-41353.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-21 11:41 UTC |
