@@ -25,7 +25,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Are Google Search Console Email Alerts Enough?](https://www.seroundtable.com/google-search-console-email-alerts-41363.html) | Search Engine Roundtable | 190 | GSC | 2026-05-22 11:31 UTC |
 | [Bing Tests Showing Sale Prices In Shopping Ads](https://www.seroundtable.com/bing-sale-prices-shopping-ads-41357.html) | Search Engine Roundtable | 190 | General | 2026-05-22 11:21 UTC |
 | [Google Tests Was &amp; Usually Pricing Labels In Product Results](https://www.seroundtable.com/google-pricing-labels-41349.html) | Search Engine Roundtable | 190 | General | 2026-05-22 11:11 UTC |
-| [Google Search Console Links Report Is Broken](https://www.seroundtable.com/google-search-console-links-report-broke-41371.html) | Search Engine Roundtable | 190 | Links | 2026-05-21 20:14 UTC |
+| [Google Search Console Links Report Is Broken](https://www.seroundtable.com/google-search-console-links-report-broke-41371.html) | Search Engine Roundtable | 170 | Links | 2026-05-21 20:14 UTC |
 | [Programming Note: Offline For Shavuot On Friday](https://www.seroundtable.com/shavuot-5786-41336.html) | Search Engine Roundtable | 170 | General | 2026-05-21 19:00 UTC |
 | [Google May 2026 Core Update Is Rolling Out - You Felt It](https://www.seroundtable.com/google-may-2026-core-update-41367.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-21 16:04 UTC |
 | [Daily Search Forum Recap: May 21, 2026](https://www.seroundtable.com/recap-05-21-2026-41362.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-21 14:00 UTC |
@@ -36,8 +36,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [8 Ways to Automate Product Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-product-marketing/) | Ahrefs Blog | 140 | AI Search | 2026-05-22 11:17 UTC |
 | [Ecommerce marketing: 10 strategies for search and AI in 2026](https://www.semrush.com/blog/ecommerce-marketing/) | Semrush Blog | 130 | AI Search | 2026-05-22 10:39 UTC |
 | [10 best SEO audit tools for 2026 (tested)](https://www.semrush.com/blog/seo-audit-tools/) | Semrush Blog | 130 | GSC | 2026-05-22 09:59 UTC |
-| [What is PPC? A starter guide to pay-per-click advertising](https://www.semrush.com/blog/what-is-ppc/) | Semrush Blog | 110 | AI Search | 2026-05-21 08:59 UTC |
-| [What is competitive analysis? How to do one (+ template)](https://www.semrush.com/blog/competitive-analysis/) | Semrush Blog | 110 | AI Search | 2026-05-21 08:39 UTC |
 
 ## Notes for manual writing
 
