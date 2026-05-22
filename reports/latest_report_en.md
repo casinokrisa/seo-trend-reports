@@ -18,6 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Daily Search Forum Recap: May 22, 2026](https://www.seroundtable.com/recap-05-22-2026-41365.html) | Search Engine Roundtable | 210 | Links | 2026-05-22 14:00 UTC |
 | [Search News Buzz Video Recap: Google's New Search Box, Gemini 3.5 Flash Powers AI Mode, New Google Ads, Ranking Volatility &amp; More I/O GML News](https://www.seroundtable.com/video-05-22-2026-41366.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-22 12:01 UTC |
 | [OpenAI Releases ChatGPT Ads Manager Updates &amp; Ads Tests](https://www.seroundtable.com/chatgpt-ads-manager-updates-ads-tests-41364.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-22 11:51 UTC |
 | [Google: Why Split Your XML Sitemap File](https://www.seroundtable.com/why-split-your-xml-sitemap-file-for-google-41202.html) | Search Engine Roundtable | 210 | Indexing | 2026-05-22 11:41 UTC |
@@ -27,12 +28,11 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Search Console Links Report Is Broken](https://www.seroundtable.com/google-search-console-links-report-broke-41371.html) | Search Engine Roundtable | 190 | Links | 2026-05-21 20:14 UTC |
 | [Programming Note: Offline For Shavuot On Friday](https://www.seroundtable.com/shavuot-5786-41336.html) | Search Engine Roundtable | 190 | General | 2026-05-21 19:00 UTC |
 | [Google May 2026 Core Update Is Rolling Out - You Felt It](https://www.seroundtable.com/google-may-2026-core-update-41367.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-21 16:04 UTC |
-| [Daily Search Forum Recap: May 21, 2026](https://www.seroundtable.com/recap-05-21-2026-41362.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-21 14:00 UTC |
+| [Daily Search Forum Recap: May 21, 2026](https://www.seroundtable.com/recap-05-21-2026-41362.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-21 14:00 UTC |
 | [Google Tests Conversational Discovery Ads &amp; Highlighted Answers In AI Mode](https://www.seroundtable.com/google-conversational-discovery-ads-highlighted-answers-41352.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-21 11:51 UTC |
 | [Google AI Mode Shopping Ads, Business Agent For Leads &amp; Direct Offers Coming](https://www.seroundtable.com/google-ai-mode-shopping-ads-41353.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-21 11:41 UTC |
 | [Google Ask Advisor Brings Together Ads Advisor &amp; Analytics Advisor](https://www.seroundtable.com/google-ask-advisor-41354.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-21 11:31 UTC |
 | [Google Search Tests For You Label In Product Grid Results](https://www.seroundtable.com/google-search-product-grid-for-you-label-41348.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-21 11:21 UTC |
-| [Google AdSense Adds Dynamic Anchors Ads](https://www.seroundtable.com/google-adsense-dynamic-anchors-ads-41361.html) | Search Engine Roundtable | 170 | Links | 2026-05-21 11:11 UTC |
 | [8 Ways to Automate Product Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-product-marketing/) | Ahrefs Blog | 160 | AI Search | 2026-05-22 11:17 UTC |
 | [Ecommerce marketing: 10 strategies for search and AI in 2026](https://www.semrush.com/blog/ecommerce-marketing/) | Semrush Blog | 150 | AI Search | 2026-05-22 10:39 UTC |
 | [10 best SEO audit tools for 2026 (tested)](https://www.semrush.com/blog/seo-audit-tools/) | Semrush Blog | 150 | GSC | 2026-05-22 09:59 UTC |
