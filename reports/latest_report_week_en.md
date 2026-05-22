@@ -6,7 +6,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Llms.txt file \| Google's fluff - or why we do need it!](https://www.reddit.com/r/localseo/comments/1tkbwjg/llmstxt_file_googles_fluff_or_why_we_do_need_it/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-05-22 07:40 UTC |
+| [Do GBP posts actually help rankings anymore in 2026?](https://www.reddit.com/r/localseo/comments/1tka2l3/do_gbp_posts_actually_help_rankings_anymore_in/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-22 06:02 UTC |
+| [Best methods to find website leads with issues?](https://www.reddit.com/r/localseo/comments/1tk8g15/best_methods_to_find_website_leads_with_issues/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-22 04:38 UTC |
+| [Can anyone suggest or help me publish free backlinks PR?](https://www.reddit.com/r/localseo/comments/1tk75rm/can_anyone_suggest_or_help_me_publish_free/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-05-22 03:36 UTC |
+| [Do GBP primary categories actually move the needle for a service-area business?](https://www.reddit.com/r/localseo/comments/1tk64kk/do_gbp_primary_categories_actually_move_the/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-22 02:49 UTC |
+| [Multiple business logos on office windows, could this cause GBP issues?](https://www.reddit.com/r/localseo/comments/1tjy32q/multiple_business_logos_on_office_windows_could/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-21 21:12 UTC |
+| [Google Search Console Error](https://www.reddit.com/r/localseo/comments/1tjvq02/google_search_console_error/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-05-21 19:47 UTC |
+| [Google Core Update For May Started Rolling Out](https://www.reddit.com/r/localseo/comments/1tjvgbf/google_core_update_for_may_started_rolling_out/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-21 19:38 UTC |
+| [Google Maps dataset: roughly 1 in 2 local business listings has no website URL. What does that mean for GBP-only profiles?](https://www.reddit.com/r/localseo/comments/1tjv44t/google_maps_dataset_roughly_1_in_2_local_business/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-21 19:26 UTC |
+| [Has topical authority become more important than backlinks lately?](https://www.reddit.com/r/localseo/comments/1tjsuvl/has_topical_authority_become_more_important_than/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-05-21 18:10 UTC |
+| [Optimizing Location Assets to force Maps placements (Without PMax Display waste)](https://www.reddit.com/r/localseo/comments/1tjrtws/optimizing_location_assets_to_force_maps/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-21 17:36 UTC |
+| [Getting Old, ToS violated reviews removed](https://www.reddit.com/r/localseo/comments/1tjow44/getting_old_tos_violated_reviews_removed/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-21 15:58 UTC |
 
 ## Weekly notable items (Sites)
 
@@ -30,11 +41,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Microsoft Advertising Updates Import Center, Cross-Account Portfolio Bidding &amp; Bidding Strategy Report](https://www.seroundtable.com/microsoft-advertising-updates-41351.html) | Search Engine Roundtable | 170 | General | 2026-05-20 11:11 UTC |
 | [What is PPC? A starter guide to pay-per-click advertising](https://www.semrush.com/blog/what-is-ppc/) | Semrush Blog | 130 | AI Search | 2026-05-21 08:59 UTC |
 | [What is competitive analysis? How to do one (+ template)](https://www.semrush.com/blog/competitive-analysis/) | Semrush Blog | 130 | AI Search | 2026-05-21 08:39 UTC |
-| [Google Search expands agentic capabilities with information agents and Universal Cart](https://www.semrush.com/blog/google-adds-information-agents-and-universal-cart/) | Semrush Blog | 130 | General | 2026-05-21 08:13 UTC |
 | [How to Persuade Your Boss to Send You to Ahrefs Evolve in San Diego](https://ahrefs.com/blog/how-to-persuade-your-boss-to-send-you-to-ahrefs-evolve/) | Ahrefs Blog | 120 | General | 2026-05-20 14:00 UTC |
 | [7 Ways to Automate Content Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-content-marketing/) | Ahrefs Blog | 120 | AI Search | 2026-05-19 10:35 UTC |
 | [What Is Content Engineering, and How Do You Do It?](https://ahrefs.com/blog/what-is-content-engineering/) | Ahrefs Blog | 120 | Content | 2026-05-19 08:24 UTC |
 | [What Is Agentic SEO? And How to Get Started This Week](https://ahrefs.com/blog/agentic-seo/) | Ahrefs Blog | 120 | General | 2026-05-19 08:17 UTC |
+| [Google Search expands agentic capabilities with information agents and Universal Cart](https://www.semrush.com/blog/google-adds-information-agents-and-universal-cart/) | Semrush Blog | 110 | General | 2026-05-21 08:13 UTC |
 | [SEO basics: How to do SEO for beginners](https://www.semrush.com/blog/seo-basics/) | Semrush Blog | 110 | Technical SEO | 2026-05-20 14:56 UTC |
 | [Google unveils Gemini 3.5 Flash and a redesigned ‘intelligent Search box’](https://www.semrush.com/blog/google-announces-intelligent-search-box/) | Semrush Blog | 110 | AI Search | 2026-05-20 13:50 UTC |
 | [GA4 adds AI Assistant channel for referral tracking](https://www.semrush.com/blog/ga4-adds-ai-assistant-channel/) | Semrush Blog | 110 | AI Search | 2026-05-20 08:59 UTC |
