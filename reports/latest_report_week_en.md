@@ -6,7 +6,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Has anyone here worked on local AEO? Should I focus on local SEO and as a side effect the AEO will improve?](https://www.reddit.com/r/localseo/comments/1tl9aac/has_anyone_here_worked_on_local_aeo_should_i/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-23 07:09 UTC |
+| [Google just confirmed what many of us suspected about AI search and SEO.](https://www.reddit.com/r/localseo/comments/1tl8q8f/google_just_confirmed_what_many_of_us_suspected/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-05-23 06:39 UTC |
+| [the 2-hour GSC audit i run on every site that's been live for 6+ months. finds quick wins almost every time.](https://www.reddit.com/r/localseo/comments/1tl83h4/the_2hour_gsc_audit_i_run_on_every_site_thats/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-05-23 06:05 UTC |
+| [What to do when both appeals for removing GBP suspension are rejected?](https://www.reddit.com/r/localseo/comments/1tl6ws4/what_to_do_when_both_appeals_for_removing_gbp/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-23 05:04 UTC |
+| [Ranking one single-page Carrd site for 3 different cities (No ad budget)](https://www.reddit.com/r/localseo/comments/1tl6m31/ranking_one_singlepage_carrd_site_for_3_different/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-23 04:49 UTC |
+| [New site - how to get SEO?](https://www.reddit.com/r/localseo/comments/1tl44np/new_site_how_to_get_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-23 02:51 UTC |
+| [local SEO tools](https://www.reddit.com/r/localseo/comments/1tky78r/local_seo_tools/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-22 22:32 UTC |
+| [Demo](https://www.reddit.com/r/localseo/comments/1tkwkew/demo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-22 21:28 UTC |
+| [I’m 19, currently doing college + a job while freelancing on the side.](https://www.reddit.com/r/localseo/comments/1tkt8ll/im_19_currently_doing_college_a_job_while/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-22 19:27 UTC |
+| [Should internal 404 pages be redirected or removed?](https://www.reddit.com/r/localseo/comments/1tkrddx/should_internal_404_pages_be_redirected_or_removed/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Migration | 2026-05-22 18:22 UTC |
+| [Pages Cannibalisation](https://www.reddit.com/r/localseo/comments/1tknxn3/pages_cannibalisation/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-22 16:24 UTC |
+| [does anyone know how I can get a wikipedia link?](https://www.reddit.com/r/localseo/comments/1tknr82/does_anyone_know_how_i_can_get_a_wikipedia_link/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-05-22 16:18 UTC |
 
 ## Weekly notable items (Sites)
 
