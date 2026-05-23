@@ -19,13 +19,13 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: May 22, 2026](https://www.seroundtable.com/recap-05-22-2026-41365.html) | Search Engine Roundtable | 190 | Links | 2026-05-22 14:00 UTC |
-| [Search News Buzz Video Recap: Google's New Search Box, Gemini 3.5 Flash Powers AI Mode, New Google Ads, Ranking Volatility &amp; More I/O GML News](https://www.seroundtable.com/video-05-22-2026-41366.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-22 12:01 UTC |
-| [OpenAI Releases ChatGPT Ads Manager Updates &amp; Ads Tests](https://www.seroundtable.com/chatgpt-ads-manager-updates-ads-tests-41364.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-22 11:51 UTC |
-| [Google: Why Split Your XML Sitemap File](https://www.seroundtable.com/why-split-your-xml-sitemap-file-for-google-41202.html) | Search Engine Roundtable | 190 | Indexing | 2026-05-22 11:41 UTC |
-| [Are Google Search Console Email Alerts Enough?](https://www.seroundtable.com/google-search-console-email-alerts-41363.html) | Search Engine Roundtable | 190 | GSC | 2026-05-22 11:31 UTC |
-| [Bing Tests Showing Sale Prices In Shopping Ads](https://www.seroundtable.com/bing-sale-prices-shopping-ads-41357.html) | Search Engine Roundtable | 190 | General | 2026-05-22 11:21 UTC |
-| [Google Tests Was &amp; Usually Pricing Labels In Product Results](https://www.seroundtable.com/google-pricing-labels-41349.html) | Search Engine Roundtable | 190 | General | 2026-05-22 11:11 UTC |
-| [8 Ways to Automate Product Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-product-marketing/) | Ahrefs Blog | 140 | AI Search | 2026-05-22 11:17 UTC |
+| [Search News Buzz Video Recap: Google's New Search Box, Gemini 3.5 Flash Powers AI Mode, New Google Ads, Ranking Volatility &amp; More I/O GML News](https://www.seroundtable.com/video-05-22-2026-41366.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-22 12:01 UTC |
+| [OpenAI Releases ChatGPT Ads Manager Updates &amp; Ads Tests](https://www.seroundtable.com/chatgpt-ads-manager-updates-ads-tests-41364.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-22 11:51 UTC |
+| [Google: Why Split Your XML Sitemap File](https://www.seroundtable.com/why-split-your-xml-sitemap-file-for-google-41202.html) | Search Engine Roundtable | 170 | Indexing | 2026-05-22 11:41 UTC |
+| [Are Google Search Console Email Alerts Enough?](https://www.seroundtable.com/google-search-console-email-alerts-41363.html) | Search Engine Roundtable | 170 | GSC | 2026-05-22 11:31 UTC |
+| [Bing Tests Showing Sale Prices In Shopping Ads](https://www.seroundtable.com/bing-sale-prices-shopping-ads-41357.html) | Search Engine Roundtable | 170 | General | 2026-05-22 11:21 UTC |
+| [Google Tests Was &amp; Usually Pricing Labels In Product Results](https://www.seroundtable.com/google-pricing-labels-41349.html) | Search Engine Roundtable | 170 | General | 2026-05-22 11:11 UTC |
+| [8 Ways to Automate Product Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-product-marketing/) | Ahrefs Blog | 120 | AI Search | 2026-05-22 11:17 UTC |
 | [Ecommerce marketing: 10 strategies for search and AI in 2026](https://www.semrush.com/blog/ecommerce-marketing/) | Semrush Blog | 110 | AI Search | 2026-05-22 10:39 UTC |
 | [10 best SEO audit tools for 2026 (tested)](https://www.semrush.com/blog/seo-audit-tools/) | Semrush Blog | 110 | GSC | 2026-05-22 09:59 UTC |
 
