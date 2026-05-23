@@ -26,7 +26,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Bing Tests Showing Sale Prices In Shopping Ads](https://www.seroundtable.com/bing-sale-prices-shopping-ads-41357.html) | Search Engine Roundtable | 170 | General | 2026-05-22 11:21 UTC |
 | [Google Tests Was &amp; Usually Pricing Labels In Product Results](https://www.seroundtable.com/google-pricing-labels-41349.html) | Search Engine Roundtable | 170 | General | 2026-05-22 11:11 UTC |
 | [8 Ways to Automate Product Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-product-marketing/) | Ahrefs Blog | 120 | AI Search | 2026-05-22 11:17 UTC |
-| [Ecommerce marketing: 10 strategies for search and AI in 2026](https://www.semrush.com/blog/ecommerce-marketing/) | Semrush Blog | 110 | AI Search | 2026-05-22 10:39 UTC |
 
 ## Notes for manual writing
 
