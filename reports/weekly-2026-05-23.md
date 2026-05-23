@@ -29,9 +29,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ask Advisor Brings Together Ads Advisor &amp; Analytics Advisor](https://www.seroundtable.com/google-ask-advisor-41354.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-21 11:31 UTC |
 | [Google Search Tests For You Label In Product Grid Results](https://www.seroundtable.com/google-search-product-grid-for-you-label-41348.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-21 11:21 UTC |
 | [8 Ways to Automate Product Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-product-marketing/) | Ahrefs Blog | 140 | AI Search | 2026-05-22 11:17 UTC |
-| [Ecommerce marketing: 10 strategies for search and AI in 2026](https://www.semrush.com/blog/ecommerce-marketing/) | Semrush Blog | 130 | AI Search | 2026-05-22 10:39 UTC |
-| [10 best SEO audit tools for 2026 (tested)](https://www.semrush.com/blog/seo-audit-tools/) | Semrush Blog | 130 | GSC | 2026-05-22 09:59 UTC |
 | [How to Persuade Your Boss to Send You to Ahrefs Evolve in San Diego](https://ahrefs.com/blog/how-to-persuade-your-boss-to-send-you-to-ahrefs-evolve/) | Ahrefs Blog | 120 | General | 2026-05-20 14:00 UTC |
+| [Ecommerce marketing: 10 strategies for search and AI in 2026](https://www.semrush.com/blog/ecommerce-marketing/) | Semrush Blog | 110 | AI Search | 2026-05-22 10:39 UTC |
+| [10 best SEO audit tools for 2026 (tested)](https://www.semrush.com/blog/seo-audit-tools/) | Semrush Blog | 110 | GSC | 2026-05-22 09:59 UTC |
 | [What is PPC? A starter guide to pay-per-click advertising](https://www.semrush.com/blog/what-is-ppc/) | Semrush Blog | 110 | AI Search | 2026-05-21 08:59 UTC |
 | [What is competitive analysis? How to do one (+ template)](https://www.semrush.com/blog/competitive-analysis/) | Semrush Blog | 110 | AI Search | 2026-05-21 08:39 UTC |
 | [Google Search expands agentic capabilities with information agents and Universal Cart](https://www.semrush.com/blog/google-adds-information-agents-and-universal-cart/) | Semrush Blog | 110 | General | 2026-05-21 08:13 UTC |
