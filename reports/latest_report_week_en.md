@@ -36,10 +36,10 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [What is competitive analysis? How to do one (+ template)](https://www.semrush.com/blog/competitive-analysis/) | Semrush Blog | 110 | AI Search | 2026-05-21 08:39 UTC |
 | [Google Search expands agentic capabilities with information agents and Universal Cart](https://www.semrush.com/blog/google-adds-information-agents-and-universal-cart/) | Semrush Blog | 110 | General | 2026-05-21 08:13 UTC |
 | [SEO basics: How to do SEO for beginners](https://www.semrush.com/blog/seo-basics/) | Semrush Blog | 110 | Technical SEO | 2026-05-20 14:56 UTC |
-| [Google unveils Gemini 3.5 Flash and a redesigned ‘intelligent Search box’](https://www.semrush.com/blog/google-announces-intelligent-search-box/) | Semrush Blog | 110 | AI Search | 2026-05-20 13:50 UTC |
 | [7 Ways to Automate Content Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-content-marketing/) | Ahrefs Blog | 105 | AI Search | 2026-05-19 10:35 UTC |
 | [What Is Content Engineering, and How Do You Do It?](https://ahrefs.com/blog/what-is-content-engineering/) | Ahrefs Blog | 105 | Content | 2026-05-19 08:24 UTC |
 | [What Is Agentic SEO? And How to Get Started This Week](https://ahrefs.com/blog/agentic-seo/) | Ahrefs Blog | 105 | General | 2026-05-19 08:17 UTC |
+| [Google unveils Gemini 3.5 Flash and a redesigned ‘intelligent Search box’](https://www.semrush.com/blog/google-announces-intelligent-search-box/) | Semrush Blog | 95 | AI Search | 2026-05-20 13:50 UTC |
 | [GA4 adds AI Assistant channel for referral tracking](https://www.semrush.com/blog/ga4-adds-ai-assistant-channel/) | Semrush Blog | 95 | AI Search | 2026-05-20 08:59 UTC |
 | [How to measure and report on AI search visibility (what actually matters)](https://www.semrush.com/blog/measure-ai-visibility/) | Semrush Blog | 95 | AI Search | 2026-05-20 08:55 UTC |
 | [Google publishes guide to optimizing for generative AI search](https://www.semrush.com/blog/google-publishes-generative-ai-search-guide/) | Semrush Blog | 95 | AI Search | 2026-05-19 13:52 UTC |
