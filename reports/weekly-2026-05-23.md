@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Has anyone here worked on local AEO? Should I focus on local SEO and as a side effect the AEO will improve?](https://www.reddit.com/r/localseo/comments/1tl9aac/has_anyone_here_worked_on_local_aeo_should_i/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-23 07:09 UTC |
-| [Google just confirmed what many of us suspected about AI search and SEO.](https://www.reddit.com/r/localseo/comments/1tl8q8f/google_just_confirmed_what_many_of_us_suspected/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-05-23 06:39 UTC |
-| [the 2-hour GSC audit i run on every site that's been live for 6+ months. finds quick wins almost every time.](https://www.reddit.com/r/localseo/comments/1tl83h4/the_2hour_gsc_audit_i_run_on_every_site_thats/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-05-23 06:05 UTC |
-| [What to do when both appeals for removing GBP suspension are rejected?](https://www.reddit.com/r/localseo/comments/1tl6ws4/what_to_do_when_both_appeals_for_removing_gbp/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-23 05:04 UTC |
-| [Ranking one single-page Carrd site for 3 different cities (No ad budget)](https://www.reddit.com/r/localseo/comments/1tl6m31/ranking_one_singlepage_carrd_site_for_3_different/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-23 04:49 UTC |
-| [New site - how to get SEO?](https://www.reddit.com/r/localseo/comments/1tl44np/new_site_how_to_get_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-23 02:51 UTC |
-| [local SEO tools](https://www.reddit.com/r/localseo/comments/1tky78r/local_seo_tools/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-22 22:32 UTC |
-| [Demo](https://www.reddit.com/r/localseo/comments/1tkwkew/demo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-22 21:28 UTC |
-| [I’m 19, currently doing college + a job while freelancing on the side.](https://www.reddit.com/r/localseo/comments/1tkt8ll/im_19_currently_doing_college_a_job_while/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-22 19:27 UTC |
-| [Should internal 404 pages be redirected or removed?](https://www.reddit.com/r/localseo/comments/1tkrddx/should_internal_404_pages_be_redirected_or_removed/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Migration | 2026-05-22 18:22 UTC |
-| [Pages Cannibalisation](https://www.reddit.com/r/localseo/comments/1tknxn3/pages_cannibalisation/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-22 16:24 UTC |
-| [does anyone know how I can get a wikipedia link?](https://www.reddit.com/r/localseo/comments/1tknr82/does_anyone_know_how_i_can_get_a_wikipedia_link/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-05-22 16:18 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
@@ -48,11 +37,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Search expands agentic capabilities with information agents and Universal Cart](https://www.semrush.com/blog/google-adds-information-agents-and-universal-cart/) | Semrush Blog | 110 | General | 2026-05-21 08:13 UTC |
 | [SEO basics: How to do SEO for beginners](https://www.semrush.com/blog/seo-basics/) | Semrush Blog | 110 | Technical SEO | 2026-05-20 14:56 UTC |
 | [Google unveils Gemini 3.5 Flash and a redesigned ‘intelligent Search box’](https://www.semrush.com/blog/google-announces-intelligent-search-box/) | Semrush Blog | 110 | AI Search | 2026-05-20 13:50 UTC |
-| [GA4 adds AI Assistant channel for referral tracking](https://www.semrush.com/blog/ga4-adds-ai-assistant-channel/) | Semrush Blog | 110 | AI Search | 2026-05-20 08:59 UTC |
-| [How to measure and report on AI search visibility (what actually matters)](https://www.semrush.com/blog/measure-ai-visibility/) | Semrush Blog | 110 | AI Search | 2026-05-20 08:55 UTC |
 | [7 Ways to Automate Content Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-content-marketing/) | Ahrefs Blog | 105 | AI Search | 2026-05-19 10:35 UTC |
 | [What Is Content Engineering, and How Do You Do It?](https://ahrefs.com/blog/what-is-content-engineering/) | Ahrefs Blog | 105 | Content | 2026-05-19 08:24 UTC |
 | [What Is Agentic SEO? And How to Get Started This Week](https://ahrefs.com/blog/agentic-seo/) | Ahrefs Blog | 105 | General | 2026-05-19 08:17 UTC |
+| [GA4 adds AI Assistant channel for referral tracking](https://www.semrush.com/blog/ga4-adds-ai-assistant-channel/) | Semrush Blog | 95 | AI Search | 2026-05-20 08:59 UTC |
+| [How to measure and report on AI search visibility (what actually matters)](https://www.semrush.com/blog/measure-ai-visibility/) | Semrush Blog | 95 | AI Search | 2026-05-20 08:55 UTC |
 | [Google publishes guide to optimizing for generative AI search](https://www.semrush.com/blog/google-publishes-generative-ai-search-guide/) | Semrush Blog | 95 | AI Search | 2026-05-19 13:52 UTC |
 
 ## Notes
