@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: May 22, 2026](https://www.seroundtable.com/recap-05-22-2026-41365.html) | Search Engine Roundtable | 190 | Links | 2026-05-22 14:00 UTC |
+| [Daily Search Forum Recap: May 22, 2026](https://www.seroundtable.com/recap-05-22-2026-41365.html) | Search Engine Roundtable | 170 | Links | 2026-05-22 14:00 UTC |
 | [Search News Buzz Video Recap: Google's New Search Box, Gemini 3.5 Flash Powers AI Mode, New Google Ads, Ranking Volatility &amp; More I/O GML News](https://www.seroundtable.com/video-05-22-2026-41366.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-22 12:01 UTC |
 | [OpenAI Releases ChatGPT Ads Manager Updates &amp; Ads Tests](https://www.seroundtable.com/chatgpt-ads-manager-updates-ads-tests-41364.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-22 11:51 UTC |
 | [Google: Why Split Your XML Sitemap File](https://www.seroundtable.com/why-split-your-xml-sitemap-file-for-google-41202.html) | Search Engine Roundtable | 170 | Indexing | 2026-05-22 11:41 UTC |
