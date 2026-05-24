@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: May 22, 2026](https://www.seroundtable.com/recap-05-22-2026-41365.html) | Search Engine Roundtable | 170 | Links | 2026-05-22 14:00 UTC |
+| _No site items in window_ |  |  |  |  |
 
 ## Notes for manual writing
 
