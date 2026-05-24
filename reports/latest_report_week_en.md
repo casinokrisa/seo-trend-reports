@@ -24,8 +24,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Programming Note: Offline For Shavuot On Friday](https://www.seroundtable.com/shavuot-5786-41336.html) | Search Engine Roundtable | 170 | General | 2026-05-21 19:00 UTC |
 | [Google May 2026 Core Update Is Rolling Out - You Felt It](https://www.seroundtable.com/google-may-2026-core-update-41367.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-21 16:04 UTC |
 | [Daily Search Forum Recap: May 21, 2026](https://www.seroundtable.com/recap-05-21-2026-41362.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-21 14:00 UTC |
-| [Google Tests Conversational Discovery Ads &amp; Highlighted Answers In AI Mode](https://www.seroundtable.com/google-conversational-discovery-ads-highlighted-answers-41352.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-21 11:51 UTC |
-| [Google AI Mode Shopping Ads, Business Agent For Leads &amp; Direct Offers Coming](https://www.seroundtable.com/google-ai-mode-shopping-ads-41353.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-21 11:41 UTC |
+| [Google Tests Conversational Discovery Ads &amp; Highlighted Answers In AI Mode](https://www.seroundtable.com/google-conversational-discovery-ads-highlighted-answers-41352.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-21 11:51 UTC |
+| [Google AI Mode Shopping Ads, Business Agent For Leads &amp; Direct Offers Coming](https://www.seroundtable.com/google-ai-mode-shopping-ads-41353.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-21 11:41 UTC |
 | [Google Ask Advisor Brings Together Ads Advisor &amp; Analytics Advisor](https://www.seroundtable.com/google-ask-advisor-41354.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-21 11:31 UTC |
 | [Google Search Tests For You Label In Product Grid Results](https://www.seroundtable.com/google-search-product-grid-for-you-label-41348.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-21 11:21 UTC |
 | [8 Ways to Automate Product Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-product-marketing/) | Ahrefs Blog | 120 | AI Search | 2026-05-22 11:17 UTC |
