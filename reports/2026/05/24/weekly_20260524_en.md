@@ -26,8 +26,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Daily Search Forum Recap: May 21, 2026](https://www.seroundtable.com/recap-05-21-2026-41362.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-21 14:00 UTC |
 | [Google Tests Conversational Discovery Ads &amp; Highlighted Answers In AI Mode](https://www.seroundtable.com/google-conversational-discovery-ads-highlighted-answers-41352.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-21 11:51 UTC |
 | [Google AI Mode Shopping Ads, Business Agent For Leads &amp; Direct Offers Coming](https://www.seroundtable.com/google-ai-mode-shopping-ads-41353.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-21 11:41 UTC |
-| [Google Ask Advisor Brings Together Ads Advisor &amp; Analytics Advisor](https://www.seroundtable.com/google-ask-advisor-41354.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-21 11:31 UTC |
-| [Google Search Tests For You Label In Product Grid Results](https://www.seroundtable.com/google-search-product-grid-for-you-label-41348.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-21 11:21 UTC |
+| [Google Ask Advisor Brings Together Ads Advisor &amp; Analytics Advisor](https://www.seroundtable.com/google-ask-advisor-41354.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-21 11:31 UTC |
+| [Google Search Tests For You Label In Product Grid Results](https://www.seroundtable.com/google-search-product-grid-for-you-label-41348.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-21 11:21 UTC |
 | [8 Ways to Automate Product Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-product-marketing/) | Ahrefs Blog | 120 | AI Search | 2026-05-22 11:17 UTC |
 | [Ecommerce marketing: 10 strategies for search and AI in 2026](https://www.semrush.com/blog/ecommerce-marketing/) | Semrush Blog | 110 | AI Search | 2026-05-22 10:39 UTC |
 | [10 best SEO audit tools for 2026 (tested)](https://www.semrush.com/blog/seo-audit-tools/) | Semrush Blog | 110 | GSC | 2026-05-22 09:59 UTC |
