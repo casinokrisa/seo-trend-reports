@@ -31,13 +31,13 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [8 Ways to Automate Product Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-product-marketing/) | Ahrefs Blog | 120 | AI Search | 2026-05-22 11:17 UTC |
 | [Ecommerce marketing: 10 strategies for search and AI in 2026](https://www.semrush.com/blog/ecommerce-marketing/) | Semrush Blog | 110 | AI Search | 2026-05-22 10:39 UTC |
 | [10 best SEO audit tools for 2026 (tested)](https://www.semrush.com/blog/seo-audit-tools/) | Semrush Blog | 110 | GSC | 2026-05-22 09:59 UTC |
-| [What is PPC? A starter guide to pay-per-click advertising](https://www.semrush.com/blog/what-is-ppc/) | Semrush Blog | 110 | AI Search | 2026-05-21 08:59 UTC |
-| [What is competitive analysis? How to do one (+ template)](https://www.semrush.com/blog/competitive-analysis/) | Semrush Blog | 110 | AI Search | 2026-05-21 08:39 UTC |
-| [Google Search expands agentic capabilities with information agents and Universal Cart](https://www.semrush.com/blog/google-adds-information-agents-and-universal-cart/) | Semrush Blog | 110 | General | 2026-05-21 08:13 UTC |
 | [How to Persuade Your Boss to Send You to Ahrefs Evolve in San Diego](https://ahrefs.com/blog/how-to-persuade-your-boss-to-send-you-to-ahrefs-evolve/) | Ahrefs Blog | 105 | General | 2026-05-20 14:00 UTC |
 | [7 Ways to Automate Content Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-content-marketing/) | Ahrefs Blog | 105 | AI Search | 2026-05-19 10:35 UTC |
 | [What Is Content Engineering, and How Do You Do It?](https://ahrefs.com/blog/what-is-content-engineering/) | Ahrefs Blog | 105 | Content | 2026-05-19 08:24 UTC |
 | [What Is Agentic SEO? And How to Get Started This Week](https://ahrefs.com/blog/agentic-seo/) | Ahrefs Blog | 105 | General | 2026-05-19 08:17 UTC |
+| [What is PPC? A starter guide to pay-per-click advertising](https://www.semrush.com/blog/what-is-ppc/) | Semrush Blog | 95 | AI Search | 2026-05-21 08:59 UTC |
+| [What is competitive analysis? How to do one (+ template)](https://www.semrush.com/blog/competitive-analysis/) | Semrush Blog | 95 | AI Search | 2026-05-21 08:39 UTC |
+| [Google Search expands agentic capabilities with information agents and Universal Cart](https://www.semrush.com/blog/google-adds-information-agents-and-universal-cart/) | Semrush Blog | 95 | General | 2026-05-21 08:13 UTC |
 | [SEO basics: How to do SEO for beginners](https://www.semrush.com/blog/seo-basics/) | Semrush Blog | 95 | Technical SEO | 2026-05-20 14:56 UTC |
 | [Google unveils Gemini 3.5 Flash and a redesigned ‘intelligent Search box’](https://www.semrush.com/blog/google-announces-intelligent-search-box/) | Semrush Blog | 95 | AI Search | 2026-05-20 13:50 UTC |
 | [GA4 adds AI Assistant channel for referral tracking](https://www.semrush.com/blog/ga4-adds-ai-assistant-channel/) | Semrush Blog | 95 | AI Search | 2026-05-20 08:59 UTC |
