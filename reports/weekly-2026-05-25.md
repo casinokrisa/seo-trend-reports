@@ -14,15 +14,13 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: May 25, 2026](https://www.seroundtable.com/recap-05-25-2026-41379.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-25 14:00 UTC |
 | [Google May 2026 Core Update Landed Over The Weekend](https://www.seroundtable.com/google-may-2026-core-update-landed-41380.html) | Search Engine Roundtable | 210 | General | 2026-05-25 12:01 UTC |
-| [Google Officially Appeals Search Monopoly Ruling](https://www.seroundtable.com/google-officially-appeals-search-monopoly-ruling-41376.html) | Search Engine Roundtable | 210 | General | 2026-05-25 11:51 UTC |
-| [Bing Officially Releases AI Guided Image Search Experience](https://www.seroundtable.com/bing-ai-guides-image-search-41372.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-25 11:41 UTC |
-| [Google Removes Lag For AI Overviews &amp; AI Mode Showing Penalized Content](https://www.seroundtable.com/google-ai-overview-lag-gone-41368.html) | Search Engine Roundtable | 210 | Indexing | 2026-05-25 11:31 UTC |
-| [Google Home Page Promoting AI Features Out Of I/O](https://www.seroundtable.com/google-home-io-ai-news-41373.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-25 11:21 UTC |
-| [Google Business Profile Detailed Rejection Notices](https://www.seroundtable.com/google-business-profile-rejection-notices-detailed-41369.html) | Search Engine Roundtable | 210 | Local SEO | 2026-05-25 11:11 UTC |
+| [Google Officially Appeals Search Monopoly Ruling](https://www.seroundtable.com/google-officially-appeals-search-monopoly-ruling-41376.html) | Search Engine Roundtable | 190 | General | 2026-05-25 11:51 UTC |
+| [Bing Officially Releases AI Guided Image Search Experience](https://www.seroundtable.com/bing-ai-guides-image-search-41372.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-25 11:41 UTC |
+| [Google Removes Lag For AI Overviews &amp; AI Mode Showing Penalized Content](https://www.seroundtable.com/google-ai-overview-lag-gone-41368.html) | Search Engine Roundtable | 190 | Indexing | 2026-05-25 11:31 UTC |
+| [Google Home Page Promoting AI Features Out Of I/O](https://www.seroundtable.com/google-home-io-ai-news-41373.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-25 11:21 UTC |
+| [Google Business Profile Detailed Rejection Notices](https://www.seroundtable.com/google-business-profile-rejection-notices-detailed-41369.html) | Search Engine Roundtable | 190 | Local SEO | 2026-05-25 11:11 UTC |
 | [Google Posts Memorial Day 2026 Doodle](https://www.seroundtable.com/google-memorial-day-2026-doodle-41378.html) | Search Engine Roundtable | 190 | General | 2026-05-25 10:00 UTC |
 | [Added hasAdultConsideration to product-related structured data types](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Links | 2026-05-20 00:00 UTC |
-| [We Ran an AI Hackathon for Our Content Team. Here’s What We Built with Agent A](https://ahrefs.com/blog/agent-a-hackathon/) | Ahrefs Blog | 160 | AI Search | 2026-05-25 10:31 UTC |
-| [Agent-To-Agent Marketing Was Just Born on Moltbook](https://ahrefs.com/blog/agent-to-agent-marketing-born-on-moltbook/) | Ahrefs Blog | 160 | AI Search | 2026-05-25 10:29 UTC |
 | [Daily Search Forum Recap: May 22, 2026](https://www.seroundtable.com/recap-05-22-2026-41365.html) | Search Engine Roundtable | 155 | Links | 2026-05-22 14:00 UTC |
 | [Search News Buzz Video Recap: Google's New Search Box, Gemini 3.5 Flash Powers AI Mode, New Google Ads, Ranking Volatility &amp; More I/O GML News](https://www.seroundtable.com/video-05-22-2026-41366.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-22 12:01 UTC |
 | [OpenAI Releases ChatGPT Ads Manager Updates &amp; Ads Tests](https://www.seroundtable.com/chatgpt-ads-manager-updates-ads-tests-41364.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-22 11:51 UTC |
@@ -30,6 +28,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Are Google Search Console Email Alerts Enough?](https://www.seroundtable.com/google-search-console-email-alerts-41363.html) | Search Engine Roundtable | 155 | GSC | 2026-05-22 11:31 UTC |
 | [Bing Tests Showing Sale Prices In Shopping Ads](https://www.seroundtable.com/bing-sale-prices-shopping-ads-41357.html) | Search Engine Roundtable | 155 | General | 2026-05-22 11:21 UTC |
 | [Google Tests Was &amp; Usually Pricing Labels In Product Results](https://www.seroundtable.com/google-pricing-labels-41349.html) | Search Engine Roundtable | 155 | General | 2026-05-22 11:11 UTC |
+| [We Ran an AI Hackathon for Our Content Team. Here’s What We Built with Agent A](https://ahrefs.com/blog/agent-a-hackathon/) | Ahrefs Blog | 140 | AI Search | 2026-05-25 10:31 UTC |
+| [Agent-To-Agent Marketing Was Just Born on Moltbook](https://ahrefs.com/blog/agent-to-agent-marketing-born-on-moltbook/) | Ahrefs Blog | 140 | AI Search | 2026-05-25 10:29 UTC |
 | [8 Ways to Automate Product Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-product-marketing/) | Ahrefs Blog | 105 | AI Search | 2026-05-22 11:17 UTC |
 | [How to Persuade Your Boss to Send You to Ahrefs Evolve in San Diego](https://ahrefs.com/blog/how-to-persuade-your-boss-to-send-you-to-ahrefs-evolve/) | Ahrefs Blog | 105 | General | 2026-05-20 14:00 UTC |
 | [7 Ways to Automate Content Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-content-marketing/) | Ahrefs Blog | 105 | AI Search | 2026-05-19 10:35 UTC |
