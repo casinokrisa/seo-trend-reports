@@ -30,10 +30,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Bing Officially Releases AI Guided Image Search Experience](https://www.seroundtable.com/bing-ai-guides-image-search-41372.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-25 11:41 UTC |
 | [Google Removes Lag For AI Overviews &amp; AI Mode Showing Penalized Content](https://www.seroundtable.com/google-ai-overview-lag-gone-41368.html) | Search Engine Roundtable | 170 | Indexing | 2026-05-25 11:31 UTC |
 | [Google Home Page Promoting AI Features Out Of I/O](https://www.seroundtable.com/google-home-io-ai-news-41373.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-25 11:21 UTC |
-| [Google Business Profile Detailed Rejection Notices](https://www.seroundtable.com/google-business-profile-rejection-notices-detailed-41369.html) | Search Engine Roundtable | 170 | Local SEO | 2026-05-25 11:11 UTC |
-| [Google Posts Memorial Day 2026 Doodle](https://www.seroundtable.com/google-memorial-day-2026-doodle-41378.html) | Search Engine Roundtable | 170 | General | 2026-05-25 10:00 UTC |
-| [We Ran an AI Hackathon for Our Content Team. Here’s What We Built with Agent A](https://ahrefs.com/blog/agent-a-hackathon/) | Ahrefs Blog | 120 | AI Search | 2026-05-25 10:31 UTC |
-| [Agent-To-Agent Marketing Was Just Born on Moltbook](https://ahrefs.com/blog/agent-to-agent-marketing-born-on-moltbook/) | Ahrefs Blog | 120 | AI Search | 2026-05-25 10:29 UTC |
 
 ## Notes for manual writing
 
