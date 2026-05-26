@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: May 26, 2026](https://www.seroundtable.com/recap-05-26-2026-41384.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-26 14:00 UTC |
+| [Daily Search Forum Recap: May 26, 2026](https://www.seroundtable.com/recap-05-26-2026-41384.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-26 14:00 UTC |
 | [EU May Fine Google Triple Million Euros Over Favoring Itself In Search Results](https://www.seroundtable.com/eu-fine-google-triple-million-euros-41382.html) | Search Engine Roundtable | 190 | General | 2026-05-26 11:51 UTC |
 | [Google Shopping Ads In AI Mode Tries New Styles?](https://www.seroundtable.com/google-shopping-ads-in-ai-mode-styles-41381.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-26 11:41 UTC |
 | [Google Tests Growing Expanding Shopping Ads](https://www.seroundtable.com/google-growing-expanding-shopping-ads-41374.html) | Search Engine Roundtable | 190 | General | 2026-05-26 11:31 UTC |
