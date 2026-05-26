@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Myntra has officially solved SEO.](https://www.reddit.com/r/localseo/comments/1to0caw/myntra_has_officially_solved_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-26 08:08 UTC |
-| [Pricing by Value, not Time or Project. Good idea?](https://www.reddit.com/r/localseo/comments/1tnyayj/pricing_by_value_not_time_or_project_good_idea/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-26 06:15 UTC |
-| [Are these local SEO &quot;fundamentals&quot; actually accurate?](https://www.reddit.com/r/localseo/comments/1tny0ap/are_these_local_seo_fundamentals_actually_accurate/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-26 06:00 UTC |
-| [Anyone else noticing a huge difference between AI search results and normal Google results?](https://www.reddit.com/r/localseo/comments/1tnxgc6/anyone_else_noticing_a_huge_difference_between_ai/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-05-26 05:31 UTC |
-| [Conversion Based Pages](https://www.reddit.com/r/localseo/comments/1tnqx54/conversion_based_pages/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-26 00:31 UTC |
-| [City page strategy for multi-locations](https://www.reddit.com/r/localseo/comments/1tnp3u0/city_page_strategy_for_multilocations/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-25 23:14 UTC |
-| [Courses](https://www.reddit.com/r/localseo/comments/1tnp2jw/courses/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-25 23:12 UTC |
-| [Most roofing websites are under optimized and I have a few insights to share](https://www.reddit.com/r/localseo/comments/1tnp1mu/most_roofing_websites_are_under_optimized_and_i/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-25 23:11 UTC |
-| [Schema.org Product test](https://www.reddit.com/r/localseo/comments/1tnnjox/schemaorg_product_test/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Technical SEO | 2026-05-25 22:09 UTC |
-| [GBP bulk upload](https://www.reddit.com/r/localseo/comments/1tnnacz/gbp_bulk_upload/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-05-25 21:59 UTC |
-| [Cost of SEO agency in Toronto? (2026)](https://www.reddit.com/r/localseo/comments/1tnmpq4/cost_of_seo_agency_in_toronto_2026/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-25 21:36 UTC |
-| [What's a better URL structure for service-area pages.../[location]/[service] or /[service]-in-[area]](https://www.reddit.com/r/localseo/comments/1tniq4o/whats_a_better_url_structure_for_servicearea/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-05-25 19:08 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
