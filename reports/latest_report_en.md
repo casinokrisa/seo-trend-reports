@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: May 27, 2026](https://www.seroundtable.com/recap-05-27-2026-41391.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-27 14:00 UTC |
+| [Daily Search Forum Recap: May 27, 2026](https://www.seroundtable.com/recap-05-27-2026-41391.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-27 14:00 UTC |
 | [Interviews Of Google's Sundar Pichai &amp; Nick Fox](https://www.seroundtable.com/sundar-pichai-nick-fox-google-interview-41388.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-27 11:51 UTC |
 | [Google Local Results Tests Check Real-Time Stock](https://www.seroundtable.com/google-local-check-real-time-stock-41392.html) | Search Engine Roundtable | 190 | General | 2026-05-27 11:41 UTC |
 | [Google Discover Report Bug Cause Decrease In Clicks/Impressions May 21](https://www.seroundtable.com/google-discover-report-bug-41390.html) | Search Engine Roundtable | 190 | GSC | 2026-05-27 11:31 UTC |
