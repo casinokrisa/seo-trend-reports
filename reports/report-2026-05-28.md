@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: May 28, 2026](https://www.seroundtable.com/recap-05-28-2026-41406.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-28 14:00 UTC |
+| [Daily Search Forum Recap: May 28, 2026](https://www.seroundtable.com/recap-05-28-2026-41406.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-28 14:00 UTC |
 | [Google AI Mode &amp; AI Overviews Add Preferred Sources &amp; New Carousel](https://www.seroundtable.com/google-ai-preferred-sources-41394.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-28 11:51 UTC |
 | [Google Strongly Warns Against Manipulating Mentions For AI](https://www.seroundtable.com/google-inauthentic-mentions-ai-41401.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-28 11:41 UTC |
 | [Google Tests New Sitename &amp; Favicon Layout In Search](https://www.seroundtable.com/google-sitename-favicon-interface-test-41404.html) | Search Engine Roundtable | 190 | Links | 2026-05-28 11:31 UTC |
