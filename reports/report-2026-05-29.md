@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: May 29, 2026](https://www.seroundtable.com/recap-05-29-2026-41415.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-29 14:00 UTC |
+| [Daily Search Forum Recap: May 29, 2026](https://www.seroundtable.com/recap-05-29-2026-41415.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-29 14:00 UTC |
 | [Search News Buzz Video Recap: Google May Core Update Status, Buying AI Brand Mentions, Preferred Sources In AI Responses, Google Ads, Local &amp; Legal](https://www.seroundtable.com/video-05-29-2026-41408.html) | Search Engine Roundtable | 190 | Indexing | 2026-05-29 12:01 UTC |
 | [New: Google Ads Prospects Mode](https://www.seroundtable.com/google-ads-prospects-mode-41407.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-29 11:51 UTC |
 | [Google: Search Quality Raters Guidelines Not A Guide For Search Rankings](https://www.seroundtable.com/google-search-quality-raters-guidelines-rankings-41414.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-29 11:41 UTC |
@@ -32,12 +32,12 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [ChatGPT Ads Conversion-Optimized Campaigns Coming June 5th](https://www.seroundtable.com/chatgpt-ads-conversion-optimized-campaigns-41402.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-28 11:21 UTC |
 | [Google Ads To Delete Short Term Performance Data June 1st](https://www.seroundtable.com/google-ads-delete-performance-data-41403.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-28 11:11 UTC |
 | [New Google Merchant Center AI Performance Insights](https://www.seroundtable.com/google-merchant-center-ai-performance-insights-41405.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-28 11:05 UTC |
-| [How we're driving AI visibility at Semrush](https://www.semrush.com/blog/how-we-are-using-semrush-to-drive-llm-visibility/) | Semrush Blog | 150 | AI Search | 2026-05-29 14:35 UTC |
 | [Top Trending Topics (May 2026)](https://ahrefs.com/blog/trending-topics/) | Ahrefs Blog | 140 | General | 2026-05-29 05:26 UTC |
 | [100 Most Asked Questions on Google (May 2026)](https://ahrefs.com/blog/top-google-questions/) | Ahrefs Blog | 140 | General | 2026-05-29 05:26 UTC |
 | [The 100 Most Searched People on Google (May 2026)](https://ahrefs.com/blog/most-searched-people/) | Ahrefs Blog | 140 | General | 2026-05-29 05:26 UTC |
 | [100 Most Expensive Keywords for Google Ads (May 2026)](https://ahrefs.com/blog/most-expensive-keywords/) | Ahrefs Blog | 140 | AI Search | 2026-05-29 05:26 UTC |
 | [Top Google Searches (May 2026)](https://ahrefs.com/blog/top-google-searches/) | Ahrefs Blog | 140 | AI Search | 2026-05-29 03:12 UTC |
+| [How we're driving AI visibility at Semrush](https://www.semrush.com/blog/how-we-are-using-semrush-to-drive-llm-visibility/) | Semrush Blog | 130 | AI Search | 2026-05-29 14:35 UTC |
 
 ## Notes for manual writing
 
