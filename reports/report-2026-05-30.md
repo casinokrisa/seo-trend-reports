@@ -29,7 +29,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [100 Most Asked Questions on Google (May 2026)](https://ahrefs.com/blog/top-google-questions/) | Ahrefs Blog | 120 | General | 2026-05-29 05:26 UTC |
 | [The 100 Most Searched People on Google (May 2026)](https://ahrefs.com/blog/most-searched-people/) | Ahrefs Blog | 120 | General | 2026-05-29 05:26 UTC |
 | [100 Most Expensive Keywords for Google Ads (May 2026)](https://ahrefs.com/blog/most-expensive-keywords/) | Ahrefs Blog | 120 | AI Search | 2026-05-29 05:26 UTC |
-| [Top Google Searches (May 2026)](https://ahrefs.com/blog/top-google-searches/) | Ahrefs Blog | 120 | AI Search | 2026-05-29 03:12 UTC |
 | [How we're driving AI visibility at Semrush](https://www.semrush.com/blog/how-we-are-using-semrush-to-drive-llm-visibility/) | Semrush Blog | 110 | AI Search | 2026-05-29 14:35 UTC |
 | [How to do an SEO competitor analysis [+ template]](https://www.semrush.com/blog/how-to-do-seo-competitive-analysis/) | Semrush Blog | 110 | AI Search | 2026-05-29 11:18 UTC |
 
