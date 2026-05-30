@@ -25,10 +25,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google 1st Order Price Labels On Shopping Ads (Again)](https://www.seroundtable.com/google-1st-order-price-label-41386.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-29 11:31 UTC |
 | [Google Discover Publisher Profile Pages Tests Short URLs](https://www.seroundtable.com/google-discover-profile-page-short-urls-41385.html) | Search Engine Roundtable | 170 | General | 2026-05-29 11:21 UTC |
 | [Bing Tests New Sitelinks On Ads](https://www.seroundtable.com/bing-sitelinks-ads-41395.html) | Search Engine Roundtable | 170 | Links | 2026-05-29 11:11 UTC |
-| [Top Trending Topics (May 2026)](https://ahrefs.com/blog/trending-topics/) | Ahrefs Blog | 120 | General | 2026-05-29 05:26 UTC |
-| [100 Most Asked Questions on Google (May 2026)](https://ahrefs.com/blog/top-google-questions/) | Ahrefs Blog | 120 | General | 2026-05-29 05:26 UTC |
-| [The 100 Most Searched People on Google (May 2026)](https://ahrefs.com/blog/most-searched-people/) | Ahrefs Blog | 120 | General | 2026-05-29 05:26 UTC |
-| [100 Most Expensive Keywords for Google Ads (May 2026)](https://ahrefs.com/blog/most-expensive-keywords/) | Ahrefs Blog | 120 | AI Search | 2026-05-29 05:26 UTC |
 | [How we're driving AI visibility at Semrush](https://www.semrush.com/blog/how-we-are-using-semrush-to-drive-llm-visibility/) | Semrush Blog | 110 | AI Search | 2026-05-29 14:35 UTC |
 | [How to do an SEO competitor analysis [+ template]](https://www.semrush.com/blog/how-to-do-seo-competitive-analysis/) | Semrush Blog | 110 | AI Search | 2026-05-29 11:18 UTC |
 
