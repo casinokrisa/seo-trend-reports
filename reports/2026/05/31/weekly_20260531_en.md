@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google May 2026 Core Update Hits Hard Saturday - May 30th](https://www.seroundtable.com/google-may-core-update-hits-hard-41421.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-31 12:18 UTC |
 | [Preferred sources is available in AI Mode and AI Overviews](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | AI Search | 2026-05-27 00:00 UTC |
 | [Daily Search Forum Recap: May 29, 2026](https://www.seroundtable.com/recap-05-29-2026-41415.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-29 14:00 UTC |
 | [Search News Buzz Video Recap: Google May Core Update Status, Buying AI Brand Mentions, Preferred Sources In AI Responses, Google Ads, Local &amp; Legal](https://www.seroundtable.com/video-05-29-2026-41408.html) | Search Engine Roundtable | 170 | Indexing | 2026-05-29 12:01 UTC |
@@ -20,14 +21,13 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google 1st Order Price Labels On Shopping Ads (Again)](https://www.seroundtable.com/google-1st-order-price-label-41386.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-29 11:31 UTC |
 | [Google Discover Publisher Profile Pages Tests Short URLs](https://www.seroundtable.com/google-discover-profile-page-short-urls-41385.html) | Search Engine Roundtable | 170 | General | 2026-05-29 11:21 UTC |
 | [Bing Tests New Sitelinks On Ads](https://www.seroundtable.com/bing-sitelinks-ads-41395.html) | Search Engine Roundtable | 170 | Links | 2026-05-29 11:11 UTC |
-| [Daily Search Forum Recap: May 28, 2026](https://www.seroundtable.com/recap-05-28-2026-41406.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-28 14:00 UTC |
-| [Google AI Mode &amp; AI Overviews Add Preferred Sources &amp; New Carousel](https://www.seroundtable.com/google-ai-preferred-sources-41394.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-28 11:51 UTC |
+| [Daily Search Forum Recap: May 28, 2026](https://www.seroundtable.com/recap-05-28-2026-41406.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-28 14:00 UTC |
+| [Google AI Mode &amp; AI Overviews Add Preferred Sources &amp; New Carousel](https://www.seroundtable.com/google-ai-preferred-sources-41394.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-28 11:51 UTC |
 | [Google Strongly Warns Against Manipulating Mentions For AI](https://www.seroundtable.com/google-inauthentic-mentions-ai-41401.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-28 11:41 UTC |
 | [Google Tests New Sitename &amp; Favicon Layout In Search](https://www.seroundtable.com/google-sitename-favicon-interface-test-41404.html) | Search Engine Roundtable | 155 | Links | 2026-05-28 11:31 UTC |
 | [ChatGPT Ads Conversion-Optimized Campaigns Coming June 5th](https://www.seroundtable.com/chatgpt-ads-conversion-optimized-campaigns-41402.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-28 11:21 UTC |
 | [Google Ads To Delete Short Term Performance Data June 1st](https://www.seroundtable.com/google-ads-delete-performance-data-41403.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-28 11:11 UTC |
 | [New Google Merchant Center AI Performance Insights](https://www.seroundtable.com/google-merchant-center-ai-performance-insights-41405.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-28 11:05 UTC |
-| [Daily Search Forum Recap: May 27, 2026](https://www.seroundtable.com/recap-05-27-2026-41391.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-27 14:00 UTC |
 | [Top Trending Topics (May 2026)](https://ahrefs.com/blog/trending-topics/) | Ahrefs Blog | 120 | General | 2026-05-29 05:26 UTC |
 | [100 Most Asked Questions on Google (May 2026)](https://ahrefs.com/blog/top-google-questions/) | Ahrefs Blog | 120 | General | 2026-05-29 05:26 UTC |
 | [The 100 Most Searched People on Google (May 2026)](https://ahrefs.com/blog/most-searched-people/) | Ahrefs Blog | 120 | General | 2026-05-29 05:26 UTC |
