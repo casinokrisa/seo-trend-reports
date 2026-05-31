@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google May 2026 Core Update Hits Hard Saturday - May 30th](https://www.seroundtable.com/google-may-core-update-hits-hard-41421.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-31 12:18 UTC |
+| [Google May 2026 Core Update Hits Hard Saturday - May 30th](https://www.seroundtable.com/google-may-core-update-hits-hard-41421.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-31 12:18 UTC |
 
 ## Notes for manual writing
 

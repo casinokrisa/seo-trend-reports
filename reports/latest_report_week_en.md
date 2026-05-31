@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google May 2026 Core Update Hits Hard Saturday - May 30th](https://www.seroundtable.com/google-may-core-update-hits-hard-41421.html) | Search Engine Roundtable | 210 | AI Search | 2026-05-31 12:18 UTC |
+| [Google May 2026 Core Update Hits Hard Saturday - May 30th](https://www.seroundtable.com/google-may-core-update-hits-hard-41421.html) | Search Engine Roundtable | 190 | AI Search | 2026-05-31 12:18 UTC |
 | [Preferred sources is available in AI Mode and AI Overviews](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | AI Search | 2026-05-27 00:00 UTC |
 | [Daily Search Forum Recap: May 29, 2026](https://www.seroundtable.com/recap-05-29-2026-41415.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-29 14:00 UTC |
 | [Search News Buzz Video Recap: Google May Core Update Status, Buying AI Brand Mentions, Preferred Sources In AI Responses, Google Ads, Local &amp; Legal](https://www.seroundtable.com/video-05-29-2026-41408.html) | Search Engine Roundtable | 170 | Indexing | 2026-05-29 12:01 UTC |
