@@ -18,8 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: May 29, 2026](https://www.seroundtable.com/recap-05-29-2026-41415.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-29 14:00 UTC |
-| [How we're driving AI visibility at Semrush](https://www.semrush.com/blog/how-we-are-using-semrush-to-drive-llm-visibility/) | Semrush Blog | 110 | AI Search | 2026-05-29 14:35 UTC |
+| _No site items in window_ |  |  |  |  |
 
 ## Notes for manual writing
 
