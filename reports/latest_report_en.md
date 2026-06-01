@@ -18,13 +18,13 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [New SER Volatility Aggregator Chart &amp; Backend Update](https://www.seroundtable.com/ser-volatility-aggregator-chart-41428.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-01 14:58 UTC |
-| [Daily Search Forum Recap: June 1, 2026](https://www.seroundtable.com/recap-06-01-2026-41426.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-01 14:00 UTC |
-| [Google Ads Invalid Activity Credit Report - New Help Document](https://www.seroundtable.com/google-ads-invalid-activity-credit-report-41423.html) | Search Engine Roundtable | 210 | General | 2026-06-01 11:51 UTC |
-| [Google Begins Limited Test Of Healthcare Ads In AI Mode](https://www.seroundtable.com/google-healthcare-ads-ai-mode-41420.html) | Search Engine Roundtable | 210 | Links | 2026-06-01 11:41 UTC |
-| [Google Ads New Branded Searches Controls For AI Max](https://www.seroundtable.com/google-ads-branded-searches-controls-41418.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-01 11:31 UTC |
-| [Google Hosted Forms Leads Screen In Google Ads](https://www.seroundtable.com/google-ads-lead-management-41416.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-01 11:21 UTC |
-| [Google AI Mode &amp; AI Overviews Sliding Carousel For Link Cards](https://www.seroundtable.com/google-ai-mode-sliding-carousel-41417.html) | Search Engine Roundtable | 210 | Links | 2026-06-01 11:11 UTC |
+| [New SER Volatility Aggregator Chart &amp; Backend Update](https://www.seroundtable.com/ser-volatility-aggregator-chart-41428.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-01 14:58 UTC |
+| [Daily Search Forum Recap: June 1, 2026](https://www.seroundtable.com/recap-06-01-2026-41426.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-01 14:00 UTC |
+| [Google Ads Invalid Activity Credit Report - New Help Document](https://www.seroundtable.com/google-ads-invalid-activity-credit-report-41423.html) | Search Engine Roundtable | 190 | General | 2026-06-01 11:51 UTC |
+| [Google Begins Limited Test Of Healthcare Ads In AI Mode](https://www.seroundtable.com/google-healthcare-ads-ai-mode-41420.html) | Search Engine Roundtable | 190 | Links | 2026-06-01 11:41 UTC |
+| [Google Ads New Branded Searches Controls For AI Max](https://www.seroundtable.com/google-ads-branded-searches-controls-41418.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-01 11:31 UTC |
+| [Google Hosted Forms Leads Screen In Google Ads](https://www.seroundtable.com/google-ads-lead-management-41416.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-01 11:21 UTC |
+| [Google AI Mode &amp; AI Overviews Sliding Carousel For Link Cards](https://www.seroundtable.com/google-ai-mode-sliding-carousel-41417.html) | Search Engine Roundtable | 190 | Links | 2026-06-01 11:11 UTC |
 | [Google Disco Ball Doodle](https://www.seroundtable.com/google-disco-ball-logo-41425.html) | Search Engine Roundtable | 190 | General | 2026-06-01 09:52 UTC |
 | [Google May 2026 Core Update Hits Hard Saturday - May 30th](https://www.seroundtable.com/google-may-core-update-hits-hard-41421.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-31 12:18 UTC |
 | [The 50 Most-Cited Websites in Grok (June 2026)](https://ahrefs.com/blog/most-cited-domains-grok/) | Ahrefs Blog | 160 | AI Search | 2026-06-01 16:11 UTC |
