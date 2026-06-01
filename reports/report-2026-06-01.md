@@ -27,11 +27,11 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google AI Mode &amp; AI Overviews Sliding Carousel For Link Cards](https://www.seroundtable.com/google-ai-mode-sliding-carousel-41417.html) | Search Engine Roundtable | 190 | Links | 2026-06-01 11:11 UTC |
 | [Google Disco Ball Doodle](https://www.seroundtable.com/google-disco-ball-logo-41425.html) | Search Engine Roundtable | 190 | General | 2026-06-01 09:52 UTC |
 | [Google May 2026 Core Update Hits Hard Saturday - May 30th](https://www.seroundtable.com/google-may-core-update-hits-hard-41421.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-31 12:18 UTC |
-| [The 50 Most-Cited Websites in Grok (June 2026)](https://ahrefs.com/blog/most-cited-domains-grok/) | Ahrefs Blog | 160 | AI Search | 2026-06-01 16:11 UTC |
-| [The 50 Most-Cited Websites in Copilot (June 2026)](https://ahrefs.com/blog/most-cited-domains-copilot/) | Ahrefs Blog | 160 | AI Search | 2026-06-01 16:10 UTC |
-| [The 50 Most-Cited Websites in Perplexity (June 2026)](https://ahrefs.com/blog/most-cited-domains-perplexity/) | Ahrefs Blog | 160 | Links | 2026-06-01 16:10 UTC |
-| [The 50 Most-Cited Websites in Gemini (June 2026)](https://ahrefs.com/blog/most-cited-domains-gemini/) | Ahrefs Blog | 160 | AI Search | 2026-06-01 16:08 UTC |
-| [The 50 Most-Cited Websites in Google AI Overviews (June 2026)](https://ahrefs.com/blog/most-cited-domains-ai-overviews/) | Ahrefs Blog | 160 | AI Search | 2026-06-01 16:00 UTC |
+| [The 50 Most-Cited Websites in Grok (June 2026)](https://ahrefs.com/blog/most-cited-domains-grok/) | Ahrefs Blog | 140 | AI Search | 2026-06-01 16:11 UTC |
+| [The 50 Most-Cited Websites in Copilot (June 2026)](https://ahrefs.com/blog/most-cited-domains-copilot/) | Ahrefs Blog | 140 | AI Search | 2026-06-01 16:10 UTC |
+| [The 50 Most-Cited Websites in Perplexity (June 2026)](https://ahrefs.com/blog/most-cited-domains-perplexity/) | Ahrefs Blog | 140 | Links | 2026-06-01 16:10 UTC |
+| [The 50 Most-Cited Websites in Gemini (June 2026)](https://ahrefs.com/blog/most-cited-domains-gemini/) | Ahrefs Blog | 140 | AI Search | 2026-06-01 16:08 UTC |
+| [The 50 Most-Cited Websites in Google AI Overviews (June 2026)](https://ahrefs.com/blog/most-cited-domains-ai-overviews/) | Ahrefs Blog | 140 | AI Search | 2026-06-01 16:00 UTC |
 | [Topical Authority: What It Is, How Google Measures It, and How to Build It](https://ahrefs.com/blog/topical-authority/) | Ahrefs Blog | 140 | AI Search | 2026-06-01 05:02 UTC |
 | [Google to add AI performance report to Merchant Center](https://www.semrush.com/blog/google-to-add-ai-performance-report-to-merchant-center/) | Semrush Blog | 130 | AI Search | 2026-06-01 08:01 UTC |
 | [Google brings Preferred Sources to AI Overviews and AI Mode](https://www.semrush.com/blog/google-preferred-sources-in-ai-experiences/) | Semrush Blog | 130 | AI Search | 2026-06-01 06:33 UTC |

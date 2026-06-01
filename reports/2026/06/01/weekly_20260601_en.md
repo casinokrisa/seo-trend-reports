@@ -22,17 +22,17 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Disco Ball Doodle](https://www.seroundtable.com/google-disco-ball-logo-41425.html) | Search Engine Roundtable | 190 | General | 2026-06-01 09:52 UTC |
 | [Preferred sources is available in AI Mode and AI Overviews](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | AI Search | 2026-05-27 00:00 UTC |
 | [Google May 2026 Core Update Hits Hard Saturday - May 30th](https://www.seroundtable.com/google-may-core-update-hits-hard-41421.html) | Search Engine Roundtable | 170 | AI Search | 2026-05-31 12:18 UTC |
-| [The 50 Most-Cited Websites in Grok (June 2026)](https://ahrefs.com/blog/most-cited-domains-grok/) | Ahrefs Blog | 160 | AI Search | 2026-06-01 16:11 UTC |
-| [The 50 Most-Cited Websites in Copilot (June 2026)](https://ahrefs.com/blog/most-cited-domains-copilot/) | Ahrefs Blog | 160 | AI Search | 2026-06-01 16:10 UTC |
-| [The 50 Most-Cited Websites in Perplexity (June 2026)](https://ahrefs.com/blog/most-cited-domains-perplexity/) | Ahrefs Blog | 160 | Links | 2026-06-01 16:10 UTC |
-| [The 50 Most-Cited Websites in Gemini (June 2026)](https://ahrefs.com/blog/most-cited-domains-gemini/) | Ahrefs Blog | 160 | AI Search | 2026-06-01 16:08 UTC |
-| [The 50 Most-Cited Websites in Google AI Overviews (June 2026)](https://ahrefs.com/blog/most-cited-domains-ai-overviews/) | Ahrefs Blog | 160 | AI Search | 2026-06-01 16:00 UTC |
 | [Daily Search Forum Recap: May 29, 2026](https://www.seroundtable.com/recap-05-29-2026-41415.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-29 14:00 UTC |
 | [Search News Buzz Video Recap: Google May Core Update Status, Buying AI Brand Mentions, Preferred Sources In AI Responses, Google Ads, Local &amp; Legal](https://www.seroundtable.com/video-05-29-2026-41408.html) | Search Engine Roundtable | 155 | Indexing | 2026-05-29 12:01 UTC |
 | [New: Google Ads Prospects Mode](https://www.seroundtable.com/google-ads-prospects-mode-41407.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-29 11:51 UTC |
 | [Google: Search Quality Raters Guidelines Not A Guide For Search Rankings](https://www.seroundtable.com/google-search-quality-raters-guidelines-rankings-41414.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-29 11:41 UTC |
 | [Google 1st Order Price Labels On Shopping Ads (Again)](https://www.seroundtable.com/google-1st-order-price-label-41386.html) | Search Engine Roundtable | 155 | AI Search | 2026-05-29 11:31 UTC |
 | [Google Discover Publisher Profile Pages Tests Short URLs](https://www.seroundtable.com/google-discover-profile-page-short-urls-41385.html) | Search Engine Roundtable | 155 | General | 2026-05-29 11:21 UTC |
+| [The 50 Most-Cited Websites in Grok (June 2026)](https://ahrefs.com/blog/most-cited-domains-grok/) | Ahrefs Blog | 140 | AI Search | 2026-06-01 16:11 UTC |
+| [The 50 Most-Cited Websites in Copilot (June 2026)](https://ahrefs.com/blog/most-cited-domains-copilot/) | Ahrefs Blog | 140 | AI Search | 2026-06-01 16:10 UTC |
+| [The 50 Most-Cited Websites in Perplexity (June 2026)](https://ahrefs.com/blog/most-cited-domains-perplexity/) | Ahrefs Blog | 140 | Links | 2026-06-01 16:10 UTC |
+| [The 50 Most-Cited Websites in Gemini (June 2026)](https://ahrefs.com/blog/most-cited-domains-gemini/) | Ahrefs Blog | 140 | AI Search | 2026-06-01 16:08 UTC |
+| [The 50 Most-Cited Websites in Google AI Overviews (June 2026)](https://ahrefs.com/blog/most-cited-domains-ai-overviews/) | Ahrefs Blog | 140 | AI Search | 2026-06-01 16:00 UTC |
 | [Topical Authority: What It Is, How Google Measures It, and How to Build It](https://ahrefs.com/blog/topical-authority/) | Ahrefs Blog | 140 | AI Search | 2026-06-01 05:02 UTC |
 | [Google to add AI performance report to Merchant Center](https://www.semrush.com/blog/google-to-add-ai-performance-report-to-merchant-center/) | Semrush Blog | 130 | AI Search | 2026-06-01 08:01 UTC |
 | [Google brings Preferred Sources to AI Overviews and AI Mode](https://www.semrush.com/blog/google-preferred-sources-in-ai-experiences/) | Semrush Blog | 130 | AI Search | 2026-06-01 06:33 UTC |
