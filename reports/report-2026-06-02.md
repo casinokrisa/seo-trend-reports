@@ -18,13 +18,13 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: June 2, 2026](https://www.seroundtable.com/recap-06-01-2026-41433.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-02 14:00 UTC |
-| [Google May 2026 Core Update Has Completed Rolling Out](https://www.seroundtable.com/google-may-2026-core-update-done-41435.html) | Search Engine Roundtable | 210 | General | 2026-06-02 13:15 UTC |
-| [Google May 2026 Core Update Volatility Hits Hard Again June 2nd](https://www.seroundtable.com/google-may-core-update-volatility-41434.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-02 11:51 UTC |
-| [Google Ads Terms of Service Updated For AI Changes After 8 Years](https://www.seroundtable.com/google-ads-terms-of-service-updated-41431.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-02 11:41 UTC |
-| [Google Discover Showing Threads Posts More Often?](https://www.seroundtable.com/threads-in-google-discover-more-41427.html) | Search Engine Roundtable | 210 | General | 2026-06-02 11:31 UTC |
-| [Microsoft: AI Summarizes Results, Reducing Clicks &amp; Website Visits](https://www.seroundtable.com/microsoft-ai-reducing-clicks-website-visits-41429.html) | Search Engine Roundtable | 210 | GSC | 2026-06-02 11:21 UTC |
-| [Google AdSense New Full IP Address Sharing](https://www.seroundtable.com/google-adsense-full-ip-address-sharing-41430.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-02 11:11 UTC |
+| [Daily Search Forum Recap: June 2, 2026](https://www.seroundtable.com/recap-06-01-2026-41433.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-02 14:00 UTC |
+| [Google May 2026 Core Update Has Completed Rolling Out](https://www.seroundtable.com/google-may-2026-core-update-done-41435.html) | Search Engine Roundtable | 190 | General | 2026-06-02 13:15 UTC |
+| [Google May 2026 Core Update Volatility Hits Hard Again June 2nd](https://www.seroundtable.com/google-may-core-update-volatility-41434.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-02 11:51 UTC |
+| [Google Ads Terms of Service Updated For AI Changes After 8 Years](https://www.seroundtable.com/google-ads-terms-of-service-updated-41431.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-02 11:41 UTC |
+| [Google Discover Showing Threads Posts More Often?](https://www.seroundtable.com/threads-in-google-discover-more-41427.html) | Search Engine Roundtable | 190 | General | 2026-06-02 11:31 UTC |
+| [Microsoft: AI Summarizes Results, Reducing Clicks &amp; Website Visits](https://www.seroundtable.com/microsoft-ai-reducing-clicks-website-visits-41429.html) | Search Engine Roundtable | 190 | GSC | 2026-06-02 11:21 UTC |
+| [Google AdSense New Full IP Address Sharing](https://www.seroundtable.com/google-adsense-full-ip-address-sharing-41430.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-02 11:11 UTC |
 | [New SER Volatility Aggregator Chart &amp; Backend Update](https://www.seroundtable.com/ser-volatility-aggregator-chart-41428.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-01 14:58 UTC |
 | [Daily Search Forum Recap: June 1, 2026](https://www.seroundtable.com/recap-06-01-2026-41426.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-01 14:00 UTC |
 | [Google Ads Invalid Activity Credit Report - New Help Document](https://www.seroundtable.com/google-ads-invalid-activity-credit-report-41423.html) | Search Engine Roundtable | 170 | General | 2026-06-01 11:51 UTC |
