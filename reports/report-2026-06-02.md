@@ -32,12 +32,12 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Ads New Branded Searches Controls For AI Max](https://www.seroundtable.com/google-ads-branded-searches-controls-41418.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-01 11:31 UTC |
 | [Google Hosted Forms Leads Screen In Google Ads](https://www.seroundtable.com/google-ads-lead-management-41416.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-01 11:21 UTC |
 | [Google AI Mode &amp; AI Overviews Sliding Carousel For Link Cards](https://www.seroundtable.com/google-ai-mode-sliding-carousel-41417.html) | Search Engine Roundtable | 170 | Links | 2026-06-01 11:11 UTC |
-| [Google Disco Ball Doodle](https://www.seroundtable.com/google-disco-ball-logo-41425.html) | Search Engine Roundtable | 170 | General | 2026-06-01 09:52 UTC |
-| [What Is a Good Domain Rating? (With Real Data)](https://ahrefs.com/blog/what-is-a-good-domain-rating/) | Ahrefs Blog | 160 | Links | 2026-06-02 16:25 UTC |
-| [How to get your website indexed by Google](https://www.semrush.com/blog/google-index/) | Semrush Blog | 150 | Indexing | 2026-06-02 14:59 UTC |
+| [What Is a Good Domain Rating? (With Real Data)](https://ahrefs.com/blog/what-is-a-good-domain-rating/) | Ahrefs Blog | 140 | Links | 2026-06-02 16:25 UTC |
 | [107 SEO Statistics for 2026](https://ahrefs.com/blog/seo-statistics/) | Ahrefs Blog | 140 | Content | 2026-06-02 09:54 UTC |
+| [How to get your website indexed by Google](https://www.semrush.com/blog/google-index/) | Semrush Blog | 130 | Indexing | 2026-06-02 14:59 UTC |
 | [The 50 Most-Cited Websites in Grok (June 2026)](https://ahrefs.com/blog/most-cited-domains-grok/) | Ahrefs Blog | 120 | AI Search | 2026-06-01 16:11 UTC |
 | [The 50 Most-Cited Websites in Copilot (June 2026)](https://ahrefs.com/blog/most-cited-domains-copilot/) | Ahrefs Blog | 120 | AI Search | 2026-06-01 16:10 UTC |
+| [The 50 Most-Cited Websites in Perplexity (June 2026)](https://ahrefs.com/blog/most-cited-domains-perplexity/) | Ahrefs Blog | 120 | Links | 2026-06-01 16:10 UTC |
 
 ## Notes for manual writing
 
