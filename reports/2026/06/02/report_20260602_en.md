@@ -18,24 +18,26 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Daily Search Forum Recap: June 2, 2026](https://www.seroundtable.com/recap-06-01-2026-41433.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-02 14:00 UTC |
+| [Google May 2026 Core Update Has Completed Rolling Out](https://www.seroundtable.com/google-may-2026-core-update-done-41435.html) | Search Engine Roundtable | 210 | General | 2026-06-02 13:15 UTC |
+| [Google May 2026 Core Update Volatility Hits Hard Again June 2nd](https://www.seroundtable.com/google-may-core-update-volatility-41434.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-02 11:51 UTC |
+| [Google Ads Terms of Service Updated For AI Changes After 8 Years](https://www.seroundtable.com/google-ads-terms-of-service-updated-41431.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-02 11:41 UTC |
+| [Google Discover Showing Threads Posts More Often?](https://www.seroundtable.com/threads-in-google-discover-more-41427.html) | Search Engine Roundtable | 210 | General | 2026-06-02 11:31 UTC |
+| [Microsoft: AI Summarizes Results, Reducing Clicks &amp; Website Visits](https://www.seroundtable.com/microsoft-ai-reducing-clicks-website-visits-41429.html) | Search Engine Roundtable | 210 | GSC | 2026-06-02 11:21 UTC |
 | [Google AdSense New Full IP Address Sharing](https://www.seroundtable.com/google-adsense-full-ip-address-sharing-41430.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-02 11:11 UTC |
-| [New SER Volatility Aggregator Chart &amp; Backend Update](https://www.seroundtable.com/ser-volatility-aggregator-chart-41428.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-01 14:58 UTC |
-| [Daily Search Forum Recap: June 1, 2026](https://www.seroundtable.com/recap-06-01-2026-41426.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-01 14:00 UTC |
-| [Google Ads Invalid Activity Credit Report - New Help Document](https://www.seroundtable.com/google-ads-invalid-activity-credit-report-41423.html) | Search Engine Roundtable | 190 | General | 2026-06-01 11:51 UTC |
-| [Google Begins Limited Test Of Healthcare Ads In AI Mode](https://www.seroundtable.com/google-healthcare-ads-ai-mode-41420.html) | Search Engine Roundtable | 190 | Links | 2026-06-01 11:41 UTC |
-| [Google Ads New Branded Searches Controls For AI Max](https://www.seroundtable.com/google-ads-branded-searches-controls-41418.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-01 11:31 UTC |
+| [New SER Volatility Aggregator Chart &amp; Backend Update](https://www.seroundtable.com/ser-volatility-aggregator-chart-41428.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-01 14:58 UTC |
+| [Daily Search Forum Recap: June 1, 2026](https://www.seroundtable.com/recap-06-01-2026-41426.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-01 14:00 UTC |
+| [Google Ads Invalid Activity Credit Report - New Help Document](https://www.seroundtable.com/google-ads-invalid-activity-credit-report-41423.html) | Search Engine Roundtable | 170 | General | 2026-06-01 11:51 UTC |
+| [Google Begins Limited Test Of Healthcare Ads In AI Mode](https://www.seroundtable.com/google-healthcare-ads-ai-mode-41420.html) | Search Engine Roundtable | 170 | Links | 2026-06-01 11:41 UTC |
+| [Google Ads New Branded Searches Controls For AI Max](https://www.seroundtable.com/google-ads-branded-searches-controls-41418.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-01 11:31 UTC |
 | [Google Hosted Forms Leads Screen In Google Ads](https://www.seroundtable.com/google-ads-lead-management-41416.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-01 11:21 UTC |
 | [Google AI Mode &amp; AI Overviews Sliding Carousel For Link Cards](https://www.seroundtable.com/google-ai-mode-sliding-carousel-41417.html) | Search Engine Roundtable | 170 | Links | 2026-06-01 11:11 UTC |
 | [Google Disco Ball Doodle](https://www.seroundtable.com/google-disco-ball-logo-41425.html) | Search Engine Roundtable | 170 | General | 2026-06-01 09:52 UTC |
-| [107 SEO Statistics for 2026](https://ahrefs.com/blog/seo-statistics/) | Ahrefs Blog | 160 | Content | 2026-06-02 09:15 UTC |
-| [The 50 Most-Cited Websites in Grok (June 2026)](https://ahrefs.com/blog/most-cited-domains-grok/) | Ahrefs Blog | 140 | AI Search | 2026-06-01 16:11 UTC |
-| [The 50 Most-Cited Websites in Copilot (June 2026)](https://ahrefs.com/blog/most-cited-domains-copilot/) | Ahrefs Blog | 140 | AI Search | 2026-06-01 16:10 UTC |
-| [The 50 Most-Cited Websites in Perplexity (June 2026)](https://ahrefs.com/blog/most-cited-domains-perplexity/) | Ahrefs Blog | 140 | Links | 2026-06-01 16:10 UTC |
-| [The 50 Most-Cited Websites in Gemini (June 2026)](https://ahrefs.com/blog/most-cited-domains-gemini/) | Ahrefs Blog | 140 | AI Search | 2026-06-01 16:08 UTC |
-| [The 50 Most-Cited Websites in Google AI Overviews (June 2026)](https://ahrefs.com/blog/most-cited-domains-ai-overviews/) | Ahrefs Blog | 140 | AI Search | 2026-06-01 16:00 UTC |
-| [Topical Authority: What It Is, How Google Measures It, and How to Build It](https://ahrefs.com/blog/topical-authority/) | Ahrefs Blog | 120 | AI Search | 2026-06-01 05:02 UTC |
-| [Google to add AI performance report to Merchant Center](https://www.semrush.com/blog/google-to-add-ai-performance-report-to-merchant-center/) | Semrush Blog | 110 | AI Search | 2026-06-01 08:01 UTC |
-| [Google brings Preferred Sources to AI Overviews and AI Mode](https://www.semrush.com/blog/google-preferred-sources-in-ai-experiences/) | Semrush Blog | 110 | AI Search | 2026-06-01 06:33 UTC |
+| [What Is a Good Domain Rating? (With Real Data)](https://ahrefs.com/blog/what-is-a-good-domain-rating/) | Ahrefs Blog | 160 | Links | 2026-06-02 16:25 UTC |
+| [How to get your website indexed by Google](https://www.semrush.com/blog/google-index/) | Semrush Blog | 150 | Indexing | 2026-06-02 14:59 UTC |
+| [107 SEO Statistics for 2026](https://ahrefs.com/blog/seo-statistics/) | Ahrefs Blog | 140 | Content | 2026-06-02 09:54 UTC |
+| [The 50 Most-Cited Websites in Grok (June 2026)](https://ahrefs.com/blog/most-cited-domains-grok/) | Ahrefs Blog | 120 | AI Search | 2026-06-01 16:11 UTC |
+| [The 50 Most-Cited Websites in Copilot (June 2026)](https://ahrefs.com/blog/most-cited-domains-copilot/) | Ahrefs Blog | 120 | AI Search | 2026-06-01 16:10 UTC |
 
 ## Notes for manual writing
 
