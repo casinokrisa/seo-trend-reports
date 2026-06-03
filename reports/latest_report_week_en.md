@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Introducing Search Generative AI performance reports in Search Console](https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports) | Google Search Central Blog | 230 | GSC | 2026-06-03 00:00 UTC |
 | [Daily Search Forum Recap: June 2, 2026](https://www.seroundtable.com/recap-06-01-2026-41433.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-02 14:00 UTC |
 | [Google May 2026 Core Update Has Completed Rolling Out](https://www.seroundtable.com/google-may-2026-core-update-done-41435.html) | Search Engine Roundtable | 190 | General | 2026-06-02 13:15 UTC |
 | [Google May 2026 Core Update Volatility Hits Hard Again June 2nd](https://www.seroundtable.com/google-may-core-update-volatility-41434.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-02 11:51 UTC |
