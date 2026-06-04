@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Laid off, down to one client - looking for help](https://www.reddit.com/r/localseo/comments/1tw9fry/laid_off_down_to_one_client_looking_for_help/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-06-04 01:39 UTC |
-| [Can someone explain Local SEO homepage structure? (Hero section, keywords integration, H1-H2 guide needed](https://www.reddit.com/r/localseo/comments/1tw58tm/can_someone_explain_local_seo_homepage_structure/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-03 22:42 UTC |
-| [If Google Business Profile, website SEO, reviews, citations, and local backlinks are all done properly for two businesses in the same city and same niche, what do you think becomes the biggest ranking factor in Local Pack in 2026?](https://www.reddit.com/r/localseo/comments/1tw3fnh/if_google_business_profile_website_seo_reviews/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-03 21:33 UTC |
-| [Are contractors too offline for online workshops?](https://www.reddit.com/r/localseo/comments/1tw1un6/are_contractors_too_offline_for_online_workshops/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-03 20:35 UTC |
-| [My legitimate reviews are being suppressed](https://www.reddit.com/r/localseo/comments/1tw0o2l/my_legitimate_reviews_are_being_suppressed/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-03 19:53 UTC |
-| [Stop reporting local rankings as one number - show clients the per-area competitor gap instead](https://www.reddit.com/r/localseo/comments/1tvzky1/stop_reporting_local_rankings_as_one_number_show/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-03 19:15 UTC |
-| [Curious if anyone here has tested whether review velocity affects visibility in AI search results. What are you seeing?](https://www.reddit.com/r/localseo/comments/1tvr9zc/curious_if_anyone_here_has_tested_whether_review/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-06-03 14:36 UTC |
-| [[ Removed by Reddit ]](https://www.reddit.com/r/localseo/comments/1tvputa/removed_by_reddit/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-03 13:46 UTC |
-| [How do you stop AI from writing the same content every time?](https://www.reddit.com/r/localseo/comments/1tvorua/how_do_you_stop_ai_from_writing_the_same_content/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-06-03 13:05 UTC |
-| [Which LLM are you using for early topic and keyword research?](https://www.reddit.com/r/localseo/comments/1tvlxol/which_llm_are_you_using_for_early_topic_and/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-06-03 11:01 UTC |
-| [Experts here, how do you keep coming up with blog topics for SEO?](https://www.reddit.com/r/localseo/comments/1tviuy0/experts_here_how_do_you_keep_coming_up_with_blog/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-03 08:14 UTC |
-| [Tool Stack](https://www.reddit.com/r/localseo/comments/1tvhsqw/tool_stack/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-03 07:13 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
@@ -39,6 +28,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google AdSense New Full IP Address Sharing](https://www.seroundtable.com/google-adsense-full-ip-address-sharing-41430.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-02 11:11 UTC |
 | [New SER Volatility Aggregator Chart &amp; Backend Update](https://www.seroundtable.com/ser-volatility-aggregator-chart-41428.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-01 14:58 UTC |
 | [Daily Search Forum Recap: June 1, 2026](https://www.seroundtable.com/recap-06-01-2026-41426.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-01 14:00 UTC |
+| [Keyword strategy in SEO: What it is &amp; how to create one](https://www.semrush.com/blog/keyword-strategy/) | Semrush Blog | 150 | Migration | 2026-06-04 10:07 UTC |
 | [Google adds a dedicated Agentic Browsing category to Lighthouse](https://www.semrush.com/blog/google-adds-agentic-browsing-category-to-lighthouse/) | Semrush Blog | 130 | AI Search | 2026-06-03 15:01 UTC |
 | [Google Search Console adds AI performance reports and blocking controls](https://www.semrush.com/blog/google-adds-ai-performance-reports/) | Semrush Blog | 130 | GSC | 2026-06-03 14:56 UTC |
 | [Social media SEO: How to show in search, social, and AI](https://www.semrush.com/blog/social-media-seo/) | Semrush Blog | 130 | AI Search | 2026-06-03 13:59 UTC |
