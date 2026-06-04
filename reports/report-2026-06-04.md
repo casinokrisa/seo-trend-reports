@@ -18,11 +18,11 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: June 4, 2026](https://www.seroundtable.com/recap-06-04-2026-41448.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-04 14:00 UTC |
-| [Merchant Center Expands Attribute Rules To Automatically Found Products](https://www.seroundtable.com/google-merchant-center-attribute-rules-for-automatically-found-products-41422.html) | Search Engine Roundtable | 210 | General | 2026-06-04 11:51 UTC |
-| [June 2026 Google Webmaster Report](https://www.seroundtable.com/june-2026-google-webmaster-report-41446.html) | Search Engine Roundtable | 210 | General | 2026-06-04 11:41 UTC |
-| [Microsoft: Bing Webmaster Tools AI Reporting To Gain New Features Soon](https://www.seroundtable.com/bing-webmaster-tools-ai-coming-soon-41449.html) | Search Engine Roundtable | 210 | Links | 2026-06-04 11:31 UTC |
-| [Google Merchant Center Mass Product Page Unavailable Notices Last Night?](https://www.seroundtable.com/google-merchant-center-mass-product-page-unavailable-41450.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-04 11:21 UTC |
+| [Daily Search Forum Recap: June 4, 2026](https://www.seroundtable.com/recap-06-04-2026-41448.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-04 14:00 UTC |
+| [Merchant Center Expands Attribute Rules To Automatically Found Products](https://www.seroundtable.com/google-merchant-center-attribute-rules-for-automatically-found-products-41422.html) | Search Engine Roundtable | 190 | General | 2026-06-04 11:51 UTC |
+| [June 2026 Google Webmaster Report](https://www.seroundtable.com/june-2026-google-webmaster-report-41446.html) | Search Engine Roundtable | 190 | General | 2026-06-04 11:41 UTC |
+| [Microsoft: Bing Webmaster Tools AI Reporting To Gain New Features Soon](https://www.seroundtable.com/bing-webmaster-tools-ai-coming-soon-41449.html) | Search Engine Roundtable | 190 | Links | 2026-06-04 11:31 UTC |
+| [Google Merchant Center Mass Product Page Unavailable Notices Last Night?](https://www.seroundtable.com/google-merchant-center-mass-product-page-unavailable-41450.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-04 11:21 UTC |
 | [Bing Tests Larger Favicons For Top Sponsored Ads](https://www.seroundtable.com/bing-large-favicons-top-ads-41437.html) | Search Engine Roundtable | 190 | General | 2026-06-04 11:11 UTC |
 | [Warning: Google Ads Phishing Attack For Google Accounts](https://www.seroundtable.com/google-ads-phishing-attack-41451.html) | Search Engine Roundtable | 190 | Local SEO | 2026-06-04 10:20 UTC |
 | [Daily Search Forum Recap: June 3, 2026](https://www.seroundtable.com/recap-06-02-2026-41445.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-03 14:00 UTC |
@@ -31,6 +31,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Yahoo Scout Slighted By Microsoft Scout? And More on Microsoft Web IQ.](https://www.seroundtable.com/microsoft-scout-vs-yahoo-scout-41441.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-03 11:31 UTC |
 | [ChatGPT Multi-Advertiser Placements &amp; Ads Manager Updates](https://www.seroundtable.com/chatgpt-multi-advertiser-placements-41442.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-03 11:21 UTC |
 | [Google Hotel Ads Drops Several Bid Adjustments - A Bug?](https://www.seroundtable.com/google-drops-several-bid-adjustments-for-hotel-ads-41444.html) | Search Engine Roundtable | 170 | General | 2026-06-03 11:11 UTC |
+| [Google's AI search optimization guide: what to do next](https://www.semrush.com/blog/google-ai-search-optimization-guide/) | Semrush Blog | 150 | AI Search | 2026-06-04 17:14 UTC |
 | [9 ways to improve SEO rankings and traffic](https://www.semrush.com/blog/improve-seo/) | Semrush Blog | 130 | AI Search | 2026-06-04 10:21 UTC |
 | [Keyword strategy in SEO: What it is &amp; how to create one](https://www.semrush.com/blog/keyword-strategy/) | Semrush Blog | 130 | Migration | 2026-06-04 10:07 UTC |
 | [Google adds a dedicated Agentic Browsing category to Lighthouse](https://www.semrush.com/blog/google-adds-agentic-browsing-category-to-lighthouse/) | Semrush Blog | 110 | AI Search | 2026-06-03 15:01 UTC |

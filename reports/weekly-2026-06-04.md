@@ -12,12 +12,12 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: June 4, 2026](https://www.seroundtable.com/recap-06-04-2026-41448.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-04 14:00 UTC |
-| [Merchant Center Expands Attribute Rules To Automatically Found Products](https://www.seroundtable.com/google-merchant-center-attribute-rules-for-automatically-found-products-41422.html) | Search Engine Roundtable | 210 | General | 2026-06-04 11:51 UTC |
-| [June 2026 Google Webmaster Report](https://www.seroundtable.com/june-2026-google-webmaster-report-41446.html) | Search Engine Roundtable | 210 | General | 2026-06-04 11:41 UTC |
-| [Microsoft: Bing Webmaster Tools AI Reporting To Gain New Features Soon](https://www.seroundtable.com/bing-webmaster-tools-ai-coming-soon-41449.html) | Search Engine Roundtable | 210 | Links | 2026-06-04 11:31 UTC |
-| [Google Merchant Center Mass Product Page Unavailable Notices Last Night?](https://www.seroundtable.com/google-merchant-center-mass-product-page-unavailable-41450.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-04 11:21 UTC |
 | [Introducing Search Generative AI performance reports in Search Console](https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports) | Google Search Central Blog | 210 | GSC | 2026-06-03 00:00 UTC |
+| [Daily Search Forum Recap: June 4, 2026](https://www.seroundtable.com/recap-06-04-2026-41448.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-04 14:00 UTC |
+| [Merchant Center Expands Attribute Rules To Automatically Found Products](https://www.seroundtable.com/google-merchant-center-attribute-rules-for-automatically-found-products-41422.html) | Search Engine Roundtable | 190 | General | 2026-06-04 11:51 UTC |
+| [June 2026 Google Webmaster Report](https://www.seroundtable.com/june-2026-google-webmaster-report-41446.html) | Search Engine Roundtable | 190 | General | 2026-06-04 11:41 UTC |
+| [Microsoft: Bing Webmaster Tools AI Reporting To Gain New Features Soon](https://www.seroundtable.com/bing-webmaster-tools-ai-coming-soon-41449.html) | Search Engine Roundtable | 190 | Links | 2026-06-04 11:31 UTC |
+| [Google Merchant Center Mass Product Page Unavailable Notices Last Night?](https://www.seroundtable.com/google-merchant-center-mass-product-page-unavailable-41450.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-04 11:21 UTC |
 | [Bing Tests Larger Favicons For Top Sponsored Ads](https://www.seroundtable.com/bing-large-favicons-top-ads-41437.html) | Search Engine Roundtable | 190 | General | 2026-06-04 11:11 UTC |
 | [Warning: Google Ads Phishing Attack For Google Accounts](https://www.seroundtable.com/google-ads-phishing-attack-41451.html) | Search Engine Roundtable | 190 | Local SEO | 2026-06-04 10:20 UTC |
 | [Daily Search Forum Recap: June 3, 2026](https://www.seroundtable.com/recap-06-02-2026-41445.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-03 14:00 UTC |
@@ -28,6 +28,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Hotel Ads Drops Several Bid Adjustments - A Bug?](https://www.seroundtable.com/google-drops-several-bid-adjustments-for-hotel-ads-41444.html) | Search Engine Roundtable | 170 | General | 2026-06-03 11:11 UTC |
 | [Daily Search Forum Recap: June 2, 2026](https://www.seroundtable.com/recap-06-01-2026-41433.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-02 14:00 UTC |
 | [Google May 2026 Core Update Has Completed Rolling Out](https://www.seroundtable.com/google-may-2026-core-update-done-41435.html) | Search Engine Roundtable | 170 | General | 2026-06-02 13:15 UTC |
+| [Google's AI search optimization guide: what to do next](https://www.semrush.com/blog/google-ai-search-optimization-guide/) | Semrush Blog | 150 | AI Search | 2026-06-04 17:14 UTC |
 | [9 ways to improve SEO rankings and traffic](https://www.semrush.com/blog/improve-seo/) | Semrush Blog | 130 | AI Search | 2026-06-04 10:21 UTC |
 | [Keyword strategy in SEO: What it is &amp; how to create one](https://www.semrush.com/blog/keyword-strategy/) | Semrush Blog | 130 | Migration | 2026-06-04 10:07 UTC |
 | [What Is a Good Domain Rating? (With Real Data)](https://ahrefs.com/blog/what-is-a-good-domain-rating/) | Ahrefs Blog | 120 | Links | 2026-06-02 16:25 UTC |
