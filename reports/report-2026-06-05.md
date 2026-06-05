@@ -31,13 +31,10 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Microsoft: Bing Webmaster Tools AI Reporting To Gain New Features Soon](https://www.seroundtable.com/bing-webmaster-tools-ai-coming-soon-41449.html) | Search Engine Roundtable | 170 | Links | 2026-06-04 11:31 UTC |
 | [Google Merchant Center Mass Product Page Unavailable Notices Last Night?](https://www.seroundtable.com/google-merchant-center-mass-product-page-unavailable-41450.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-04 11:21 UTC |
 | [Bing Tests Larger Favicons For Top Sponsored Ads](https://www.seroundtable.com/bing-large-favicons-top-ads-41437.html) | Search Engine Roundtable | 170 | General | 2026-06-04 11:11 UTC |
-| [Warning: Google Ads Phishing Attack For Google Accounts](https://www.seroundtable.com/google-ads-phishing-attack-41451.html) | Search Engine Roundtable | 170 | Local SEO | 2026-06-04 10:20 UTC |
 | [9 Vibe Coding Examples: AI Apps You Can Use Right Now to Grow Your Website](https://ahrefs.com/blog/vibe-coding-examples/) | Ahrefs Blog | 140 | AI Search | 2026-06-05 14:39 UTC |
 | [Automated SEO: What It Is and How It Works in 2026](https://ahrefs.com/blog/automated-seo/) | Ahrefs Blog | 140 | Links | 2026-06-05 10:22 UTC |
 | [Google Ads competitor analysis: A how-to guide (+ top tools)](https://www.semrush.com/blog/google-ads-competitor-analysis/) | Semrush Blog | 130 | AI Search | 2026-06-05 09:07 UTC |
 | [Google's AI search optimization guide: what to do next](https://www.semrush.com/blog/google-ai-search-optimization-guide/) | Semrush Blog | 110 | AI Search | 2026-06-04 17:14 UTC |
-| [9 ways to improve SEO rankings and traffic](https://www.semrush.com/blog/improve-seo/) | Semrush Blog | 110 | AI Search | 2026-06-04 10:21 UTC |
-| [Keyword strategy in SEO: What it is &amp; how to create one](https://www.semrush.com/blog/keyword-strategy/) | Semrush Blog | 110 | Migration | 2026-06-04 10:07 UTC |
 
 ## Notes for manual writing
 
