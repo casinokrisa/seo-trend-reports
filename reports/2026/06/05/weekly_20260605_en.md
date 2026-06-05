@@ -44,8 +44,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [The 50 Most-Cited Websites in Gemini (June 2026)](https://ahrefs.com/blog/most-cited-domains-gemini/) | Ahrefs Blog | 105 | AI Search | 2026-06-01 16:08 UTC |
 | [The 50 Most-Cited Websites in Google AI Overviews (June 2026)](https://ahrefs.com/blog/most-cited-domains-ai-overviews/) | Ahrefs Blog | 105 | AI Search | 2026-06-01 16:00 UTC |
 | [Topical Authority: What It Is, How Google Measures It, and How to Build It](https://ahrefs.com/blog/topical-authority/) | Ahrefs Blog | 105 | AI Search | 2026-06-01 05:02 UTC |
-| [Top Trending Topics (May 2026)](https://ahrefs.com/blog/trending-topics/) | Ahrefs Blog | 105 | General | 2026-05-29 05:26 UTC |
-| [100 Most Asked Questions on Google (May 2026)](https://ahrefs.com/blog/top-google-questions/) | Ahrefs Blog | 105 | General | 2026-05-29 05:26 UTC |
 | [Google to add AI performance report to Merchant Center](https://www.semrush.com/blog/google-to-add-ai-performance-report-to-merchant-center/) | Semrush Blog | 95 | AI Search | 2026-06-01 08:01 UTC |
 | [Google brings Preferred Sources to AI Overviews and AI Mode](https://www.semrush.com/blog/google-preferred-sources-in-ai-experiences/) | Semrush Blog | 95 | AI Search | 2026-06-01 06:33 UTC |
 | [How we're driving AI visibility at Semrush](https://www.semrush.com/blog/how-we-are-using-semrush-to-drive-llm-visibility/) | Semrush Blog | 95 | AI Search | 2026-05-29 14:35 UTC |
