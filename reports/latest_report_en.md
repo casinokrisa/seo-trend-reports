@@ -27,7 +27,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Dialog: Does This Business Offer Rewards In Exchange For Reviews](https://www.seroundtable.com/google-rewards-exchange-reviews-41419.html) | Search Engine Roundtable | 170 | General | 2026-06-05 11:11 UTC |
 | [9 Vibe Coding Examples: AI Apps You Can Use Right Now to Grow Your Website](https://ahrefs.com/blog/vibe-coding-examples/) | Ahrefs Blog | 120 | AI Search | 2026-06-05 14:39 UTC |
 | [Automated SEO: What It Is and How It Works in 2026](https://ahrefs.com/blog/automated-seo/) | Ahrefs Blog | 120 | Links | 2026-06-05 10:22 UTC |
-| [Google Ads competitor analysis: A how-to guide (+ top tools)](https://www.semrush.com/blog/google-ads-competitor-analysis/) | Semrush Blog | 110 | AI Search | 2026-06-05 09:07 UTC |
 
 ## Notes for manual writing
 
