@@ -18,8 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: June 5, 2026](https://www.seroundtable.com/recap-06-05-2026-41456.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-05 14:00 UTC |
-| [9 Vibe Coding Examples: AI Apps You Can Use Right Now to Grow Your Website](https://ahrefs.com/blog/vibe-coding-examples/) | Ahrefs Blog | 120 | AI Search | 2026-06-05 14:39 UTC |
+| _No site items in window_ |  |  |  |  |
 
 ## Notes for manual writing
 
