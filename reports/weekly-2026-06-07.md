@@ -31,7 +31,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [9 Vibe Coding Examples: AI Apps You Can Use Right Now to Grow Your Website](https://ahrefs.com/blog/vibe-coding-examples/) | Ahrefs Blog | 120 | AI Search | 2026-06-05 14:39 UTC |
 | [Automated SEO: What It Is and How It Works in 2026](https://ahrefs.com/blog/automated-seo/) | Ahrefs Blog | 120 | Links | 2026-06-05 10:22 UTC |
 | [Google Ads competitor analysis: A how-to guide (+ top tools)](https://www.semrush.com/blog/google-ads-competitor-analysis/) | Semrush Blog | 110 | AI Search | 2026-06-05 09:07 UTC |
-| [Google's AI search optimization guide: what to do next](https://www.semrush.com/blog/google-ai-search-optimization-guide/) | Semrush Blog | 110 | AI Search | 2026-06-04 17:14 UTC |
 | [What Is a Good Domain Rating? (With Real Data)](https://ahrefs.com/blog/what-is-a-good-domain-rating/) | Ahrefs Blog | 105 | Links | 2026-06-02 16:25 UTC |
 | [107 SEO Statistics for 2026](https://ahrefs.com/blog/seo-statistics/) | Ahrefs Blog | 105 | Content | 2026-06-02 09:54 UTC |
 | [The 50 Most-Cited Websites in Grok (June 2026)](https://ahrefs.com/blog/most-cited-domains-grok/) | Ahrefs Blog | 105 | AI Search | 2026-06-01 16:11 UTC |
@@ -40,6 +39,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [The 50 Most-Cited Websites in Gemini (June 2026)](https://ahrefs.com/blog/most-cited-domains-gemini/) | Ahrefs Blog | 105 | AI Search | 2026-06-01 16:08 UTC |
 | [The 50 Most-Cited Websites in Google AI Overviews (June 2026)](https://ahrefs.com/blog/most-cited-domains-ai-overviews/) | Ahrefs Blog | 105 | AI Search | 2026-06-01 16:00 UTC |
 | [Topical Authority: What It Is, How Google Measures It, and How to Build It](https://ahrefs.com/blog/topical-authority/) | Ahrefs Blog | 105 | AI Search | 2026-06-01 05:02 UTC |
+| [Google's AI search optimization guide: what to do next](https://www.semrush.com/blog/google-ai-search-optimization-guide/) | Semrush Blog | 95 | AI Search | 2026-06-04 17:14 UTC |
 | [9 ways to improve SEO rankings and traffic](https://www.semrush.com/blog/improve-seo/) | Semrush Blog | 95 | AI Search | 2026-06-04 10:21 UTC |
 | [Keyword strategy in SEO: What it is &amp; how to create one](https://www.semrush.com/blog/keyword-strategy/) | Semrush Blog | 95 | Migration | 2026-06-04 10:07 UTC |
 | [Google adds a dedicated Agentic Browsing category to Lighthouse](https://www.semrush.com/blog/google-adds-agentic-browsing-category-to-lighthouse/) | Semrush Blog | 95 | AI Search | 2026-06-03 15:01 UTC |
