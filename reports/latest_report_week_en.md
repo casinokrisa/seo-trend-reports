@@ -20,7 +20,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Coming Soon: Connecting Google Business Profile To Google Analytics](https://www.seroundtable.com/connect-google-business-profile-to-google-analytics-41455.html) | Search Engine Roundtable | 170 | Local SEO | 2026-06-05 11:31 UTC |
 | [Google Passkey &amp; Security Agent Added To Account Security and Safety Doc](https://www.seroundtable.com/google-account-security-safety-41424.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-05 11:21 UTC |
 | [Google Dialog: Does This Business Offer Rewards In Exchange For Reviews](https://www.seroundtable.com/google-rewards-exchange-reviews-41419.html) | Search Engine Roundtable | 170 | General | 2026-06-05 11:11 UTC |
-| [Daily Search Forum Recap: June 4, 2026](https://www.seroundtable.com/recap-06-04-2026-41448.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-04 14:00 UTC |
+| [Daily Search Forum Recap: June 4, 2026](https://www.seroundtable.com/recap-06-04-2026-41448.html) | Search Engine Roundtable | 155 | AI Search | 2026-06-04 14:00 UTC |
 | [Merchant Center Expands Attribute Rules To Automatically Found Products](https://www.seroundtable.com/google-merchant-center-attribute-rules-for-automatically-found-products-41422.html) | Search Engine Roundtable | 155 | General | 2026-06-04 11:51 UTC |
 | [June 2026 Google Webmaster Report](https://www.seroundtable.com/june-2026-google-webmaster-report-41446.html) | Search Engine Roundtable | 155 | General | 2026-06-04 11:41 UTC |
 | [Microsoft: Bing Webmaster Tools AI Reporting To Gain New Features Soon](https://www.seroundtable.com/bing-webmaster-tools-ai-coming-soon-41449.html) | Search Engine Roundtable | 155 | Links | 2026-06-04 11:31 UTC |
