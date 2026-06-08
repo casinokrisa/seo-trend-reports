@@ -38,7 +38,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [The 50 Most-Cited Websites in Perplexity (June 2026)](https://ahrefs.com/blog/most-cited-domains-perplexity/) | Ahrefs Blog | 105 | Links | 2026-06-01 16:10 UTC |
 | [The 50 Most-Cited Websites in Gemini (June 2026)](https://ahrefs.com/blog/most-cited-domains-gemini/) | Ahrefs Blog | 105 | AI Search | 2026-06-01 16:08 UTC |
 | [The 50 Most-Cited Websites in Google AI Overviews (June 2026)](https://ahrefs.com/blog/most-cited-domains-ai-overviews/) | Ahrefs Blog | 105 | AI Search | 2026-06-01 16:00 UTC |
-| [Topical Authority: What It Is, How Google Measures It, and How to Build It](https://ahrefs.com/blog/topical-authority/) | Ahrefs Blog | 105 | AI Search | 2026-06-01 05:02 UTC |
 | [Google's AI search optimization guide: what to do next](https://www.semrush.com/blog/google-ai-search-optimization-guide/) | Semrush Blog | 95 | AI Search | 2026-06-04 17:14 UTC |
 | [9 ways to improve SEO rankings and traffic](https://www.semrush.com/blog/improve-seo/) | Semrush Blog | 95 | AI Search | 2026-06-04 10:21 UTC |
 | [Keyword strategy in SEO: What it is &amp; how to create one](https://www.semrush.com/blog/keyword-strategy/) | Semrush Blog | 95 | Migration | 2026-06-04 10:07 UTC |
