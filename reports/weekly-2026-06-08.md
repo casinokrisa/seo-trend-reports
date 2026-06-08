@@ -13,13 +13,13 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: June 8, 2026](https://www.seroundtable.com/recap-06-08-2026-41465.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-08 14:00 UTC |
-| [Google Search Ranking Volatility This Weekend - Around June 6th](https://www.seroundtable.com/google-search-ranking-volatility-41466.html) | Search Engine Roundtable | 210 | General | 2026-06-08 11:55 UTC |
-| [New Google Document On Third-Party SEO Tools, Services &amp; Advice](https://www.seroundtable.com/google-third-party-seo-tools-services-advice-41461.html) | Search Engine Roundtable | 210 | General | 2026-06-08 11:51 UTC |
-| [Google Updates Its Hiring An SEO Doc Warning On SEO Tools &amp; AI Optimization](https://www.seroundtable.com/google-updates-hiring-seo-41460.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-08 11:41 UTC |
-| [Google Search Profiles Insights &amp; Analytics](https://www.seroundtable.com/google-search-profiles-insights-41462.html) | Search Engine Roundtable | 210 | Content | 2026-06-08 11:31 UTC |
-| [Bing Gives Searchers A Way To Disable AI Copilot Answers](https://www.seroundtable.com/bing-minus-ai-41459.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-08 11:21 UTC |
-| [Google: Google Chrome Won't Set AI Mode The Default Search Experience](https://www.seroundtable.com/google-chrome-ai-mode-default-41458.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-08 11:11 UTC |
 | [Introducing Search Generative AI performance reports in Search Console](https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports) | Google Search Central Blog | 195 | GSC | 2026-06-03 00:00 UTC |
+| [Google Search Ranking Volatility This Weekend - Around June 6th](https://www.seroundtable.com/google-search-ranking-volatility-41466.html) | Search Engine Roundtable | 190 | General | 2026-06-08 11:55 UTC |
+| [New Google Document On Third-Party SEO Tools, Services &amp; Advice](https://www.seroundtable.com/google-third-party-seo-tools-services-advice-41461.html) | Search Engine Roundtable | 190 | General | 2026-06-08 11:51 UTC |
+| [Google Updates Its Hiring An SEO Doc Warning On SEO Tools &amp; AI Optimization](https://www.seroundtable.com/google-updates-hiring-seo-41460.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-08 11:41 UTC |
+| [Google Search Profiles Insights &amp; Analytics](https://www.seroundtable.com/google-search-profiles-insights-41462.html) | Search Engine Roundtable | 190 | Content | 2026-06-08 11:31 UTC |
+| [Bing Gives Searchers A Way To Disable AI Copilot Answers](https://www.seroundtable.com/bing-minus-ai-41459.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-08 11:21 UTC |
+| [Google: Google Chrome Won't Set AI Mode The Default Search Experience](https://www.seroundtable.com/google-chrome-ai-mode-default-41458.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-08 11:11 UTC |
 | [Guidance on third-party SEO tools, services, and advice](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Content | 2026-06-05 00:00 UTC |
 | [Daily Search Forum Recap: June 5, 2026](https://www.seroundtable.com/recap-06-05-2026-41456.html) | Search Engine Roundtable | 155 | AI Search | 2026-06-05 14:00 UTC |
 | [Search News Buzz Video Recap: Google May Core Update Done, AI Performance Reports &amp; Controls, Google Ads, ChatGPT Ads, Microsoft Scout &amp; Tools](https://www.seroundtable.com/video-04-05-2026-41452.html) | Search Engine Roundtable | 155 | GSC | 2026-06-05 12:01 UTC |
