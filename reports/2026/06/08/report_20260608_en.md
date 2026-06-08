@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: June 8, 2026](https://www.seroundtable.com/recap-06-08-2026-41465.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-08 14:00 UTC |
+| [Daily Search Forum Recap: June 8, 2026](https://www.seroundtable.com/recap-06-08-2026-41465.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-08 14:00 UTC |
 | [Google Search Ranking Volatility This Weekend - Around June 6th](https://www.seroundtable.com/google-search-ranking-volatility-41466.html) | Search Engine Roundtable | 190 | General | 2026-06-08 11:55 UTC |
 | [New Google Document On Third-Party SEO Tools, Services &amp; Advice](https://www.seroundtable.com/google-third-party-seo-tools-services-advice-41461.html) | Search Engine Roundtable | 190 | General | 2026-06-08 11:51 UTC |
 | [Google Updates Its Hiring An SEO Doc Warning On SEO Tools &amp; AI Optimization](https://www.seroundtable.com/google-updates-hiring-seo-41460.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-08 11:41 UTC |
