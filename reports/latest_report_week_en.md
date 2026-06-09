@@ -12,29 +12,29 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google Shopping Results Tests Linking Directly To Merchant Site](https://www.seroundtable.com/google-shopping-results-link-merchant-41468.html) | Search Engine Roundtable | 210 | Links | 2026-06-09 11:31 UTC |
+| [New Google Ads Campaign Guidance With Experiment Power Score](https://www.seroundtable.com/google-ads-campaign-guidance-experiment-power-41469.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-09 11:21 UTC |
+| [Google AI Mode Tests Citation Counts &amp; Favicons Under Results](https://www.seroundtable.com/google-ai-mode-counts-favicons-bottom-41463.html) | Search Engine Roundtable | 210 | Links | 2026-06-09 11:11 UTC |
 | [Introducing Search Generative AI performance reports in Search Console](https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports) | Google Search Central Blog | 195 | GSC | 2026-06-03 00:00 UTC |
 | [Daily Search Forum Recap: June 8, 2026](https://www.seroundtable.com/recap-06-08-2026-41465.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-08 14:00 UTC |
-| [Google Search Ranking Volatility This Weekend - Around June 6th](https://www.seroundtable.com/google-search-ranking-volatility-41466.html) | Search Engine Roundtable | 190 | General | 2026-06-08 11:55 UTC |
-| [New Google Document On Third-Party SEO Tools, Services &amp; Advice](https://www.seroundtable.com/google-third-party-seo-tools-services-advice-41461.html) | Search Engine Roundtable | 190 | General | 2026-06-08 11:51 UTC |
-| [Google Updates Its Hiring An SEO Doc Warning On SEO Tools &amp; AI Optimization](https://www.seroundtable.com/google-updates-hiring-seo-41460.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-08 11:41 UTC |
-| [Google Search Profiles Insights &amp; Analytics](https://www.seroundtable.com/google-search-profiles-insights-41462.html) | Search Engine Roundtable | 190 | Content | 2026-06-08 11:31 UTC |
-| [Bing Gives Searchers A Way To Disable AI Copilot Answers](https://www.seroundtable.com/bing-minus-ai-41459.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-08 11:21 UTC |
-| [Google: Google Chrome Won't Set AI Mode The Default Search Experience](https://www.seroundtable.com/google-chrome-ai-mode-default-41458.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-08 11:11 UTC |
 | [Guidance on third-party SEO tools, services, and advice](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Content | 2026-06-05 00:00 UTC |
+| [Google Search Ranking Volatility This Weekend - Around June 6th](https://www.seroundtable.com/google-search-ranking-volatility-41466.html) | Search Engine Roundtable | 170 | General | 2026-06-08 11:55 UTC |
+| [New Google Document On Third-Party SEO Tools, Services &amp; Advice](https://www.seroundtable.com/google-third-party-seo-tools-services-advice-41461.html) | Search Engine Roundtable | 170 | General | 2026-06-08 11:51 UTC |
+| [Google Updates Its Hiring An SEO Doc Warning On SEO Tools &amp; AI Optimization](https://www.seroundtable.com/google-updates-hiring-seo-41460.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-08 11:41 UTC |
+| [Google Search Profiles Insights &amp; Analytics](https://www.seroundtable.com/google-search-profiles-insights-41462.html) | Search Engine Roundtable | 170 | Content | 2026-06-08 11:31 UTC |
+| [Bing Gives Searchers A Way To Disable AI Copilot Answers](https://www.seroundtable.com/bing-minus-ai-41459.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-08 11:21 UTC |
+| [Google: Google Chrome Won't Set AI Mode The Default Search Experience](https://www.seroundtable.com/google-chrome-ai-mode-default-41458.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-08 11:11 UTC |
 | [Daily Search Forum Recap: June 5, 2026](https://www.seroundtable.com/recap-06-05-2026-41456.html) | Search Engine Roundtable | 155 | AI Search | 2026-06-05 14:00 UTC |
 | [Search News Buzz Video Recap: Google May Core Update Done, AI Performance Reports &amp; Controls, Google Ads, ChatGPT Ads, Microsoft Scout &amp; Tools](https://www.seroundtable.com/video-04-05-2026-41452.html) | Search Engine Roundtable | 155 | GSC | 2026-06-05 12:01 UTC |
 | [Google Search Profiles: Publisher Profile Pages Officially Live](https://www.seroundtable.com/google-search-profiles-publisher-41447.html) | Search Engine Roundtable | 155 | AI Search | 2026-06-05 11:51 UTC |
 | [Microsoft Advertising To Update UTM Analytics Auto-Tagging Sep. 2](https://www.seroundtable.com/microsoft-advertising-utm-auto-tagging-update-41440.html) | Search Engine Roundtable | 155 | AI Search | 2026-06-05 11:41 UTC |
 | [Coming Soon: Connecting Google Business Profile To Google Analytics](https://www.seroundtable.com/connect-google-business-profile-to-google-analytics-41455.html) | Search Engine Roundtable | 155 | Local SEO | 2026-06-05 11:31 UTC |
-| [Google Passkey &amp; Security Agent Added To Account Security and Safety Doc](https://www.seroundtable.com/google-account-security-safety-41424.html) | Search Engine Roundtable | 155 | AI Search | 2026-06-05 11:21 UTC |
-| [Google Dialog: Does This Business Offer Rewards In Exchange For Reviews](https://www.seroundtable.com/google-rewards-exchange-reviews-41419.html) | Search Engine Roundtable | 155 | General | 2026-06-05 11:11 UTC |
-| [Daily Search Forum Recap: June 4, 2026](https://www.seroundtable.com/recap-06-04-2026-41448.html) | Search Engine Roundtable | 155 | AI Search | 2026-06-04 14:00 UTC |
-| [How to Level-up From SEO Tactician to Search Visibility Leader](https://ahrefs.com/blog/seo-tactician-to-strategist/) | Ahrefs Blog | 140 | AI Search | 2026-06-08 09:00 UTC |
+| [How to decide which AI search prompts to track](https://www.semrush.com/blog/which-ai-search-prompts-to-track/) | Semrush Blog | 150 | AI Search | 2026-06-09 10:05 UTC |
+| [How to Level-up From SEO Tactician to Search Visibility Leader](https://ahrefs.com/blog/seo-tactician-to-strategist/) | Ahrefs Blog | 120 | AI Search | 2026-06-08 09:00 UTC |
 | [Google launches Search Profiles for publishers and creators](https://www.semrush.com/blog/google-launches-search-profiles/) | Semrush Blog | 110 | General | 2026-06-08 07:40 UTC |
 | [9 Vibe Coding Examples: AI Apps You Can Use Right Now to Grow Your Website](https://ahrefs.com/blog/vibe-coding-examples/) | Ahrefs Blog | 105 | AI Search | 2026-06-05 14:39 UTC |
 | [Automated SEO: What It Is and How It Works in 2026](https://ahrefs.com/blog/automated-seo/) | Ahrefs Blog | 105 | Links | 2026-06-05 10:22 UTC |
 | [What Is a Good Domain Rating? (With Real Data)](https://ahrefs.com/blog/what-is-a-good-domain-rating/) | Ahrefs Blog | 105 | Links | 2026-06-02 16:25 UTC |
-| [107 SEO Statistics for 2026](https://ahrefs.com/blog/seo-statistics/) | Ahrefs Blog | 105 | Content | 2026-06-02 09:54 UTC |
 | [Google Ads competitor analysis: A how-to guide (+ top tools)](https://www.semrush.com/blog/google-ads-competitor-analysis/) | Semrush Blog | 95 | AI Search | 2026-06-05 09:07 UTC |
 | [Google's AI search optimization guide: what to do next](https://www.semrush.com/blog/google-ai-search-optimization-guide/) | Semrush Blog | 95 | AI Search | 2026-06-04 17:14 UTC |
 | [9 ways to improve SEO rankings and traffic](https://www.semrush.com/blog/improve-seo/) | Semrush Blog | 95 | AI Search | 2026-06-04 10:21 UTC |
