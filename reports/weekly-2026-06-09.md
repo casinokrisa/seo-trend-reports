@@ -6,7 +6,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Anyone else using fast search APIs to speed up local rank tracking workflows?](https://www.reddit.com/r/localseo/comments/1u0yy36/anyone_else_using_fast_search_apis_to_speed_up/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-09 08:19 UTC |
+| [I built a tool that turns Google Maps searches into business lead spreadsheets](https://www.reddit.com/r/localseo/comments/1u0xq5d/i_built_a_tool_that_turns_google_maps_searches/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-09 07:06 UTC |
+| [Here's to steady progress and the journey ahead. 📈](https://www.reddit.com/r/localseo/comments/1u0v3xd/heres_to_steady_progress_and_the_journey_ahead/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-09 04:42 UTC |
+| [CTR still killing it?](https://www.reddit.com/r/localseo/comments/1u0ulif/ctr_still_killing_it/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-06-09 04:15 UTC |
+| [Why Phone Number is not getting updated on My business profile?](https://www.reddit.com/r/localseo/comments/1u0svg6/why_phone_number_is_not_getting_updated_on_my/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-09 02:51 UTC |
+| [How do I find a local independent freelancer SEO expert in Toronto](https://www.reddit.com/r/localseo/comments/1u0gp5e/how_do_i_find_a_local_independent_freelancer_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-08 18:40 UTC |
+| [issue removing Whatsapp number once added by Google](https://www.reddit.com/r/localseo/comments/1u0dwif/issue_removing_whatsapp_number_once_added_by/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-08 17:04 UTC |
+| [I analyzed why many local businesses don't rank on Google Maps—here are 5 common mistakes.](https://www.reddit.com/r/localseo/comments/1u0cjmw/i_analyzed_why_many_local_businesses_dont_rank_on/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-08 16:16 UTC |
+| [Local SEO + GBP Checklist for 2026 (Is this all or is there more to it?)](https://www.reddit.com/r/localseo/comments/1u0bvl9/local_seo_gbp_checklist_for_2026_is_this_all_or/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-08 15:52 UTC |
+| [GBP cleanup is becoming source cleanup, not just profile cleanup](https://www.reddit.com/r/localseo/comments/1u0bdmt/gbp_cleanup_is_becoming_source_cleanup_not_just/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-08 15:34 UTC |
+| [Let's pretend for a minute that the only thing you cared about was being cited in the LLMs](https://www.reddit.com/r/localseo/comments/1u0av62/lets_pretend_for_a_minute_that_the_only_thing_you/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-06-08 15:16 UTC |
+| [What Actually Worked for Me in Local SEO for Doctors (2–3 Month Results)](https://www.reddit.com/r/localseo/comments/1u0a7ks/what_actually_worked_for_me_in_local_seo_for/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-08 14:52 UTC |
 
 ## Weekly notable items (Sites)
 
@@ -30,7 +41,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Dialog: Does This Business Offer Rewards In Exchange For Reviews](https://www.seroundtable.com/google-rewards-exchange-reviews-41419.html) | Search Engine Roundtable | 155 | General | 2026-06-05 11:11 UTC |
 | [Daily Search Forum Recap: June 4, 2026](https://www.seroundtable.com/recap-06-04-2026-41448.html) | Search Engine Roundtable | 155 | AI Search | 2026-06-04 14:00 UTC |
 | [How to Level-up From SEO Tactician to Search Visibility Leader](https://ahrefs.com/blog/seo-tactician-to-strategist/) | Ahrefs Blog | 140 | AI Search | 2026-06-08 09:00 UTC |
-| [Google launches Search Profiles for publishers and creators](https://www.semrush.com/blog/google-launches-search-profiles/) | Semrush Blog | 130 | General | 2026-06-08 07:40 UTC |
+| [Google launches Search Profiles for publishers and creators](https://www.semrush.com/blog/google-launches-search-profiles/) | Semrush Blog | 110 | General | 2026-06-08 07:40 UTC |
 | [9 Vibe Coding Examples: AI Apps You Can Use Right Now to Grow Your Website](https://ahrefs.com/blog/vibe-coding-examples/) | Ahrefs Blog | 105 | AI Search | 2026-06-05 14:39 UTC |
 | [Automated SEO: What It Is and How It Works in 2026](https://ahrefs.com/blog/automated-seo/) | Ahrefs Blog | 105 | Links | 2026-06-05 10:22 UTC |
 | [What Is a Good Domain Rating? (With Real Data)](https://ahrefs.com/blog/what-is-a-good-domain-rating/) | Ahrefs Blog | 105 | Links | 2026-06-02 16:25 UTC |
