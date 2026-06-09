@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: June 9, 2026](https://www.seroundtable.com/recap-06-09-2026-41472.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-09 14:00 UTC |
+| [Daily Search Forum Recap: June 9, 2026](https://www.seroundtable.com/recap-06-09-2026-41472.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-09 14:00 UTC |
 | [Apple Siri AI &amp; New Apple Intelligence](https://www.seroundtable.com/siri-ai-41471.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-09 11:51 UTC |
 | [Google Ads Testing Top Pages Links](https://www.seroundtable.com/google-ads-top-pages-links-41467.html) | Search Engine Roundtable | 190 | Links | 2026-06-09 11:41 UTC |
 | [Google Shopping Results Tests Linking Directly To Merchant Site](https://www.seroundtable.com/google-shopping-results-link-merchant-41468.html) | Search Engine Roundtable | 190 | Links | 2026-06-09 11:31 UTC |
@@ -33,8 +33,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google: Google Chrome Won't Set AI Mode The Default Search Experience](https://www.seroundtable.com/google-chrome-ai-mode-default-41458.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-08 11:11 UTC |
 | [Why 62% of AI citations don’t lead to brand mentions [Study]](https://www.semrush.com/blog/the-ghost-citations-study/) | Semrush Blog | 130 | AI Search | 2026-06-09 13:00 UTC |
 | [How to decide which AI search prompts to track](https://www.semrush.com/blog/which-ai-search-prompts-to-track/) | Semrush Blog | 130 | AI Search | 2026-06-09 10:05 UTC |
-| [How to Level-up From SEO Tactician to Search Visibility Leader](https://ahrefs.com/blog/seo-tactician-to-strategist/) | Ahrefs Blog | 120 | AI Search | 2026-06-08 09:00 UTC |
-| [Google launches Search Profiles for publishers and creators](https://www.semrush.com/blog/google-launches-search-profiles/) | Semrush Blog | 110 | General | 2026-06-08 07:40 UTC |
 
 ## Notes for manual writing
 

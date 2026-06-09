@@ -12,8 +12,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: June 9, 2026](https://www.seroundtable.com/recap-06-09-2026-41472.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-09 14:00 UTC |
 | [Introducing Search Generative AI performance reports in Search Console](https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports) | Google Search Central Blog | 195 | GSC | 2026-06-03 00:00 UTC |
+| [Daily Search Forum Recap: June 9, 2026](https://www.seroundtable.com/recap-06-09-2026-41472.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-09 14:00 UTC |
 | [Apple Siri AI &amp; New Apple Intelligence](https://www.seroundtable.com/siri-ai-41471.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-09 11:51 UTC |
 | [Google Ads Testing Top Pages Links](https://www.seroundtable.com/google-ads-top-pages-links-41467.html) | Search Engine Roundtable | 190 | Links | 2026-06-09 11:41 UTC |
 | [Google Shopping Results Tests Linking Directly To Merchant Site](https://www.seroundtable.com/google-shopping-results-link-merchant-41468.html) | Search Engine Roundtable | 190 | Links | 2026-06-09 11:31 UTC |
