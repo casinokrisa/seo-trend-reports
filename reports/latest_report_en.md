@@ -28,9 +28,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Search Ranking Volatility This Weekend - Around June 6th](https://www.seroundtable.com/google-search-ranking-volatility-41466.html) | Search Engine Roundtable | 170 | General | 2026-06-08 11:55 UTC |
 | [New Google Document On Third-Party SEO Tools, Services &amp; Advice](https://www.seroundtable.com/google-third-party-seo-tools-services-advice-41461.html) | Search Engine Roundtable | 170 | General | 2026-06-08 11:51 UTC |
 | [Google Updates Its Hiring An SEO Doc Warning On SEO Tools &amp; AI Optimization](https://www.seroundtable.com/google-updates-hiring-seo-41460.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-08 11:41 UTC |
-| [Google Search Profiles Insights &amp; Analytics](https://www.seroundtable.com/google-search-profiles-insights-41462.html) | Search Engine Roundtable | 170 | Content | 2026-06-08 11:31 UTC |
-| [Bing Gives Searchers A Way To Disable AI Copilot Answers](https://www.seroundtable.com/bing-minus-ai-41459.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-08 11:21 UTC |
-| [Google: Google Chrome Won't Set AI Mode The Default Search Experience](https://www.seroundtable.com/google-chrome-ai-mode-default-41458.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-08 11:11 UTC |
 | [Why 62% of AI citations don’t lead to brand mentions [Study]](https://www.semrush.com/blog/the-ghost-citations-study/) | Semrush Blog | 130 | AI Search | 2026-06-09 13:00 UTC |
 | [How to decide which AI search prompts to track](https://www.semrush.com/blog/which-ai-search-prompts-to-track/) | Semrush Blog | 130 | AI Search | 2026-06-09 10:05 UTC |
 
