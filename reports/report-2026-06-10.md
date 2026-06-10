@@ -19,11 +19,11 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: June 10, 2026](https://www.seroundtable.com/recap-06-10-2026-41481.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-10 14:00 UTC |
-| [Report: Rejected Google Review Replies - The Hidden Rejections](https://www.seroundtable.com/rejected-google-review-replies-analysis-41457.html) | Search Engine Roundtable | 210 | General | 2026-06-10 11:51 UTC |
-| [Google Ads Tests Blue Dotted Underlines Sitelinks On Sponsored Listings](https://www.seroundtable.com/google-ads-blue-dotted-underlines-sitelinks-41474.html) | Search Engine Roundtable | 210 | Links | 2026-06-10 11:41 UTC |
-| [Report: Google Zero Click Searches To Open Web Fall To 27.6%](https://www.seroundtable.com/google-zero-click-searches-fall-41475.html) | Search Engine Roundtable | 210 | GSC | 2026-06-10 11:31 UTC |
-| [Schema.org Adds Usage Statistics For Schema Types](https://www.seroundtable.com/schema-usage-statistics-41464.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-10 11:21 UTC |
-| [Apple Updates Applebot Docs To Include Siri AI &amp; AI Features](https://www.seroundtable.com/applebot-ai-models-document-41473.html) | Search Engine Roundtable | 210 | Indexing | 2026-06-10 11:11 UTC |
+| [Report: Rejected Google Review Replies - The Hidden Rejections](https://www.seroundtable.com/rejected-google-review-replies-analysis-41457.html) | Search Engine Roundtable | 190 | General | 2026-06-10 11:51 UTC |
+| [Google Ads Tests Blue Dotted Underlines Sitelinks On Sponsored Listings](https://www.seroundtable.com/google-ads-blue-dotted-underlines-sitelinks-41474.html) | Search Engine Roundtable | 190 | Links | 2026-06-10 11:41 UTC |
+| [Report: Google Zero Click Searches To Open Web Fall To 27.6%](https://www.seroundtable.com/google-zero-click-searches-fall-41475.html) | Search Engine Roundtable | 190 | GSC | 2026-06-10 11:31 UTC |
+| [Schema.org Adds Usage Statistics For Schema Types](https://www.seroundtable.com/schema-usage-statistics-41464.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-10 11:21 UTC |
+| [Apple Updates Applebot Docs To Include Siri AI &amp; AI Features](https://www.seroundtable.com/applebot-ai-models-document-41473.html) | Search Engine Roundtable | 190 | Indexing | 2026-06-10 11:11 UTC |
 | [Daily Search Forum Recap: June 9, 2026](https://www.seroundtable.com/recap-06-09-2026-41472.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-09 14:00 UTC |
 | [Apple Siri AI &amp; New Apple Intelligence](https://www.seroundtable.com/siri-ai-41471.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-09 11:51 UTC |
 | [Google Ads Testing Top Pages Links](https://www.seroundtable.com/google-ads-top-pages-links-41467.html) | Search Engine Roundtable | 170 | Links | 2026-06-09 11:41 UTC |
