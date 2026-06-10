@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [6 months into e-commerce SEO for niche cultural/ethnic products, schema is solid but category visibility is still dead. What am I missing?](https://www.reddit.com/r/localseo/comments/1u1tu8b/6_months_into_ecommerce_seo_for_niche/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Technical SEO | 2026-06-10 06:11 UTC |
-| [What is the best way to get into ChatGPT and AI overview for local businesses?](https://www.reddit.com/r/localseo/comments/1u1tgec/what_is_the_best_way_to_get_into_chatgpt_and_ai/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-06-10 05:50 UTC |
-| [Are your clients showing up when people ask ChatGPT for local recommendations? Most aren't.](https://www.reddit.com/r/localseo/comments/1u1tau3/are_your_clients_showing_up_when_people_ask/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-06-10 05:42 UTC |
-| [Has Google’s Recent Update Changed Your Local SEO / GBP Strategy?](https://www.reddit.com/r/localseo/comments/1u1t4sy/has_googles_recent_update_changed_your_local_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-10 05:32 UTC |
-| [Is Traditional SEO Enough When AI Search Engines Are Giving Direct Answers?](https://www.reddit.com/r/localseo/comments/1u1sz3i/is_traditional_seo_enough_when_ai_search_engines/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-06-10 05:23 UTC |
-| [What KPIs are you reporting on? SEO &gt; AEO/GEO](https://www.reddit.com/r/localseo/comments/1u1rbn7/what_kpis_are_you_reporting_on_seo_aeogeo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-06-10 03:58 UTC |
-| [How Do I Get More Google My Business Reviews For My Business?](https://www.reddit.com/r/localseo/comments/1u1pwzs/how_do_i_get_more_google_my_business_reviews_for/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-10 02:50 UTC |
-| [GBP Question: Two Businesses, One Address Allowed or Not?](https://www.reddit.com/r/localseo/comments/1u1nv1c/gbp_question_two_businesses_one_address_allowed/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-10 01:15 UTC |
-| [Site Hierarchy Best Practices for Location-Specific Pages?](https://www.reddit.com/r/localseo/comments/1u1hwcq/site_hierarchy_best_practices_for/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-09 21:07 UTC |
-| [Reddit to explain how it influences AI Answers &amp; Local SEO](https://www.reddit.com/r/localseo/comments/1u1gtvg/reddit_to_explain_how_it_influences_ai_answers/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-09 20:28 UTC |
-| [GSC + GA4 Data Question](https://www.reddit.com/r/localseo/comments/1u1d81f/gsc_ga4_data_question/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-06-09 18:19 UTC |
-| [URL/Slug Best Practices](https://www.reddit.com/r/localseo/comments/1u1as6x/urlslug_best_practices/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-09 16:55 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
