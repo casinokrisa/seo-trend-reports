@@ -12,13 +12,14 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Daily Search Forum Recap: June 10, 2026](https://www.seroundtable.com/recap-06-10-2026-41481.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-10 14:00 UTC |
 | [Report: Rejected Google Review Replies - The Hidden Rejections](https://www.seroundtable.com/rejected-google-review-replies-analysis-41457.html) | Search Engine Roundtable | 210 | General | 2026-06-10 11:51 UTC |
 | [Google Ads Tests Blue Dotted Underlines Sitelinks On Sponsored Listings](https://www.seroundtable.com/google-ads-blue-dotted-underlines-sitelinks-41474.html) | Search Engine Roundtable | 210 | Links | 2026-06-10 11:41 UTC |
 | [Report: Google Zero Click Searches To Open Web Fall To 27.6%](https://www.seroundtable.com/google-zero-click-searches-fall-41475.html) | Search Engine Roundtable | 210 | GSC | 2026-06-10 11:31 UTC |
 | [Schema.org Adds Usage Statistics For Schema Types](https://www.seroundtable.com/schema-usage-statistics-41464.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-10 11:21 UTC |
 | [Apple Updates Applebot Docs To Include Siri AI &amp; AI Features](https://www.seroundtable.com/applebot-ai-models-document-41473.html) | Search Engine Roundtable | 210 | Indexing | 2026-06-10 11:11 UTC |
-| [Daily Search Forum Recap: June 9, 2026](https://www.seroundtable.com/recap-06-09-2026-41472.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-09 14:00 UTC |
 | [Guidance on third-party SEO tools, services, and advice](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Content | 2026-06-05 00:00 UTC |
+| [Daily Search Forum Recap: June 9, 2026](https://www.seroundtable.com/recap-06-09-2026-41472.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-09 14:00 UTC |
 | [Apple Siri AI &amp; New Apple Intelligence](https://www.seroundtable.com/siri-ai-41471.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-09 11:51 UTC |
 | [Google Ads Testing Top Pages Links](https://www.seroundtable.com/google-ads-top-pages-links-41467.html) | Search Engine Roundtable | 170 | Links | 2026-06-09 11:41 UTC |
 | [Google Shopping Results Tests Linking Directly To Merchant Site](https://www.seroundtable.com/google-shopping-results-link-merchant-41468.html) | Search Engine Roundtable | 170 | Links | 2026-06-09 11:31 UTC |
@@ -27,10 +28,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Daily Search Forum Recap: June 8, 2026](https://www.seroundtable.com/recap-06-08-2026-41465.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-08 14:00 UTC |
 | [Google Search Ranking Volatility This Weekend - Around June 6th](https://www.seroundtable.com/google-search-ranking-volatility-41466.html) | Search Engine Roundtable | 170 | General | 2026-06-08 11:55 UTC |
 | [New Google Document On Third-Party SEO Tools, Services &amp; Advice](https://www.seroundtable.com/google-third-party-seo-tools-services-advice-41461.html) | Search Engine Roundtable | 170 | General | 2026-06-08 11:51 UTC |
-| [Google Updates Its Hiring An SEO Doc Warning On SEO Tools &amp; AI Optimization](https://www.seroundtable.com/google-updates-hiring-seo-41460.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-08 11:41 UTC |
-| [How rtCamp closed the AI perception gap costing them enterprise deals](https://www.semrush.com/blog/how-rtcamp-closed-the-ai-perception-gap/) | Semrush Blog | 150 | AI Search | 2026-06-10 07:11 UTC |
-| [Why 62% of AI citations don’t lead to brand mentions [Study]](https://www.semrush.com/blog/the-ghost-citations-study/) | Semrush Blog | 130 | AI Search | 2026-06-09 13:00 UTC |
+| [6 Ways to Automate International Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-international-marketing/) | Ahrefs Blog | 160 | General | 2026-06-10 16:34 UTC |
+| [12 SEO writing tips to earn visibility [2026]](https://www.semrush.com/blog/seo-writing/) | Semrush Blog | 150 | AI Search | 2026-06-10 13:59 UTC |
+| [How rtCamp closed the AI perception gap costing them enterprise deals](https://www.semrush.com/blog/how-rtcamp-closed-the-ai-perception-gap/) | Semrush Blog | 130 | AI Search | 2026-06-10 07:11 UTC |
 | [How to Level-up From SEO Tactician to Search Visibility Leader](https://ahrefs.com/blog/seo-tactician-to-strategist/) | Ahrefs Blog | 120 | AI Search | 2026-06-08 09:00 UTC |
+| [Why 62% of AI citations don’t lead to brand mentions [Study]](https://www.semrush.com/blog/the-ghost-citations-study/) | Semrush Blog | 110 | AI Search | 2026-06-09 13:00 UTC |
 | [How to decide which AI search prompts to track](https://www.semrush.com/blog/which-ai-search-prompts-to-track/) | Semrush Blog | 110 | AI Search | 2026-06-09 10:05 UTC |
 | [Google launches Search Profiles for publishers and creators](https://www.semrush.com/blog/google-launches-search-profiles/) | Semrush Blog | 110 | General | 2026-06-08 07:40 UTC |
 | [9 Vibe Coding Examples: AI Apps You Can Use Right Now to Grow Your Website](https://ahrefs.com/blog/vibe-coding-examples/) | Ahrefs Blog | 105 | AI Search | 2026-06-05 14:39 UTC |
@@ -39,10 +41,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google's AI search optimization guide: what to do next](https://www.semrush.com/blog/google-ai-search-optimization-guide/) | Semrush Blog | 95 | AI Search | 2026-06-04 17:14 UTC |
 | [9 ways to improve SEO rankings and traffic](https://www.semrush.com/blog/improve-seo/) | Semrush Blog | 95 | AI Search | 2026-06-04 10:21 UTC |
 | [Keyword strategy in SEO: What it is &amp; how to create one](https://www.semrush.com/blog/keyword-strategy/) | Semrush Blog | 95 | Migration | 2026-06-04 10:07 UTC |
-| [Google adds a dedicated Agentic Browsing category to Lighthouse](https://www.semrush.com/blog/google-adds-agentic-browsing-category-to-lighthouse/) | Semrush Blog | 95 | AI Search | 2026-06-03 15:01 UTC |
-| [Google Search Console adds AI performance reports and blocking controls](https://www.semrush.com/blog/google-adds-ai-performance-reports/) | Semrush Blog | 95 | GSC | 2026-06-03 14:56 UTC |
-| [Social media SEO: How to show in search, social, and AI](https://www.semrush.com/blog/social-media-seo/) | Semrush Blog | 95 | AI Search | 2026-06-03 13:59 UTC |
-| [Only 22% of marketers have fully integrated AI search and SEO. They’re pulling ahead. [Study]](https://www.semrush.com/blog/the-operational-gap-ai-seo-study/) | Semrush Blog | 95 | AI Search | 2026-06-03 13:00 UTC |
 
 ## Notes
 
