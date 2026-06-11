@@ -24,7 +24,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Report: Google Zero Click Searches To Open Web Fall To 27.6%](https://www.seroundtable.com/google-zero-click-searches-fall-41475.html) | Search Engine Roundtable | 190 | GSC | 2026-06-10 11:31 UTC |
 | [Schema.org Adds Usage Statistics For Schema Types](https://www.seroundtable.com/schema-usage-statistics-41464.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-10 11:21 UTC |
 | [Apple Updates Applebot Docs To Include Siri AI &amp; AI Features](https://www.seroundtable.com/applebot-ai-models-document-41473.html) | Search Engine Roundtable | 190 | Indexing | 2026-06-10 11:11 UTC |
-| [Daily Search Forum Recap: June 9, 2026](https://www.seroundtable.com/recap-06-09-2026-41472.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-09 14:00 UTC |
 | [6 Ways to Automate International Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-international-marketing/) | Ahrefs Blog | 140 | General | 2026-06-10 16:34 UTC |
 | [12 SEO writing tips to earn visibility [2026]](https://www.semrush.com/blog/seo-writing/) | Semrush Blog | 130 | AI Search | 2026-06-10 13:59 UTC |
 | [How rtCamp closed the AI perception gap costing them enterprise deals](https://www.semrush.com/blog/how-rtcamp-closed-the-ai-perception-gap/) | Semrush Blog | 130 | AI Search | 2026-06-10 07:11 UTC |
