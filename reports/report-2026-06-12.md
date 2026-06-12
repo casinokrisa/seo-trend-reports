@@ -26,9 +26,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [ChatGPT Ads Gains Upload Product Feeds For Ad Creation](https://www.seroundtable.com/chatgpt-ads-product-feeds-41488.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-11 11:21 UTC |
 | [Google Ads Sitelinks With Images](https://www.seroundtable.com/google-ads-images-sitelinks-41491.html) | Search Engine Roundtable | 190 | Links | 2026-06-11 11:11 UTC |
 | [Google Search Was Unaffected By Gemini Outage](https://www.seroundtable.com/google-search-gemini-outage-41492.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-11 09:52 UTC |
-| [Daily Search Forum Recap: June 10, 2026](https://www.seroundtable.com/recap-06-10-2026-41481.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-10 14:00 UTC |
-| [6 Ways to Automate International Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-international-marketing/) | Ahrefs Blog | 120 | General | 2026-06-10 16:34 UTC |
-| [12 SEO writing tips to earn visibility [2026]](https://www.semrush.com/blog/seo-writing/) | Semrush Blog | 110 | AI Search | 2026-06-10 13:59 UTC |
 
 ## Notes for manual writing
 
