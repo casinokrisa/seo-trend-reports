@@ -27,8 +27,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Tests Dotted Underlined &amp; Shaded URLs In Search Snippet](https://www.seroundtable.com/google-dotted-underlined-urls-41486.html) | Search Engine Roundtable | 170 | Links | 2026-06-11 11:22 UTC |
 | [ChatGPT Ads Gains Upload Product Feeds For Ad Creation](https://www.seroundtable.com/chatgpt-ads-product-feeds-41488.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-11 11:21 UTC |
 | [Google Ads Sitelinks With Images](https://www.seroundtable.com/google-ads-images-sitelinks-41491.html) | Search Engine Roundtable | 170 | Links | 2026-06-11 11:11 UTC |
-| [Bot traffic now exceeds traffic from human users](https://www.semrush.com/blog/ai-agent-bot-traffic/) | Semrush Blog | 150 | AI Search | 2026-06-13 08:27 UTC |
-| [6 Ways to Automate International Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-international-marketing/) | Ahrefs Blog | 120 | General | 2026-06-10 16:34 UTC |
+| [Bot traffic now exceeds traffic from human users](https://www.semrush.com/blog/ai-agent-bot-traffic/) | Semrush Blog | 130 | AI Search | 2026-06-13 08:27 UTC |
+| [6 Ways to Automate International Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-international-marketing/) | Ahrefs Blog | 105 | General | 2026-06-10 16:34 UTC |
 | [How to Level-up From SEO Tactician to Search Visibility Leader](https://ahrefs.com/blog/seo-tactician-to-strategist/) | Ahrefs Blog | 105 | AI Search | 2026-06-08 09:00 UTC |
 | [12 SEO writing tips to earn visibility [2026]](https://www.semrush.com/blog/seo-writing/) | Semrush Blog | 95 | AI Search | 2026-06-10 13:59 UTC |
 | [How rtCamp closed the AI perception gap costing them enterprise deals](https://www.semrush.com/blog/how-rtcamp-closed-the-ai-perception-gap/) | Semrush Blog | 95 | AI Search | 2026-06-10 07:11 UTC |
