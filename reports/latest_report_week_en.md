@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [GBP: Adding Service Descriptions](https://www.reddit.com/r/localseo/comments/1u4gxv3/gbp_adding_service_descriptions/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-13 04:13 UTC |
-| [Anyone else noticing Google Business Profile photos getting stuck in &quot;Pending&quot;?](https://www.reddit.com/r/localseo/comments/1u4g3z0/anyone_else_noticing_google_business_profile/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-13 03:30 UTC |
-| [How do I get my local business to show up when people ask Google AI or ChatGPT &quot;Who's the best auto glass company near me?&quot;](https://www.reddit.com/r/localseo/comments/1u4dp0m/how_do_i_get_my_local_business_to_show_up_when/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-06-13 01:31 UTC |
-| [GEO VS SEO: What Businesses Should Know in 2026](https://www.reddit.com/r/localseo/comments/1u4djvn/geo_vs_seo_what_businesses_should_know_in_2026/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-13 01:24 UTC |
-| [Wanted to get some opinions on a situation I am dealing with.](https://www.reddit.com/r/localseo/comments/1u4937z/wanted_to_get_some_opinions_on_a_situation_i_am/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-12 22:03 UTC |
-| [12 months building a travel website. Traffic grew, then dropped. I'm honestly lost.](https://www.reddit.com/r/localseo/comments/1u44cxu/12_months_building_a_travel_website_traffic_grew/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-12 18:59 UTC |
-| [How to stop spam calls to Google profile number?](https://www.reddit.com/r/localseo/comments/1u42ue2/how_to_stop_spam_calls_to_google_profile_number/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-12 18:03 UTC |
-| [Don’t Focus Only on Google Business Profile](https://www.reddit.com/r/localseo/comments/1u3y5um/dont_focus_only_on_google_business_profile/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-12 15:16 UTC |
-| [one thing i’ve noticed with AI/local queries: the answer layer seems to want highly extractable business signals more than “good content”](https://www.reddit.com/r/localseo/comments/1u3vhff/one_thing_ive_noticed_with_ailocal_queries_the/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-06-12 13:35 UTC |
-| [Self-Managing SEO for my biz in the DC, MD, VA Area](https://www.reddit.com/r/localseo/comments/1u3uhro/selfmanaging_seo_for_my_biz_in_the_dc_md_va_area/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-12 12:55 UTC |
-| [What do you think AI trusts most when deciding what to cite?](https://www.reddit.com/r/localseo/comments/1u3kz8i/what_do_you_think_ai_trusts_most_when_deciding/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-06-12 04:18 UTC |
-| [What would you do if you were in my shoes?](https://www.reddit.com/r/localseo/comments/1u3dxxm/what_would_you_do_if_you_were_in_my_shoes/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-11 22:45 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
