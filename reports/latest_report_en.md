@@ -20,12 +20,13 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: June 12, 2026](https://www.seroundtable.com/recap-06-12-2026-41498.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-12 14:00 UTC |
 | [Google Search Console Link Report Finally Fixed &amp; Updated](https://www.seroundtable.com/google-search-console-link-report-fixed-41499.html) | Search Engine Roundtable | 190 | Links | 2026-06-12 12:16 UTC |
-| [Search News Buzz Video Recap: Google Post-Core Update Volatility, Zero Clicks Rising, Appleâs Siri AI &amp; Google SEO Docs](https://www.seroundtable.com/video-06-12-2026-41487.html) | Search Engine Roundtable | 190 | GSC | 2026-06-12 12:01 UTC |
-| [Home Listings Come To Google Local Services Ads](https://www.seroundtable.com/google-local-services-ads-home-listings-41490.html) | Search Engine Roundtable | 190 | General | 2026-06-12 11:51 UTC |
-| [Google Ads Extends Dynamic Search Ads (DSA) To AI Max Timeline](https://www.seroundtable.com/google-ads-dsa-ai-max-extended-41497.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-12 11:41 UTC |
-| [New Google Search Console Tool/Report: Platform Property Tooltips](https://www.seroundtable.com/google-search-console-platform-property-tooltips-41495.html) | Search Engine Roundtable | 190 | GSC | 2026-06-12 11:31 UTC |
-| [Google Search Ranking Volatility This Week: June 8-12](https://www.seroundtable.com/google-search-ranking-volatility-mid-june-41496.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-12 11:21 UTC |
-| [Google Search Personalization Settings Are Changing](https://www.seroundtable.com/google-search-personalization-settings-41482.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-12 11:11 UTC |
+| [Search News Buzz Video Recap: Google Post-Core Update Volatility, Zero Clicks Rising, Appleâs Siri AI &amp; Google SEO Docs](https://www.seroundtable.com/video-06-12-2026-41487.html) | Search Engine Roundtable | 170 | GSC | 2026-06-12 12:01 UTC |
+| [Home Listings Come To Google Local Services Ads](https://www.seroundtable.com/google-local-services-ads-home-listings-41490.html) | Search Engine Roundtable | 170 | General | 2026-06-12 11:51 UTC |
+| [Google Ads Extends Dynamic Search Ads (DSA) To AI Max Timeline](https://www.seroundtable.com/google-ads-dsa-ai-max-extended-41497.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-12 11:41 UTC |
+| [New Google Search Console Tool/Report: Platform Property Tooltips](https://www.seroundtable.com/google-search-console-platform-property-tooltips-41495.html) | Search Engine Roundtable | 170 | GSC | 2026-06-12 11:31 UTC |
+| [Google Search Ranking Volatility This Week: June 8-12](https://www.seroundtable.com/google-search-ranking-volatility-mid-june-41496.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-12 11:21 UTC |
+| [Google Search Personalization Settings Are Changing](https://www.seroundtable.com/google-search-personalization-settings-41482.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-12 11:11 UTC |
+| [Bot traffic now exceeds traffic from human users](https://www.semrush.com/blog/ai-agent-bot-traffic/) | Semrush Blog | 150 | AI Search | 2026-06-13 08:27 UTC |
 
 ## Notes for manual writing
 
