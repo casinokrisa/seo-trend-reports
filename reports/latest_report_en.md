@@ -26,7 +26,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [New Google Search Console Tool/Report: Platform Property Tooltips](https://www.seroundtable.com/google-search-console-platform-property-tooltips-41495.html) | Search Engine Roundtable | 190 | GSC | 2026-06-12 11:31 UTC |
 | [Google Search Ranking Volatility This Week: June 8-12](https://www.seroundtable.com/google-search-ranking-volatility-mid-june-41496.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-12 11:21 UTC |
 | [Google Search Personalization Settings Are Changing](https://www.seroundtable.com/google-search-personalization-settings-41482.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-12 11:11 UTC |
-| [Daily Search Forum Recap: June 11, 2026](https://www.seroundtable.com/recap-06-11-2026-41493.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-11 14:00 UTC |
 
 ## Notes for manual writing
 
