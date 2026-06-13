@@ -18,8 +18,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: June 12, 2026](https://www.seroundtable.com/recap-06-12-2026-41498.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-12 14:00 UTC |
-| [Google Search Console Link Report Finally Fixed &amp; Updated](https://www.seroundtable.com/google-search-console-link-report-fixed-41499.html) | Search Engine Roundtable | 190 | Links | 2026-06-12 12:16 UTC |
+| [Daily Search Forum Recap: June 12, 2026](https://www.seroundtable.com/recap-06-12-2026-41498.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-12 14:00 UTC |
+| [Google Search Console Link Report Finally Fixed &amp; Updated](https://www.seroundtable.com/google-search-console-link-report-fixed-41499.html) | Search Engine Roundtable | 170 | Links | 2026-06-12 12:16 UTC |
 | [Search News Buzz Video Recap: Google Post-Core Update Volatility, Zero Clicks Rising, Appleâs Siri AI &amp; Google SEO Docs](https://www.seroundtable.com/video-06-12-2026-41487.html) | Search Engine Roundtable | 170 | GSC | 2026-06-12 12:01 UTC |
 | [Home Listings Come To Google Local Services Ads](https://www.seroundtable.com/google-local-services-ads-home-listings-41490.html) | Search Engine Roundtable | 170 | General | 2026-06-12 11:51 UTC |
 | [Google Ads Extends Dynamic Search Ads (DSA) To AI Max Timeline](https://www.seroundtable.com/google-ads-dsa-ai-max-extended-41497.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-12 11:41 UTC |
