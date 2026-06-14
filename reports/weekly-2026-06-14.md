@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [New animations in maps](https://www.reddit.com/r/localseo/comments/1u584ge/new_animations_in_maps/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-14 01:44 UTC |
-| [Big Ranking Changes in Google Maps? Anyone Else Seeing This?](https://www.reddit.com/r/localseo/comments/1u56pc2/big_ranking_changes_in_google_maps_anyone_else/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-14 00:34 UTC |
-| [Can someone explain what this type of backlink is?](https://www.reddit.com/r/localseo/comments/1u51spn/can_someone_explain_what_this_type_of_backlink_is/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-06-13 20:49 UTC |
-| [best seo software that i can walk away from?](https://www.reddit.com/r/localseo/comments/1u501b0/best_seo_software_that_i_can_walk_away_from/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-13 19:36 UTC |
-| [i started checking AI engines during local audits and the results surprised me](https://www.reddit.com/r/localseo/comments/1u4zjz2/i_started_checking_ai_engines_during_local_audits/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-06-13 19:16 UTC |
-| [[Case Study] How a simple Google Business Profile optimization drove a 42% increase in inbound phone calls for a local dental practice in 45 days](https://www.reddit.com/r/localseo/comments/1u4yx38/case_study_how_a_simple_google_business_profile/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-13 18:50 UTC |
-| [SEO Local career](https://www.reddit.com/r/localseo/comments/1u4ygv6/seo_local_career/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-13 18:32 UTC |
-| [Interesting Podcast Discussion: How AI Actually Finds and Recommends Businesses](https://www.reddit.com/r/localseo/comments/1u4wdig/interesting_podcast_discussion_how_ai_actually/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-06-13 17:10 UTC |
-| [The Local SEO Audit Checklist I Actually Use](https://www.reddit.com/r/localseo/comments/1u4ryx3/the_local_seo_audit_checklist_i_actually_use/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-13 14:10 UTC |
-| [What would you do?](https://www.reddit.com/r/localseo/comments/1u4r4vd/what_would_you_do/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-13 13:34 UTC |
-| [Google My Business best practices](https://www.reddit.com/r/localseo/comments/1u4ln08/google_my_business_best_practices/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-13 08:38 UTC |
-| [Can you help me audit landing page and GBP?](https://www.reddit.com/r/localseo/comments/1u4lcgi/can_you_help_me_audit_landing_page_and_gbp/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-13 08:20 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
