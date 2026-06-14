@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Bot traffic now exceeds traffic from human users](https://www.semrush.com/blog/ai-agent-bot-traffic/) | Semrush Blog | 110 | AI Search | 2026-06-13 08:27 UTC |
+| _No site items in window_ |  |  |  |  |
 
 ## Notes for manual writing
 
