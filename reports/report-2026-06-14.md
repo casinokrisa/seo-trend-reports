@@ -18,7 +18,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: June 12, 2026](https://www.seroundtable.com/recap-06-12-2026-41498.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-12 14:00 UTC |
 | [Bot traffic now exceeds traffic from human users](https://www.semrush.com/blog/ai-agent-bot-traffic/) | Semrush Blog | 130 | AI Search | 2026-06-13 08:27 UTC |
 
 ## Notes for manual writing
