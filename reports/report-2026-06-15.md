@@ -26,10 +26,10 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Ads To Limit Ad Impressions From Unqualified Advertisers](https://www.seroundtable.com/google-ads-unqualified-advertisers-41500.html) | Search Engine Roundtable | 190 | GSC | 2026-06-15 11:31 UTC |
 | [Google Business Profile Owner/Manager Access Invites Not Working For Some](https://www.seroundtable.com/google-business-profile-invites-broken-41504.html) | Search Engine Roundtable | 190 | Local SEO | 2026-06-15 11:21 UTC |
 | [Google Shopping Results With Good Price Label](https://www.seroundtable.com/google-shopping-good-price-41503.html) | Search Engine Roundtable | 190 | General | 2026-06-15 11:11 UTC |
-| [What is AI sentiment analysis? A marketer’s guide](https://www.semrush.com/blog/ai-sentiment-analysis-marketers-guide/) | Semrush Blog | 150 | AI Search | 2026-06-15 16:21 UTC |
 | [How I Use My AI Marketing Assistant After 200+ Hours](https://ahrefs.com/blog/ai-marketing-assistant/) | Ahrefs Blog | 140 | AI Search | 2026-06-15 13:28 UTC |
 | [Agentic Marketing: What’s the Big Deal and How to Get Started](https://ahrefs.com/blog/agentic-marketing/) | Ahrefs Blog | 140 | AI Search | 2026-06-15 13:16 UTC |
 | [We Analyzed 137K Sites: 97% of llms.txt Files Never Get Read](https://ahrefs.com/blog/llmstxt-study/) | Ahrefs Blog | 140 | AI Search | 2026-06-15 10:27 UTC |
+| [What is AI sentiment analysis? A marketer’s guide](https://www.semrush.com/blog/ai-sentiment-analysis-marketers-guide/) | Semrush Blog | 130 | AI Search | 2026-06-15 16:21 UTC |
 | [Google Analytics for beginners: the complete GA4 guide](https://www.semrush.com/blog/google-analytics/) | Semrush Blog | 130 | Links | 2026-06-15 08:16 UTC |
 
 ## Notes for manual writing

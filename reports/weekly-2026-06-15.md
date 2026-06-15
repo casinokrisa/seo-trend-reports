@@ -28,10 +28,10 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [New Google Search Console Tool/Report: Platform Property Tooltips](https://www.seroundtable.com/google-search-console-platform-property-tooltips-41495.html) | Search Engine Roundtable | 155 | GSC | 2026-06-12 11:31 UTC |
 | [Google Search Ranking Volatility This Week: June 8-12](https://www.seroundtable.com/google-search-ranking-volatility-mid-june-41496.html) | Search Engine Roundtable | 155 | AI Search | 2026-06-12 11:21 UTC |
 | [Google Search Personalization Settings Are Changing](https://www.seroundtable.com/google-search-personalization-settings-41482.html) | Search Engine Roundtable | 155 | AI Search | 2026-06-12 11:11 UTC |
-| [What is AI sentiment analysis? A marketer’s guide](https://www.semrush.com/blog/ai-sentiment-analysis-marketers-guide/) | Semrush Blog | 150 | AI Search | 2026-06-15 16:21 UTC |
 | [How I Use My AI Marketing Assistant After 200+ Hours](https://ahrefs.com/blog/ai-marketing-assistant/) | Ahrefs Blog | 140 | AI Search | 2026-06-15 13:28 UTC |
 | [Agentic Marketing: What’s the Big Deal and How to Get Started](https://ahrefs.com/blog/agentic-marketing/) | Ahrefs Blog | 140 | AI Search | 2026-06-15 13:16 UTC |
 | [We Analyzed 137K Sites: 97% of llms.txt Files Never Get Read](https://ahrefs.com/blog/llmstxt-study/) | Ahrefs Blog | 140 | AI Search | 2026-06-15 10:27 UTC |
+| [What is AI sentiment analysis? A marketer’s guide](https://www.semrush.com/blog/ai-sentiment-analysis-marketers-guide/) | Semrush Blog | 130 | AI Search | 2026-06-15 16:21 UTC |
 | [Google Analytics for beginners: the complete GA4 guide](https://www.semrush.com/blog/google-analytics/) | Semrush Blog | 130 | Links | 2026-06-15 08:16 UTC |
 | [Bot traffic now exceeds traffic from human users](https://www.semrush.com/blog/ai-agent-bot-traffic/) | Semrush Blog | 110 | AI Search | 2026-06-13 08:27 UTC |
 | [6 Ways to Automate International Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-international-marketing/) | Ahrefs Blog | 105 | General | 2026-06-10 16:34 UTC |
