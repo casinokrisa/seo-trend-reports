@@ -6,7 +6,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [What is the best software that tracks &amp; improves brand appearance in ChatGPT?](https://www.reddit.com/r/localseo/comments/1u850o3/what_is_the_best_software_that_tracks_improves/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-06-17 09:08 UTC |
+| [Any ideas when @GoogleBusinessProfile is rolling out globally in gemini?](https://www.reddit.com/r/localseo/comments/1u84tr9/any_ideas_when_googlebusinessprofile_is_rolling/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-06-17 08:57 UTC |
+| [Can we use keywords which doesn't trigger map pack in Google for local SEO purposes?](https://www.reddit.com/r/localseo/comments/1u82oca/can_we_use_keywords_which_doesnt_trigger_map_pack/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-17 06:48 UTC |
+| [How can I do a SERP check in a quick, simple, but effective way?](https://www.reddit.com/r/localseo/comments/1u82503/how_can_i_do_a_serp_check_in_a_quick_simple_but/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-17 06:17 UTC |
+| [Best way to see GBP keyword rankings](https://www.reddit.com/r/localseo/comments/1u7sbaj/best_way_to_see_gbp_keyword_rankings/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-16 22:29 UTC |
+| [Do citation-building services still do anything meaningful for local rankings, or is that money better spent elsewhere?](https://www.reddit.com/r/localseo/comments/1u7pcss/do_citationbuilding_services_still_do_anything/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-06-16 20:34 UTC |
+| [Have SEO fundamentals changed, or has competition simply become better?](https://www.reddit.com/r/localseo/comments/1u7ol6y/have_seo_fundamentals_changed_or_has_competition/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-16 20:06 UTC |
+| [I want to sell collision leads](https://www.reddit.com/r/localseo/comments/1u7nxjm/i_want_to_sell_collision_leads/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-16 19:42 UTC |
+| [Should I start medspa local SEO business?](https://www.reddit.com/r/localseo/comments/1u7h5qg/should_i_start_medspa_local_seo_business/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-16 15:42 UTC |
+| [How do I check the authority of a website without SEO tools?](https://www.reddit.com/r/localseo/comments/1u7fd1b/how_do_i_check_the_authority_of_a_website_without/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-16 14:37 UTC |
+| [BrightLocal LeadGen widget](https://www.reddit.com/r/localseo/comments/1u7dftj/brightlocal_leadgen_widget/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-16 13:23 UTC |
+| [Has Google got incorrectly stricter on review tools?](https://www.reddit.com/r/localseo/comments/1u7cfyw/has_google_got_incorrectly_stricter_on_review/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-16 12:42 UTC |
 
 ## Weekly notable items (Sites)
 
@@ -39,7 +50,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [6 Ways to Automate International Marketing with Agent A](https://ahrefs.com/blog/agent-a-for-international-marketing/) | Ahrefs Blog | 105 | General | 2026-06-10 16:34 UTC |
 | [Bot traffic now exceeds traffic from human users](https://www.semrush.com/blog/ai-agent-bot-traffic/) | Semrush Blog | 95 | AI Search | 2026-06-13 08:27 UTC |
 | [12 SEO writing tips to earn visibility [2026]](https://www.semrush.com/blog/seo-writing/) | Semrush Blog | 95 | AI Search | 2026-06-10 13:59 UTC |
-| [How rtCamp closed the AI perception gap costing them enterprise deals](https://www.semrush.com/blog/how-rtcamp-closed-the-ai-perception-gap/) | Semrush Blog | 95 | AI Search | 2026-06-10 07:11 UTC |
 
 ## Notes
 
