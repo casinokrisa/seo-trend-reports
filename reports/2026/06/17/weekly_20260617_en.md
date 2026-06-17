@@ -12,12 +12,12 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: June 17, 2026](https://www.seroundtable.com/recap-06-17-2026-41524.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-17 14:00 UTC |
-| [Bing Webmaster Tools AI Reporting Adds Intents, Topics, Citation Share &amp; Compare](https://www.seroundtable.com/bing-intents-topics-citation-share-compare-ai-reporting-41513.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-17 11:51 UTC |
-| [Google Search Ranking Volatility Continues Into This Week](https://www.seroundtable.com/google-search-ranking-volatility-41523.html) | Search Engine Roundtable | 210 | General | 2026-06-17 11:41 UTC |
-| [CMA: Google Must Share How Search Results Are Ranked &amp; Data Portability](https://www.seroundtable.com/cma-google-search-results-ranked-data-portability-41525.html) | Search Engine Roundtable | 210 | General | 2026-06-17 11:31 UTC |
-| [Google Ads Updates Its Campaign Status Interface](https://www.seroundtable.com/google-ads-updates-campaign-status-interface-41507.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-17 11:21 UTC |
 | [Clarifying guidance on llms.txt files](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | AI Search | 2026-06-15 00:00 UTC |
+| [Daily Search Forum Recap: June 17, 2026](https://www.seroundtable.com/recap-06-17-2026-41524.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-17 14:00 UTC |
+| [Bing Webmaster Tools AI Reporting Adds Intents, Topics, Citation Share &amp; Compare](https://www.seroundtable.com/bing-intents-topics-citation-share-compare-ai-reporting-41513.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-17 11:51 UTC |
+| [Google Search Ranking Volatility Continues Into This Week](https://www.seroundtable.com/google-search-ranking-volatility-41523.html) | Search Engine Roundtable | 190 | General | 2026-06-17 11:41 UTC |
+| [CMA: Google Must Share How Search Results Are Ranked &amp; Data Portability](https://www.seroundtable.com/cma-google-search-results-ranked-data-portability-41525.html) | Search Engine Roundtable | 190 | General | 2026-06-17 11:31 UTC |
+| [Google Ads Updates Its Campaign Status Interface](https://www.seroundtable.com/google-ads-updates-campaign-status-interface-41507.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-17 11:21 UTC |
 | [Google Ads New Security Tasks Summary Tab](https://www.seroundtable.com/google-ads-security-tasks-summary-tab-41510.html) | Search Engine Roundtable | 190 | General | 2026-06-17 11:11 UTC |
 | [Daily Search Forum Recap: June 16, 2026](https://www.seroundtable.com/recap-06-16-2026-41514.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-16 14:00 UTC |
 | [Google: HTML The Standard For SEO, Not Markdown Files](https://www.seroundtable.com/google-html-vs-markdown-41508.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-16 11:51 UTC |
