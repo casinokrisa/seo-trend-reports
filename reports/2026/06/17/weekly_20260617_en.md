@@ -28,7 +28,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Daily Search Forum Recap: June 15, 2026](https://www.seroundtable.com/recap-06-15-2026-41505.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-15 14:00 UTC |
 | [Google Ads Bidding Target Optimization Changing, Promotion Mode Beta, Smart Bidding Exploration Expands](https://www.seroundtable.com/google-ads-promotion-mode-smart-bidding-bidding-target-41501.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-15 12:00 UTC |
 | [Google Search Rolls Out Information Agents In AI Mode For A Fee](https://www.seroundtable.com/google-search-information-agents-41502.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-15 11:51 UTC |
-| [11 Ways to Automate SEO with Agent A](https://ahrefs.com/blog/agent-a-for-seo/) | Ahrefs Blog | 160 | General | 2026-06-17 16:27 UTC |
+| [11 Ways to Automate SEO with Agent A](https://ahrefs.com/blog/agent-a-for-seo/) | Ahrefs Blog | 140 | General | 2026-06-17 16:27 UTC |
 | [9 Marketing Trends I’m Seeing Firsthand in 2026 (With Data)](https://ahrefs.com/blog/marketing-trends/) | Ahrefs Blog | 120 | Content | 2026-06-16 10:54 UTC |
 | [How I Use My AI Marketing Assistant After 200+ Hours](https://ahrefs.com/blog/ai-marketing-assistant/) | Ahrefs Blog | 120 | AI Search | 2026-06-15 13:28 UTC |
 | [Agentic Marketing: What’s the Big Deal and How to Get Started](https://ahrefs.com/blog/agentic-marketing/) | Ahrefs Blog | 120 | AI Search | 2026-06-15 13:16 UTC |

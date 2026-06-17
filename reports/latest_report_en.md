@@ -30,7 +30,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Image Search Mixes Ads Within Organic Results Too](https://www.seroundtable.com/google-image-search-mix-ads-41511.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-16 11:31 UTC |
 | [New Microsoft Advertising Product Explorer](https://www.seroundtable.com/microsoft-advertising-product-explorer-41509.html) | Search Engine Roundtable | 170 | General | 2026-06-16 11:21 UTC |
 | [Google: LLMS.txt Files Won't Help Or Hurt Your Search Rankings](https://www.seroundtable.com/google-llms-txt-files-hurt-help-41512.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-16 11:11 UTC |
-| [11 Ways to Automate SEO with Agent A](https://ahrefs.com/blog/agent-a-for-seo/) | Ahrefs Blog | 160 | General | 2026-06-17 16:27 UTC |
+| [11 Ways to Automate SEO with Agent A](https://ahrefs.com/blog/agent-a-for-seo/) | Ahrefs Blog | 140 | General | 2026-06-17 16:27 UTC |
 | [9 Marketing Trends I’m Seeing Firsthand in 2026 (With Data)](https://ahrefs.com/blog/marketing-trends/) | Ahrefs Blog | 120 | Content | 2026-06-16 10:54 UTC |
 | [How to optimize for the agentic web: a guide for marketers](https://www.semrush.com/blog/how-to-optimize-for-the-agentic-web/) | Semrush Blog | 110 | AI Search | 2026-06-16 15:04 UTC |
 | [How to find competitor keywords and close visibility gaps](https://www.semrush.com/blog/competitor-keywords/) | Semrush Blog | 110 | AI Search | 2026-06-16 11:31 UTC |
