@@ -12,8 +12,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: June 18, 2026](https://www.seroundtable.com/recap-06-18-2026-41528.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-18 14:00 UTC |
 | [Site move guidance now includes information on domain variants](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Indexing | 2026-06-17 00:00 UTC |
+| [Daily Search Forum Recap: June 18, 2026](https://www.seroundtable.com/recap-06-18-2026-41528.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-18 14:00 UTC |
 | [Bing Webmaster Tools May Support More Country Reporting](https://www.seroundtable.com/bing-webmaster-tools-country-reporting-41526.html) | Search Engine Roundtable | 190 | General | 2026-06-18 11:51 UTC |
 | [Google Business Profiles Dashboard Activities Button](https://www.seroundtable.com/google-business-profiles-activities-tab-41521.html) | Search Engine Roundtable | 190 | Local SEO | 2026-06-18 11:41 UTC |
 | [Google Tests 3D Model From Attribution In Product Results](https://www.seroundtable.com/google-3d-model-from-41515.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-18 11:31 UTC |
@@ -28,9 +28,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Daily Search Forum Recap: June 16, 2026](https://www.seroundtable.com/recap-06-16-2026-41514.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-16 14:00 UTC |
 | [Google: HTML The Standard For SEO, Not Markdown Files](https://www.seroundtable.com/google-html-vs-markdown-41508.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-16 11:51 UTC |
 | [Google: No Practical SEO Difference By Going With Folder For US Site](https://www.seroundtable.com/google-seo-us-site-folders-41506.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-16 11:41 UTC |
-| [What is an AI Agent? A Plain-English Guide](https://ahrefs.com/blog/what-is-an-ai-agent/) | Ahrefs Blog | 160 | AI Search | 2026-06-18 13:39 UTC |
-| [Why category entry points belong in every AI search strategy](https://www.semrush.com/blog/category-entry-points-ai-search/) | Semrush Blog | 150 | Links | 2026-06-18 14:19 UTC |
+| [What is an AI Agent? A Plain-English Guide](https://ahrefs.com/blog/what-is-an-ai-agent/) | Ahrefs Blog | 140 | AI Search | 2026-06-18 13:39 UTC |
 | [10 SEO Trends I’ve Seen Firsthand in 2026 (With Data)](https://ahrefs.com/blog/seo-trends/) | Ahrefs Blog | 140 | General | 2026-06-18 12:00 UTC |
+| [Why category entry points belong in every AI search strategy](https://www.semrush.com/blog/category-entry-points-ai-search/) | Semrush Blog | 130 | Links | 2026-06-18 14:19 UTC |
 | [11 Ways to Automate SEO with Agent A](https://ahrefs.com/blog/agent-a-for-seo/) | Ahrefs Blog | 120 | General | 2026-06-17 16:27 UTC |
 | [9 Marketing Trends I’m Seeing Firsthand in 2026 (With Data)](https://ahrefs.com/blog/marketing-trends/) | Ahrefs Blog | 120 | Content | 2026-06-16 10:54 UTC |
 | [How to optimize for the agentic web: a guide for marketers](https://www.semrush.com/blog/how-to-optimize-for-the-agentic-web/) | Semrush Blog | 110 | AI Search | 2026-06-16 15:04 UTC |
