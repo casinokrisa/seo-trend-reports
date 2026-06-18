@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Help Us Pick the Next Stop in Europe for Search Central Live Deep Dive 2026!](https://developers.google.com/search/blog/2026/06/scl-deep-dive-europe-2026) | Google Search Central Blog | 230 | General | 2026-06-18 00:00 UTC |
 | [Site move guidance now includes information on domain variants](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Indexing | 2026-06-17 00:00 UTC |
 | [Daily Search Forum Recap: June 18, 2026](https://www.seroundtable.com/recap-06-18-2026-41528.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-18 14:00 UTC |
 | [Bing Webmaster Tools May Support More Country Reporting](https://www.seroundtable.com/bing-webmaster-tools-country-reporting-41526.html) | Search Engine Roundtable | 190 | General | 2026-06-18 11:51 UTC |
