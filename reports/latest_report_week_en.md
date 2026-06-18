@@ -6,7 +6,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Thoughts on adding helpful tools to a website to boost rankings?](https://www.reddit.com/r/localseo/comments/1u913ex/thoughts_on_adding_helpful_tools_to_a_website_to/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-18 08:59 UTC |
+| [Phone number not showing on Google Search or Maps.](https://www.reddit.com/r/localseo/comments/1u8z9xo/phone_number_not_showing_on_google_search_or_maps/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-18 07:08 UTC |
+| [Send help](https://www.reddit.com/r/localseo/comments/1u8y0g7/send_help/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-18 05:54 UTC |
+| [How much impact do map citations actually have on local rankings nowadays?](https://www.reddit.com/r/localseo/comments/1u8vbl8/how_much_impact_do_map_citations_actually_have_on/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-06-18 03:29 UTC |
+| [What’s one SEO tactic you stopped doing because it just wasn’t worth it anymore?](https://www.reddit.com/r/localseo/comments/1u8j63j/whats_one_seo_tactic_you_stopped_doing_because_it/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-17 18:58 UTC |
+| [Ranking issuse](https://www.reddit.com/r/localseo/comments/1u8g9tc/ranking_issuse/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-17 17:13 UTC |
+| [Bing places listing linked to wrong business](https://www.reddit.com/r/localseo/comments/1u8g3g6/bing_places_listing_linked_to_wrong_business/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-06-17 17:06 UTC |
+| [Has Local SEO Become More Important Than Traditional SEO for Small Businesses?](https://www.reddit.com/r/localseo/comments/1u88q7j/has_local_seo_become_more_important_than/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-17 12:24 UTC |
+| [Hidden secret most people avoid in Local SEO strategy which prevent them from ranking](https://www.reddit.com/r/localseo/comments/1u86muh/hidden_secret_most_people_avoid_in_local_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-17 10:40 UTC |
+| [Local Business Moving](https://www.reddit.com/r/localseo/comments/1u86hzh/local_business_moving/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-17 10:33 UTC |
+| [What is the best software that tracks &amp; improves brand appearance in ChatGPT?](https://www.reddit.com/r/localseo/comments/1u850o3/what_is_the_best_software_that_tracks_improves/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-06-17 09:08 UTC |
+| [Can we use keywords which doesn't trigger map pack in Google for local SEO purposes?](https://www.reddit.com/r/localseo/comments/1u82oca/can_we_use_keywords_which_doesnt_trigger_map_pack/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-17 06:48 UTC |
 
 ## Weekly notable items (Sites)
 
@@ -36,7 +47,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [How to optimize for the agentic web: a guide for marketers](https://www.semrush.com/blog/how-to-optimize-for-the-agentic-web/) | Semrush Blog | 110 | AI Search | 2026-06-16 15:04 UTC |
 | [How to find competitor keywords and close visibility gaps](https://www.semrush.com/blog/competitor-keywords/) | Semrush Blog | 110 | AI Search | 2026-06-16 11:31 UTC |
 | [What is AI sentiment analysis? A marketer’s guide](https://www.semrush.com/blog/ai-sentiment-analysis-marketers-guide/) | Semrush Blog | 110 | AI Search | 2026-06-15 16:21 UTC |
-| [Google Analytics for beginners: the complete GA4 guide](https://www.semrush.com/blog/google-analytics/) | Semrush Blog | 110 | Links | 2026-06-15 08:16 UTC |
+| [Google Analytics for beginners: the complete GA4 guide](https://www.semrush.com/blog/google-analytics/) | Semrush Blog | 95 | Links | 2026-06-15 08:16 UTC |
 | [Bot traffic now exceeds traffic from human users](https://www.semrush.com/blog/ai-agent-bot-traffic/) | Semrush Blog | 95 | AI Search | 2026-06-13 08:27 UTC |
 
 ## Notes
