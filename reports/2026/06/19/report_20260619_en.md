@@ -6,13 +6,29 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [🚀 The Power of SEO: How I Grew a Website 500x in Just 3 Months](https://www.reddit.com/r/localseo/comments/1u9o62c/the_power_of_seo_how_i_grew_a_website_500x_in/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-19 01:15 UTC |
+| [What are your biggest issues with current Local SEO tools?](https://www.reddit.com/r/localseo/comments/1u9n3fz/what_are_your_biggest_issues_with_current_local/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-19 00:23 UTC |
+| [Nearly 88% of my rankings are never mentioned in content](https://www.reddit.com/r/localseo/comments/1u9m2vw/nearly_88_of_my_rankings_are_never_mentioned_in/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Content | 2026-06-18 23:37 UTC |
+| [Quick question for local business owners reading this.](https://www.reddit.com/r/localseo/comments/1u9l1ss/quick_question_for_local_business_owners_reading/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-18 22:52 UTC |
+| [How do I charge Local businesses?](https://www.reddit.com/r/localseo/comments/1u9jp17/how_do_i_charge_local_businesses/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-18 21:55 UTC |
+| [Help needed](https://www.reddit.com/r/localseo/comments/1u9e3f4/help_needed/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-18 18:22 UTC |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
+| 1 | [🚀 The Power of SEO: How I Grew a Website 500x in Just 3 Months](https://www.reddit.com/r/localseo/comments/1u9o62c/the_power_of_seo_how_i_grew_a_website_500x_in/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-19 01:15 UTC |
+| 2 | [What are your biggest issues with current Local SEO tools?](https://www.reddit.com/r/localseo/comments/1u9n3fz/what_are_your_biggest_issues_with_current_local/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-19 00:23 UTC |
+| 3 | [Nearly 88% of my rankings are never mentioned in content](https://www.reddit.com/r/localseo/comments/1u9m2vw/nearly_88_of_my_rankings_are_never_mentioned_in/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Content | 2026-06-18 23:37 UTC |
+| 4 | [Quick question for local business owners reading this.](https://www.reddit.com/r/localseo/comments/1u9l1ss/quick_question_for_local_business_owners_reading/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-18 22:52 UTC |
+| 5 | [How do I charge Local businesses?](https://www.reddit.com/r/localseo/comments/1u9jp17/how_do_i_charge_local_businesses/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-18 21:55 UTC |
+| 6 | [Help needed](https://www.reddit.com/r/localseo/comments/1u9e3f4/help_needed/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-18 18:22 UTC |
+| 7 | [My first two days](https://www.reddit.com/r/localseo/comments/1u9bp38/my_first_two_days/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-18 16:54 UTC |
+| 8 | [How Can I get to know the each and every citation my business is listed on via tool?](https://www.reddit.com/r/localseo/comments/1u99ufs/how_can_i_get_to_know_the_each_and_every_citation/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-06-18 15:45 UTC |
+| 9 | [Does website content not matter anymore for local seo?](https://www.reddit.com/r/localseo/comments/1u96sr9/does_website_content_not_matter_anymore_for_local/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-18 13:49 UTC |
+| 10 | [Best SEO Tolls for 2026?](https://www.reddit.com/r/localseo/comments/1u94vyh/best_seo_tolls_for_2026/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-18 12:27 UTC |
+| 11 | [Stuck at a plateau after 6 months of solid SEO work](https://www.reddit.com/r/localseo/comments/1u92w7t/stuck_at_a_plateau_after_6_months_of_solid_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-18 10:45 UTC |
+| 12 | [AI search is still tiny, but clicks are already moving](https://www.reddit.com/r/localseo/comments/1u92bxu/ai_search_is_still_tiny_but_clicks_are_already/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-06-18 10:13 UTC |
 
 ## Notable items (Sites)
 
