@@ -30,7 +30,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Business Profiles Dashboard Activities Button](https://www.seroundtable.com/google-business-profiles-activities-tab-41521.html) | Search Engine Roundtable | 170 | Local SEO | 2026-06-18 11:41 UTC |
 | [Google Tests 3D Model From Attribution In Product Results](https://www.seroundtable.com/google-3d-model-from-41515.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-18 11:31 UTC |
 | [Google Discover Feed With More Google News Showcase Results](https://www.seroundtable.com/google-discover-feed-google-news-showcase-41439.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-18 11:21 UTC |
-| [Google: For Site Moves, Add All Domain Variants To Change Of Address Tool](https://www.seroundtable.com/google-domain-variants-site-moves-41527.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-18 11:11 UTC |
 | [Semrush vs. Semrush for Enterprise: Which one is right for you?](https://www.semrush.com/blog/semrush-vs-semrush-for-enterprise/) | Semrush Blog | 130 | General | 2026-06-19 13:00 UTC |
 | [What is an AI Agent? A Plain-English Guide](https://ahrefs.com/blog/what-is-an-ai-agent/) | Ahrefs Blog | 120 | AI Search | 2026-06-18 13:39 UTC |
 | [10 SEO Trends I’ve Seen Firsthand in 2026 (With Data)](https://ahrefs.com/blog/seo-trends/) | Ahrefs Blog | 120 | General | 2026-06-18 12:00 UTC |
