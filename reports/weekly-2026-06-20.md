@@ -31,9 +31,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Bing Webmaster Tools AI Reporting Adds Intents, Topics, Citation Share &amp; Compare](https://www.seroundtable.com/bing-intents-topics-citation-share-compare-ai-reporting-41513.html) | Search Engine Roundtable | 155 | AI Search | 2026-06-17 11:51 UTC |
 | [What is an AI Agent? A Plain-English Guide](https://ahrefs.com/blog/what-is-an-ai-agent/) | Ahrefs Blog | 120 | AI Search | 2026-06-18 13:39 UTC |
 | [10 SEO Trends I’ve Seen Firsthand in 2026 (With Data)](https://ahrefs.com/blog/seo-trends/) | Ahrefs Blog | 120 | General | 2026-06-18 12:00 UTC |
-| [11 Ways to Automate SEO with Agent A](https://ahrefs.com/blog/agent-a-for-seo/) | Ahrefs Blog | 120 | General | 2026-06-17 16:27 UTC |
 | [Semrush vs. Semrush for Enterprise: Which one is right for you?](https://www.semrush.com/blog/semrush-vs-semrush-for-enterprise/) | Semrush Blog | 110 | General | 2026-06-19 13:00 UTC |
 | [Why category entry points belong in every AI search strategy](https://www.semrush.com/blog/category-entry-points-ai-search/) | Semrush Blog | 110 | Links | 2026-06-18 14:19 UTC |
+| [11 Ways to Automate SEO with Agent A](https://ahrefs.com/blog/agent-a-for-seo/) | Ahrefs Blog | 105 | General | 2026-06-17 16:27 UTC |
 | [9 Marketing Trends I’m Seeing Firsthand in 2026 (With Data)](https://ahrefs.com/blog/marketing-trends/) | Ahrefs Blog | 105 | Content | 2026-06-16 10:54 UTC |
 | [How I Use My AI Marketing Assistant After 200+ Hours](https://ahrefs.com/blog/ai-marketing-assistant/) | Ahrefs Blog | 105 | AI Search | 2026-06-15 13:28 UTC |
 | [Agentic Marketing: What’s the Big Deal and How to Get Started](https://ahrefs.com/blog/agentic-marketing/) | Ahrefs Blog | 105 | AI Search | 2026-06-15 13:16 UTC |
