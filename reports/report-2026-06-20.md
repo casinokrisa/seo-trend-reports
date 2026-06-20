@@ -23,8 +23,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Bing Tests Updated News Design In Search](https://www.seroundtable.com/bing-updated-news-section-41531.html) | Search Engine Roundtable | 190 | General | 2026-06-19 11:51 UTC |
 | [Google Speaks On Chunking, Site Signals, Content, Paywalls &amp; AI Clicks](https://www.seroundtable.com/google-search-central-live-milan-41533.html) | Search Engine Roundtable | 190 | GSC | 2026-06-19 11:41 UTC |
 | [Bing Tests Color Options In Product Results](https://www.seroundtable.com/bing-colors-product-results-41438.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-19 11:31 UTC |
-| [Google Ads Turning On Conversion-Based Customer Lists For Advertisers](https://www.seroundtable.com/google-ads-conversion-based-customer-lists-41529.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-19 11:21 UTC |
-| [Google Maps: Hot Pink Live Time Alerts](https://www.seroundtable.com/google-maps-hot-pink-live-time-alerts-41377.html) | Search Engine Roundtable | 190 | Local SEO | 2026-06-19 11:11 UTC |
+| [Google Ads Turning On Conversion-Based Customer Lists For Advertisers](https://www.seroundtable.com/google-ads-conversion-based-customer-lists-41529.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-19 11:21 UTC |
+| [Google Maps: Hot Pink Live Time Alerts](https://www.seroundtable.com/google-maps-hot-pink-live-time-alerts-41377.html) | Search Engine Roundtable | 170 | Local SEO | 2026-06-19 11:11 UTC |
 | [Semrush vs. Semrush for Enterprise: Which one is right for you?](https://www.semrush.com/blog/semrush-vs-semrush-for-enterprise/) | Semrush Blog | 130 | General | 2026-06-19 13:00 UTC |
 
 ## Notes for manual writing

@@ -18,9 +18,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Bing Tests Updated News Design In Search](https://www.seroundtable.com/bing-updated-news-section-41531.html) | Search Engine Roundtable | 190 | General | 2026-06-19 11:51 UTC |
 | [Google Speaks On Chunking, Site Signals, Content, Paywalls &amp; AI Clicks](https://www.seroundtable.com/google-search-central-live-milan-41533.html) | Search Engine Roundtable | 190 | GSC | 2026-06-19 11:41 UTC |
 | [Bing Tests Color Options In Product Results](https://www.seroundtable.com/bing-colors-product-results-41438.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-19 11:31 UTC |
-| [Google Ads Turning On Conversion-Based Customer Lists For Advertisers](https://www.seroundtable.com/google-ads-conversion-based-customer-lists-41529.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-19 11:21 UTC |
-| [Google Maps: Hot Pink Live Time Alerts](https://www.seroundtable.com/google-maps-hot-pink-live-time-alerts-41377.html) | Search Engine Roundtable | 190 | Local SEO | 2026-06-19 11:11 UTC |
 | [Site move guidance now includes information on domain variants](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Indexing | 2026-06-17 00:00 UTC |
+| [Google Ads Turning On Conversion-Based Customer Lists For Advertisers](https://www.seroundtable.com/google-ads-conversion-based-customer-lists-41529.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-19 11:21 UTC |
+| [Google Maps: Hot Pink Live Time Alerts](https://www.seroundtable.com/google-maps-hot-pink-live-time-alerts-41377.html) | Search Engine Roundtable | 170 | Local SEO | 2026-06-19 11:11 UTC |
 | [Daily Search Forum Recap: June 18, 2026](https://www.seroundtable.com/recap-06-18-2026-41528.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-18 14:00 UTC |
 | [Bing Webmaster Tools May Support More Country Reporting](https://www.seroundtable.com/bing-webmaster-tools-country-reporting-41526.html) | Search Engine Roundtable | 170 | General | 2026-06-18 11:51 UTC |
 | [Google Business Profiles Dashboard Activities Button](https://www.seroundtable.com/google-business-profiles-activities-tab-41521.html) | Search Engine Roundtable | 170 | Local SEO | 2026-06-18 11:41 UTC |
