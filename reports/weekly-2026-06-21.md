@@ -12,8 +12,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Search Ranking Update Hits Friday June 19th Impacting Black Hats?](https://www.seroundtable.com/google-search-ranking-hits-black-hats-41541.html) | Search Engine Roundtable | 210 | General | 2026-06-21 12:20 UTC |
 | [Help Us Pick the Next Stop in Europe for Search Central Live Deep Dive 2026!](https://developers.google.com/search/blog/2026/06/scl-deep-dive-europe-2026) | Google Search Central Blog | 195 | General | 2026-06-18 00:00 UTC |
+| [Google Search Ranking Update Hits Friday June 19th Impacting Black Hats?](https://www.seroundtable.com/google-search-ranking-hits-black-hats-41541.html) | Search Engine Roundtable | 190 | General | 2026-06-21 12:20 UTC |
 | [Site move guidance now includes information on domain variants](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Indexing | 2026-06-17 00:00 UTC |
 | [Daily Search Forum Recap: June 19, 2026](https://www.seroundtable.com/recap-06-19-2026-41534.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-19 14:00 UTC |
 | [Search News Buzz Video Recap: Google Volatility, Bing AI Reporting Updates, UK Orders Google To Hand Over Its Search Ranking Algorithm &amp; More](https://www.seroundtable.com/video-06-19-2026-41532.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-19 12:01 UTC |
