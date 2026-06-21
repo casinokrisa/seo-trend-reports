@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google Search Ranking Update Hits Friday June 19th Impacting Black Hats?](https://www.seroundtable.com/google-search-ranking-hits-black-hats-41541.html) | Search Engine Roundtable | 210 | General | 2026-06-21 12:20 UTC |
 | [Help Us Pick the Next Stop in Europe for Search Central Live Deep Dive 2026!](https://developers.google.com/search/blog/2026/06/scl-deep-dive-europe-2026) | Google Search Central Blog | 195 | General | 2026-06-18 00:00 UTC |
 | [Site move guidance now includes information on domain variants](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Indexing | 2026-06-17 00:00 UTC |
 | [Daily Search Forum Recap: June 19, 2026](https://www.seroundtable.com/recap-06-19-2026-41534.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-19 14:00 UTC |
@@ -22,17 +23,16 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Turning On Conversion-Based Customer Lists For Advertisers](https://www.seroundtable.com/google-ads-conversion-based-customer-lists-41529.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-19 11:21 UTC |
 | [Google Maps: Hot Pink Live Time Alerts](https://www.seroundtable.com/google-maps-hot-pink-live-time-alerts-41377.html) | Search Engine Roundtable | 170 | Local SEO | 2026-06-19 11:11 UTC |
 | [Daily Search Forum Recap: June 18, 2026](https://www.seroundtable.com/recap-06-18-2026-41528.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-18 14:00 UTC |
-| [Bing Webmaster Tools May Support More Country Reporting](https://www.seroundtable.com/bing-webmaster-tools-country-reporting-41526.html) | Search Engine Roundtable | 170 | General | 2026-06-18 11:51 UTC |
-| [Google Business Profiles Dashboard Activities Button](https://www.seroundtable.com/google-business-profiles-activities-tab-41521.html) | Search Engine Roundtable | 170 | Local SEO | 2026-06-18 11:41 UTC |
-| [Google Tests 3D Model From Attribution In Product Results](https://www.seroundtable.com/google-3d-model-from-41515.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-18 11:31 UTC |
-| [Google Discover Feed With More Google News Showcase Results](https://www.seroundtable.com/google-discover-feed-google-news-showcase-41439.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-18 11:21 UTC |
-| [Google: For Site Moves, Add All Domain Variants To Change Of Address Tool](https://www.seroundtable.com/google-domain-variants-site-moves-41527.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-18 11:11 UTC |
+| [Bing Webmaster Tools May Support More Country Reporting](https://www.seroundtable.com/bing-webmaster-tools-country-reporting-41526.html) | Search Engine Roundtable | 155 | General | 2026-06-18 11:51 UTC |
+| [Google Business Profiles Dashboard Activities Button](https://www.seroundtable.com/google-business-profiles-activities-tab-41521.html) | Search Engine Roundtable | 155 | Local SEO | 2026-06-18 11:41 UTC |
+| [Google Tests 3D Model From Attribution In Product Results](https://www.seroundtable.com/google-3d-model-from-41515.html) | Search Engine Roundtable | 155 | AI Search | 2026-06-18 11:31 UTC |
+| [Google Discover Feed With More Google News Showcase Results](https://www.seroundtable.com/google-discover-feed-google-news-showcase-41439.html) | Search Engine Roundtable | 155 | AI Search | 2026-06-18 11:21 UTC |
+| [Google: For Site Moves, Add All Domain Variants To Change Of Address Tool](https://www.seroundtable.com/google-domain-variants-site-moves-41527.html) | Search Engine Roundtable | 155 | AI Search | 2026-06-18 11:11 UTC |
 | [Daily Search Forum Recap: June 17, 2026](https://www.seroundtable.com/recap-06-17-2026-41524.html) | Search Engine Roundtable | 155 | AI Search | 2026-06-17 14:00 UTC |
-| [Bing Webmaster Tools AI Reporting Adds Intents, Topics, Citation Share &amp; Compare](https://www.seroundtable.com/bing-intents-topics-citation-share-compare-ai-reporting-41513.html) | Search Engine Roundtable | 155 | AI Search | 2026-06-17 11:51 UTC |
 | [What is an AI Agent? A Plain-English Guide](https://ahrefs.com/blog/what-is-an-ai-agent/) | Ahrefs Blog | 120 | AI Search | 2026-06-18 13:39 UTC |
-| [10 SEO Trends I’ve Seen Firsthand in 2026 (With Data)](https://ahrefs.com/blog/seo-trends/) | Ahrefs Blog | 120 | General | 2026-06-18 12:00 UTC |
 | [Semrush vs. Semrush for Enterprise: Which one is right for you?](https://www.semrush.com/blog/semrush-vs-semrush-for-enterprise/) | Semrush Blog | 110 | General | 2026-06-19 13:00 UTC |
 | [Why category entry points belong in every AI search strategy](https://www.semrush.com/blog/category-entry-points-ai-search/) | Semrush Blog | 110 | Links | 2026-06-18 14:19 UTC |
+| [10 SEO Trends I’ve Seen Firsthand in 2026 (With Data)](https://ahrefs.com/blog/seo-trends/) | Ahrefs Blog | 105 | General | 2026-06-18 12:00 UTC |
 | [11 Ways to Automate SEO with Agent A](https://ahrefs.com/blog/agent-a-for-seo/) | Ahrefs Blog | 105 | General | 2026-06-17 16:27 UTC |
 | [9 Marketing Trends I’m Seeing Firsthand in 2026 (With Data)](https://ahrefs.com/blog/marketing-trends/) | Ahrefs Blog | 105 | Content | 2026-06-16 10:54 UTC |
 | [How I Use My AI Marketing Assistant After 200+ Hours](https://ahrefs.com/blog/ai-marketing-assistant/) | Ahrefs Blog | 105 | AI Search | 2026-06-15 13:28 UTC |

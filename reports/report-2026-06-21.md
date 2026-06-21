@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| _No site items in window_ |  |  |  |  |
+| [Google Search Ranking Update Hits Friday June 19th Impacting Black Hats?](https://www.seroundtable.com/google-search-ranking-hits-black-hats-41541.html) | Search Engine Roundtable | 210 | General | 2026-06-21 12:20 UTC |
 
 ## Notes for manual writing
 
