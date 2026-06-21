@@ -18,8 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: June 19, 2026](https://www.seroundtable.com/recap-06-19-2026-41534.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-19 14:00 UTC |
-| [Semrush vs. Semrush for Enterprise: Which one is right for you?](https://www.semrush.com/blog/semrush-vs-semrush-for-enterprise/) | Semrush Blog | 110 | General | 2026-06-19 13:00 UTC |
+| _No site items in window_ |  |  |  |  |
 
 ## Notes for manual writing
 
