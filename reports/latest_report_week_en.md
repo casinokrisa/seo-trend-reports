@@ -29,8 +29,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Search Ranking Update Hits Friday June 19th Impacting Black Hats?](https://www.seroundtable.com/google-search-ranking-hits-black-hats-41541.html) | Search Engine Roundtable | 170 | General | 2026-06-21 12:20 UTC |
 | [Daily Search Forum Recap: June 19, 2026](https://www.seroundtable.com/recap-06-19-2026-41534.html) | Search Engine Roundtable | 155 | AI Search | 2026-06-19 14:00 UTC |
 | [Search News Buzz Video Recap: Google Volatility, Bing AI Reporting Updates, UK Orders Google To Hand Over Its Search Ranking Algorithm &amp; More](https://www.seroundtable.com/video-06-19-2026-41532.html) | Search Engine Roundtable | 155 | AI Search | 2026-06-19 12:01 UTC |
-| [Google E-E-A-T: What it is &amp; how it affects SEO](https://www.semrush.com/blog/eeat/) | Semrush Blog | 150 | Content | 2026-06-23 14:32 UTC |
 | [Average Organic Traffic Benchmarks From Real Websites (June 2026)](https://ahrefs.com/blog/average-organic-traffic-benchmarks/) | Ahrefs Blog | 140 | AI Search | 2026-06-23 12:21 UTC |
+| [Google E-E-A-T: What it is &amp; how it affects SEO](https://www.semrush.com/blog/eeat/) | Semrush Blog | 130 | Content | 2026-06-23 14:32 UTC |
 | [Content gap analysis: A step-by-step guide](https://www.semrush.com/blog/content-gap-analysis/) | Semrush Blog | 130 | Content | 2026-06-23 14:19 UTC |
 | [The technical SEO checklist for search engines and AI search](https://www.semrush.com/blog/technical-seo-checklist/) | Semrush Blog | 130 | Indexing | 2026-06-23 09:32 UTC |
 | [Google Launches Open Knowledge Format, an AI Standard](https://www.semrush.com/blog/google-launches-open-knowledge-format-for-ai-agents/) | Semrush Blog | 130 | AI Search | 2026-06-23 09:15 UTC |

@@ -30,8 +30,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Rolling Out Text Disclaimers To All](https://www.seroundtable.com/google-ads-text-disclaimers-live-41536.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-22 11:31 UTC |
 | [Google Ads Smart Bidding Strategies Target CPA &amp; Target ROAS Updates](https://www.seroundtable.com/google-ads-target-cpa-roas-updates-41539.html) | Search Engine Roundtable | 170 | General | 2026-06-22 11:21 UTC |
 | [Google Business Profiles New Collected Info Actions](https://www.seroundtable.com/google-business-profiles-collected-info-41535.html) | Search Engine Roundtable | 170 | Local SEO | 2026-06-22 11:11 UTC |
-| [Google E-E-A-T: What it is &amp; how it affects SEO](https://www.semrush.com/blog/eeat/) | Semrush Blog | 150 | Content | 2026-06-23 14:32 UTC |
 | [Average Organic Traffic Benchmarks From Real Websites (June 2026)](https://ahrefs.com/blog/average-organic-traffic-benchmarks/) | Ahrefs Blog | 140 | AI Search | 2026-06-23 12:21 UTC |
+| [Google E-E-A-T: What it is &amp; how it affects SEO](https://www.semrush.com/blog/eeat/) | Semrush Blog | 130 | Content | 2026-06-23 14:32 UTC |
 | [Content gap analysis: A step-by-step guide](https://www.semrush.com/blog/content-gap-analysis/) | Semrush Blog | 130 | Content | 2026-06-23 14:19 UTC |
 | [The technical SEO checklist for search engines and AI search](https://www.semrush.com/blog/technical-seo-checklist/) | Semrush Blog | 130 | Indexing | 2026-06-23 09:32 UTC |
 | [Google Launches Open Knowledge Format, an AI Standard](https://www.semrush.com/blog/google-launches-open-knowledge-format-for-ai-agents/) | Semrush Blog | 130 | AI Search | 2026-06-23 09:15 UTC |
