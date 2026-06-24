@@ -6,29 +6,13 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Has Ranking #1 Become Less Important Since AI Overviews?](https://www.reddit.com/r/localseo/comments/1ue6u8p/has_ranking_1_become_less_important_since_ai/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-06-24 07:37 UTC |
-| [I reviewed6 local pages that were indexed but not ranking. Here are the 5 trust issues I kept seeing.](https://www.reddit.com/r/localseo/comments/1ue6k2e/i_reviewed6_local_pages_that_were_indexed_but_not/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Indexing | 2026-06-24 07:20 UTC |
-| [How Are You Adapting SEO Strategies for the Future of Search?](https://www.reddit.com/r/localseo/comments/1ue6799/how_are_you_adapting_seo_strategies_for_the/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-24 06:59 UTC |
-| [Reviews are off for my GMB Profile.](https://www.reddit.com/r/localseo/comments/1ue537a/reviews_are_off_for_my_gmb_profile/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-24 05:55 UTC |
-| [SEO Conferences](https://www.reddit.com/r/localseo/comments/1ue2owv/seo_conferences/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-24 03:48 UTC |
-| [How do you compare rankings for a local business?](https://www.reddit.com/r/localseo/comments/1udq2yx/how_do_you_compare_rankings_for_a_local_business/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-23 18:57 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-| 1 | [Has Ranking #1 Become Less Important Since AI Overviews?](https://www.reddit.com/r/localseo/comments/1ue6u8p/has_ranking_1_become_less_important_since_ai/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-06-24 07:37 UTC |
-| 2 | [I reviewed6 local pages that were indexed but not ranking. Here are the 5 trust issues I kept seeing.](https://www.reddit.com/r/localseo/comments/1ue6k2e/i_reviewed6_local_pages_that_were_indexed_but_not/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Indexing | 2026-06-24 07:20 UTC |
-| 3 | [How Are You Adapting SEO Strategies for the Future of Search?](https://www.reddit.com/r/localseo/comments/1ue6799/how_are_you_adapting_seo_strategies_for_the/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-24 06:59 UTC |
-| 4 | [Reviews are off for my GMB Profile.](https://www.reddit.com/r/localseo/comments/1ue537a/reviews_are_off_for_my_gmb_profile/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-24 05:55 UTC |
-| 5 | [SEO Conferences](https://www.reddit.com/r/localseo/comments/1ue2owv/seo_conferences/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-24 03:48 UTC |
-| 6 | [How do you compare rankings for a local business?](https://www.reddit.com/r/localseo/comments/1udq2yx/how_do_you_compare_rankings_for_a_local_business/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-23 18:57 UTC |
-| 7 | [Page/Service Structure Question](https://www.reddit.com/r/localseo/comments/1udp9vh/pageservice_structure_question/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-23 18:27 UTC |
-| 8 | [Local Schema](https://www.reddit.com/r/localseo/comments/1udp1mc/local_schema/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Technical SEO | 2026-06-23 18:19 UTC |
-| 9 | [Do you need to offer more than just SEO as a freelancer?](https://www.reddit.com/r/localseo/comments/1udhrux/do_you_need_to_offer_more_than_just_seo_as_a/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-23 13:52 UTC |
-| 10 | [How do you all keep on top of new Google reviews across multiple locations?](https://www.reddit.com/r/localseo/comments/1udgdq2/how_do_you_all_keep_on_top_of_new_google_reviews/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-23 12:55 UTC |
-| 11 | [Deleted Google Business Profile from my account 2 months ago but it’s STILL showing up in Search &amp; Maps. No access anymore. How do I actually remove it?](https://www.reddit.com/r/localseo/comments/1udg3z9/deleted_google_business_profile_from_my_account_2/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-23 12:43 UTC |
-| 12 | [Hi folks, what might be reason for this?](https://www.reddit.com/r/localseo/comments/1ude2ca/hi_folks_what_might_be_reason_for_this/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-23 11:05 UTC |
+|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Notable items (Sites)
 
