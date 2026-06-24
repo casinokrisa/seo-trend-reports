@@ -12,8 +12,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Ads Tests Strongest &amp; Strong Match Labels On Sponsored Results](https://www.seroundtable.com/google-ads-strongest-match-and-strong-match-labels-41561.html) | Search Engine Roundtable | 210 | General | 2026-06-23 22:05 UTC |
 | [Help Us Pick the Next Stop in Europe for Search Central Live Deep Dive 2026!](https://developers.google.com/search/blog/2026/06/scl-deep-dive-europe-2026) | Google Search Central Blog | 195 | General | 2026-06-18 00:00 UTC |
+| [Google Ads Tests Strongest &amp; Strong Match Labels On Sponsored Results](https://www.seroundtable.com/google-ads-strongest-match-and-strong-match-labels-41561.html) | Search Engine Roundtable | 190 | General | 2026-06-23 22:05 UTC |
 | [Daily Search Forum Recap: June 23, 2026](https://www.seroundtable.com/recap-06-23-2026-41550.html) | Search Engine Roundtable | 190 | GSC | 2026-06-23 14:00 UTC |
 | [Google Ads Clarifies AI Max For Search Campaigns Reporting](https://www.seroundtable.com/google-ads-ai-max-search-campaigns-reporting-doc-41546.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-23 11:51 UTC |
 | [Google Search Console AI Performance Report Rolling Out To More](https://www.seroundtable.com/google-ai-performance-report-expands-41549.html) | Search Engine Roundtable | 190 | GSC | 2026-06-23 11:41 UTC |
