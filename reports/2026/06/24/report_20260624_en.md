@@ -36,8 +36,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Average Organic Traffic Benchmarks From Real Websites (June 2026)](https://ahrefs.com/blog/average-organic-traffic-benchmarks/) | Ahrefs Blog | 120 | AI Search | 2026-06-23 12:21 UTC |
 | [Google E-E-A-T: What it is &amp; how it affects SEO](https://www.semrush.com/blog/eeat/) | Semrush Blog | 110 | Content | 2026-06-23 14:32 UTC |
 | [Content gap analysis: A step-by-step guide](https://www.semrush.com/blog/content-gap-analysis/) | Semrush Blog | 110 | Content | 2026-06-23 14:19 UTC |
-| [The technical SEO checklist for search engines and AI search](https://www.semrush.com/blog/technical-seo-checklist/) | Semrush Blog | 110 | Indexing | 2026-06-23 09:32 UTC |
-| [Google Launches Open Knowledge Format, an AI Standard](https://www.semrush.com/blog/google-launches-open-knowledge-format-for-ai-agents/) | Semrush Blog | 110 | AI Search | 2026-06-23 09:15 UTC |
 
 ## Notes for manual writing
 
