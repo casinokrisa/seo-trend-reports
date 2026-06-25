@@ -27,7 +27,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads: Unique Search Categories With Clicks, Conversions &amp; Impressions](https://www.seroundtable.com/google-ads-unique-search-categories-column-41553.html) | Search Engine Roundtable | 170 | GSC | 2026-06-24 11:21 UTC |
 | [Google Ads Shop Diagnostics: Shop Sales Eligibility](https://www.seroundtable.com/google-ads-shop-diagnostics-41540.html) | Search Engine Roundtable | 170 | General | 2026-06-24 11:11 UTC |
 | [Google AdSense Multiplex Ads Changes Ad Request Reporting](https://www.seroundtable.com/google-adsense-multiplex-ad-change-41562.html) | Search Engine Roundtable | 170 | GSC | 2026-06-24 11:05 UTC |
-| [Keeping Data-Driven Content Fresh Was a Monthly Slog. So We Taught an Agent to Do It.](https://ahrefs.com/blog/taught-agent-to-refresh-data-content/) | Ahrefs Blog | 160 | Content | 2026-06-25 14:35 UTC |
+| [Keeping Data-Driven Content Fresh Was a Monthly Slog. So We Taught an Agent to Do It.](https://ahrefs.com/blog/taught-agent-to-refresh-data-content/) | Ahrefs Blog | 140 | Content | 2026-06-25 14:35 UTC |
 | [I rebuilt our content update pipeline in Claude Code. Here's why.](https://www.semrush.com/blog/how-i-rebuilt-our-content-update-pipeline/) | Semrush Blog | 130 | Content | 2026-06-25 14:19 UTC |
 | [Digital marketing strategies: Types &amp; how to build one](https://www.semrush.com/blog/digital-marketing-strategies/) | Semrush Blog | 130 | AI Search | 2026-06-25 09:01 UTC |
 | [Average Organic Traffic Benchmarks From Real Websites (June 2026)](https://ahrefs.com/blog/average-organic-traffic-benchmarks/) | Ahrefs Blog | 120 | AI Search | 2026-06-23 12:21 UTC |
