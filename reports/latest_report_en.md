@@ -6,29 +6,13 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [[For Hire] Paid media + SEO — I make small budgets punch way above their weight (live-dashboard proof)](https://www.reddit.com/r/localseo/comments/1uezv2v/for_hire_paid_media_seo_i_make_small_budgets/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-06-25 04:24 UTC |
-| [How audio content can help with SEO?](https://www.reddit.com/r/localseo/comments/1uexp4w/how_audio_content_can_help_with_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Content | 2026-06-25 02:38 UTC |
-| [Any tips for an SEO going freelance in local SEO?](https://www.reddit.com/r/localseo/comments/1uetwnn/any_tips_for_an_seo_going_freelance_in_local_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-24 23:44 UTC |
-| [Circular Canonicals - How big of an issue is it?](https://www.reddit.com/r/localseo/comments/1uer93t/circular_canonicals_how_big_of_an_issue_is_it/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Migration | 2026-06-24 21:54 UTC |
-| [All Google Ranking Updates of 2025 and 2026](https://www.reddit.com/r/localseo/comments/1uemdbd/all_google_ranking_updates_of_2025_and_2026/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-24 18:53 UTC |
-| [Is Citation buying a good idea.](https://www.reddit.com/r/localseo/comments/1ueltwy/is_citation_buying_a_good_idea/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-06-24 18:34 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-| 1 | [[For Hire] Paid media + SEO — I make small budgets punch way above their weight (live-dashboard proof)](https://www.reddit.com/r/localseo/comments/1uezv2v/for_hire_paid_media_seo_i_make_small_budgets/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-06-25 04:24 UTC |
-| 2 | [How audio content can help with SEO?](https://www.reddit.com/r/localseo/comments/1uexp4w/how_audio_content_can_help_with_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Content | 2026-06-25 02:38 UTC |
-| 3 | [Any tips for an SEO going freelance in local SEO?](https://www.reddit.com/r/localseo/comments/1uetwnn/any_tips_for_an_seo_going_freelance_in_local_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-24 23:44 UTC |
-| 4 | [Circular Canonicals - How big of an issue is it?](https://www.reddit.com/r/localseo/comments/1uer93t/circular_canonicals_how_big_of_an_issue_is_it/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Migration | 2026-06-24 21:54 UTC |
-| 5 | [All Google Ranking Updates of 2025 and 2026](https://www.reddit.com/r/localseo/comments/1uemdbd/all_google_ranking_updates_of_2025_and_2026/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-24 18:53 UTC |
-| 6 | [Is Citation buying a good idea.](https://www.reddit.com/r/localseo/comments/1ueltwy/is_citation_buying_a_good_idea/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-06-24 18:34 UTC |
-| 7 | [How are agencies getting bulk verification for Google Business Profiles?](https://www.reddit.com/r/localseo/comments/1uehphi/how_are_agencies_getting_bulk_verification_for/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-24 16:05 UTC |
-| 8 | [Social Media Posts Impact on Seo](https://www.reddit.com/r/localseo/comments/1uegaka/social_media_posts_impact_on_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-24 15:13 UTC |
-| 9 | [Wanted to get some opinions on duplicate listings because I ran into something recently that surprised me.](https://www.reddit.com/r/localseo/comments/1uefm3b/wanted_to_get_some_opinions_on_duplicate_listings/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-24 14:48 UTC |
-| 10 | [What’s your best SEO approach for a messy website?](https://www.reddit.com/r/localseo/comments/1ueebue/whats_your_best_seo_approach_for_a_messy_website/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-06-24 14:00 UTC |
-| 11 | [What backlink indexing tools are you using in 2026?](https://www.reddit.com/r/localseo/comments/1uedsej/what_backlink_indexing_tools_are_you_using_in_2026/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Indexing | 2026-06-24 13:38 UTC |
-| 12 | [Is Local SEO Becoming More About Google Than Your Website?](https://www.reddit.com/r/localseo/comments/1uecjkv/is_local_seo_becoming_more_about_google_than_your/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-06-24 12:46 UTC |
+|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Notable items (Sites)
 
