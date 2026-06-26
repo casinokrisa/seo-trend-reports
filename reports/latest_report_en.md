@@ -32,7 +32,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google AI Overviews Tests Button To Go To Only Web Results](https://www.seroundtable.com/google-ai-overviews-web-only-button-41566.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-25 11:41 UTC |
 | [Google Ads API Version 24.2 Now Available](https://www.seroundtable.com/google-ads-api-v-24-2-41570.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-25 11:31 UTC |
 | [Google: When AI Performance Reports Count Impressions](https://www.seroundtable.com/google-ai-performance-report-count-impressions-41564.html) | Search Engine Roundtable | 170 | Links | 2026-06-25 11:21 UTC |
-| [Google AI Mode Ask Anything Box With Autocomplete](https://www.seroundtable.com/google-ai-mode-ask-anything-autocomplete-41565.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-25 11:11 UTC |
 | [What are URL parameters? A guide on how to use them](https://www.semrush.com/blog/url-parameters/) | Semrush Blog | 150 | Migration | 2026-06-26 17:36 UTC |
 | [Keeping Data-Driven Content Fresh Was a Monthly Slog. So We Taught an Agent to Do It.](https://ahrefs.com/blog/taught-agent-to-refresh-data-content/) | Ahrefs Blog | 120 | Content | 2026-06-25 14:35 UTC |
 | [I rebuilt our content update pipeline in Claude Code. Here's why.](https://www.semrush.com/blog/how-i-rebuilt-our-content-update-pipeline/) | Semrush Blog | 110 | Content | 2026-06-25 14:19 UTC |
