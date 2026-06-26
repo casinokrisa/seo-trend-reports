@@ -29,13 +29,13 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google AdSense Multiplex Ads Changes Ad Request Reporting](https://www.seroundtable.com/google-adsense-multiplex-ad-change-41562.html) | Search Engine Roundtable | 170 | GSC | 2026-06-24 11:05 UTC |
 | [Keeping Data-Driven Content Fresh Was a Monthly Slog. So We Taught an Agent to Do It.](https://ahrefs.com/blog/taught-agent-to-refresh-data-content/) | Ahrefs Blog | 140 | Content | 2026-06-25 14:35 UTC |
 | [I rebuilt our content update pipeline in Claude Code. Here's why.](https://www.semrush.com/blog/how-i-rebuilt-our-content-update-pipeline/) | Semrush Blog | 130 | Content | 2026-06-25 14:19 UTC |
-| [Digital marketing strategies: Types &amp; how to build one](https://www.semrush.com/blog/digital-marketing-strategies/) | Semrush Blog | 130 | AI Search | 2026-06-25 09:01 UTC |
 | [Average Organic Traffic Benchmarks From Real Websites (June 2026)](https://ahrefs.com/blog/average-organic-traffic-benchmarks/) | Ahrefs Blog | 120 | AI Search | 2026-06-23 12:21 UTC |
+| [Digital marketing strategies: Types &amp; how to build one](https://www.semrush.com/blog/digital-marketing-strategies/) | Semrush Blog | 110 | AI Search | 2026-06-25 09:01 UTC |
 | [Google E-E-A-T: What it is &amp; how it affects SEO](https://www.semrush.com/blog/eeat/) | Semrush Blog | 110 | Content | 2026-06-23 14:32 UTC |
 | [Content gap analysis: A step-by-step guide](https://www.semrush.com/blog/content-gap-analysis/) | Semrush Blog | 110 | Content | 2026-06-23 14:19 UTC |
-| [The technical SEO checklist for search engines and AI search](https://www.semrush.com/blog/technical-seo-checklist/) | Semrush Blog | 110 | Indexing | 2026-06-23 09:32 UTC |
-| [Google Launches Open Knowledge Format, an AI Standard](https://www.semrush.com/blog/google-launches-open-knowledge-format-for-ai-agents/) | Semrush Blog | 110 | AI Search | 2026-06-23 09:15 UTC |
 | [What is a Good Organic CTR? Real Website Benchmarks (June 2026)](https://ahrefs.com/blog/what-is-a-good-ctr/) | Ahrefs Blog | 105 | GSC | 2026-06-22 14:59 UTC |
+| [The technical SEO checklist for search engines and AI search](https://www.semrush.com/blog/technical-seo-checklist/) | Semrush Blog | 95 | Indexing | 2026-06-23 09:32 UTC |
+| [Google Launches Open Knowledge Format, an AI Standard](https://www.semrush.com/blog/google-launches-open-knowledge-format-for-ai-agents/) | Semrush Blog | 95 | AI Search | 2026-06-23 09:15 UTC |
 | [Semrush vs. Semrush for Enterprise: Which one is right for you?](https://www.semrush.com/blog/semrush-vs-semrush-for-enterprise/) | Semrush Blog | 95 | General | 2026-06-19 13:00 UTC |
 
 ## Notes
