@@ -36,7 +36,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [What are URL parameters? A guide on how to use them](https://www.semrush.com/blog/url-parameters/) | Semrush Blog | 150 | Migration | 2026-06-26 17:36 UTC |
 | [Keeping Data-Driven Content Fresh Was a Monthly Slog. So We Taught an Agent to Do It.](https://ahrefs.com/blog/taught-agent-to-refresh-data-content/) | Ahrefs Blog | 120 | Content | 2026-06-25 14:35 UTC |
 | [I rebuilt our content update pipeline in Claude Code. Here's why.](https://www.semrush.com/blog/how-i-rebuilt-our-content-update-pipeline/) | Semrush Blog | 110 | Content | 2026-06-25 14:19 UTC |
-| [Digital marketing strategies: Types &amp; how to build one](https://www.semrush.com/blog/digital-marketing-strategies/) | Semrush Blog | 110 | AI Search | 2026-06-25 09:01 UTC |
 
 ## Notes for manual writing
 
