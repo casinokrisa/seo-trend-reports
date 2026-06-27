@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [The Industry Mourns The Loss Of Bruce Clay: The Father Of SEO](https://www.seroundtable.com/bruce-clay-rip-41581.html) | Search Engine Roundtable | 190 | General | 2026-06-26 18:28 UTC |
+| [The Industry Mourns The Loss Of Bruce Clay: The Father Of SEO](https://www.seroundtable.com/bruce-clay-rip-41581.html) | Search Engine Roundtable | 170 | General | 2026-06-26 18:28 UTC |
 | [Google June 2026 Spam Update Has Finished Rolling Out](https://www.seroundtable.com/google-june-2026-spam-update-done-41580.html) | Search Engine Roundtable | 170 | General | 2026-06-26 18:10 UTC |
 | [Daily Search Forum Recap: June 26, 2026](https://www.seroundtable.com/recap-06-26-2026-41577.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-26 14:00 UTC |
 | [Search News Buzz Video Recap: Google June 2026 Spam Update Hits Hard, Google Ads Strength Match Labels, AI Reporting Access &amp; More](https://www.seroundtable.com/video-06-26-2026-41573.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-26 12:01 UTC |
