@@ -13,7 +13,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [The Industry Mourns The Loss Of Bruce Clay: The Father Of SEO](https://www.seroundtable.com/bruce-clay-rip-41581.html) | Search Engine Roundtable | 190 | General | 2026-06-26 18:28 UTC |
-| [Google June 2026 Spam Update Has Finished Rolling Out](https://www.seroundtable.com/google-june-2026-spam-update-done-41580.html) | Search Engine Roundtable | 190 | General | 2026-06-26 18:10 UTC |
+| [Google June 2026 Spam Update Has Finished Rolling Out](https://www.seroundtable.com/google-june-2026-spam-update-done-41580.html) | Search Engine Roundtable | 170 | General | 2026-06-26 18:10 UTC |
 | [Daily Search Forum Recap: June 26, 2026](https://www.seroundtable.com/recap-06-26-2026-41577.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-26 14:00 UTC |
 | [Search News Buzz Video Recap: Google June 2026 Spam Update Hits Hard, Google Ads Strength Match Labels, AI Reporting Access &amp; More](https://www.seroundtable.com/video-06-26-2026-41573.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-26 12:01 UTC |
 | [New: Google Ads Maximize Conversion Value Bidding For Standard Shopping](https://www.seroundtable.com/google-ads-maximize-conversion-value-standard-shopping-41576.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-26 11:51 UTC |
@@ -27,8 +27,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads API Version 24.2 Now Available](https://www.seroundtable.com/google-ads-api-v-24-2-41570.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-25 11:31 UTC |
 | [Google: When AI Performance Reports Count Impressions](https://www.seroundtable.com/google-ai-performance-report-count-impressions-41564.html) | Search Engine Roundtable | 170 | Links | 2026-06-25 11:21 UTC |
 | [Google AI Mode Ask Anything Box With Autocomplete](https://www.seroundtable.com/google-ai-mode-ask-anything-autocomplete-41565.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-25 11:11 UTC |
-| [What are URL parameters? A guide on how to use them](https://www.semrush.com/blog/url-parameters/) | Semrush Blog | 130 | Migration | 2026-06-26 17:36 UTC |
 | [Keeping Data-Driven Content Fresh Was a Monthly Slog. So We Taught an Agent to Do It.](https://ahrefs.com/blog/taught-agent-to-refresh-data-content/) | Ahrefs Blog | 120 | Content | 2026-06-25 14:35 UTC |
+| [What are URL parameters? A guide on how to use them](https://www.semrush.com/blog/url-parameters/) | Semrush Blog | 110 | Migration | 2026-06-26 17:36 UTC |
 | [I rebuilt our content update pipeline in Claude Code. Here's why.](https://www.semrush.com/blog/how-i-rebuilt-our-content-update-pipeline/) | Semrush Blog | 110 | Content | 2026-06-25 14:19 UTC |
 | [Digital marketing strategies: Types &amp; how to build one](https://www.semrush.com/blog/digital-marketing-strategies/) | Semrush Blog | 110 | AI Search | 2026-06-25 09:01 UTC |
 | [Average Organic Traffic Benchmarks From Real Websites (June 2026)](https://ahrefs.com/blog/average-organic-traffic-benchmarks/) | Ahrefs Blog | 105 | AI Search | 2026-06-23 12:21 UTC |
