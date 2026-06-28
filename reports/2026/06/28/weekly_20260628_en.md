@@ -21,7 +21,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads API To Disallow Creation Of Smart Campaigns After August 3](https://www.seroundtable.com/google-ads-api-smart-campaigns-disallow-41567.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-26 11:31 UTC |
 | [Google Business Profiles Adds Message Button With AI Agent](https://www.seroundtable.com/google-business-profiles-message-button-41575.html) | Search Engine Roundtable | 170 | Local SEO | 2026-06-26 11:21 UTC |
 | [Google Ads Hosted Forms Leads Form Now Live](https://www.seroundtable.com/google-hosted-forms-leads-form-live-41537.html) | Search Engine Roundtable | 170 | General | 2026-06-26 11:11 UTC |
-| [Daily Search Forum Recap: June 25, 2026](https://www.seroundtable.com/recap-06-25-2026-41572.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-25 14:00 UTC |
+| [Daily Search Forum Recap: June 25, 2026](https://www.seroundtable.com/recap-06-25-2026-41572.html) | Search Engine Roundtable | 155 | AI Search | 2026-06-25 14:00 UTC |
 | [Google's Deep Dive On Google Search Generative AI Controls](https://www.seroundtable.com/google-search-generative-ai-control-explained-41569.html) | Search Engine Roundtable | 155 | Links | 2026-06-25 11:51 UTC |
 | [Google AI Overviews Tests Button To Go To Only Web Results](https://www.seroundtable.com/google-ai-overviews-web-only-button-41566.html) | Search Engine Roundtable | 155 | AI Search | 2026-06-25 11:41 UTC |
 | [Google Ads API Version 24.2 Now Available](https://www.seroundtable.com/google-ads-api-v-24-2-41570.html) | Search Engine Roundtable | 155 | AI Search | 2026-06-25 11:31 UTC |
