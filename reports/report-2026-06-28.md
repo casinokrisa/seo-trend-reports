@@ -18,8 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [The Industry Mourns The Loss Of Bruce Clay: The Father Of SEO](https://www.seroundtable.com/bruce-clay-rip-41581.html) | Search Engine Roundtable | 170 | General | 2026-06-26 18:28 UTC |
-| [Google June 2026 Spam Update Has Finished Rolling Out](https://www.seroundtable.com/google-june-2026-spam-update-done-41580.html) | Search Engine Roundtable | 170 | General | 2026-06-26 18:10 UTC |
+| _No site items in window_ |  |  |  |  |
 
 ## Notes for manual writing
 
