@@ -30,9 +30,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Keeping Data-Driven Content Fresh Was a Monthly Slog. So We Taught an Agent to Do It.](https://ahrefs.com/blog/taught-agent-to-refresh-data-content/) | Ahrefs Blog | 120 | Content | 2026-06-25 14:35 UTC |
 | [What are URL parameters? A guide on how to use them](https://www.semrush.com/blog/url-parameters/) | Semrush Blog | 110 | Migration | 2026-06-26 17:36 UTC |
 | [I rebuilt our content update pipeline in Claude Code. Here's why.](https://www.semrush.com/blog/how-i-rebuilt-our-content-update-pipeline/) | Semrush Blog | 110 | Content | 2026-06-25 14:19 UTC |
-| [Digital marketing strategies: Types &amp; how to build one](https://www.semrush.com/blog/digital-marketing-strategies/) | Semrush Blog | 110 | AI Search | 2026-06-25 09:01 UTC |
 | [Average Organic Traffic Benchmarks From Real Websites (June 2026)](https://ahrefs.com/blog/average-organic-traffic-benchmarks/) | Ahrefs Blog | 105 | AI Search | 2026-06-23 12:21 UTC |
 | [What is a Good Organic CTR? Real Website Benchmarks (June 2026)](https://ahrefs.com/blog/what-is-a-good-ctr/) | Ahrefs Blog | 105 | GSC | 2026-06-22 14:59 UTC |
+| [Digital marketing strategies: Types &amp; how to build one](https://www.semrush.com/blog/digital-marketing-strategies/) | Semrush Blog | 95 | AI Search | 2026-06-25 09:01 UTC |
 | [Google E-E-A-T: What it is &amp; how it affects SEO](https://www.semrush.com/blog/eeat/) | Semrush Blog | 95 | Content | 2026-06-23 14:32 UTC |
 | [Content gap analysis: A step-by-step guide](https://www.semrush.com/blog/content-gap-analysis/) | Semrush Blog | 95 | Content | 2026-06-23 14:19 UTC |
 | [The technical SEO checklist for search engines and AI search](https://www.semrush.com/blog/technical-seo-checklist/) | Semrush Blog | 95 | Indexing | 2026-06-23 09:32 UTC |
