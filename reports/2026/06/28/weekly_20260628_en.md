@@ -27,11 +27,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads API Version 24.2 Now Available](https://www.seroundtable.com/google-ads-api-v-24-2-41570.html) | Search Engine Roundtable | 155 | AI Search | 2026-06-25 11:31 UTC |
 | [Google: When AI Performance Reports Count Impressions](https://www.seroundtable.com/google-ai-performance-report-count-impressions-41564.html) | Search Engine Roundtable | 155 | Links | 2026-06-25 11:21 UTC |
 | [Google AI Mode Ask Anything Box With Autocomplete](https://www.seroundtable.com/google-ai-mode-ask-anything-autocomplete-41565.html) | Search Engine Roundtable | 155 | AI Search | 2026-06-25 11:11 UTC |
-| [Keeping Data-Driven Content Fresh Was a Monthly Slog. So We Taught an Agent to Do It.](https://ahrefs.com/blog/taught-agent-to-refresh-data-content/) | Ahrefs Blog | 120 | Content | 2026-06-25 14:35 UTC |
 | [What are URL parameters? A guide on how to use them](https://www.semrush.com/blog/url-parameters/) | Semrush Blog | 110 | Migration | 2026-06-26 17:36 UTC |
-| [I rebuilt our content update pipeline in Claude Code. Here's why.](https://www.semrush.com/blog/how-i-rebuilt-our-content-update-pipeline/) | Semrush Blog | 110 | Content | 2026-06-25 14:19 UTC |
+| [Keeping Data-Driven Content Fresh Was a Monthly Slog. So We Taught an Agent to Do It.](https://ahrefs.com/blog/taught-agent-to-refresh-data-content/) | Ahrefs Blog | 105 | Content | 2026-06-25 14:35 UTC |
 | [Average Organic Traffic Benchmarks From Real Websites (June 2026)](https://ahrefs.com/blog/average-organic-traffic-benchmarks/) | Ahrefs Blog | 105 | AI Search | 2026-06-23 12:21 UTC |
 | [What is a Good Organic CTR? Real Website Benchmarks (June 2026)](https://ahrefs.com/blog/what-is-a-good-ctr/) | Ahrefs Blog | 105 | GSC | 2026-06-22 14:59 UTC |
+| [I rebuilt our content update pipeline in Claude Code. Here's why.](https://www.semrush.com/blog/how-i-rebuilt-our-content-update-pipeline/) | Semrush Blog | 95 | Content | 2026-06-25 14:19 UTC |
 | [Digital marketing strategies: Types &amp; how to build one](https://www.semrush.com/blog/digital-marketing-strategies/) | Semrush Blog | 95 | AI Search | 2026-06-25 09:01 UTC |
 | [Google E-E-A-T: What it is &amp; how it affects SEO](https://www.semrush.com/blog/eeat/) | Semrush Blog | 95 | Content | 2026-06-23 14:32 UTC |
 | [Content gap analysis: A step-by-step guide](https://www.semrush.com/blog/content-gap-analysis/) | Semrush Blog | 95 | Content | 2026-06-23 14:19 UTC |
