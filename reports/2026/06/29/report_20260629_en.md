@@ -18,7 +18,11 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| _No site items in window_ |  |  |  |  |
+| [Google's Head Of Search - Liz Reid: We Want Great Content To Shine](https://www.seroundtable.com/google-we-want-great-content-to-shine-41582.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-29 11:51 UTC |
+| [Google Begins Rollout Of Top Stories Carousel In AI Overviews](https://www.seroundtable.com/google-top-stories-ai-overviews-41583.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-29 11:41 UTC |
+| [Google Breaks Out Where Local Inventory Ads &amp; Free Local Listings Are Available](https://www.seroundtable.com/google-local-inventory-ads-and-free-local-listings-regions-41578.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-29 11:31 UTC |
+| [ChatGPT Ads Drops Sponsored Label For Ad Label](https://www.seroundtable.com/chatgpt-ads-drops-sponsored-label-41584.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-29 11:21 UTC |
+| [Google Ads PMax Product Reporting By Asset Group &amp; View Audience Segments](https://www.seroundtable.com/google-ads-pmax-product-reports-audience-segments-41586.html) | Search Engine Roundtable | 210 | AI Search | 2026-06-29 11:11 UTC |
 
 ## Notes for manual writing
 
