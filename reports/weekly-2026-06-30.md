@@ -34,8 +34,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Digital marketing strategies: Types &amp; how to build one](https://www.semrush.com/blog/digital-marketing-strategies/) | Semrush Blog | 95 | AI Search | 2026-06-25 09:01 UTC |
 | [Google E-E-A-T: What it is &amp; how it affects SEO](https://www.semrush.com/blog/eeat/) | Semrush Blog | 95 | Content | 2026-06-23 14:32 UTC |
 | [Content gap analysis: A step-by-step guide](https://www.semrush.com/blog/content-gap-analysis/) | Semrush Blog | 95 | Content | 2026-06-23 14:19 UTC |
-| [The technical SEO checklist for search engines and AI search](https://www.semrush.com/blog/technical-seo-checklist/) | Semrush Blog | 95 | Indexing | 2026-06-23 09:32 UTC |
-| [Google Launches Open Knowledge Format, an AI Standard](https://www.semrush.com/blog/google-launches-open-knowledge-format-for-ai-agents/) | Semrush Blog | 95 | AI Search | 2026-06-23 09:15 UTC |
 
 ## Notes
 
