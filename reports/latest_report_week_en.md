@@ -27,8 +27,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads PMax Product Reporting By Asset Group &amp; View Audience Segments](https://www.seroundtable.com/google-ads-pmax-product-reports-audience-segments-41586.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-29 11:11 UTC |
 | [The Industry Mourns The Loss Of Bruce Clay: The Father Of SEO](https://www.seroundtable.com/bruce-clay-rip-41581.html) | Search Engine Roundtable | 155 | General | 2026-06-26 18:28 UTC |
 | [Google June 2026 Spam Update Has Finished Rolling Out](https://www.seroundtable.com/google-june-2026-spam-update-done-41580.html) | Search Engine Roundtable | 155 | General | 2026-06-26 18:10 UTC |
-| [Google completes its June 2026 spam update rollout](https://www.semrush.com/blog/google-completes-spam-update-rollout/) | Semrush Blog | 150 | General | 2026-06-30 14:52 UTC |
-| [Ecommerce AI SEO: How to optimize online stores for LLMs](https://www.semrush.com/blog/ecommerce-ai-seo/) | Semrush Blog | 150 | AI Search | 2026-06-30 14:18 UTC |
+| [Google completes its June 2026 spam update rollout](https://www.semrush.com/blog/google-completes-spam-update-rollout/) | Semrush Blog | 130 | General | 2026-06-30 14:52 UTC |
+| [Ecommerce AI SEO: How to optimize online stores for LLMs](https://www.semrush.com/blog/ecommerce-ai-seo/) | Semrush Blog | 130 | AI Search | 2026-06-30 14:18 UTC |
 | [Only 25% of cited sources overlap between ChatGPT's different reasoning modes [Study]](https://www.semrush.com/blog/chatgpt-reasoning-ai-visibility/) | Semrush Blog | 130 | AI Search | 2026-06-30 13:10 UTC |
 | [What is video SEO? How to optimize for YouTube, Google &amp; AI](https://www.semrush.com/blog/video-seo/) | Semrush Blog | 130 | AI Search | 2026-06-30 11:49 UTC |
 | [Keeping Data-Driven Content Fresh Was a Monthly Slog. So We Taught an Agent to Do It.](https://ahrefs.com/blog/taught-agent-to-refresh-data-content/) | Ahrefs Blog | 105 | Content | 2026-06-25 14:35 UTC |
