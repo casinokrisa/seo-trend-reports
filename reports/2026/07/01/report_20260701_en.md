@@ -18,6 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Fabrice Canel Retires From Microsoft After Almost 30 Years Of Service](https://www.seroundtable.com/fabrice-canel-retires-41602.html) | Search Engine Roundtable | 210 | General | 2026-07-01 09:40 UTC |
 | [Google Search Console Has First Generative AI Reporting Bug On June 24](https://www.seroundtable.com/google-generative-ai-discover-report-bug-41601.html) | Search Engine Roundtable | 190 | GSC | 2026-06-30 19:55 UTC |
 | [Daily Search Forum Recap: June 30, 2026](https://www.seroundtable.com/recap-06-30-2026-41593.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-30 14:00 UTC |
 | [Google: Meta Descriptions Not Required But They Are Useful](https://www.seroundtable.com/google-meta-descriptions-41590.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-30 11:51 UTC |

@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Fabrice Canel Retires From Microsoft After Almost 30 Years Of Service](https://www.seroundtable.com/fabrice-canel-retires-41602.html) | Search Engine Roundtable | 210 | General | 2026-07-01 09:40 UTC |
 | [Google Search Console Has First Generative AI Reporting Bug On June 24](https://www.seroundtable.com/google-generative-ai-discover-report-bug-41601.html) | Search Engine Roundtable | 190 | GSC | 2026-06-30 19:55 UTC |
 | [Daily Search Forum Recap: June 30, 2026](https://www.seroundtable.com/recap-06-30-2026-41593.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-30 14:00 UTC |
 | [Google: Meta Descriptions Not Required But They Are Useful](https://www.seroundtable.com/google-meta-descriptions-41590.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-30 11:51 UTC |
@@ -26,7 +27,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [ChatGPT Ads Drops Sponsored Label For Ad Label](https://www.seroundtable.com/chatgpt-ads-drops-sponsored-label-41584.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-29 11:21 UTC |
 | [Google Ads PMax Product Reporting By Asset Group &amp; View Audience Segments](https://www.seroundtable.com/google-ads-pmax-product-reports-audience-segments-41586.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-29 11:11 UTC |
 | [The Industry Mourns The Loss Of Bruce Clay: The Father Of SEO](https://www.seroundtable.com/bruce-clay-rip-41581.html) | Search Engine Roundtable | 155 | General | 2026-06-26 18:28 UTC |
-| [Google June 2026 Spam Update Has Finished Rolling Out](https://www.seroundtable.com/google-june-2026-spam-update-done-41580.html) | Search Engine Roundtable | 155 | General | 2026-06-26 18:10 UTC |
 | [Google completes its June 2026 spam update rollout](https://www.semrush.com/blog/google-completes-spam-update-rollout/) | Semrush Blog | 130 | General | 2026-06-30 14:52 UTC |
 | [Ecommerce AI SEO: How to optimize online stores for LLMs](https://www.semrush.com/blog/ecommerce-ai-seo/) | Semrush Blog | 130 | AI Search | 2026-06-30 14:18 UTC |
 | [Only 25% of cited sources overlap between ChatGPT's different reasoning modes [Study]](https://www.semrush.com/blog/chatgpt-reasoning-ai-visibility/) | Semrush Blog | 130 | AI Search | 2026-06-30 13:10 UTC |
