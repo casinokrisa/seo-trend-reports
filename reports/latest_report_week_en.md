@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Search Console Has First Generative AI Reporting Bug On June 24](https://www.seroundtable.com/google-generative-ai-discover-report-bug-41601.html) | Search Engine Roundtable | 210 | GSC | 2026-06-30 19:55 UTC |
+| [Google Search Console Has First Generative AI Reporting Bug On June 24](https://www.seroundtable.com/google-generative-ai-discover-report-bug-41601.html) | Search Engine Roundtable | 190 | GSC | 2026-06-30 19:55 UTC |
 | [Daily Search Forum Recap: June 30, 2026](https://www.seroundtable.com/recap-06-30-2026-41593.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-30 14:00 UTC |
 | [Google: Meta Descriptions Not Required But They Are Useful](https://www.seroundtable.com/google-meta-descriptions-41590.html) | Search Engine Roundtable | 190 | AI Search | 2026-06-30 11:51 UTC |
 | [Google Ads / Merchant Center Customer Match Uploaded Via Merchant API](https://www.seroundtable.com/google-customer-match-merchant-api-41588.html) | Search Engine Roundtable | 190 | General | 2026-06-30 11:41 UTC |
