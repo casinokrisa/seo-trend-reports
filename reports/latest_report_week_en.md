@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: July 1, 2026](https://www.seroundtable.com/recap-07-01-2026-41605.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-01 14:00 UTC |
+| [Daily Search Forum Recap: July 1, 2026](https://www.seroundtable.com/recap-07-01-2026-41605.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-01 14:00 UTC |
 | [Google AI Mode Improves Links For Recipes, Again](https://www.seroundtable.com/google-ai-mode-improves-links-recipes-41600.html) | Search Engine Roundtable | 190 | Links | 2026-07-01 11:51 UTC |
 | [Google AI Overviews Showing Markdown Files In Snippets Unexpectedly](https://www.seroundtable.com/google-ai-overview-markdown-files-41595.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-01 11:41 UTC |
 | [Google Ads Tests AI Generated Summaries Under Descriptions](https://www.seroundtable.com/google-ads-ai-generate-summaries-41599.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-01 11:31 UTC |
@@ -20,7 +20,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google AdSense Ad Intents To Add AI-Gemini-Generated Content](https://www.seroundtable.com/google-adsense-ad-intents-gemini-generated-content-41597.html) | Search Engine Roundtable | 190 | Links | 2026-07-01 11:11 UTC |
 | [Google Trends Adds Comparison Over Time Data &amp; Chart](https://www.seroundtable.com/google-trends-comparison-over-time-data-41604.html) | Search Engine Roundtable | 190 | General | 2026-07-01 10:13 UTC |
 | [Fabrice Canel Retires From Microsoft After Almost 30 Years Of Service](https://www.seroundtable.com/fabrice-canel-retires-41602.html) | Search Engine Roundtable | 190 | General | 2026-07-01 09:40 UTC |
-| [Google Search Console Has First Generative AI Reporting Bug On June 24](https://www.seroundtable.com/google-generative-ai-discover-report-bug-41601.html) | Search Engine Roundtable | 190 | GSC | 2026-06-30 19:55 UTC |
+| [Google Search Console Has First Generative AI Reporting Bug On June 24](https://www.seroundtable.com/google-generative-ai-discover-report-bug-41601.html) | Search Engine Roundtable | 170 | GSC | 2026-06-30 19:55 UTC |
 | [Daily Search Forum Recap: June 30, 2026](https://www.seroundtable.com/recap-06-30-2026-41593.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-30 14:00 UTC |
 | [Google: Meta Descriptions Not Required But They Are Useful](https://www.seroundtable.com/google-meta-descriptions-41590.html) | Search Engine Roundtable | 170 | AI Search | 2026-06-30 11:51 UTC |
 | [Google Ads / Merchant Center Customer Match Uploaded Via Merchant API](https://www.seroundtable.com/google-customer-match-merchant-api-41588.html) | Search Engine Roundtable | 170 | General | 2026-06-30 11:41 UTC |
