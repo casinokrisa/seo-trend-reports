@@ -18,6 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Daily Search Forum Recap: July 2, 2026](https://www.seroundtable.com/recap-07-02-2026-41616.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-02 14:00 UTC |
 | [Google Ads Makes Changes To Bidding For Campaigns Limited By Budget](https://www.seroundtable.com/google-ads-bidding-campaigns-limited-budget-41618.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-02 11:58 UTC |
 | [July 2026 Google Webmaster Report](https://www.seroundtable.com/july-2026-google-webmaster-report-41591.html) | Search Engine Roundtable | 210 | General | 2026-07-02 11:51 UTC |
 | [Bing Webmaster Tools Backfilled Data For AI Performance Reports On June 1st](https://www.seroundtable.com/bing-webmaster-tools-ai-reports-backfill-41606.html) | Search Engine Roundtable | 210 | GSC | 2026-07-02 11:41 UTC |
@@ -32,9 +33,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Fraudulent DMCA Takedowns Wreak Havoc In Google Search](https://www.seroundtable.com/fake-dmca-takedowns-google-search-41596.html) | Search Engine Roundtable | 170 | Content | 2026-07-01 11:21 UTC |
 | [Google AdSense Ad Intents To Add AI-Gemini-Generated Content](https://www.seroundtable.com/google-adsense-ad-intents-gemini-generated-content-41597.html) | Search Engine Roundtable | 170 | Links | 2026-07-01 11:11 UTC |
 | [Google Trends Adds Comparison Over Time Data &amp; Chart](https://www.seroundtable.com/google-trends-comparison-over-time-data-41604.html) | Search Engine Roundtable | 170 | General | 2026-07-01 10:13 UTC |
-| [Fabrice Canel Retires From Microsoft After Almost 30 Years Of Service](https://www.seroundtable.com/fabrice-canel-retires-41602.html) | Search Engine Roundtable | 170 | General | 2026-07-01 09:40 UTC |
-| [How to Use Reddit for SEO (The Right Way)](https://ahrefs.com/blog/reddit-seo/) | Ahrefs Blog | 140 | AI Search | 2026-07-01 15:10 UTC |
-| [What is SEO? A complete guide to search engine optimization](https://www.semrush.com/blog/what-is-seo/) | Semrush Blog | 130 | AI Search | 2026-07-01 15:12 UTC |
+| [How to Use Reddit for SEO (The Right Way)](https://ahrefs.com/blog/reddit-seo/) | Ahrefs Blog | 120 | AI Search | 2026-07-01 15:10 UTC |
+| [What is SEO? A complete guide to search engine optimization](https://www.semrush.com/blog/what-is-seo/) | Semrush Blog | 110 | AI Search | 2026-07-01 15:12 UTC |
 | [How to create a marketing strategy in 7 steps](https://www.semrush.com/blog/marketing-strategy/) | Semrush Blog | 110 | Migration | 2026-07-01 11:25 UTC |
 | [Competitor ad spend: How to analyze your rivals’ budgets](https://www.semrush.com/blog/competitor-ad-spend/) | Semrush Blog | 110 | Migration | 2026-07-01 11:12 UTC |
 | [How to build a PPC strategy that gets results](https://www.semrush.com/blog/ppc-strategy/) | Semrush Blog | 110 | Migration | 2026-07-01 10:52 UTC |
