@@ -6,7 +6,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [While One Client Lost 90% of Traffic, Another Client Grew After Google's June 24 Update](https://www.reddit.com/r/localseo/comments/1ul9yxw/while_one_client_lost_90_of_traffic_another/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-02 06:08 UTC |
+| [What loading speed is good enough?](https://www.reddit.com/r/localseo/comments/1ul59gb/what_loading_speed_is_good_enough/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-02 02:12 UTC |
+| [Google Business Profile Strategy for Plumbers](https://www.reddit.com/r/localseo/comments/1ukzejm/google_business_profile_strategy_for_plumbers/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-01 21:56 UTC |
+| [Free local citation sites: the tiered list I use to rank my own business (2026)](https://www.reddit.com/r/localseo/comments/1ukyjqw/free_local_citation_sites_the_tiered_list_i_use/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-01 21:23 UTC |
+| [From 10K to 1.2K Daily Impressions... Thanks, Google.](https://www.reddit.com/r/localseo/comments/1uksqo3/from_10k_to_12k_daily_impressions_thanks_google/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-07-01 17:49 UTC |
+| [Search Console looks fine but traffic keeps dropping](https://www.reddit.com/r/localseo/comments/1uks2sv/search_console_looks_fine_but_traffic_keeps/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-07-01 17:25 UTC |
+| [Anyone worked with a Montreal agency for deep technical SEO audits?](https://www.reddit.com/r/localseo/comments/1ukqpr5/anyone_worked_with_a_montreal_agency_for_deep/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Technical SEO | 2026-07-01 16:35 UTC |
+| [Local Citation Services: What's Actually Worth Paying For in 2026?](https://www.reddit.com/r/localseo/comments/1ukqo9g/local_citation_services_whats_actually_worth/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-01 16:34 UTC |
+| [Delayed traffic drop after migration anyone seen this pattern?](https://www.reddit.com/r/localseo/comments/1ukqkps/delayed_traffic_drop_after_migration_anyone_seen/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Migration | 2026-07-01 16:30 UTC |
+| [AI content works… until you scale it too far](https://www.reddit.com/r/localseo/comments/1ukqb72/ai_content_works_until_you_scale_it_too_far/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-01 16:20 UTC |
+| [625 click in last 28 days, started seo 6 months ago.](https://www.reddit.com/r/localseo/comments/1ukpyii/625_click_in_last_28_days_started_seo_6_months_ago/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-01 16:07 UTC |
+| [title: We audited 50 SaaS landing pages for the latest 2026 SEO update—here are the averages](https://www.reddit.com/r/localseo/comments/1ukpsro/title_we_audited_50_saas_landing_pages_for_the/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-01 16:01 UTC |
 
 ## Weekly notable items (Sites)
 
