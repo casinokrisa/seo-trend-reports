@@ -20,17 +20,17 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: July 1, 2026](https://www.seroundtable.com/recap-07-01-2026-41605.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-01 14:00 UTC |
 | [Google AI Mode Improves Links For Recipes, Again](https://www.seroundtable.com/google-ai-mode-improves-links-recipes-41600.html) | Search Engine Roundtable | 190 | Links | 2026-07-01 11:51 UTC |
-| [Google AI Overviews Showing Markdown Files In Snippets Unexpectedly](https://www.seroundtable.com/google-ai-overview-markdown-files-41595.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-01 11:41 UTC |
-| [Google Ads Tests AI Generated Summaries Under Descriptions](https://www.seroundtable.com/google-ads-ai-generate-summaries-41599.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-01 11:31 UTC |
-| [Fraudulent DMCA Takedowns Wreak Havoc In Google Search](https://www.seroundtable.com/fake-dmca-takedowns-google-search-41596.html) | Search Engine Roundtable | 190 | Content | 2026-07-01 11:21 UTC |
-| [Google AdSense Ad Intents To Add AI-Gemini-Generated Content](https://www.seroundtable.com/google-adsense-ad-intents-gemini-generated-content-41597.html) | Search Engine Roundtable | 190 | Links | 2026-07-01 11:11 UTC |
-| [Google Trends Adds Comparison Over Time Data &amp; Chart](https://www.seroundtable.com/google-trends-comparison-over-time-data-41604.html) | Search Engine Roundtable | 190 | General | 2026-07-01 10:13 UTC |
-| [Fabrice Canel Retires From Microsoft After Almost 30 Years Of Service](https://www.seroundtable.com/fabrice-canel-retires-41602.html) | Search Engine Roundtable | 190 | General | 2026-07-01 09:40 UTC |
+| [Google AI Overviews Showing Markdown Files In Snippets Unexpectedly](https://www.seroundtable.com/google-ai-overview-markdown-files-41595.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-01 11:41 UTC |
+| [Google Ads Tests AI Generated Summaries Under Descriptions](https://www.seroundtable.com/google-ads-ai-generate-summaries-41599.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-01 11:31 UTC |
+| [Fraudulent DMCA Takedowns Wreak Havoc In Google Search](https://www.seroundtable.com/fake-dmca-takedowns-google-search-41596.html) | Search Engine Roundtable | 170 | Content | 2026-07-01 11:21 UTC |
+| [Google AdSense Ad Intents To Add AI-Gemini-Generated Content](https://www.seroundtable.com/google-adsense-ad-intents-gemini-generated-content-41597.html) | Search Engine Roundtable | 170 | Links | 2026-07-01 11:11 UTC |
+| [Google Trends Adds Comparison Over Time Data &amp; Chart](https://www.seroundtable.com/google-trends-comparison-over-time-data-41604.html) | Search Engine Roundtable | 170 | General | 2026-07-01 10:13 UTC |
+| [Fabrice Canel Retires From Microsoft After Almost 30 Years Of Service](https://www.seroundtable.com/fabrice-canel-retires-41602.html) | Search Engine Roundtable | 170 | General | 2026-07-01 09:40 UTC |
 | [How to Use Reddit for SEO (The Right Way)](https://ahrefs.com/blog/reddit-seo/) | Ahrefs Blog | 140 | AI Search | 2026-07-01 15:10 UTC |
 | [What is SEO? A complete guide to search engine optimization](https://www.semrush.com/blog/what-is-seo/) | Semrush Blog | 130 | AI Search | 2026-07-01 15:12 UTC |
-| [How to create a marketing strategy in 7 steps](https://www.semrush.com/blog/marketing-strategy/) | Semrush Blog | 130 | Migration | 2026-07-01 11:25 UTC |
-| [Competitor ad spend: How to analyze your rivals’ budgets](https://www.semrush.com/blog/competitor-ad-spend/) | Semrush Blog | 130 | Migration | 2026-07-01 11:12 UTC |
-| [How to build a PPC strategy that gets results](https://www.semrush.com/blog/ppc-strategy/) | Semrush Blog | 130 | Migration | 2026-07-01 10:52 UTC |
+| [How to create a marketing strategy in 7 steps](https://www.semrush.com/blog/marketing-strategy/) | Semrush Blog | 110 | Migration | 2026-07-01 11:25 UTC |
+| [Competitor ad spend: How to analyze your rivals’ budgets](https://www.semrush.com/blog/competitor-ad-spend/) | Semrush Blog | 110 | Migration | 2026-07-01 11:12 UTC |
+| [How to build a PPC strategy that gets results](https://www.semrush.com/blog/ppc-strategy/) | Semrush Blog | 110 | Migration | 2026-07-01 10:52 UTC |
 
 ## Notes for manual writing
 
