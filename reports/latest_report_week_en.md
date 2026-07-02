@@ -12,8 +12,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: July 2, 2026](https://www.seroundtable.com/recap-07-02-2026-41616.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-02 14:00 UTC |
 | [Updating our AMP documentation](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Indexing | 2026-07-01 00:00 UTC |
+| [Daily Search Forum Recap: July 2, 2026](https://www.seroundtable.com/recap-07-02-2026-41616.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-02 14:00 UTC |
 | [Google Ads Makes Changes To Bidding For Campaigns Limited By Budget](https://www.seroundtable.com/google-ads-bidding-campaigns-limited-budget-41618.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-02 11:58 UTC |
 | [July 2026 Google Webmaster Report](https://www.seroundtable.com/july-2026-google-webmaster-report-41591.html) | Search Engine Roundtable | 190 | General | 2026-07-02 11:51 UTC |
 | [Bing Webmaster Tools Backfilled Data For AI Performance Reports On June 1st](https://www.seroundtable.com/bing-webmaster-tools-ai-reports-backfill-41606.html) | Search Engine Roundtable | 190 | GSC | 2026-07-02 11:41 UTC |
