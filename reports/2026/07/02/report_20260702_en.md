@@ -32,7 +32,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Tests AI Generated Summaries Under Descriptions](https://www.seroundtable.com/google-ads-ai-generate-summaries-41599.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-01 11:31 UTC |
 | [Fraudulent DMCA Takedowns Wreak Havoc In Google Search](https://www.seroundtable.com/fake-dmca-takedowns-google-search-41596.html) | Search Engine Roundtable | 170 | Content | 2026-07-01 11:21 UTC |
 | [Google AdSense Ad Intents To Add AI-Gemini-Generated Content](https://www.seroundtable.com/google-adsense-ad-intents-gemini-generated-content-41597.html) | Search Engine Roundtable | 170 | Links | 2026-07-01 11:11 UTC |
-| [Google Trends Adds Comparison Over Time Data &amp; Chart](https://www.seroundtable.com/google-trends-comparison-over-time-data-41604.html) | Search Engine Roundtable | 170 | General | 2026-07-01 10:13 UTC |
 | [How to Use Reddit for SEO (The Right Way)](https://ahrefs.com/blog/reddit-seo/) | Ahrefs Blog | 120 | AI Search | 2026-07-01 15:10 UTC |
 | [What is SEO? A complete guide to search engine optimization](https://www.semrush.com/blog/what-is-seo/) | Semrush Blog | 110 | AI Search | 2026-07-01 15:12 UTC |
 | [How to create a marketing strategy in 7 steps](https://www.semrush.com/blog/marketing-strategy/) | Semrush Blog | 110 | Migration | 2026-07-01 11:25 UTC |
