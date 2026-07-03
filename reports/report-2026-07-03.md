@@ -26,9 +26,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Sends Searchers To Site-Hosted AMP Pages Instead Of Cached Page](https://www.seroundtable.com/google-publisher-hosted-amp-pages-change-41614.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-02 11:21 UTC |
 | [You Can Now Unsubscribe From Google Ads Expert Book Call Emails](https://www.seroundtable.com/google-ads-expert-book-call-emails-unsubscribe-41617.html) | Search Engine Roundtable | 190 | Links | 2026-07-02 11:16 UTC |
 | [Google Ads Performance Max Channel Diagnostics](https://www.seroundtable.com/google-ads-channel-diagnostics-41607.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-02 11:11 UTC |
-| [Daily Search Forum Recap: July 1, 2026](https://www.seroundtable.com/recap-07-01-2026-41605.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-01 14:00 UTC |
-| [How to Use Reddit for SEO (The Right Way)](https://ahrefs.com/blog/reddit-seo/) | Ahrefs Blog | 120 | AI Search | 2026-07-01 15:10 UTC |
-| [What is SEO? A complete guide to search engine optimization](https://www.semrush.com/blog/what-is-seo/) | Semrush Blog | 110 | AI Search | 2026-07-01 15:12 UTC |
 
 ## Notes for manual writing
 
