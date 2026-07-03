@@ -18,6 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Daily Search Forum Recap: July 3, 2026](https://www.seroundtable.com/recap-07-03-2026-41624.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-03 14:00 UTC |
 | [Google Page Indexing Report Has Been Fixed &amp; Updated](https://www.seroundtable.com/google-page-indexing-report-fixed-and-updated-41626.html) | Search Engine Roundtable | 210 | Indexing | 2026-07-03 12:20 UTC |
 | [Search News Buzz Video Recap: Google June Spam Update Done, Fraud DMCA Takedowns Breaks Google, Costly Google Ad Budget Changes &amp; More](https://www.seroundtable.com/video-06-03-2026-41619.html) | Search Engine Roundtable | 210 | Links | 2026-07-03 12:01 UTC |
 | [Google Local Reviews Go Missing For Many Businesses](https://www.seroundtable.com/google-business-profile-reviews-vanish-41620.html) | Search Engine Roundtable | 210 | Local SEO | 2026-07-03 11:51 UTC |
@@ -32,7 +33,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Bing Webmaster Tools Backfilled Data For AI Performance Reports On June 1st](https://www.seroundtable.com/bing-webmaster-tools-ai-reports-backfill-41606.html) | Search Engine Roundtable | 170 | GSC | 2026-07-02 11:41 UTC |
 | [Google Ads Updates All Campaigns Drop Down](https://www.seroundtable.com/google-ads-updates-all-campaigns-41598.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-02 11:31 UTC |
 | [Google Sends Searchers To Site-Hosted AMP Pages Instead Of Cached Page](https://www.seroundtable.com/google-publisher-hosted-amp-pages-change-41614.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-02 11:21 UTC |
-| [You Can Now Unsubscribe From Google Ads Expert Book Call Emails](https://www.seroundtable.com/google-ads-expert-book-call-emails-unsubscribe-41617.html) | Search Engine Roundtable | 170 | Links | 2026-07-02 11:16 UTC |
 
 ## Notes for manual writing
 
