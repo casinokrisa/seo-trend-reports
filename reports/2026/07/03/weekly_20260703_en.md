@@ -12,8 +12,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: July 3, 2026](https://www.seroundtable.com/recap-07-03-2026-41624.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-03 14:00 UTC |
 | [Updating our AMP documentation](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Indexing | 2026-07-01 00:00 UTC |
+| [Daily Search Forum Recap: July 3, 2026](https://www.seroundtable.com/recap-07-03-2026-41624.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-03 14:00 UTC |
 | [Google Page Indexing Report Has Been Fixed &amp; Updated](https://www.seroundtable.com/google-page-indexing-report-fixed-and-updated-41626.html) | Search Engine Roundtable | 190 | Indexing | 2026-07-03 12:20 UTC |
 | [Search News Buzz Video Recap: Google June Spam Update Done, Fraud DMCA Takedowns Breaks Google, Costly Google Ad Budget Changes &amp; More](https://www.seroundtable.com/video-06-03-2026-41619.html) | Search Engine Roundtable | 190 | Links | 2026-07-03 12:01 UTC |
 | [Google Local Reviews Go Missing For Many Businesses](https://www.seroundtable.com/google-business-profile-reviews-vanish-41620.html) | Search Engine Roundtable | 190 | Local SEO | 2026-07-03 11:51 UTC |
@@ -28,6 +28,10 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Bing Webmaster Tools Backfilled Data For AI Performance Reports On June 1st](https://www.seroundtable.com/bing-webmaster-tools-ai-reports-backfill-41606.html) | Search Engine Roundtable | 170 | GSC | 2026-07-02 11:41 UTC |
 | [Google Ads Updates All Campaigns Drop Down](https://www.seroundtable.com/google-ads-updates-all-campaigns-41598.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-02 11:31 UTC |
 | [Google Sends Searchers To Site-Hosted AMP Pages Instead Of Cached Page](https://www.seroundtable.com/google-publisher-hosted-amp-pages-change-41614.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-02 11:21 UTC |
+| [100 Most Expensive Keywords for Google Ads (July 2026)](https://ahrefs.com/blog/most-expensive-keywords/) | Ahrefs Blog | 140 | AI Search | 2026-07-03 09:30 UTC |
+| [100 Most Asked Questions on Google (July 2026)](https://ahrefs.com/blog/top-google-questions/) | Ahrefs Blog | 140 | General | 2026-07-03 09:30 UTC |
+| [Top Google Searches (July 2026)](https://ahrefs.com/blog/top-google-searches/) | Ahrefs Blog | 140 | AI Search | 2026-07-03 08:48 UTC |
+| [Top Trending Topics (July 2026)](https://ahrefs.com/blog/trending-topics/) | Ahrefs Blog | 140 | General | 2026-07-03 08:46 UTC |
 | [How to Use Reddit for SEO (The Right Way)](https://ahrefs.com/blog/reddit-seo/) | Ahrefs Blog | 120 | AI Search | 2026-07-01 15:10 UTC |
 | [What is SEO? A complete guide to search engine optimization](https://www.semrush.com/blog/what-is-seo/) | Semrush Blog | 110 | AI Search | 2026-07-01 15:12 UTC |
 | [How to create a marketing strategy in 7 steps](https://www.semrush.com/blog/marketing-strategy/) | Semrush Blog | 110 | Migration | 2026-07-01 11:25 UTC |
