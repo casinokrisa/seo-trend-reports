@@ -22,10 +22,10 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Makes Changes To Bidding For Campaigns Limited By Budget](https://www.seroundtable.com/google-ads-bidding-campaigns-limited-budget-41618.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-02 11:58 UTC |
 | [July 2026 Google Webmaster Report](https://www.seroundtable.com/july-2026-google-webmaster-report-41591.html) | Search Engine Roundtable | 190 | General | 2026-07-02 11:51 UTC |
 | [Bing Webmaster Tools Backfilled Data For AI Performance Reports On June 1st](https://www.seroundtable.com/bing-webmaster-tools-ai-reports-backfill-41606.html) | Search Engine Roundtable | 190 | GSC | 2026-07-02 11:41 UTC |
-| [Google Ads Updates All Campaigns Drop Down](https://www.seroundtable.com/google-ads-updates-all-campaigns-41598.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-02 11:31 UTC |
-| [Google Sends Searchers To Site-Hosted AMP Pages Instead Of Cached Page](https://www.seroundtable.com/google-publisher-hosted-amp-pages-change-41614.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-02 11:21 UTC |
-| [You Can Now Unsubscribe From Google Ads Expert Book Call Emails](https://www.seroundtable.com/google-ads-expert-book-call-emails-unsubscribe-41617.html) | Search Engine Roundtable | 190 | Links | 2026-07-02 11:16 UTC |
-| [Google Ads Performance Max Channel Diagnostics](https://www.seroundtable.com/google-ads-channel-diagnostics-41607.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-02 11:11 UTC |
+| [Google Ads Updates All Campaigns Drop Down](https://www.seroundtable.com/google-ads-updates-all-campaigns-41598.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-02 11:31 UTC |
+| [Google Sends Searchers To Site-Hosted AMP Pages Instead Of Cached Page](https://www.seroundtable.com/google-publisher-hosted-amp-pages-change-41614.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-02 11:21 UTC |
+| [You Can Now Unsubscribe From Google Ads Expert Book Call Emails](https://www.seroundtable.com/google-ads-expert-book-call-emails-unsubscribe-41617.html) | Search Engine Roundtable | 170 | Links | 2026-07-02 11:16 UTC |
+| [Google Ads Performance Max Channel Diagnostics](https://www.seroundtable.com/google-ads-channel-diagnostics-41607.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-02 11:11 UTC |
 
 ## Notes for manual writing
 
