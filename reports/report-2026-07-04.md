@@ -27,7 +27,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Fourth Of July 2026 Doodle Celebrating 250 Years Of The USA](https://www.seroundtable.com/google-fourth-of-july-2026-doodle-41625.html) | Search Engine Roundtable | 190 | General | 2026-07-03 11:23 UTC |
 | [Google Third-Party Rates For Hotel Ads Feature Going Away On Sept. 30](https://www.seroundtable.com/google-third-party-rates-for-hotel-ads-sunset-41603.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-03 11:21 UTC |
 | [Microsoft Advertising Performance Max Experiments Beta Types](https://www.seroundtable.com/microsoft-advertising-pmax-experiments-41615.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-03 11:11 UTC |
-| [Daily Search Forum Recap: July 2, 2026](https://www.seroundtable.com/recap-07-02-2026-41616.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-02 14:00 UTC |
 | [100 Most Expensive Keywords for Google Ads (July 2026)](https://ahrefs.com/blog/most-expensive-keywords/) | Ahrefs Blog | 140 | AI Search | 2026-07-03 09:30 UTC |
 | [100 Most Asked Questions on Google (July 2026)](https://ahrefs.com/blog/top-google-questions/) | Ahrefs Blog | 140 | General | 2026-07-03 09:30 UTC |
 | [Top Google Searches (July 2026)](https://ahrefs.com/blog/top-google-searches/) | Ahrefs Blog | 140 | AI Search | 2026-07-03 08:48 UTC |
