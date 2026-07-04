@@ -32,8 +32,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [100 Most Asked Questions on Google (July 2026)](https://ahrefs.com/blog/top-google-questions/) | Ahrefs Blog | 120 | General | 2026-07-03 09:30 UTC |
 | [Top Google Searches (July 2026)](https://ahrefs.com/blog/top-google-searches/) | Ahrefs Blog | 120 | AI Search | 2026-07-03 08:48 UTC |
 | [Top Trending Topics (July 2026)](https://ahrefs.com/blog/trending-topics/) | Ahrefs Blog | 120 | General | 2026-07-03 08:46 UTC |
-| [How to Use Reddit for SEO (The Right Way)](https://ahrefs.com/blog/reddit-seo/) | Ahrefs Blog | 120 | AI Search | 2026-07-01 15:10 UTC |
-| [What is SEO? A complete guide to search engine optimization](https://www.semrush.com/blog/what-is-seo/) | Semrush Blog | 110 | AI Search | 2026-07-01 15:12 UTC |
+| [How to Use Reddit for SEO (The Right Way)](https://ahrefs.com/blog/reddit-seo/) | Ahrefs Blog | 105 | AI Search | 2026-07-01 15:10 UTC |
+| [What is SEO? A complete guide to search engine optimization](https://www.semrush.com/blog/what-is-seo/) | Semrush Blog | 95 | AI Search | 2026-07-01 15:12 UTC |
 | [How to create a marketing strategy in 7 steps](https://www.semrush.com/blog/marketing-strategy/) | Semrush Blog | 95 | Migration | 2026-07-01 11:25 UTC |
 | [Competitor ad spend: How to analyze your rivals’ budgets](https://www.semrush.com/blog/competitor-ad-spend/) | Semrush Blog | 95 | Migration | 2026-07-01 11:12 UTC |
 | [How to build a PPC strategy that gets results](https://www.semrush.com/blog/ppc-strategy/) | Semrush Blog | 95 | Migration | 2026-07-01 10:52 UTC |
