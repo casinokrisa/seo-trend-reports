@@ -18,8 +18,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: July 3, 2026](https://www.seroundtable.com/recap-07-03-2026-41624.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-03 14:00 UTC |
-| [Google Page Indexing Report Has Been Fixed &amp; Updated](https://www.seroundtable.com/google-page-indexing-report-fixed-and-updated-41626.html) | Search Engine Roundtable | 190 | Indexing | 2026-07-03 12:20 UTC |
+| [Daily Search Forum Recap: July 3, 2026](https://www.seroundtable.com/recap-07-03-2026-41624.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-03 14:00 UTC |
+| [Google Page Indexing Report Has Been Fixed &amp; Updated](https://www.seroundtable.com/google-page-indexing-report-fixed-and-updated-41626.html) | Search Engine Roundtable | 170 | Indexing | 2026-07-03 12:20 UTC |
 | [Search News Buzz Video Recap: Google June Spam Update Done, Fraud DMCA Takedowns Breaks Google, Costly Google Ad Budget Changes &amp; More](https://www.seroundtable.com/video-06-03-2026-41619.html) | Search Engine Roundtable | 170 | Links | 2026-07-03 12:01 UTC |
 | [Google Local Reviews Go Missing For Many Businesses](https://www.seroundtable.com/google-business-profile-reviews-vanish-41620.html) | Search Engine Roundtable | 170 | Local SEO | 2026-07-03 11:51 UTC |
 | [Google Business Profile Restrictions &amp; Penalties Are Additive](https://www.seroundtable.com/google-business-profile-restrictions-double-41594.html) | Search Engine Roundtable | 170 | Local SEO | 2026-07-03 11:41 UTC |
