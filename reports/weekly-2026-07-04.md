@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [I have a niche property (a campground for RVs) in a small city, and my SEO is awful.](https://www.reddit.com/r/localseo/comments/1umxe7l/i_have_a_niche_property_a_campground_for_rvs_in_a/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-04 02:43 UTC |
-| [Hi, I want some help with my site's seo](https://www.reddit.com/r/localseo/comments/1umwvi6/hi_i_want_some_help_with_my_sites_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-04 02:17 UTC |
-| [Where do most of your clients come from?](https://www.reddit.com/r/localseo/comments/1umut64/where_do_most_of_your_clients_come_from/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-04 00:36 UTC |
-| [AI Overviews, Reddit, and the Future of Local SEO Manipulation](https://www.reddit.com/r/localseo/comments/1umrqja/ai_overviews_reddit_and_the_future_of_local_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-03 22:13 UTC |
-| [How can I do better with local catering business?](https://www.reddit.com/r/localseo/comments/1umox49/how_can_i_do_better_with_local_catering_business/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-03 20:16 UTC |
-| [How are you getting Google Business Profile access from clients?](https://www.reddit.com/r/localseo/comments/1umjlcm/how_are_you_getting_google_business_profile/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-03 16:47 UTC |
-| [I thought ranking was the hard part...](https://www.reddit.com/r/localseo/comments/1umix6u/i_thought_ranking_was_the_hard_part/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-03 16:22 UTC |
-| [B2B SEO: How can I scale up these Google Search Console results? (1.1K clicks, 47.9K impressions)](https://www.reddit.com/r/localseo/comments/1umicg3/b2b_seo_how_can_i_scale_up_these_google_search/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-07-03 16:00 UTC |
-| [How to get clients for Local SEO](https://www.reddit.com/r/localseo/comments/1umh6rv/how_to_get_clients_for_local_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-03 15:16 UTC |
-| [What's One SEO Trend You Think Everyone Should Pay Attention To?](https://www.reddit.com/r/localseo/comments/1umdrto/whats_one_seo_trend_you_think_everyone_should_pay/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-03 12:57 UTC |
-| [😭I hate my voice during cold call](https://www.reddit.com/r/localseo/comments/1umaaea/i_hate_my_voice_during_cold_call/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-03 10:03 UTC |
-| [Why we need AI content for our local businesses, even when we know the risks?](https://www.reddit.com/r/localseo/comments/1um7bpp/why_we_need_ai_content_for_our_local_businesses/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-03 07:08 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
