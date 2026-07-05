@@ -22,12 +22,12 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Fourth Of July 2026 Doodle Celebrating 250 Years Of The USA](https://www.seroundtable.com/google-fourth-of-july-2026-doodle-41625.html) | Search Engine Roundtable | 170 | General | 2026-07-03 11:23 UTC |
 | [Google Third-Party Rates For Hotel Ads Feature Going Away On Sept. 30](https://www.seroundtable.com/google-third-party-rates-for-hotel-ads-sunset-41603.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-03 11:21 UTC |
 | [Microsoft Advertising Performance Max Experiments Beta Types](https://www.seroundtable.com/microsoft-advertising-pmax-experiments-41615.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-03 11:11 UTC |
-| [Daily Search Forum Recap: July 2, 2026](https://www.seroundtable.com/recap-07-02-2026-41616.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-02 14:00 UTC |
-| [Google Ads Makes Changes To Bidding For Campaigns Limited By Budget](https://www.seroundtable.com/google-ads-bidding-campaigns-limited-budget-41618.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-02 11:58 UTC |
-| [July 2026 Google Webmaster Report](https://www.seroundtable.com/july-2026-google-webmaster-report-41591.html) | Search Engine Roundtable | 170 | General | 2026-07-02 11:51 UTC |
-| [Bing Webmaster Tools Backfilled Data For AI Performance Reports On June 1st](https://www.seroundtable.com/bing-webmaster-tools-ai-reports-backfill-41606.html) | Search Engine Roundtable | 170 | GSC | 2026-07-02 11:41 UTC |
-| [Google Ads Updates All Campaigns Drop Down](https://www.seroundtable.com/google-ads-updates-all-campaigns-41598.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-02 11:31 UTC |
-| [Google Sends Searchers To Site-Hosted AMP Pages Instead Of Cached Page](https://www.seroundtable.com/google-publisher-hosted-amp-pages-change-41614.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-02 11:21 UTC |
+| [Daily Search Forum Recap: July 2, 2026](https://www.seroundtable.com/recap-07-02-2026-41616.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-02 14:00 UTC |
+| [Google Ads Makes Changes To Bidding For Campaigns Limited By Budget](https://www.seroundtable.com/google-ads-bidding-campaigns-limited-budget-41618.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-02 11:58 UTC |
+| [July 2026 Google Webmaster Report](https://www.seroundtable.com/july-2026-google-webmaster-report-41591.html) | Search Engine Roundtable | 155 | General | 2026-07-02 11:51 UTC |
+| [Bing Webmaster Tools Backfilled Data For AI Performance Reports On June 1st](https://www.seroundtable.com/bing-webmaster-tools-ai-reports-backfill-41606.html) | Search Engine Roundtable | 155 | GSC | 2026-07-02 11:41 UTC |
+| [Google Ads Updates All Campaigns Drop Down](https://www.seroundtable.com/google-ads-updates-all-campaigns-41598.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-02 11:31 UTC |
+| [Google Sends Searchers To Site-Hosted AMP Pages Instead Of Cached Page](https://www.seroundtable.com/google-publisher-hosted-amp-pages-change-41614.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-02 11:21 UTC |
 | [100 Most Expensive Keywords for Google Ads (July 2026)](https://ahrefs.com/blog/most-expensive-keywords/) | Ahrefs Blog | 120 | AI Search | 2026-07-03 09:30 UTC |
 | [100 Most Asked Questions on Google (July 2026)](https://ahrefs.com/blog/top-google-questions/) | Ahrefs Blog | 120 | General | 2026-07-03 09:30 UTC |
 | [Top Google Searches (July 2026)](https://ahrefs.com/blog/top-google-searches/) | Ahrefs Blog | 120 | AI Search | 2026-07-03 08:48 UTC |
