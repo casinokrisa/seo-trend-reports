@@ -28,8 +28,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Fourth Of July 2026 Doodle Celebrating 250 Years Of The USA](https://www.seroundtable.com/google-fourth-of-july-2026-doodle-41625.html) | Search Engine Roundtable | 155 | General | 2026-07-03 11:23 UTC |
 | [Google Third-Party Rates For Hotel Ads Feature Going Away On Sept. 30](https://www.seroundtable.com/google-third-party-rates-for-hotel-ads-sunset-41603.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-03 11:21 UTC |
 | [Microsoft Advertising Performance Max Experiments Beta Types](https://www.seroundtable.com/microsoft-advertising-pmax-experiments-41615.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-03 11:11 UTC |
-| [Google research reveals pattern-level AI video spam detection](https://www.semrush.com/blog/google-research-and-ai-spam-detection/) | Semrush Blog | 150 | AI Search | 2026-07-06 15:10 UTC |
 | [Self-Promotional Content Works—Until It Backfires (AI SEO Experiment)](https://ahrefs.com/blog/self-promotional-content-ai-seo-experiment/) | Ahrefs Blog | 140 | AI Search | 2026-07-06 10:00 UTC |
+| [Google research reveals pattern-level AI video spam detection](https://www.semrush.com/blog/google-research-and-ai-spam-detection/) | Semrush Blog | 130 | AI Search | 2026-07-06 15:10 UTC |
 | [100 Most Expensive Keywords for Google Ads (July 2026)](https://ahrefs.com/blog/most-expensive-keywords/) | Ahrefs Blog | 105 | AI Search | 2026-07-03 09:30 UTC |
 | [100 Most Asked Questions on Google (July 2026)](https://ahrefs.com/blog/top-google-questions/) | Ahrefs Blog | 105 | General | 2026-07-03 09:30 UTC |
 | [Top Google Searches (July 2026)](https://ahrefs.com/blog/top-google-searches/) | Ahrefs Blog | 105 | AI Search | 2026-07-03 08:48 UTC |
