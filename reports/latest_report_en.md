@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: July 6, 2026](https://www.seroundtable.com/recap-07-06-2026-41632.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-06 14:00 UTC |
+| [Daily Search Forum Recap: July 6, 2026](https://www.seroundtable.com/recap-07-06-2026-41632.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-06 14:00 UTC |
 | [Google: Cloudflare Content Signals Robots.txt Directive Has No Effects](https://www.seroundtable.com/google-cloudflare-content-signals-41631.html) | Search Engine Roundtable | 190 | Indexing | 2026-07-06 11:51 UTC |
 | [ChatGPT Ads Can Generate Ads For You](https://www.seroundtable.com/chatgpt-ads-generated-ads-41622.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-06 11:32 UTC |
 | [Further Exploration Found In The Wild Within Google AI Overviews](https://www.seroundtable.com/google-further-exploration-41621.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-06 11:31 UTC |
