@@ -13,11 +13,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: July 6, 2026](https://www.seroundtable.com/recap-07-06-2026-41632.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-06 14:00 UTC |
-| [Google: Cloudflare Content Signals Robots.txt Directive Has No Effects](https://www.seroundtable.com/google-cloudflare-content-signals-41631.html) | Search Engine Roundtable | 210 | Indexing | 2026-07-06 11:51 UTC |
-| [ChatGPT Ads Can Generate Ads For You](https://www.seroundtable.com/chatgpt-ads-generated-ads-41622.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-06 11:32 UTC |
-| [Further Exploration Found In The Wild Within Google AI Overviews](https://www.seroundtable.com/google-further-exploration-41621.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-06 11:31 UTC |
-| [Google &amp; YouTube Shopify App Sync May Cause Mess After August 18th](https://www.seroundtable.com/google-youtube-shopify-app-sync-merchant-concerns-41627.html) | Search Engine Roundtable | 210 | General | 2026-07-06 11:21 UTC |
-| [Bing Tests Product Detail Overlay With Retailer Pricing, Price Insights &amp; More](https://www.seroundtable.com/bing-product-detail-overlay-41623.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-06 11:11 UTC |
+| [Google: Cloudflare Content Signals Robots.txt Directive Has No Effects](https://www.seroundtable.com/google-cloudflare-content-signals-41631.html) | Search Engine Roundtable | 190 | Indexing | 2026-07-06 11:51 UTC |
+| [ChatGPT Ads Can Generate Ads For You](https://www.seroundtable.com/chatgpt-ads-generated-ads-41622.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-06 11:32 UTC |
+| [Further Exploration Found In The Wild Within Google AI Overviews](https://www.seroundtable.com/google-further-exploration-41621.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-06 11:31 UTC |
+| [Google &amp; YouTube Shopify App Sync May Cause Mess After August 18th](https://www.seroundtable.com/google-youtube-shopify-app-sync-merchant-concerns-41627.html) | Search Engine Roundtable | 190 | General | 2026-07-06 11:21 UTC |
+| [Bing Tests Product Detail Overlay With Retailer Pricing, Price Insights &amp; More](https://www.seroundtable.com/bing-product-detail-overlay-41623.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-06 11:11 UTC |
 | [Updating our AMP documentation](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Indexing | 2026-07-01 00:00 UTC |
 | [Daily Search Forum Recap: July 3, 2026](https://www.seroundtable.com/recap-07-03-2026-41624.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-03 14:00 UTC |
 | [Google Page Indexing Report Has Been Fixed &amp; Updated](https://www.seroundtable.com/google-page-indexing-report-fixed-and-updated-41626.html) | Search Engine Roundtable | 155 | Indexing | 2026-07-03 12:20 UTC |
