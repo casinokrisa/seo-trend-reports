@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Daily Search Forum Recap: July 8, 2026](https://www.seroundtable.com/recap-07-08-2026-41648.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-08 14:00 UTC |
 | [Google Tests google.com/goto Tracking URLs In Search Results](https://www.seroundtable.com/google-com-goto-as-tracking-urls-41647.html) | Search Engine Roundtable | 210 | General | 2026-07-08 11:51 UTC |
 | [Google Ads Conversions Last Event Ping Timestamp](https://www.seroundtable.com/google-ads-conversions-last-event-ping-41640.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-08 11:41 UTC |
 | [Google Ads New AI Max FAQs](https://www.seroundtable.com/google-ads-ai-max-faq-41633.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-08 11:31 UTC |
@@ -27,7 +28,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [ChatGPT Ads Gain New Audiences Targeting](https://www.seroundtable.com/audiences-chatgpt-ads-41638.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-07 11:11 UTC |
 | [Daily Search Forum Recap: July 6, 2026](https://www.seroundtable.com/recap-07-06-2026-41632.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-06 14:00 UTC |
 | [Google: Cloudflare Content Signals Robots.txt Directive Has No Effects](https://www.seroundtable.com/google-cloudflare-content-signals-41631.html) | Search Engine Roundtable | 170 | Indexing | 2026-07-06 11:51 UTC |
-| [ChatGPT Ads Can Generate Ads For You](https://www.seroundtable.com/chatgpt-ads-generated-ads-41622.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-06 11:32 UTC |
 | [How AI tools shape the B2B buying process: A survey of 600+ US business professionals](https://www.semrush.com/blog/how-ai-shapes-b2b-buying/) | Semrush Blog | 150 | AI Search | 2026-07-08 12:00 UTC |
 | [Self-Promotional Content Works—Until It Backfires (AI SEO Experiment)](https://ahrefs.com/blog/self-promotional-content-ai-seo-experiment/) | Ahrefs Blog | 120 | AI Search | 2026-07-06 10:00 UTC |
 | [How Cardmarket wins search by knowing its community better than anyone](https://www.semrush.com/blog/how-cardmarket-wins-search/) | Semrush Blog | 110 | AI Search | 2026-07-07 13:00 UTC |
@@ -36,9 +36,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [100 Most Asked Questions on Google (July 2026)](https://ahrefs.com/blog/top-google-questions/) | Ahrefs Blog | 105 | General | 2026-07-03 09:30 UTC |
 | [Top Google Searches (July 2026)](https://ahrefs.com/blog/top-google-searches/) | Ahrefs Blog | 105 | AI Search | 2026-07-03 08:48 UTC |
 | [Top Trending Topics (July 2026)](https://ahrefs.com/blog/trending-topics/) | Ahrefs Blog | 105 | General | 2026-07-03 08:46 UTC |
-| [How to Use Reddit for SEO (The Right Way)](https://ahrefs.com/blog/reddit-seo/) | Ahrefs Blog | 105 | AI Search | 2026-07-01 15:10 UTC |
 | [AI Overviews are expanding across commercial intent search [Study]](https://www.semrush.com/blog/ai-overviews-commercial-search-study/) | Semrush Blog | 95 | AI Search | 2026-07-02 16:22 UTC |
-| [What is SEO? A complete guide to search engine optimization](https://www.semrush.com/blog/what-is-seo/) | Semrush Blog | 95 | AI Search | 2026-07-01 15:12 UTC |
 
 ## Notes
 
