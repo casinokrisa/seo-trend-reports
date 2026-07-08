@@ -15,11 +15,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Added category to merchant listing structured data](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Links | 2026-07-07 00:00 UTC |
 | [Daily Search Forum Recap: July 7, 2026](https://www.seroundtable.com/recap-07-07-2026-41639.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-07 14:00 UTC |
 | [Google Search Console Now Shows You Instagram, TikTok, X &amp; YouTube Content Search Performance](https://www.seroundtable.com/google-search-console-social-content-performance-41636.html) | Search Engine Roundtable | 190 | GSC | 2026-07-07 13:00 UTC |
-| [Google Adds Product Category &amp; Sale Duration To Merchant Listing Doc](https://www.seroundtable.com/google-product-category-sale-duration-merchant-listing-41637.html) | Search Engine Roundtable | 190 | Technical SEO | 2026-07-07 11:51 UTC |
-| [Google Ads Newish Apply Theme To Asset Group](https://www.seroundtable.com/google-ads-apply-theme-to-asset-group-41629.html) | Search Engine Roundtable | 190 | Links | 2026-07-07 11:41 UTC |
-| [Google Tests Visit Site Button On Google Ads Sponsored Results](https://www.seroundtable.com/google-visit-site-button-sponsored-results-41628.html) | Search Engine Roundtable | 190 | Links | 2026-07-07 11:31 UTC |
-| [Google AdSense Expert Personalized Advice](https://www.seroundtable.com/google-adsense-expert-advice-41634.html) | Search Engine Roundtable | 190 | General | 2026-07-07 11:21 UTC |
-| [ChatGPT Ads Gain New Audiences Targeting](https://www.seroundtable.com/audiences-chatgpt-ads-41638.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-07 11:11 UTC |
+| [Google Adds Product Category &amp; Sale Duration To Merchant Listing Doc](https://www.seroundtable.com/google-product-category-sale-duration-merchant-listing-41637.html) | Search Engine Roundtable | 170 | Technical SEO | 2026-07-07 11:51 UTC |
+| [Google Ads Newish Apply Theme To Asset Group](https://www.seroundtable.com/google-ads-apply-theme-to-asset-group-41629.html) | Search Engine Roundtable | 170 | Links | 2026-07-07 11:41 UTC |
+| [Google Tests Visit Site Button On Google Ads Sponsored Results](https://www.seroundtable.com/google-visit-site-button-sponsored-results-41628.html) | Search Engine Roundtable | 170 | Links | 2026-07-07 11:31 UTC |
+| [Google AdSense Expert Personalized Advice](https://www.seroundtable.com/google-adsense-expert-advice-41634.html) | Search Engine Roundtable | 170 | General | 2026-07-07 11:21 UTC |
+| [ChatGPT Ads Gain New Audiences Targeting](https://www.seroundtable.com/audiences-chatgpt-ads-41638.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-07 11:11 UTC |
 | [Daily Search Forum Recap: July 6, 2026](https://www.seroundtable.com/recap-07-06-2026-41632.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-06 14:00 UTC |
 | [Google: Cloudflare Content Signals Robots.txt Directive Has No Effects](https://www.seroundtable.com/google-cloudflare-content-signals-41631.html) | Search Engine Roundtable | 170 | Indexing | 2026-07-06 11:51 UTC |
 | [ChatGPT Ads Can Generate Ads For You](https://www.seroundtable.com/chatgpt-ads-generated-ads-41622.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-06 11:32 UTC |
@@ -38,9 +38,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [How to Use Reddit for SEO (The Right Way)](https://ahrefs.com/blog/reddit-seo/) | Ahrefs Blog | 105 | AI Search | 2026-07-01 15:10 UTC |
 | [AI Overviews are expanding across commercial intent search [Study]](https://www.semrush.com/blog/ai-overviews-commercial-search-study/) | Semrush Blog | 95 | AI Search | 2026-07-02 16:22 UTC |
 | [What is SEO? A complete guide to search engine optimization](https://www.semrush.com/blog/what-is-seo/) | Semrush Blog | 95 | AI Search | 2026-07-01 15:12 UTC |
-| [How to create a marketing strategy in 7 steps](https://www.semrush.com/blog/marketing-strategy/) | Semrush Blog | 95 | Migration | 2026-07-01 11:25 UTC |
-| [Competitor ad spend: How to analyze your rivals’ budgets](https://www.semrush.com/blog/competitor-ad-spend/) | Semrush Blog | 95 | Migration | 2026-07-01 11:12 UTC |
-| [How to build a PPC strategy that gets results](https://www.semrush.com/blog/ppc-strategy/) | Semrush Blog | 95 | Migration | 2026-07-01 10:52 UTC |
 
 ## Notes
 
