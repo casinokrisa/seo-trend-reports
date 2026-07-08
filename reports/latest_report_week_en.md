@@ -12,8 +12,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Search Broke All Usage Records With Highest Usage Yesterday](https://www.seroundtable.com/google-search-broke-all-usage-records-41651.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-08 15:58 UTC |
 | [Added category to merchant listing structured data](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Links | 2026-07-07 00:00 UTC |
+| [Google Search Broke All Usage Records With Highest Usage Yesterday](https://www.seroundtable.com/google-search-broke-all-usage-records-41651.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-08 15:58 UTC |
 | [Daily Search Forum Recap: July 8, 2026](https://www.seroundtable.com/recap-07-08-2026-41648.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-08 14:00 UTC |
 | [Google Tests google.com/goto Tracking URLs In Search Results](https://www.seroundtable.com/google-com-goto-as-tracking-urls-41647.html) | Search Engine Roundtable | 190 | General | 2026-07-08 11:51 UTC |
 | [Google Ads Conversions Last Event Ping Timestamp](https://www.seroundtable.com/google-ads-conversions-last-event-ping-41640.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-08 11:41 UTC |
