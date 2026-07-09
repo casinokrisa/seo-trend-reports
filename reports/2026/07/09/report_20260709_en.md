@@ -30,8 +30,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Tests google.com/goto Tracking URLs In Search Results](https://www.seroundtable.com/google-com-goto-as-tracking-urls-41647.html) | Search Engine Roundtable | 170 | General | 2026-07-08 11:51 UTC |
 | [Google Ads Conversions Last Event Ping Timestamp](https://www.seroundtable.com/google-ads-conversions-last-event-ping-41640.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-08 11:41 UTC |
 | [Google Ads New AI Max FAQs](https://www.seroundtable.com/google-ads-ai-max-faq-41633.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-08 11:31 UTC |
-| [Google Search Product Results Contact Store For Price Label](https://www.seroundtable.com/google-search-contact-store-for-price-41630.html) | Search Engine Roundtable | 170 | General | 2026-07-08 11:21 UTC |
-| [Google Business Profiles Appeals Adds Evidence Uploads In Workflow](https://www.seroundtable.com/google-business-profiles-appeal-evidence-uploads-41641.html) | Search Engine Roundtable | 170 | Local SEO | 2026-07-08 11:11 UTC |
 | [Retrieval Augmented Generation (RAG) Explained: How AI Decides Which Pages to Search &#038; Cite](https://ahrefs.com/blog/retrieval-augmented-generation/) | Ahrefs Blog | 140 | AI Search | 2026-07-09 08:56 UTC |
 | [The 7 best AI visibility tools to win AI search in 2026](https://www.semrush.com/blog/best-ai-visibility-tools/) | Semrush Blog | 110 | AI Search | 2026-07-08 20:20 UTC |
 | [How AI tools shape the B2B buying process: A survey of 600+ US business professionals](https://www.semrush.com/blog/how-ai-shapes-b2b-buying/) | Semrush Blog | 110 | AI Search | 2026-07-08 12:00 UTC |
