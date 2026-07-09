@@ -19,11 +19,11 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: July 9, 2026](https://www.seroundtable.com/recap-07-09-2026-41657.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-09 14:00 UTC |
-| [Google Ads Formats That Don't Allow Alcohol Ads](https://www.seroundtable.com/google-ads-formats-alcohol-ads-41652.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-09 11:51 UTC |
-| [Google Merchant Center Next Is Now Just Google Merchant Center](https://www.seroundtable.com/google-merchant-center-next-41658.html) | Search Engine Roundtable | 210 | General | 2026-07-09 11:41 UTC |
-| [Google Search Generative AI Controls Rolling Out Beyond UK Sites](https://www.seroundtable.com/google-search-generative-ai-controls-41653.html) | Search Engine Roundtable | 210 | GSC | 2026-07-09 11:31 UTC |
-| [Google Ads Tests Favicons In Sponsored Results Sitelinks](https://www.seroundtable.com/google-ads-favicons-sitelinks-41656.html) | Search Engine Roundtable | 210 | Links | 2026-07-09 11:21 UTC |
-| [Google Ads Travel Search Campaigns Expands For Things To Do &amp; Events Beta](https://www.seroundtable.com/google-ads-travel-expands-41655.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-09 11:11 UTC |
+| [Google Ads Formats That Don't Allow Alcohol Ads](https://www.seroundtable.com/google-ads-formats-alcohol-ads-41652.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-09 11:51 UTC |
+| [Google Merchant Center Next Is Now Just Google Merchant Center](https://www.seroundtable.com/google-merchant-center-next-41658.html) | Search Engine Roundtable | 190 | General | 2026-07-09 11:41 UTC |
+| [Google Search Generative AI Controls Rolling Out Beyond UK Sites](https://www.seroundtable.com/google-search-generative-ai-controls-41653.html) | Search Engine Roundtable | 190 | GSC | 2026-07-09 11:31 UTC |
+| [Google Ads Tests Favicons In Sponsored Results Sitelinks](https://www.seroundtable.com/google-ads-favicons-sitelinks-41656.html) | Search Engine Roundtable | 190 | Links | 2026-07-09 11:21 UTC |
+| [Google Ads Travel Search Campaigns Expands For Things To Do &amp; Events Beta](https://www.seroundtable.com/google-ads-travel-expands-41655.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-09 11:11 UTC |
 | [Google Search Broke All Usage Records With Highest Usage Yesterday](https://www.seroundtable.com/google-search-broke-all-usage-records-41651.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-08 15:58 UTC |
 | [Daily Search Forum Recap: July 8, 2026](https://www.seroundtable.com/recap-07-08-2026-41648.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-08 14:00 UTC |
 | [Google Tests google.com/goto Tracking URLs In Search Results](https://www.seroundtable.com/google-com-goto-as-tracking-urls-41647.html) | Search Engine Roundtable | 170 | General | 2026-07-08 11:51 UTC |
