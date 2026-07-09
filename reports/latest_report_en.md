@@ -18,7 +18,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: July 9, 2026](https://www.seroundtable.com/recap-07-09-2026-41657.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-09 14:00 UTC |
+| [New Google Reviews Bug: You Have No Reviews Yet](https://www.seroundtable.com/google-you-have-no-reviews-yet-41662.html) | Search Engine Roundtable | 210 | Local SEO | 2026-07-09 18:30 UTC |
+| [Daily Search Forum Recap: July 9, 2026](https://www.seroundtable.com/recap-07-09-2026-41657.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-09 14:00 UTC |
 | [Google Ads Formats That Don't Allow Alcohol Ads](https://www.seroundtable.com/google-ads-formats-alcohol-ads-41652.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-09 11:51 UTC |
 | [Google Merchant Center Next Is Now Just Google Merchant Center](https://www.seroundtable.com/google-merchant-center-next-41658.html) | Search Engine Roundtable | 190 | General | 2026-07-09 11:41 UTC |
 | [Google Search Generative AI Controls Rolling Out Beyond UK Sites](https://www.seroundtable.com/google-search-generative-ai-controls-41653.html) | Search Engine Roundtable | 190 | GSC | 2026-07-09 11:31 UTC |
