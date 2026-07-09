@@ -25,10 +25,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Ads New AI Max FAQs](https://www.seroundtable.com/google-ads-ai-max-faq-41633.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-08 11:31 UTC |
 | [Google Search Product Results Contact Store For Price Label](https://www.seroundtable.com/google-search-contact-store-for-price-41630.html) | Search Engine Roundtable | 190 | General | 2026-07-08 11:21 UTC |
 | [Google Business Profiles Appeals Adds Evidence Uploads In Workflow](https://www.seroundtable.com/google-business-profiles-appeal-evidence-uploads-41641.html) | Search Engine Roundtable | 190 | Local SEO | 2026-07-08 11:11 UTC |
-| [Daily Search Forum Recap: July 7, 2026](https://www.seroundtable.com/recap-07-07-2026-41639.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-07 14:00 UTC |
-| [Google Search Console Now Shows You Instagram, TikTok, X &amp; YouTube Content Search Performance](https://www.seroundtable.com/google-search-console-social-content-performance-41636.html) | Search Engine Roundtable | 170 | GSC | 2026-07-07 13:00 UTC |
 | [How AI tools shape the B2B buying process: A survey of 600+ US business professionals](https://www.semrush.com/blog/how-ai-shapes-b2b-buying/) | Semrush Blog | 130 | AI Search | 2026-07-08 12:00 UTC |
-| [How Cardmarket wins search by knowing its community better than anyone](https://www.semrush.com/blog/how-cardmarket-wins-search/) | Semrush Blog | 110 | AI Search | 2026-07-07 13:00 UTC |
 
 ## Notes for manual writing
 
