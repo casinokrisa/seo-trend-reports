@@ -33,6 +33,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Search Product Results Contact Store For Price Label](https://www.seroundtable.com/google-search-contact-store-for-price-41630.html) | Search Engine Roundtable | 170 | General | 2026-07-08 11:21 UTC |
 | [Google Business Profiles Appeals Adds Evidence Uploads In Workflow](https://www.seroundtable.com/google-business-profiles-appeal-evidence-uploads-41641.html) | Search Engine Roundtable | 170 | Local SEO | 2026-07-08 11:11 UTC |
 | [Retrieval Augmented Generation (RAG) Explained: How AI Decides Which Pages to Search &#038; Cite](https://ahrefs.com/blog/retrieval-augmented-generation/) | Ahrefs Blog | 140 | AI Search | 2026-07-09 08:56 UTC |
+| [The 7 best AI visibility tools to win AI search in 2026](https://www.semrush.com/blog/best-ai-visibility-tools/) | Semrush Blog | 110 | AI Search | 2026-07-08 20:20 UTC |
 | [How AI tools shape the B2B buying process: A survey of 600+ US business professionals](https://www.semrush.com/blog/how-ai-shapes-b2b-buying/) | Semrush Blog | 110 | AI Search | 2026-07-08 12:00 UTC |
 
 ## Notes for manual writing

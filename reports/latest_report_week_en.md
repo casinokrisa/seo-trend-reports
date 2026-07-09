@@ -29,6 +29,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Business Profiles Appeals Adds Evidence Uploads In Workflow](https://www.seroundtable.com/google-business-profiles-appeal-evidence-uploads-41641.html) | Search Engine Roundtable | 170 | Local SEO | 2026-07-08 11:11 UTC |
 | [Daily Search Forum Recap: July 7, 2026](https://www.seroundtable.com/recap-07-07-2026-41639.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-07 14:00 UTC |
 | [Retrieval Augmented Generation (RAG) Explained: How AI Decides Which Pages to Search &#038; Cite](https://ahrefs.com/blog/retrieval-augmented-generation/) | Ahrefs Blog | 140 | AI Search | 2026-07-09 08:56 UTC |
+| [The 7 best AI visibility tools to win AI search in 2026](https://www.semrush.com/blog/best-ai-visibility-tools/) | Semrush Blog | 110 | AI Search | 2026-07-08 20:20 UTC |
 | [How AI tools shape the B2B buying process: A survey of 600+ US business professionals](https://www.semrush.com/blog/how-ai-shapes-b2b-buying/) | Semrush Blog | 110 | AI Search | 2026-07-08 12:00 UTC |
 | [How Cardmarket wins search by knowing its community better than anyone](https://www.semrush.com/blog/how-cardmarket-wins-search/) | Semrush Blog | 110 | AI Search | 2026-07-07 13:00 UTC |
 | [Self-Promotional Content Works—Until It Backfires (AI SEO Experiment)](https://ahrefs.com/blog/self-promotional-content-ai-seo-experiment/) | Ahrefs Blog | 105 | AI Search | 2026-07-06 10:00 UTC |
