@@ -6,13 +6,29 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [GBP suspension? Check if someone made a listing for every city first](https://www.reddit.com/r/localseo/comments/1usgzxn/gbp_suspension_check_if_someone_made_a_listing/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-10 07:50 UTC |
+| [How do you actually find out when a client's GBP gets suspended?](https://www.reddit.com/r/localseo/comments/1usgthk/how_do_you_actually_find_out_when_a_clients_gbp/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-10 07:40 UTC |
+| [Google Business Profile Not Showing New Reviews – Can't Reply to Latest Reviews (Anyone Else?)](https://www.reddit.com/r/localseo/comments/1usejru/google_business_profile_not_showing_new_reviews/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-10 05:33 UTC |
+| [Can someone explain how this is possible?](https://www.reddit.com/r/localseo/comments/1us3jiz/can_someone_explain_how_this_is_possible/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-09 21:24 UTC |
+| [Impressive June results GBP](https://www.reddit.com/r/localseo/comments/1us2ggq/impressive_june_results_gbp/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-09 20:43 UTC |
+| [Feedback for my website](https://www.reddit.com/r/localseo/comments/1us1iah/feedback_for_my_website/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-09 20:08 UTC |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
+| 1 | [GBP suspension? Check if someone made a listing for every city first](https://www.reddit.com/r/localseo/comments/1usgzxn/gbp_suspension_check_if_someone_made_a_listing/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-10 07:50 UTC |
+| 2 | [How do you actually find out when a client's GBP gets suspended?](https://www.reddit.com/r/localseo/comments/1usgthk/how_do_you_actually_find_out_when_a_clients_gbp/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-10 07:40 UTC |
+| 3 | [Google Business Profile Not Showing New Reviews – Can't Reply to Latest Reviews (Anyone Else?)](https://www.reddit.com/r/localseo/comments/1usejru/google_business_profile_not_showing_new_reviews/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-10 05:33 UTC |
+| 4 | [Can someone explain how this is possible?](https://www.reddit.com/r/localseo/comments/1us3jiz/can_someone_explain_how_this_is_possible/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-09 21:24 UTC |
+| 5 | [Impressive June results GBP](https://www.reddit.com/r/localseo/comments/1us2ggq/impressive_june_results_gbp/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-09 20:43 UTC |
+| 6 | [Feedback for my website](https://www.reddit.com/r/localseo/comments/1us1iah/feedback_for_my_website/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-09 20:08 UTC |
+| 7 | [SEO experts help!!](https://www.reddit.com/r/localseo/comments/1urz9cn/seo_experts_help/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-09 18:47 UTC |
+| 8 | [Hey guys I'm pretty new to seo i would like to add llmtxt to my shopify store can someone guide step by step](https://www.reddit.com/r/localseo/comments/1urxkqk/hey_guys_im_pretty_new_to_seo_i_would_like_to_add/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-09 17:49 UTC |
+| 9 | [The power of community! Looking for an SEO PM role](https://www.reddit.com/r/localseo/comments/1urwxok/the_power_of_community_looking_for_an_seo_pm_role/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-09 17:27 UTC |
+| 10 | [Citation questions](https://www.reddit.com/r/localseo/comments/1urw7sz/citation_questions/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-09 17:02 UTC |
+| 11 | [GSC now supports social/video platform properties. Useful for local SEO reporting?](https://www.reddit.com/r/localseo/comments/1urvnfv/gsc_now_supports_socialvideo_platform_properties/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-09 16:42 UTC |
+| 12 | [Has anyone here actually seen measurable results from optimizing for ChatGPT, Perplexity, or other AI search tools?](https://www.reddit.com/r/localseo/comments/1urv7yy/has_anyone_here_actually_seen_measurable_results/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-09 16:27 UTC |
 
 ## Notable items (Sites)
 
