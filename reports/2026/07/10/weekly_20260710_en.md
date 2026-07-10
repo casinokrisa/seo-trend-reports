@@ -28,7 +28,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Tests Favicons In Sponsored Results Sitelinks](https://www.seroundtable.com/google-ads-favicons-sitelinks-41656.html) | Search Engine Roundtable | 170 | Links | 2026-07-09 11:21 UTC |
 | [Google Ads Travel Search Campaigns Expands For Things To Do &amp; Events Beta](https://www.seroundtable.com/google-ads-travel-expands-41655.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-09 11:11 UTC |
 | [Google Search Broke All Usage Records With Highest Usage Yesterday](https://www.seroundtable.com/google-search-broke-all-usage-records-41651.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-08 15:58 UTC |
-| [Google Search Console adds social and video reports](https://www.semrush.com/blog/google-search-console-adds-social-and-video-reports/) | Semrush Blog | 150 | GSC | 2026-07-10 14:45 UTC |
+| [Google Search Console adds social and video reports](https://www.semrush.com/blog/google-search-console-adds-social-and-video-reports/) | Semrush Blog | 130 | GSC | 2026-07-10 14:45 UTC |
 | [Retrieval Augmented Generation (RAG) Explained: How AI Decides Which Pages to Search &#038; Cite](https://ahrefs.com/blog/retrieval-augmented-generation/) | Ahrefs Blog | 120 | AI Search | 2026-07-09 08:56 UTC |
 | [The 7 best AI visibility tools to win AI search in 2026](https://www.semrush.com/blog/best-ai-visibility-tools/) | Semrush Blog | 110 | AI Search | 2026-07-08 20:20 UTC |
 | [How AI tools shape the B2B buying process: A survey of 600+ US business professionals](https://www.semrush.com/blog/how-ai-shapes-b2b-buying/) | Semrush Blog | 110 | AI Search | 2026-07-08 12:00 UTC |
