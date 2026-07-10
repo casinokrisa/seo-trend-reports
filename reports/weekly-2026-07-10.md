@@ -13,7 +13,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Updated the canonicalization troubleshooting guide](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 220 | Indexing | 2026-07-10 00:00 UTC |
-| [Daily Search Forum Recap: July 10, 2026](https://www.seroundtable.com/recap-07-10-2026-41665.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-10 14:00 UTC |
+| [Daily Search Forum Recap: July 10, 2026](https://www.seroundtable.com/recap-07-10-2026-41665.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-10 14:00 UTC |
 | [Search News Buzz Video Recap: Google Search Breaks Usage Records, Social &amp; Video Platforms Show In Search Console &amp; More Google Ads, ChatGPT Ads &amp; More](https://www.seroundtable.com/video-07-10-2026-41660.html) | Search Engine Roundtable | 190 | GSC | 2026-07-10 12:01 UTC |
 | [Google Ads Now Show AI Creation/Edited Labels](https://www.seroundtable.com/google-ads-ai-labels-41659.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-10 11:51 UTC |
 | [Google Automatically Assigns Product Categories With Evolving Taxonomy](https://www.seroundtable.com/google-ads-product-categories-evolving-taxonomy-41654.html) | Search Engine Roundtable | 190 | General | 2026-07-10 11:41 UTC |
