@@ -6,7 +6,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Cleaning up a Canadian moving company's GBP what I found and what actually moved the needle](https://www.reddit.com/r/localseo/comments/1utbqkg/cleaning_up_a_canadian_moving_companys_gbp_what_i/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-11 05:55 UTC |
+| [I tested 8 local citation services for my local business — here's what actually made a difference (2026)](https://www.reddit.com/r/localseo/comments/1ustdfr/i_tested_8_local_citation_services_for_my_local/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-10 16:57 UTC |
+| [Heads up, Local SEOs: Google Business Profile bug is wiping out the reviews pane right now](https://www.reddit.com/r/localseo/comments/1ussoa7/heads_up_local_seos_google_business_profile_bug/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-10 16:32 UTC |
+| [Tech SEO is underrated. Got my client their best june so far with £45K rev by just fixing the technical bones.](https://www.reddit.com/r/localseo/comments/1usrsib/tech_seo_is_underrated_got_my_client_their_best/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Technical SEO | 2026-07-10 16:00 UTC |
+| [Why Can't Google Fix Location Pages from Companies Gaming the System?](https://www.reddit.com/r/localseo/comments/1usrmfr/why_cant_google_fix_location_pages_from_companies/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-10 15:54 UTC |
+| [Attorney GBP Under Generic Name but Doing Okay - He wants it changed](https://www.reddit.com/r/localseo/comments/1uson2o/attorney_gbp_under_generic_name_but_doing_okay_he/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-10 14:04 UTC |
+| [Got my first local seo client](https://www.reddit.com/r/localseo/comments/1usjvcc/got_my_first_local_seo_client/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-10 10:34 UTC |
+| [What's the best link building platform for local SEO?](https://www.reddit.com/r/localseo/comments/1usjtl9/whats_the_best_link_building_platform_for_local/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-10 10:31 UTC |
+| [GBP suspension? Check if someone made a listing for every city first](https://www.reddit.com/r/localseo/comments/1usgzxn/gbp_suspension_check_if_someone_made_a_listing/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-10 07:50 UTC |
+| [How do you actually find out when a client's GBP gets suspended?](https://www.reddit.com/r/localseo/comments/1usgthk/how_do_you_actually_find_out_when_a_clients_gbp/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-10 07:40 UTC |
+| [Google Business Profile Not Showing New Reviews – Can't Reply to Latest Reviews (Anyone Else?)](https://www.reddit.com/r/localseo/comments/1usejru/google_business_profile_not_showing_new_reviews/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-10 05:33 UTC |
+| [Can someone explain how this is possible?](https://www.reddit.com/r/localseo/comments/1us3jiz/can_someone_explain_how_this_is_possible/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-09 21:24 UTC |
 
 ## Weekly notable items (Sites)
 
