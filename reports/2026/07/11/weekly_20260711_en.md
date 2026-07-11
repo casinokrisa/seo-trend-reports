@@ -30,8 +30,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Search Broke All Usage Records With Highest Usage Yesterday](https://www.seroundtable.com/google-search-broke-all-usage-records-41651.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-08 15:58 UTC |
 | [Retrieval Augmented Generation (RAG) Explained: How AI Decides Which Pages to Search &#038; Cite](https://ahrefs.com/blog/retrieval-augmented-generation/) | Ahrefs Blog | 120 | AI Search | 2026-07-09 08:56 UTC |
 | [Google Search Console adds social and video reports](https://www.semrush.com/blog/google-search-console-adds-social-and-video-reports/) | Semrush Blog | 110 | GSC | 2026-07-10 14:45 UTC |
-| [The 7 best AI visibility tools to win AI search in 2026](https://www.semrush.com/blog/best-ai-visibility-tools/) | Semrush Blog | 110 | AI Search | 2026-07-08 20:20 UTC |
 | [Self-Promotional Content Works—Until It Backfires (AI SEO Experiment)](https://ahrefs.com/blog/self-promotional-content-ai-seo-experiment/) | Ahrefs Blog | 105 | AI Search | 2026-07-06 10:00 UTC |
+| [The 7 best AI visibility tools to win AI search in 2026](https://www.semrush.com/blog/best-ai-visibility-tools/) | Semrush Blog | 95 | AI Search | 2026-07-08 20:20 UTC |
 | [How AI tools shape the B2B buying process: A survey of 600+ US business professionals](https://www.semrush.com/blog/how-ai-shapes-b2b-buying/) | Semrush Blog | 95 | AI Search | 2026-07-08 12:00 UTC |
 | [How Cardmarket wins search by knowing its community better than anyone](https://www.semrush.com/blog/how-cardmarket-wins-search/) | Semrush Blog | 95 | AI Search | 2026-07-07 13:00 UTC |
 | [Google research reveals pattern-level AI video spam detection](https://www.semrush.com/blog/google-research-and-ai-spam-detection/) | Semrush Blog | 95 | AI Search | 2026-07-06 15:10 UTC |
