@@ -13,6 +13,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Updated the canonicalization troubleshooting guide](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Indexing | 2026-07-10 00:00 UTC |
+| [See how content from social and video platforms performs on Google Search](https://developers.google.com/search/blog/2026/07/search-console-social-video-platforms) | Google Search Central Blog | 195 | Indexing | 2026-07-07 00:00 UTC |
+| [Search Central Deep Dive Europe 2026: Apparently we're going to Barcelona](https://developers.google.com/search/blog/2026/07/search-central-live-deep-dive-europe-2026) | Google Search Central Blog | 195 | AI Search | 2026-07-06 00:00 UTC |
 | [Daily Search Forum Recap: July 10, 2026](https://www.seroundtable.com/recap-07-10-2026-41665.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-10 14:00 UTC |
 | [Search News Buzz Video Recap: Google Search Breaks Usage Records, Social &amp; Video Platforms Show In Search Console &amp; More Google Ads, ChatGPT Ads &amp; More](https://www.seroundtable.com/video-07-10-2026-41660.html) | Search Engine Roundtable | 170 | GSC | 2026-07-10 12:01 UTC |
 | [Google Ads Now Show AI Creation/Edited Labels](https://www.seroundtable.com/google-ads-ai-labels-41659.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-10 11:51 UTC |

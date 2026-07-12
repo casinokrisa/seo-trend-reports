@@ -18,8 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: July 10, 2026](https://www.seroundtable.com/recap-07-10-2026-41665.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-10 14:00 UTC |
-| [Google Search Console adds social and video reports](https://www.semrush.com/blog/google-search-console-adds-social-and-video-reports/) | Semrush Blog | 110 | GSC | 2026-07-10 14:45 UTC |
+| _No site items in window_ |  |  |  |  |
 
 ## Notes for manual writing
 
