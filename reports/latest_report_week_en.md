@@ -24,11 +24,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [ChatGPT Ads New Overview Tab, Expands To Japan &amp; South Korea](https://www.seroundtable.com/chatgpt-ads-overview-tab-41661.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-10 11:11 UTC |
 | [New Google Reviews Bug: You Have No Reviews Yet](https://www.seroundtable.com/google-you-have-no-reviews-yet-41662.html) | Search Engine Roundtable | 170 | Local SEO | 2026-07-09 18:30 UTC |
 | [Daily Search Forum Recap: July 9, 2026](https://www.seroundtable.com/recap-07-09-2026-41657.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-09 14:00 UTC |
-| [Google Ads Formats That Don't Allow Alcohol Ads](https://www.seroundtable.com/google-ads-formats-alcohol-ads-41652.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-09 11:51 UTC |
-| [Google Merchant Center Next Is Now Just Google Merchant Center](https://www.seroundtable.com/google-merchant-center-next-41658.html) | Search Engine Roundtable | 170 | General | 2026-07-09 11:41 UTC |
-| [Google Search Generative AI Controls Rolling Out Beyond UK Sites](https://www.seroundtable.com/google-search-generative-ai-controls-41653.html) | Search Engine Roundtable | 170 | GSC | 2026-07-09 11:31 UTC |
-| [Google Ads Tests Favicons In Sponsored Results Sitelinks](https://www.seroundtable.com/google-ads-favicons-sitelinks-41656.html) | Search Engine Roundtable | 170 | Links | 2026-07-09 11:21 UTC |
-| [Google Ads Travel Search Campaigns Expands For Things To Do &amp; Events Beta](https://www.seroundtable.com/google-ads-travel-expands-41655.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-09 11:11 UTC |
+| [Google Ads Formats That Don't Allow Alcohol Ads](https://www.seroundtable.com/google-ads-formats-alcohol-ads-41652.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-09 11:51 UTC |
+| [Google Merchant Center Next Is Now Just Google Merchant Center](https://www.seroundtable.com/google-merchant-center-next-41658.html) | Search Engine Roundtable | 155 | General | 2026-07-09 11:41 UTC |
+| [Google Search Generative AI Controls Rolling Out Beyond UK Sites](https://www.seroundtable.com/google-search-generative-ai-controls-41653.html) | Search Engine Roundtable | 155 | GSC | 2026-07-09 11:31 UTC |
+| [Google Ads Tests Favicons In Sponsored Results Sitelinks](https://www.seroundtable.com/google-ads-favicons-sitelinks-41656.html) | Search Engine Roundtable | 155 | Links | 2026-07-09 11:21 UTC |
+| [Google Ads Travel Search Campaigns Expands For Things To Do &amp; Events Beta](https://www.seroundtable.com/google-ads-travel-expands-41655.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-09 11:11 UTC |
 | [Google Search Broke All Usage Records With Highest Usage Yesterday](https://www.seroundtable.com/google-search-broke-all-usage-records-41651.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-08 15:58 UTC |
 | [Google Search Console adds social and video reports](https://www.semrush.com/blog/google-search-console-adds-social-and-video-reports/) | Semrush Blog | 110 | GSC | 2026-07-10 14:45 UTC |
 | [Retrieval Augmented Generation (RAG) Explained: How AI Decides Which Pages to Search &#038; Cite](https://ahrefs.com/blog/retrieval-augmented-generation/) | Ahrefs Blog | 105 | AI Search | 2026-07-09 08:56 UTC |
