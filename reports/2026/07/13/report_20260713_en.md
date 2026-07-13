@@ -18,8 +18,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: July 13, 2026](https://www.seroundtable.com/recap-07-13-2026-41673.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-13 14:00 UTC |
-| [Google Ads Email Support Broke](https://www.seroundtable.com/google-ads-email-support-broke-41677.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-13 13:45 UTC |
+| [Daily Search Forum Recap: July 13, 2026](https://www.seroundtable.com/recap-07-13-2026-41673.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-13 14:00 UTC |
+| [Google Ads Email Support Broke](https://www.seroundtable.com/google-ads-email-support-broke-41677.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-13 13:45 UTC |
 | [Google Search Ranking Volatility Around 7-Eleven](https://www.seroundtable.com/google-search-ranking-volatility-july-11th-41676.html) | Search Engine Roundtable | 190 | General | 2026-07-13 13:25 UTC |
 | [Google Reaffirms Include Canonical On Canonical Page Itself](https://www.seroundtable.com/google-self-referential-canonical-41669.html) | Search Engine Roundtable | 190 | Links | 2026-07-13 11:51 UTC |
 | [Google Ads Previews For Assets, Text Customizations &amp; Final URL Expansion](https://www.seroundtable.com/google-ads-previews-updates-41666.html) | Search Engine Roundtable | 190 | General | 2026-07-13 11:41 UTC |
