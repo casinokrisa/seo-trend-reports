@@ -28,8 +28,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Bing: We Do Not Do One Off Indexing / Ranking Penalties, It's Not Scalable](https://www.seroundtable.com/bing-indexing-penalties-41670.html) | Search Engine Roundtable | 170 | Indexing | 2026-07-13 11:31 UTC |
 | [Google Tests Sticky Sponsored Results With Gray Curved Borders, Again](https://www.seroundtable.com/google-sticky-sponsored-results-again-41671.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-13 11:21 UTC |
 | [Google Ads Conversion Tracking Status: Awaiting Conversions &amp; Misconfigured](https://www.seroundtable.com/google-ads-conversion-tracking-status-updates-41668.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-13 11:11 UTC |
-| [6 Ways to Automate AEO With Letaido](https://ahrefs.com/blog/letaido-for-aeo/) | Ahrefs Blog | 160 | AI Search | 2026-07-14 15:23 UTC |
 | [Why Brand Positioning Is Now an AI Search Variable](https://www.semrush.com/blog/brand-positioning-is-an-ai-search-variable/) | Semrush Blog | 150 | AI Search | 2026-07-15 13:01 UTC |
+| [6 Ways to Automate AEO With Letaido](https://ahrefs.com/blog/letaido-for-aeo/) | Ahrefs Blog | 140 | AI Search | 2026-07-14 15:23 UTC |
 | [10 Creative Ways to Write with AI (Without Losing Your Soul)](https://ahrefs.com/blog/creative-ways-to-write-with-ai/) | Ahrefs Blog | 140 | AI Search | 2026-07-14 10:43 UTC |
 | [Audience research: What it is &amp; how to conduct it](https://www.semrush.com/blog/audience-research/) | Semrush Blog | 130 | Migration | 2026-07-14 09:25 UTC |
 | [Keyword cannibalization: How to find, fix, and prevent it](https://www.semrush.com/blog/keyword-cannibalization-guide/) | Semrush Blog | 130 | AI Search | 2026-07-14 09:12 UTC |
