@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Daily Search Forum Recap: July 14, 2026](https://www.seroundtable.com/recap-07-14-2026-41682.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-14 14:00 UTC |
 | [Google Ads Expands Alcohol, Gambling &amp; Games Policy](https://www.seroundtable.com/google-ads-expands-alcohol-gambling-games-policy-41678.html) | Search Engine Roundtable | 210 | General | 2026-07-14 11:51 UTC |
 | [Google Ads Asks For Justification When Requesting Removal Of Access](https://www.seroundtable.com/google-ads-justification-removal-41667.html) | Search Engine Roundtable | 210 | General | 2026-07-14 11:41 UTC |
 | [OpenAI Crawlers Can Update Its User Agent String](https://www.seroundtable.com/openai-crawlers-user-agent-string-41649.html) | Search Engine Roundtable | 210 | Indexing | 2026-07-14 11:31 UTC |
@@ -27,10 +28,10 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Bing: We Do Not Do One Off Indexing / Ranking Penalties, It's Not Scalable](https://www.seroundtable.com/bing-indexing-penalties-41670.html) | Search Engine Roundtable | 170 | Indexing | 2026-07-13 11:31 UTC |
 | [Google Tests Sticky Sponsored Results With Gray Curved Borders, Again](https://www.seroundtable.com/google-sticky-sponsored-results-again-41671.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-13 11:21 UTC |
 | [Google Ads Conversion Tracking Status: Awaiting Conversions &amp; Misconfigured](https://www.seroundtable.com/google-ads-conversion-tracking-status-updates-41668.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-13 11:11 UTC |
-| [Google Business Profiles New Collected Info (Visuals)](https://www.seroundtable.com/google-business-profiles-new-collected-info-41672.html) | Search Engine Roundtable | 170 | Local SEO | 2026-07-13 11:05 UTC |
+| [6 Ways to Automate AEO With Letaido](https://ahrefs.com/blog/letaido-for-aeo/) | Ahrefs Blog | 160 | AI Search | 2026-07-14 15:23 UTC |
 | [10 Creative Ways to Write with AI (Without Losing Your Soul)](https://ahrefs.com/blog/creative-ways-to-write-with-ai/) | Ahrefs Blog | 160 | AI Search | 2026-07-14 10:43 UTC |
-| [Audience research: What it is &amp; how to conduct it](https://www.semrush.com/blog/audience-research/) | Semrush Blog | 150 | Migration | 2026-07-14 09:25 UTC |
-| [Keyword cannibalization: How to find, fix, and prevent it](https://www.semrush.com/blog/keyword-cannibalization-guide/) | Semrush Blog | 150 | AI Search | 2026-07-14 09:12 UTC |
+| [Audience research: What it is &amp; how to conduct it](https://www.semrush.com/blog/audience-research/) | Semrush Blog | 130 | Migration | 2026-07-14 09:25 UTC |
+| [Keyword cannibalization: How to find, fix, and prevent it](https://www.semrush.com/blog/keyword-cannibalization-guide/) | Semrush Blog | 130 | AI Search | 2026-07-14 09:12 UTC |
 | [Retrieval Augmented Generation (RAG) Explained: How AI Decides Which Pages to Search &#038; Cite](https://ahrefs.com/blog/retrieval-augmented-generation/) | Ahrefs Blog | 105 | AI Search | 2026-07-09 08:56 UTC |
 | [Google Search Console adds social and video reports](https://www.semrush.com/blog/google-search-console-adds-social-and-video-reports/) | Semrush Blog | 95 | GSC | 2026-07-10 14:45 UTC |
 | [The 7 best AI visibility tools to win AI search in 2026](https://www.semrush.com/blog/best-ai-visibility-tools/) | Semrush Blog | 95 | AI Search | 2026-07-08 20:20 UTC |
