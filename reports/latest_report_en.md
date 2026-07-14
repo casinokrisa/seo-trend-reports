@@ -6,29 +6,13 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [What I would check before paying anyone for local SEO](https://www.reddit.com/r/localseo/comments/1uw0x3n/what_i_would_check_before_paying_anyone_for_local/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-14 06:43 UTC |
-| [Agency reviews](https://www.reddit.com/r/localseo/comments/1uvykxm/agency_reviews/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-14 04:37 UTC |
-| [Cheat sheet for Local SEO, GPB management](https://www.reddit.com/r/localseo/comments/1uvui9z/cheat_sheet_for_local_seo_gpb_management/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-14 01:23 UTC |
-| [How do you optimize for Query Fan Out?](https://www.reddit.com/r/localseo/comments/1uvtpvt/how_do_you_optimize_for_query_fan_out/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-14 00:48 UTC |
-| [Local SEO Mystery: Outranking 266 competitors on every GBP metric, but losing the geo-grid to a barely-maintained profile with 14 more reviews. What gives?](https://www.reddit.com/r/localseo/comments/1uvn5fn/local_seo_mystery_outranking_266_competitors_on/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-13 20:25 UTC |
-| [Wie schreibt man einen guten Blogbeitrag?](https://www.reddit.com/r/localseo/comments/1uvkfy4/wie_schreibt_man_einen_guten_blogbeitrag/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-13 18:49 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-| 1 | [What I would check before paying anyone for local SEO](https://www.reddit.com/r/localseo/comments/1uw0x3n/what_i_would_check_before_paying_anyone_for_local/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-14 06:43 UTC |
-| 2 | [Agency reviews](https://www.reddit.com/r/localseo/comments/1uvykxm/agency_reviews/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-14 04:37 UTC |
-| 3 | [Cheat sheet for Local SEO, GPB management](https://www.reddit.com/r/localseo/comments/1uvui9z/cheat_sheet_for_local_seo_gpb_management/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-14 01:23 UTC |
-| 4 | [How do you optimize for Query Fan Out?](https://www.reddit.com/r/localseo/comments/1uvtpvt/how_do_you_optimize_for_query_fan_out/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-14 00:48 UTC |
-| 5 | [Local SEO Mystery: Outranking 266 competitors on every GBP metric, but losing the geo-grid to a barely-maintained profile with 14 more reviews. What gives?](https://www.reddit.com/r/localseo/comments/1uvn5fn/local_seo_mystery_outranking_266_competitors_on/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-13 20:25 UTC |
-| 6 | [Wie schreibt man einen guten Blogbeitrag?](https://www.reddit.com/r/localseo/comments/1uvkfy4/wie_schreibt_man_einen_guten_blogbeitrag/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-13 18:49 UTC |
-| 7 | [Are you using GBP Posts? And are they actually driving results in 2026?](https://www.reddit.com/r/localseo/comments/1uvgtdb/are_you_using_gbp_posts_and_are_they_actually/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-13 16:41 UTC |
-| 8 | [My website is not ranking on Google's SERPs, but it appears in ChatGPT and Perplexity. Any Suggestions?](https://www.reddit.com/r/localseo/comments/1uvg8te/my_website_is_not_ranking_on_googles_serps_but_it/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-13 16:21 UTC |
-| 9 | [Should a clinic that customers physically visit have a &quot;service area&quot; set on GBP?](https://www.reddit.com/r/localseo/comments/1uvg83x/should_a_clinic_that_customers_physically_visit/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-13 16:20 UTC |
-| 10 | [Flat vs nested URL structure for service × location pages, does it actually matter?](https://www.reddit.com/r/localseo/comments/1uvg3g4/flat_vs_nested_url_structure_for_service_location/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-13 16:16 UTC |
-| 11 | [GBP Optimization for HVAC](https://www.reddit.com/r/localseo/comments/1uvfqlq/gbp_optimization_for_hvac/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-13 16:02 UTC |
-| 12 | [Can you optimize 2 GBP the same way for the same brand but different location ?](https://www.reddit.com/r/localseo/comments/1uvbiro/can_you_optimize_2_gbp_the_same_way_for_the_same/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-13 13:25 UTC |
+|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Notable items (Sites)
 
