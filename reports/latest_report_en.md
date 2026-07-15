@@ -6,13 +6,29 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Searching your own business name tells you nothing about your Maps ranking. Here's what actually does.](https://www.reddit.com/r/localseo/comments/1uwy35m/searching_your_own_business_name_tells_you/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-15 06:48 UTC |
+| [Which real estate guest posting websites are actually worth using in 2026?](https://www.reddit.com/r/localseo/comments/1uwxeqp/which_real_estate_guest_posting_websites_are/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-07-15 06:11 UTC |
+| [Despite a great conversion rate, why clients hesitate to adapt SEO for their businesses?](https://www.reddit.com/r/localseo/comments/1uwv1pr/despite_a_great_conversion_rate_why_clients/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-15 04:07 UTC |
+| [How to Get Rid Of These SPAM Backlinks?](https://www.reddit.com/r/localseo/comments/1uwl37w/how_to_get_rid_of_these_spam_backlinks/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-07-14 20:58 UTC |
+| [At what point do Google reviews stop making much of a difference?](https://www.reddit.com/r/localseo/comments/1uwkvki/at_what_point_do_google_reviews_stop_making_much/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-14 20:50 UTC |
+| [For legit backlinks (memberships, sponsorships), do you have the client arrange and pay? Or do you have a 'backlink budget' you draw from?](https://www.reddit.com/r/localseo/comments/1uwgycd/for_legit_backlinks_memberships_sponsorships_do/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-07-14 18:25 UTC |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
+| 1 | [Searching your own business name tells you nothing about your Maps ranking. Here's what actually does.](https://www.reddit.com/r/localseo/comments/1uwy35m/searching_your_own_business_name_tells_you/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-15 06:48 UTC |
+| 2 | [Which real estate guest posting websites are actually worth using in 2026?](https://www.reddit.com/r/localseo/comments/1uwxeqp/which_real_estate_guest_posting_websites_are/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-07-15 06:11 UTC |
+| 3 | [Despite a great conversion rate, why clients hesitate to adapt SEO for their businesses?](https://www.reddit.com/r/localseo/comments/1uwv1pr/despite_a_great_conversion_rate_why_clients/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-15 04:07 UTC |
+| 4 | [How to Get Rid Of These SPAM Backlinks?](https://www.reddit.com/r/localseo/comments/1uwl37w/how_to_get_rid_of_these_spam_backlinks/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-07-14 20:58 UTC |
+| 5 | [At what point do Google reviews stop making much of a difference?](https://www.reddit.com/r/localseo/comments/1uwkvki/at_what_point_do_google_reviews_stop_making_much/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-14 20:50 UTC |
+| 6 | [For legit backlinks (memberships, sponsorships), do you have the client arrange and pay? Or do you have a 'backlink budget' you draw from?](https://www.reddit.com/r/localseo/comments/1uwgycd/for_legit_backlinks_memberships_sponsorships_do/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-07-14 18:25 UTC |
+| 7 | [Help needed to index my urls](https://www.reddit.com/r/localseo/comments/1uwf58i/help_needed_to_index_my_urls/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Indexing | 2026-07-14 17:22 UTC |
+| 8 | [Tradesmen/Service Contractors: SEO works. I did my own, you can too.](https://www.reddit.com/r/localseo/comments/1uwcvw8/tradesmenservice_contractors_seo_works_i_did_my/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-14 16:02 UTC |
+| 9 | [Review Responses Missing](https://www.reddit.com/r/localseo/comments/1uwcdbt/review_responses_missing/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-14 15:44 UTC |
+| 10 | [Video Verification (noob question)](https://www.reddit.com/r/localseo/comments/1uwad0t/video_verification_noob_question/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-14 14:31 UTC |
+| 11 | [how are you handling clients who want to rank in city they're not physically in?](https://www.reddit.com/r/localseo/comments/1uw8ay3/how_are_you_handling_clients_who_want_to_rank_in/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-14 13:11 UTC |
+| 12 | [Why I rarely recommend creating a location page for every nearby city](https://www.reddit.com/r/localseo/comments/1uw5p1w/why_i_rarely_recommend_creating_a_location_page/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-14 11:14 UTC |
 
 ## Notable items (Sites)
 
