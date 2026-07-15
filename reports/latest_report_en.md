@@ -25,9 +25,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Merchant Center AI Performance Insights For AI Mode &amp; AI Overviews](https://www.seroundtable.com/google-merchant-center-ai-performance-insights-41675.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-14 11:12 UTC |
 | [ChatGPT Ads Manager Gains Attributed Sales Value &amp; Sales ROAS &amp; Products](https://www.seroundtable.com/chatgpt-ads-attributed-sales-value-and-sales-roas-41674.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-14 11:11 UTC |
 | [Google Fixes Google-InspectionTool User Agent String In Help Doc](https://www.seroundtable.com/google-inspectiontool-user-agent-string-fixed-41681.html) | Search Engine Roundtable | 190 | Indexing | 2026-07-14 11:05 UTC |
-| [Daily Search Forum Recap: July 13, 2026](https://www.seroundtable.com/recap-07-13-2026-41673.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-13 14:00 UTC |
-| [Google Ads Email Support Broke](https://www.seroundtable.com/google-ads-email-support-broke-41677.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-13 13:45 UTC |
-| [Google Search Ranking Volatility Around 7-Eleven](https://www.seroundtable.com/google-search-ranking-volatility-july-11th-41676.html) | Search Engine Roundtable | 170 | General | 2026-07-13 13:25 UTC |
 | [Why Brand Positioning Is Now an AI Search Variable](https://www.semrush.com/blog/brand-positioning-is-an-ai-search-variable/) | Semrush Blog | 150 | AI Search | 2026-07-15 13:01 UTC |
 | [6 Ways to Automate AEO With Letaido](https://ahrefs.com/blog/letaido-for-aeo/) | Ahrefs Blog | 140 | AI Search | 2026-07-14 15:23 UTC |
 | [10 Creative Ways to Write with AI (Without Losing Your Soul)](https://ahrefs.com/blog/creative-ways-to-write-with-ai/) | Ahrefs Blog | 140 | AI Search | 2026-07-14 10:43 UTC |
