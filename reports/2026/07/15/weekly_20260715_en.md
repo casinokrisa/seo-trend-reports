@@ -12,8 +12,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: July 15, 2026](https://www.seroundtable.com/recap-07-15-2026-41691.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-15 14:00 UTC |
 | [Updated the package tracking documentation](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | AI Search | 2026-07-14 00:00 UTC |
+| [Daily Search Forum Recap: July 15, 2026](https://www.seroundtable.com/recap-07-15-2026-41691.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-15 14:00 UTC |
 | [Google Image Search Home Page Goes From Simple Search Box To Gallery](https://www.seroundtable.com/google-image-search-home-page-gallery-41679.html) | Search Engine Roundtable | 190 | General | 2026-07-15 11:51 UTC |
 | [AI Image Generation Now Within Google AI Overviews](https://www.seroundtable.com/google-ai-overviews-ai-images-41680.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-15 11:41 UTC |
 | [ChatGPT Ads Get Location &amp; Audience Exclusion Controls](https://www.seroundtable.com/chatgpt-ads-location-audience-exclusion-41693.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-15 11:31 UTC |
@@ -36,7 +36,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Keyword cannibalization: How to find, fix, and prevent it](https://www.semrush.com/blog/keyword-cannibalization-guide/) | Semrush Blog | 110 | AI Search | 2026-07-14 09:12 UTC |
 | [Retrieval Augmented Generation (RAG) Explained: How AI Decides Which Pages to Search &#038; Cite](https://ahrefs.com/blog/retrieval-augmented-generation/) | Ahrefs Blog | 105 | AI Search | 2026-07-09 08:56 UTC |
 | [Google Search Console adds social and video reports](https://www.semrush.com/blog/google-search-console-adds-social-and-video-reports/) | Semrush Blog | 95 | GSC | 2026-07-10 14:45 UTC |
-| [The 7 best AI visibility tools to win AI search in 2026](https://www.semrush.com/blog/best-ai-visibility-tools/) | Semrush Blog | 95 | AI Search | 2026-07-08 20:20 UTC |
 
 ## Notes
 
