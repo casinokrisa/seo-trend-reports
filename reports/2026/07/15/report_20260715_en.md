@@ -31,13 +31,9 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [OpenAI Crawlers Can Update Its User Agent String](https://www.seroundtable.com/openai-crawlers-user-agent-string-41649.html) | Search Engine Roundtable | 170 | Indexing | 2026-07-14 11:31 UTC |
 | [Google Merchant Center AI Performance Insights For AI Mode &amp; AI Overviews](https://www.seroundtable.com/google-merchant-center-ai-performance-insights-41675.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-14 11:12 UTC |
 | [ChatGPT Ads Manager Gains Attributed Sales Value &amp; Sales ROAS &amp; Products](https://www.seroundtable.com/chatgpt-ads-attributed-sales-value-and-sales-roas-41674.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-14 11:11 UTC |
-| [Google Fixes Google-InspectionTool User Agent String In Help Doc](https://www.seroundtable.com/google-inspectiontool-user-agent-string-fixed-41681.html) | Search Engine Roundtable | 170 | Indexing | 2026-07-14 11:05 UTC |
 | [Why Brand Positioning Is Now an AI Search Variable](https://www.semrush.com/blog/brand-positioning-is-an-ai-search-variable/) | Semrush Blog | 130 | AI Search | 2026-07-15 13:01 UTC |
 | [How to do AI search optimization for local businesses](https://www.semrush.com/blog/ai-search-optimization-for-local-businesses/) | Semrush Blog | 130 | AI Search | 2026-07-15 11:05 UTC |
 | [6 Ways to Automate AEO With Letaido](https://ahrefs.com/blog/letaido-for-aeo/) | Ahrefs Blog | 120 | AI Search | 2026-07-14 15:23 UTC |
-| [10 Creative Ways to Write with AI (Without Losing Your Soul)](https://ahrefs.com/blog/creative-ways-to-write-with-ai/) | Ahrefs Blog | 120 | AI Search | 2026-07-14 10:43 UTC |
-| [Audience research: What it is &amp; how to conduct it](https://www.semrush.com/blog/audience-research/) | Semrush Blog | 110 | Migration | 2026-07-14 09:25 UTC |
-| [Keyword cannibalization: How to find, fix, and prevent it](https://www.semrush.com/blog/keyword-cannibalization-guide/) | Semrush Blog | 110 | AI Search | 2026-07-14 09:12 UTC |
 
 ## Notes for manual writing
 
