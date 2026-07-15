@@ -13,9 +13,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: July 15, 2026](https://www.seroundtable.com/recap-07-15-2026-41691.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-15 14:00 UTC |
-| [Google Image Search Home Page Goes From Simple Search Box To Gallery](https://www.seroundtable.com/google-image-search-home-page-gallery-41679.html) | Search Engine Roundtable | 210 | General | 2026-07-15 11:51 UTC |
-| [AI Image Generation Now Within Google AI Overviews](https://www.seroundtable.com/google-ai-overviews-ai-images-41680.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-15 11:41 UTC |
 | [Updated the package tracking documentation](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | AI Search | 2026-07-14 00:00 UTC |
+| [Google Image Search Home Page Goes From Simple Search Box To Gallery](https://www.seroundtable.com/google-image-search-home-page-gallery-41679.html) | Search Engine Roundtable | 190 | General | 2026-07-15 11:51 UTC |
+| [AI Image Generation Now Within Google AI Overviews](https://www.seroundtable.com/google-ai-overviews-ai-images-41680.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-15 11:41 UTC |
 | [ChatGPT Ads Get Location &amp; Audience Exclusion Controls](https://www.seroundtable.com/chatgpt-ads-location-audience-exclusion-41693.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-15 11:31 UTC |
 | [Google Confirms Testing Hide Sponsored Products In Shopping Results](https://www.seroundtable.com/google-tests-hide-sponsored-products-41689.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-15 11:21 UTC |
 | [Google: Significant Differences With A/B Tests Can Show In Search Results](https://www.seroundtable.com/google-a-b-testing-seo-41690.html) | Search Engine Roundtable | 190 | Indexing | 2026-07-15 11:11 UTC |
@@ -28,7 +28,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [ChatGPT Ads Manager Gains Attributed Sales Value &amp; Sales ROAS &amp; Products](https://www.seroundtable.com/chatgpt-ads-attributed-sales-value-and-sales-roas-41674.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-14 11:11 UTC |
 | [Google Fixes Google-InspectionTool User Agent String In Help Doc](https://www.seroundtable.com/google-inspectiontool-user-agent-string-fixed-41681.html) | Search Engine Roundtable | 170 | Indexing | 2026-07-14 11:05 UTC |
 | [Daily Search Forum Recap: July 13, 2026](https://www.seroundtable.com/recap-07-13-2026-41673.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-13 14:00 UTC |
-| [Why Brand Positioning Is Now an AI Search Variable](https://www.semrush.com/blog/brand-positioning-is-an-ai-search-variable/) | Semrush Blog | 150 | AI Search | 2026-07-15 13:01 UTC |
+| [Why Brand Positioning Is Now an AI Search Variable](https://www.semrush.com/blog/brand-positioning-is-an-ai-search-variable/) | Semrush Blog | 130 | AI Search | 2026-07-15 13:01 UTC |
 | [How to do AI search optimization for local businesses](https://www.semrush.com/blog/ai-search-optimization-for-local-businesses/) | Semrush Blog | 130 | AI Search | 2026-07-15 11:05 UTC |
 | [6 Ways to Automate AEO With Letaido](https://ahrefs.com/blog/letaido-for-aeo/) | Ahrefs Blog | 120 | AI Search | 2026-07-14 15:23 UTC |
 | [10 Creative Ways to Write with AI (Without Losing Your Soul)](https://ahrefs.com/blog/creative-ways-to-write-with-ai/) | Ahrefs Blog | 120 | AI Search | 2026-07-14 10:43 UTC |
