@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Searching your own business name tells you nothing about your Maps ranking. Here's what actually does.](https://www.reddit.com/r/localseo/comments/1uwy35m/searching_your_own_business_name_tells_you/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-15 06:48 UTC |
-| [Which real estate guest posting websites are actually worth using in 2026?](https://www.reddit.com/r/localseo/comments/1uwxeqp/which_real_estate_guest_posting_websites_are/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-07-15 06:11 UTC |
-| [Despite a great conversion rate, why clients hesitate to adapt SEO for their businesses?](https://www.reddit.com/r/localseo/comments/1uwv1pr/despite_a_great_conversion_rate_why_clients/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-15 04:07 UTC |
-| [How to Get Rid Of These SPAM Backlinks?](https://www.reddit.com/r/localseo/comments/1uwl37w/how_to_get_rid_of_these_spam_backlinks/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-07-14 20:58 UTC |
-| [At what point do Google reviews stop making much of a difference?](https://www.reddit.com/r/localseo/comments/1uwkvki/at_what_point_do_google_reviews_stop_making_much/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-14 20:50 UTC |
-| [For legit backlinks (memberships, sponsorships), do you have the client arrange and pay? Or do you have a 'backlink budget' you draw from?](https://www.reddit.com/r/localseo/comments/1uwgycd/for_legit_backlinks_memberships_sponsorships_do/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-07-14 18:25 UTC |
-| [Help needed to index my urls](https://www.reddit.com/r/localseo/comments/1uwf58i/help_needed_to_index_my_urls/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Indexing | 2026-07-14 17:22 UTC |
-| [Tradesmen/Service Contractors: SEO works. I did my own, you can too.](https://www.reddit.com/r/localseo/comments/1uwcvw8/tradesmenservice_contractors_seo_works_i_did_my/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-14 16:02 UTC |
-| [Review Responses Missing](https://www.reddit.com/r/localseo/comments/1uwcdbt/review_responses_missing/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-14 15:44 UTC |
-| [Video Verification (noob question)](https://www.reddit.com/r/localseo/comments/1uwad0t/video_verification_noob_question/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-14 14:31 UTC |
-| [how are you handling clients who want to rank in city they're not physically in?](https://www.reddit.com/r/localseo/comments/1uw8ay3/how_are_you_handling_clients_who_want_to_rank_in/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-14 13:11 UTC |
-| [Why I rarely recommend creating a location page for every nearby city](https://www.reddit.com/r/localseo/comments/1uw5p1w/why_i_rarely_recommend_creating_a_location_page/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-14 11:14 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
@@ -43,7 +32,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [6 Ways to Automate AEO With Letaido](https://ahrefs.com/blog/letaido-for-aeo/) | Ahrefs Blog | 140 | AI Search | 2026-07-14 15:23 UTC |
 | [10 Creative Ways to Write with AI (Without Losing Your Soul)](https://ahrefs.com/blog/creative-ways-to-write-with-ai/) | Ahrefs Blog | 140 | AI Search | 2026-07-14 10:43 UTC |
 | [Audience research: What it is &amp; how to conduct it](https://www.semrush.com/blog/audience-research/) | Semrush Blog | 130 | Migration | 2026-07-14 09:25 UTC |
-| [Keyword cannibalization: How to find, fix, and prevent it](https://www.semrush.com/blog/keyword-cannibalization-guide/) | Semrush Blog | 130 | AI Search | 2026-07-14 09:12 UTC |
+| [Keyword cannibalization: How to find, fix, and prevent it](https://www.semrush.com/blog/keyword-cannibalization-guide/) | Semrush Blog | 110 | AI Search | 2026-07-14 09:12 UTC |
 | [Retrieval Augmented Generation (RAG) Explained: How AI Decides Which Pages to Search &#038; Cite](https://ahrefs.com/blog/retrieval-augmented-generation/) | Ahrefs Blog | 105 | AI Search | 2026-07-09 08:56 UTC |
 | [Google Search Console adds social and video reports](https://www.semrush.com/blog/google-search-console-adds-social-and-video-reports/) | Semrush Blog | 95 | GSC | 2026-07-10 14:45 UTC |
 | [The 7 best AI visibility tools to win AI search in 2026](https://www.semrush.com/blog/best-ai-visibility-tools/) | Semrush Blog | 95 | AI Search | 2026-07-08 20:20 UTC |
