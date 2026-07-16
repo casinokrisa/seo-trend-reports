@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: July 16, 2026](https://www.seroundtable.com/recap-07-16-2026-41698.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-16 14:00 UTC |
+| [Daily Search Forum Recap: July 16, 2026](https://www.seroundtable.com/recap-07-16-2026-41698.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-16 14:00 UTC |
 | [Google: Discovered vs Crawled Not Indexed Quality Issues &amp; AI-Generated Content](https://www.seroundtable.com/google-crawled-not-indexed-quality-ai-content-41701.html) | Search Engine Roundtable | 190 | Indexing | 2026-07-16 11:55 UTC |
 | [Apple Maps Ads Bans Home Service Businesses With Updated Terms](https://www.seroundtable.com/apple-maps-ads-bans-home-services-41696.html) | Search Engine Roundtable | 190 | Local SEO | 2026-07-16 11:51 UTC |
 | [Google Ads Performance Max Product Reporting Now Uses All Networks](https://www.seroundtable.com/google-ads-pmax-product-reporting-all-networks-41694.html) | Search Engine Roundtable | 190 | General | 2026-07-16 11:41 UTC |
