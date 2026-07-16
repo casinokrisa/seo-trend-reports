@@ -6,13 +6,29 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Can duplicate titles on pagination pages stop Google from indexing them?](https://www.reddit.com/r/localseo/comments/1uxvdhg/can_duplicate_titles_on_pagination_pages_stop/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Indexing | 2026-07-16 07:01 UTC |
+| [Lead generation tool. Please check the scraping fields and let me know if you'd like to use it.](https://www.reddit.com/r/localseo/comments/1uxuc27/lead_generation_tool_please_check_the_scraping/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-16 06:04 UTC |
+| [Review Strategy?](https://www.reddit.com/r/localseo/comments/1uxqhtb/review_strategy/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-16 02:47 UTC |
+| [Is anyone else seeing AI search become more important than traditional SEO?](https://www.reddit.com/r/localseo/comments/1uxj0mt/is_anyone_else_seeing_ai_search_become_more/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-15 21:31 UTC |
+| [Impressions Increasing and Great Average Positions but No Clicks??](https://www.reddit.com/r/localseo/comments/1uxhnuo/impressions_increasing_and_great_average/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-07-15 20:38 UTC |
+| [Google business profile adress and pincode](https://www.reddit.com/r/localseo/comments/1uxfoo0/google_business_profile_adress_and_pincode/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-15 19:20 UTC |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
+| 1 | [Can duplicate titles on pagination pages stop Google from indexing them?](https://www.reddit.com/r/localseo/comments/1uxvdhg/can_duplicate_titles_on_pagination_pages_stop/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Indexing | 2026-07-16 07:01 UTC |
+| 2 | [Lead generation tool. Please check the scraping fields and let me know if you'd like to use it.](https://www.reddit.com/r/localseo/comments/1uxuc27/lead_generation_tool_please_check_the_scraping/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-16 06:04 UTC |
+| 3 | [Review Strategy?](https://www.reddit.com/r/localseo/comments/1uxqhtb/review_strategy/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-16 02:47 UTC |
+| 4 | [Is anyone else seeing AI search become more important than traditional SEO?](https://www.reddit.com/r/localseo/comments/1uxj0mt/is_anyone_else_seeing_ai_search_become_more/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-15 21:31 UTC |
+| 5 | [Impressions Increasing and Great Average Positions but No Clicks??](https://www.reddit.com/r/localseo/comments/1uxhnuo/impressions_increasing_and_great_average/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-07-15 20:38 UTC |
+| 6 | [Google business profile adress and pincode](https://www.reddit.com/r/localseo/comments/1uxfoo0/google_business_profile_adress_and_pincode/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-15 19:20 UTC |
+| 7 | [Do Google Business Profile posts actually impact SEO?](https://www.reddit.com/r/localseo/comments/1uxd7mc/do_google_business_profile_posts_actually_impact/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-15 17:49 UTC |
+| 8 | [Ranked #1 and the phone still isn't ringing. Anyone else had this conversation with a client?](https://www.reddit.com/r/localseo/comments/1ux8h1f/ranked_1_and_the_phone_still_isnt_ringing_anyone/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-15 15:05 UTC |
+| 9 | [I am Building a SEO Tool Specifically for Local SEO](https://www.reddit.com/r/localseo/comments/1ux7ika/i_am_building_a_seo_tool_specifically_for_local/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-15 14:29 UTC |
+| 10 | [Expandir areas de atencion en GBP](https://www.reddit.com/r/localseo/comments/1ux6ejk/expandir_areas_de_atencion_en_gbp/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-15 13:48 UTC |
+| 11 | [I Tested Pinterest SEO for One Month—Looking for Feedback](https://www.reddit.com/r/localseo/comments/1ux4mt1/i_tested_pinterest_seo_for_one_monthlooking_for/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-15 12:36 UTC |
+| 12 | [Has anyone had recent success ranking in nearby cities without opening another location?](https://www.reddit.com/r/localseo/comments/1ux40nj/has_anyone_had_recent_success_ranking_in_nearby/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-15 12:08 UTC |
 
 ## Notable items (Sites)
 
