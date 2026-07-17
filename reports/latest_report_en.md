@@ -22,11 +22,11 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google: Discovered vs Crawled Not Indexed Quality Issues &amp; AI-Generated Content](https://www.seroundtable.com/google-crawled-not-indexed-quality-ai-content-41701.html) | Search Engine Roundtable | 190 | Indexing | 2026-07-16 11:55 UTC |
 | [Apple Maps Ads Bans Home Service Businesses With Updated Terms](https://www.seroundtable.com/apple-maps-ads-bans-home-services-41696.html) | Search Engine Roundtable | 190 | Local SEO | 2026-07-16 11:51 UTC |
 | [Google Ads Performance Max Product Reporting Now Uses All Networks](https://www.seroundtable.com/google-ads-pmax-product-reporting-all-networks-41694.html) | Search Engine Roundtable | 190 | General | 2026-07-16 11:41 UTC |
-| [Google Manufacturer Center Removed Manual Update Or Add Products](https://www.seroundtable.com/google-manufacturer-center-manual-updates-41683.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-16 11:31 UTC |
-| [Google: You're Better Off Without Lastmod Dates When They Are Incorrect](https://www.seroundtable.com/google-lastmod-dates-incorrect-41697.html) | Search Engine Roundtable | 190 | Indexing | 2026-07-16 11:21 UTC |
-| [Google To Merge Google Shopping Ads &amp; Free Listing Policies To One Policy](https://www.seroundtable.com/google-shopping-ads-free-listing-policies-merge-41695.html) | Search Engine Roundtable | 190 | General | 2026-07-16 11:11 UTC |
-| [Google Ads To Turn On Local Inventory Ads By Default For Shopping Campaigns](https://www.seroundtable.com/google-local-inventory-ads-setting-shopping-campaigns-41699.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-16 11:05 UTC |
-| [The Free Tools SEO Strategy: How to Rank With Calculators, Converters, and Generators](https://ahrefs.com/blog/the-free-tools-seo-strategy/) | Ahrefs Blog | 140 | General | 2026-07-16 11:30 UTC |
+| [Google Manufacturer Center Removed Manual Update Or Add Products](https://www.seroundtable.com/google-manufacturer-center-manual-updates-41683.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-16 11:31 UTC |
+| [Google: You're Better Off Without Lastmod Dates When They Are Incorrect](https://www.seroundtable.com/google-lastmod-dates-incorrect-41697.html) | Search Engine Roundtable | 170 | Indexing | 2026-07-16 11:21 UTC |
+| [Google To Merge Google Shopping Ads &amp; Free Listing Policies To One Policy](https://www.seroundtable.com/google-shopping-ads-free-listing-policies-merge-41695.html) | Search Engine Roundtable | 170 | General | 2026-07-16 11:11 UTC |
+| [Google Ads To Turn On Local Inventory Ads By Default For Shopping Campaigns](https://www.seroundtable.com/google-local-inventory-ads-setting-shopping-campaigns-41699.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-16 11:05 UTC |
+| [The Free Tools SEO Strategy: How to Rank With Calculators, Converters, and Generators](https://ahrefs.com/blog/the-free-tools-seo-strategy/) | Ahrefs Blog | 120 | General | 2026-07-16 11:30 UTC |
 
 ## Notes for manual writing
 
