@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [WHAT HAPPEND? Hey friends, new site 3 monts old on the 6-25-26 droped off the face of the earth, Any thoughts?](https://www.reddit.com/r/localseo/comments/1uyrs4q/what_happend_hey_friends_new_site_3_monts_old_on/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-17 06:33 UTC |
-| [things i stopped doing for local seo that nobody noticed](https://www.reddit.com/r/localseo/comments/1uyp122/things_i_stopped_doing_for_local_seo_that_nobody/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-17 04:06 UTC |
-| [Cómo convertir más en tus páginas de servicios](https://www.reddit.com/r/localseo/comments/1uyj2tr/c%C3%B3mo_convertir_m%C3%A1s_en_tus_p%C3%A1ginas_de_servicios/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-16 23:32 UTC |
-| [Looking to pay for an SEO audit.](https://www.reddit.com/r/localseo/comments/1uy7w3q/looking_to_pay_for_an_seo_audit/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-16 16:33 UTC |
-| [What is the key to ranking top 3 in map packs](https://www.reddit.com/r/localseo/comments/1uy7mhf/what_is_the_key_to_ranking_top_3_in_map_packs/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-16 16:23 UTC |
-| [google now checks if your business is open when someone searches. ranking drops if closed](https://www.reddit.com/r/localseo/comments/1uy78hs/google_now_checks_if_your_business_is_open_when/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-16 16:09 UTC |
-| [Imagine pasting your local business website and asking - &quot;Why aren't I ranking in the map pack?&quot;](https://www.reddit.com/r/localseo/comments/1uy6tl7/imagine_pasting_your_local_business_website_and/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-16 15:55 UTC |
-| [Inherited local services businesses targeting multiple locations](https://www.reddit.com/r/localseo/comments/1uy4a03/inherited_local_services_businesses_targeting/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-16 14:21 UTC |
-| [Building a dead-simple tool that helps local businesses (salons, gyms, restaurants) get more Google reviews, would love your honest take](https://www.reddit.com/r/localseo/comments/1uy1ru9/building_a_deadsimple_tool_that_helps_local/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-16 12:42 UTC |
-| [Local search ads](https://www.reddit.com/r/localseo/comments/1uxyx5l/local_search_ads/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-16 10:25 UTC |
-| [anyone else notice new gbp profiles ranking faster than established ones lately](https://www.reddit.com/r/localseo/comments/1uxxk3p/anyone_else_notice_new_gbp_profiles_ranking/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-16 09:09 UTC |
-| [Changing SEO roles within the same company](https://www.reddit.com/r/localseo/comments/1uxw4g4/changing_seo_roles_within_the_same_company/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-16 07:45 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
@@ -45,7 +34,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Why Brand Positioning Is Now an AI Search Variable](https://www.semrush.com/blog/brand-positioning-is-an-ai-search-variable/) | Semrush Blog | 110 | AI Search | 2026-07-15 13:01 UTC |
 | [How to do AI search optimization for local businesses](https://www.semrush.com/blog/ai-search-optimization-for-local-businesses/) | Semrush Blog | 110 | AI Search | 2026-07-15 11:05 UTC |
 | [Audience research: What it is &amp; how to conduct it](https://www.semrush.com/blog/audience-research/) | Semrush Blog | 110 | Migration | 2026-07-14 09:25 UTC |
-| [Keyword cannibalization: How to find, fix, and prevent it](https://www.semrush.com/blog/keyword-cannibalization-guide/) | Semrush Blog | 110 | AI Search | 2026-07-14 09:12 UTC |
+| [Keyword cannibalization: How to find, fix, and prevent it](https://www.semrush.com/blog/keyword-cannibalization-guide/) | Semrush Blog | 95 | AI Search | 2026-07-14 09:12 UTC |
 | [Google Search Console adds social and video reports](https://www.semrush.com/blog/google-search-console-adds-social-and-video-reports/) | Semrush Blog | 95 | GSC | 2026-07-10 14:45 UTC |
 
 ## Notes
