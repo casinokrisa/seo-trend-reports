@@ -26,9 +26,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google: You're Better Off Without Lastmod Dates When They Are Incorrect](https://www.seroundtable.com/google-lastmod-dates-incorrect-41697.html) | Search Engine Roundtable | 190 | Indexing | 2026-07-16 11:21 UTC |
 | [Google To Merge Google Shopping Ads &amp; Free Listing Policies To One Policy](https://www.seroundtable.com/google-shopping-ads-free-listing-policies-merge-41695.html) | Search Engine Roundtable | 190 | General | 2026-07-16 11:11 UTC |
 | [Google Ads To Turn On Local Inventory Ads By Default For Shopping Campaigns](https://www.seroundtable.com/google-local-inventory-ads-setting-shopping-campaigns-41699.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-16 11:05 UTC |
-| [Daily Search Forum Recap: July 15, 2026](https://www.seroundtable.com/recap-07-15-2026-41691.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-15 14:00 UTC |
 | [The Free Tools SEO Strategy: How to Rank With Calculators, Converters, and Generators](https://ahrefs.com/blog/the-free-tools-seo-strategy/) | Ahrefs Blog | 140 | General | 2026-07-16 11:30 UTC |
-| [Why Brand Positioning Is Now an AI Search Variable](https://www.semrush.com/blog/brand-positioning-is-an-ai-search-variable/) | Semrush Blog | 110 | AI Search | 2026-07-15 13:01 UTC |
 
 ## Notes for manual writing
 
