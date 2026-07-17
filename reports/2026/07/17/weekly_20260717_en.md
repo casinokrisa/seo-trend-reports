@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: July 17, 2026](https://www.seroundtable.com/recap-07-17-2026-41705.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-17 14:00 UTC |
+| [Daily Search Forum Recap: July 17, 2026](https://www.seroundtable.com/recap-07-17-2026-41705.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-17 14:00 UTC |
 | [Search News Buzz Video Recap: Google 7/11 Update, Bing Penalties, Google Images, AI Overviews AI Images, Google Ads Updates, ChatGPT Ads Features &amp; Apple Maps](https://www.seroundtable.com/video-07-17-2026-41703.html) | Search Engine Roundtable | 190 | Local SEO | 2026-07-17 12:01 UTC |
 | [Google Ads Making Broader Smart Bidding Updates? Google Says No.](https://www.seroundtable.com/google-ads-broader-smart-bidding-updates-41702.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-17 11:51 UTC |
 | [Did Google Maps Turn Off OpenTable Reservations?](https://www.seroundtable.com/google-maps-opentable-reservations-gone-41700.html) | Search Engine Roundtable | 190 | Local SEO | 2026-07-17 11:41 UTC |
