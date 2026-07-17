@@ -19,11 +19,11 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: July 17, 2026](https://www.seroundtable.com/recap-07-17-2026-41705.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-17 14:00 UTC |
-| [Search News Buzz Video Recap: Google 7/11 Update, Bing Penalties, Google Images, AI Overviews AI Images, Google Ads Updates, ChatGPT Ads Features &amp; Apple Maps](https://www.seroundtable.com/video-07-17-2026-41703.html) | Search Engine Roundtable | 210 | Local SEO | 2026-07-17 12:01 UTC |
-| [Google Ads Making Broader Smart Bidding Updates? Google Says No.](https://www.seroundtable.com/google-ads-broader-smart-bidding-updates-41702.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-17 11:51 UTC |
-| [Did Google Maps Turn Off OpenTable Reservations?](https://www.seroundtable.com/google-maps-opentable-reservations-gone-41700.html) | Search Engine Roundtable | 210 | Local SEO | 2026-07-17 11:41 UTC |
-| [Google Renamed NotebookLM Useragent To Google-GeminiNotebook](https://www.seroundtable.com/google-renames-notebooklm-gemininotebook-41704.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-17 11:31 UTC |
-| [Google StoreBot Accessibility Issues Help Document Updated](https://www.seroundtable.com/google-storebot-accessibility-41650.html) | Search Engine Roundtable | 210 | Indexing | 2026-07-17 11:21 UTC |
+| [Search News Buzz Video Recap: Google 7/11 Update, Bing Penalties, Google Images, AI Overviews AI Images, Google Ads Updates, ChatGPT Ads Features &amp; Apple Maps](https://www.seroundtable.com/video-07-17-2026-41703.html) | Search Engine Roundtable | 190 | Local SEO | 2026-07-17 12:01 UTC |
+| [Google Ads Making Broader Smart Bidding Updates? Google Says No.](https://www.seroundtable.com/google-ads-broader-smart-bidding-updates-41702.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-17 11:51 UTC |
+| [Did Google Maps Turn Off OpenTable Reservations?](https://www.seroundtable.com/google-maps-opentable-reservations-gone-41700.html) | Search Engine Roundtable | 190 | Local SEO | 2026-07-17 11:41 UTC |
+| [Google Renamed NotebookLM Useragent To Google-GeminiNotebook](https://www.seroundtable.com/google-renames-notebooklm-gemininotebook-41704.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-17 11:31 UTC |
+| [Google StoreBot Accessibility Issues Help Document Updated](https://www.seroundtable.com/google-storebot-accessibility-41650.html) | Search Engine Roundtable | 190 | Indexing | 2026-07-17 11:21 UTC |
 | [Bing Tests Black Magnifying Glass Icon In Search Bar](https://www.seroundtable.com/bing-black-magnifying-glass-41552.html) | Search Engine Roundtable | 190 | General | 2026-07-17 11:11 UTC |
 | [Daily Search Forum Recap: July 16, 2026](https://www.seroundtable.com/recap-07-16-2026-41698.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-16 14:00 UTC |
 | [Google: Discovered vs Crawled Not Indexed Quality Issues &amp; AI-Generated Content](https://www.seroundtable.com/google-crawled-not-indexed-quality-ai-content-41701.html) | Search Engine Roundtable | 170 | Indexing | 2026-07-16 11:55 UTC |
