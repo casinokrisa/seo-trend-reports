@@ -25,8 +25,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Renamed NotebookLM Useragent To Google-GeminiNotebook](https://www.seroundtable.com/google-renames-notebooklm-gemininotebook-41704.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-17 11:31 UTC |
 | [Google StoreBot Accessibility Issues Help Document Updated](https://www.seroundtable.com/google-storebot-accessibility-41650.html) | Search Engine Roundtable | 190 | Indexing | 2026-07-17 11:21 UTC |
 | [Bing Tests Black Magnifying Glass Icon In Search Bar](https://www.seroundtable.com/bing-black-magnifying-glass-41552.html) | Search Engine Roundtable | 190 | General | 2026-07-17 11:11 UTC |
-| [How to measure AI share of voice using Semrush](https://www.semrush.com/blog/how-to-measure-ai-share-of-voice/) | Semrush Blog | 130 | AI Search | 2026-07-17 10:35 UTC |
-| [Link building for SEO: What works in 2026](https://www.semrush.com/blog/link-building/) | Semrush Blog | 130 | Links | 2026-07-17 10:24 UTC |
+| [How to measure AI share of voice using Semrush](https://www.semrush.com/blog/how-to-measure-ai-share-of-voice/) | Semrush Blog | 110 | AI Search | 2026-07-17 10:35 UTC |
+| [Link building for SEO: What works in 2026](https://www.semrush.com/blog/link-building/) | Semrush Blog | 110 | Links | 2026-07-17 10:24 UTC |
 
 ## Notes for manual writing
 

@@ -28,9 +28,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google: You're Better Off Without Lastmod Dates When They Are Incorrect](https://www.seroundtable.com/google-lastmod-dates-incorrect-41697.html) | Search Engine Roundtable | 170 | Indexing | 2026-07-16 11:21 UTC |
 | [Google To Merge Google Shopping Ads &amp; Free Listing Policies To One Policy](https://www.seroundtable.com/google-shopping-ads-free-listing-policies-merge-41695.html) | Search Engine Roundtable | 170 | General | 2026-07-16 11:11 UTC |
 | [Google Ads To Turn On Local Inventory Ads By Default For Shopping Campaigns](https://www.seroundtable.com/google-local-inventory-ads-setting-shopping-campaigns-41699.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-16 11:05 UTC |
-| [How to measure AI share of voice using Semrush](https://www.semrush.com/blog/how-to-measure-ai-share-of-voice/) | Semrush Blog | 130 | AI Search | 2026-07-17 10:35 UTC |
-| [Link building for SEO: What works in 2026](https://www.semrush.com/blog/link-building/) | Semrush Blog | 130 | Links | 2026-07-17 10:24 UTC |
 | [The Free Tools SEO Strategy: How to Rank With Calculators, Converters, and Generators](https://ahrefs.com/blog/the-free-tools-seo-strategy/) | Ahrefs Blog | 120 | General | 2026-07-16 11:30 UTC |
+| [How to measure AI share of voice using Semrush](https://www.semrush.com/blog/how-to-measure-ai-share-of-voice/) | Semrush Blog | 110 | AI Search | 2026-07-17 10:35 UTC |
+| [Link building for SEO: What works in 2026](https://www.semrush.com/blog/link-building/) | Semrush Blog | 110 | Links | 2026-07-17 10:24 UTC |
 | [Why Brand Positioning Is Now an AI Search Variable](https://www.semrush.com/blog/brand-positioning-is-an-ai-search-variable/) | Semrush Blog | 110 | AI Search | 2026-07-15 13:01 UTC |
 | [How to do AI search optimization for local businesses](https://www.semrush.com/blog/ai-search-optimization-for-local-businesses/) | Semrush Blog | 110 | AI Search | 2026-07-15 11:05 UTC |
 | [6 Ways to Automate AEO With Letaido](https://ahrefs.com/blog/letaido-for-aeo/) | Ahrefs Blog | 105 | AI Search | 2026-07-14 15:23 UTC |
