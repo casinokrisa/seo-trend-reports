@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: July 17, 2026](https://www.seroundtable.com/recap-07-17-2026-41705.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-17 14:00 UTC |
+| _No site items in window_ |  |  |  |  |
 
 ## Notes for manual writing
 
