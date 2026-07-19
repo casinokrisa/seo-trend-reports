@@ -21,7 +21,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Renamed NotebookLM Useragent To Google-GeminiNotebook](https://www.seroundtable.com/google-renames-notebooklm-gemininotebook-41704.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-17 11:31 UTC |
 | [Google StoreBot Accessibility Issues Help Document Updated](https://www.seroundtable.com/google-storebot-accessibility-41650.html) | Search Engine Roundtable | 170 | Indexing | 2026-07-17 11:21 UTC |
 | [Bing Tests Black Magnifying Glass Icon In Search Bar](https://www.seroundtable.com/bing-black-magnifying-glass-41552.html) | Search Engine Roundtable | 170 | General | 2026-07-17 11:11 UTC |
-| [Daily Search Forum Recap: July 16, 2026](https://www.seroundtable.com/recap-07-16-2026-41698.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-16 14:00 UTC |
+| [Daily Search Forum Recap: July 16, 2026](https://www.seroundtable.com/recap-07-16-2026-41698.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-16 14:00 UTC |
 | [Google: Discovered vs Crawled Not Indexed Quality Issues &amp; AI-Generated Content](https://www.seroundtable.com/google-crawled-not-indexed-quality-ai-content-41701.html) | Search Engine Roundtable | 155 | Indexing | 2026-07-16 11:55 UTC |
 | [Apple Maps Ads Bans Home Service Businesses With Updated Terms](https://www.seroundtable.com/apple-maps-ads-bans-home-services-41696.html) | Search Engine Roundtable | 155 | Local SEO | 2026-07-16 11:51 UTC |
 | [Google Ads Performance Max Product Reporting Now Uses All Networks](https://www.seroundtable.com/google-ads-pmax-product-reporting-all-networks-41694.html) | Search Engine Roundtable | 155 | General | 2026-07-16 11:41 UTC |
