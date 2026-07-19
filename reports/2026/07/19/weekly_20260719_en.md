@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Search Ranking Volatility This Weekend - Around July 18th](https://www.seroundtable.com/google-search-ranking-volatility-41712.html) | Search Engine Roundtable | 210 | General | 2026-07-19 12:04 UTC |
+| [Google Search Ranking Volatility This Weekend - Around July 18th](https://www.seroundtable.com/google-search-ranking-volatility-41712.html) | Search Engine Roundtable | 190 | General | 2026-07-19 12:04 UTC |
 | [Updated the package tracking documentation](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | AI Search | 2026-07-14 00:00 UTC |
 | [Daily Search Forum Recap: July 17, 2026](https://www.seroundtable.com/recap-07-17-2026-41705.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-17 14:00 UTC |
 | [Search News Buzz Video Recap: Google 7/11 Update, Bing Penalties, Google Images, AI Overviews AI Images, Google Ads Updates, ChatGPT Ads Features &amp; Apple Maps](https://www.seroundtable.com/video-07-17-2026-41703.html) | Search Engine Roundtable | 170 | Local SEO | 2026-07-17 12:01 UTC |
