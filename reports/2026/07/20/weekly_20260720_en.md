@@ -28,6 +28,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google StoreBot Accessibility Issues Help Document Updated](https://www.seroundtable.com/google-storebot-accessibility-41650.html) | Search Engine Roundtable | 155 | Indexing | 2026-07-17 11:21 UTC |
 | [Bing Tests Black Magnifying Glass Icon In Search Bar](https://www.seroundtable.com/bing-black-magnifying-glass-41552.html) | Search Engine Roundtable | 155 | General | 2026-07-17 11:11 UTC |
 | [Daily Search Forum Recap: July 16, 2026](https://www.seroundtable.com/recap-07-16-2026-41698.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-16 14:00 UTC |
+| [The 9 Best Generative Engine Optimization (GEO) Tools of 2026](https://www.semrush.com/blog/best-generative-engine-optimization-tools/) | Semrush Blog | 150 | AI Search | 2026-07-20 20:36 UTC |
 | [AI visibility is a topic-level game: A study of 50,000 brands in ChatGPT [Study]](https://www.semrush.com/blog/chatgpt-topic-authority-study/) | Semrush Blog | 130 | AI Search | 2026-07-20 13:04 UTC |
 | [The Free Tools SEO Strategy: How to Rank With Calculators, Converters, and Generators](https://ahrefs.com/blog/the-free-tools-seo-strategy/) | Ahrefs Blog | 105 | General | 2026-07-16 11:30 UTC |
 | [6 Ways to Automate AEO With Letaido](https://ahrefs.com/blog/letaido-for-aeo/) | Ahrefs Blog | 105 | AI Search | 2026-07-14 15:23 UTC |
