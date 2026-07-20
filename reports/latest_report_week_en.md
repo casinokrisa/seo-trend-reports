@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Daily Search Forum Recap: July 20, 2026](https://www.seroundtable.com/recap-07-20-2026-41715.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-20 14:00 UTC |
 | [Google Search Ranking Volatility This Weekend - Around July 18th &amp; 19th](https://www.seroundtable.com/google-search-ranking-volatility-41712.html) | Search Engine Roundtable | 210 | General | 2026-07-20 12:04 UTC |
 | [Google: We Send Billions Of Clicks To Websites Weekly Through AI Search](https://www.seroundtable.com/google-ai-search-billions-clicks-41709.html) | Search Engine Roundtable | 210 | GSC | 2026-07-20 11:51 UTC |
 | [Google Warns Not To Uninstall/Reinstall Google &amp; YouTube Shopify App](https://www.seroundtable.com/google-google-youtube-shopify-app-update-41713.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-20 11:41 UTC |
@@ -19,7 +20,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Content API Extended Access Form Now Available](https://www.seroundtable.com/google-content-api-extension-41710.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-20 11:21 UTC |
 | [Google Warns Not To Place AI Labels On Corners Of Images](https://www.seroundtable.com/google-ai-labels-corners-41711.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-20 11:11 UTC |
 | [Updated the package tracking documentation](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | AI Search | 2026-07-14 00:00 UTC |
-| [Daily Search Forum Recap: July 17, 2026](https://www.seroundtable.com/recap-07-17-2026-41705.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-17 14:00 UTC |
+| [Daily Search Forum Recap: July 17, 2026](https://www.seroundtable.com/recap-07-17-2026-41705.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-17 14:00 UTC |
 | [Search News Buzz Video Recap: Google 7/11 Update, Bing Penalties, Google Images, AI Overviews AI Images, Google Ads Updates, ChatGPT Ads Features &amp; Apple Maps](https://www.seroundtable.com/video-07-17-2026-41703.html) | Search Engine Roundtable | 155 | Local SEO | 2026-07-17 12:01 UTC |
 | [Google Ads Making Broader Smart Bidding Updates? Google Says No.](https://www.seroundtable.com/google-ads-broader-smart-bidding-updates-41702.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-17 11:51 UTC |
 | [Did Google Maps Turn Off OpenTable Reservations?](https://www.seroundtable.com/google-maps-opentable-reservations-gone-41700.html) | Search Engine Roundtable | 155 | Local SEO | 2026-07-17 11:41 UTC |
@@ -27,7 +28,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google StoreBot Accessibility Issues Help Document Updated](https://www.seroundtable.com/google-storebot-accessibility-41650.html) | Search Engine Roundtable | 155 | Indexing | 2026-07-17 11:21 UTC |
 | [Bing Tests Black Magnifying Glass Icon In Search Bar](https://www.seroundtable.com/bing-black-magnifying-glass-41552.html) | Search Engine Roundtable | 155 | General | 2026-07-17 11:11 UTC |
 | [Daily Search Forum Recap: July 16, 2026](https://www.seroundtable.com/recap-07-16-2026-41698.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-16 14:00 UTC |
-| [Google: Discovered vs Crawled Not Indexed Quality Issues &amp; AI-Generated Content](https://www.seroundtable.com/google-crawled-not-indexed-quality-ai-content-41701.html) | Search Engine Roundtable | 155 | Indexing | 2026-07-16 11:55 UTC |
+| [AI visibility is a topic-level game: A study of 50,000 brands in ChatGPT [Study]](https://www.semrush.com/blog/chatgpt-topic-authority-study/) | Semrush Blog | 150 | AI Search | 2026-07-20 13:04 UTC |
 | [The Free Tools SEO Strategy: How to Rank With Calculators, Converters, and Generators](https://ahrefs.com/blog/the-free-tools-seo-strategy/) | Ahrefs Blog | 105 | General | 2026-07-16 11:30 UTC |
 | [6 Ways to Automate AEO With Letaido](https://ahrefs.com/blog/letaido-for-aeo/) | Ahrefs Blog | 105 | AI Search | 2026-07-14 15:23 UTC |
 | [10 Creative Ways to Write with AI (Without Losing Your Soul)](https://ahrefs.com/blog/creative-ways-to-write-with-ai/) | Ahrefs Blog | 105 | AI Search | 2026-07-14 10:43 UTC |
