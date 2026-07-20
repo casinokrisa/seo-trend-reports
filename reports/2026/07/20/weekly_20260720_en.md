@@ -13,12 +13,12 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: July 20, 2026](https://www.seroundtable.com/recap-07-20-2026-41715.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-20 14:00 UTC |
-| [Google Search Ranking Volatility This Weekend - Around July 18th &amp; 19th](https://www.seroundtable.com/google-search-ranking-volatility-41712.html) | Search Engine Roundtable | 210 | General | 2026-07-20 12:04 UTC |
-| [Google: We Send Billions Of Clicks To Websites Weekly Through AI Search](https://www.seroundtable.com/google-ai-search-billions-clicks-41709.html) | Search Engine Roundtable | 210 | GSC | 2026-07-20 11:51 UTC |
-| [Google Warns Not To Uninstall/Reinstall Google &amp; YouTube Shopify App](https://www.seroundtable.com/google-google-youtube-shopify-app-update-41713.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-20 11:41 UTC |
-| [ChatGPT Showing Two Ads In Footer Of Results](https://www.seroundtable.com/chatgpt-showing-two-ads-41706.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-20 11:31 UTC |
-| [Google Content API Extended Access Form Now Available](https://www.seroundtable.com/google-content-api-extension-41710.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-20 11:21 UTC |
-| [Google Warns Not To Place AI Labels On Corners Of Images](https://www.seroundtable.com/google-ai-labels-corners-41711.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-20 11:11 UTC |
+| [Google Search Ranking Volatility This Weekend - Around July 18th &amp; 19th](https://www.seroundtable.com/google-search-ranking-volatility-41712.html) | Search Engine Roundtable | 190 | General | 2026-07-20 12:04 UTC |
+| [Google: We Send Billions Of Clicks To Websites Weekly Through AI Search](https://www.seroundtable.com/google-ai-search-billions-clicks-41709.html) | Search Engine Roundtable | 190 | GSC | 2026-07-20 11:51 UTC |
+| [Google Warns Not To Uninstall/Reinstall Google &amp; YouTube Shopify App](https://www.seroundtable.com/google-google-youtube-shopify-app-update-41713.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-20 11:41 UTC |
+| [ChatGPT Showing Two Ads In Footer Of Results](https://www.seroundtable.com/chatgpt-showing-two-ads-41706.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-20 11:31 UTC |
+| [Google Content API Extended Access Form Now Available](https://www.seroundtable.com/google-content-api-extension-41710.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-20 11:21 UTC |
+| [Google Warns Not To Place AI Labels On Corners Of Images](https://www.seroundtable.com/google-ai-labels-corners-41711.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-20 11:11 UTC |
 | [Updated the package tracking documentation](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | AI Search | 2026-07-14 00:00 UTC |
 | [Daily Search Forum Recap: July 17, 2026](https://www.seroundtable.com/recap-07-17-2026-41705.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-17 14:00 UTC |
 | [Search News Buzz Video Recap: Google 7/11 Update, Bing Penalties, Google Images, AI Overviews AI Images, Google Ads Updates, ChatGPT Ads Features &amp; Apple Maps](https://www.seroundtable.com/video-07-17-2026-41703.html) | Search Engine Roundtable | 155 | Local SEO | 2026-07-17 12:01 UTC |
