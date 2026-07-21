@@ -27,7 +27,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Warns Not To Place AI Labels On Corners Of Images](https://www.seroundtable.com/google-ai-labels-corners-41711.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-20 11:11 UTC |
 | [Daily Search Forum Recap: July 17, 2026](https://www.seroundtable.com/recap-07-17-2026-41705.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-17 14:00 UTC |
 | [Search News Buzz Video Recap: Google 7/11 Update, Bing Penalties, Google Images, AI Overviews AI Images, Google Ads Updates, ChatGPT Ads Features &amp; Apple Maps](https://www.seroundtable.com/video-07-17-2026-41703.html) | Search Engine Roundtable | 155 | Local SEO | 2026-07-17 12:01 UTC |
-| [The 9 Best Generative Engine Optimization (GEO) Tools of 2026](https://www.semrush.com/blog/best-generative-engine-optimization-tools/) | Semrush Blog | 130 | AI Search | 2026-07-20 20:36 UTC |
+| [The 9 Best Generative Engine Optimization (GEO) Tools of 2026](https://www.semrush.com/blog/best-generative-engine-optimization-tools/) | Semrush Blog | 110 | AI Search | 2026-07-20 20:36 UTC |
 | [AI visibility is a topic-level game: A study of 50,000 brands in ChatGPT [Study]](https://www.semrush.com/blog/chatgpt-topic-authority-study/) | Semrush Blog | 110 | AI Search | 2026-07-20 13:04 UTC |
 | [The Free Tools SEO Strategy: How to Rank With Calculators, Converters, and Generators](https://ahrefs.com/blog/the-free-tools-seo-strategy/) | Ahrefs Blog | 105 | General | 2026-07-16 11:30 UTC |
 | [How to measure AI share of voice using Semrush](https://www.semrush.com/blog/how-to-measure-ai-share-of-voice/) | Semrush Blog | 95 | AI Search | 2026-07-17 10:35 UTC |

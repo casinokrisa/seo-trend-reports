@@ -31,7 +31,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [ChatGPT Showing Two Ads In Footer Of Results](https://www.seroundtable.com/chatgpt-showing-two-ads-41706.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-20 11:31 UTC |
 | [Google Content API Extended Access Form Now Available](https://www.seroundtable.com/google-content-api-extension-41710.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-20 11:21 UTC |
 | [Google Warns Not To Place AI Labels On Corners Of Images](https://www.seroundtable.com/google-ai-labels-corners-41711.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-20 11:11 UTC |
-| [The 9 Best Generative Engine Optimization (GEO) Tools of 2026](https://www.semrush.com/blog/best-generative-engine-optimization-tools/) | Semrush Blog | 130 | AI Search | 2026-07-20 20:36 UTC |
+| [The 9 Best Generative Engine Optimization (GEO) Tools of 2026](https://www.semrush.com/blog/best-generative-engine-optimization-tools/) | Semrush Blog | 110 | AI Search | 2026-07-20 20:36 UTC |
 | [AI visibility is a topic-level game: A study of 50,000 brands in ChatGPT [Study]](https://www.semrush.com/blog/chatgpt-topic-authority-study/) | Semrush Blog | 110 | AI Search | 2026-07-20 13:04 UTC |
 
 ## Notes for manual writing
