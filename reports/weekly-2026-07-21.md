@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Daily Search Forum Recap: July 21, 2026](https://www.seroundtable.com/recap-07-21-2026-41720.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-21 14:00 UTC |
 | [Google Local Services Ads Transitioning To Google Ads Platform](https://www.seroundtable.com/google-local-services-ads-transition-google-ads-41717.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-21 11:51 UTC |
 | [Google Updates Performance Max Doc: AI Generates Text Customization &amp; More](https://www.seroundtable.com/google-updates-pmax-ai-generates-text-customization-41707.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-21 11:41 UTC |
 | [Google Ads Google Analytics Bulk Linking](https://www.seroundtable.com/google-ads-bulk-linking-analytics-41714.html) | Search Engine Roundtable | 210 | Links | 2026-07-21 11:31 UTC |
@@ -26,16 +27,14 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Warns Not To Place AI Labels On Corners Of Images](https://www.seroundtable.com/google-ai-labels-corners-41711.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-20 11:11 UTC |
 | [The 50 Most-Cited Websites in Google AI Mode (July 2026)](https://ahrefs.com/blog/most-cited-domains-ai-mode/) | Ahrefs Blog | 160 | AI Search | 2026-07-21 10:47 UTC |
 | [The 50 Most-Cited Websites in Google AI Overviews (July 2026)](https://ahrefs.com/blog/most-cited-domains-ai-overviews/) | Ahrefs Blog | 160 | AI Search | 2026-07-21 10:40 UTC |
-| [The 50 Most-Cited Websites in Gemini (July 2026)](https://ahrefs.com/blog/most-cited-domains-gemini/) | Ahrefs Blog | 160 | AI Search | 2026-07-21 10:38 UTC |
-| [The 50 Most-Cited Websites in Perplexity (July 2026)](https://ahrefs.com/blog/most-cited-domains-perplexity/) | Ahrefs Blog | 160 | Links | 2026-07-21 10:36 UTC |
-| [The 50 Most-Cited Websites in Copilot (July 2026)](https://ahrefs.com/blog/most-cited-domains-copilot/) | Ahrefs Blog | 160 | AI Search | 2026-07-21 09:31 UTC |
 | [Daily Search Forum Recap: July 17, 2026](https://www.seroundtable.com/recap-07-17-2026-41705.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-17 14:00 UTC |
 | [Search News Buzz Video Recap: Google 7/11 Update, Bing Penalties, Google Images, AI Overviews AI Images, Google Ads Updates, ChatGPT Ads Features &amp; Apple Maps](https://www.seroundtable.com/video-07-17-2026-41703.html) | Search Engine Roundtable | 155 | Local SEO | 2026-07-17 12:01 UTC |
-| [Google Ads Making Broader Smart Bidding Updates? Google Says No.](https://www.seroundtable.com/google-ads-broader-smart-bidding-updates-41702.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-17 11:51 UTC |
+| [The 50 Most-Cited Websites in Gemini (July 2026)](https://ahrefs.com/blog/most-cited-domains-gemini/) | Ahrefs Blog | 140 | AI Search | 2026-07-21 10:38 UTC |
+| [The 50 Most-Cited Websites in Perplexity (July 2026)](https://ahrefs.com/blog/most-cited-domains-perplexity/) | Ahrefs Blog | 140 | Links | 2026-07-21 10:36 UTC |
+| [The 50 Most-Cited Websites in Copilot (July 2026)](https://ahrefs.com/blog/most-cited-domains-copilot/) | Ahrefs Blog | 140 | AI Search | 2026-07-21 09:31 UTC |
 | [The 9 Best Generative Engine Optimization (GEO) Tools of 2026](https://www.semrush.com/blog/best-generative-engine-optimization-tools/) | Semrush Blog | 130 | AI Search | 2026-07-20 20:36 UTC |
 | [AI visibility is a topic-level game: A study of 50,000 brands in ChatGPT [Study]](https://www.semrush.com/blog/chatgpt-topic-authority-study/) | Semrush Blog | 110 | AI Search | 2026-07-20 13:04 UTC |
 | [The Free Tools SEO Strategy: How to Rank With Calculators, Converters, and Generators](https://ahrefs.com/blog/the-free-tools-seo-strategy/) | Ahrefs Blog | 105 | General | 2026-07-16 11:30 UTC |
-| [6 Ways to Automate AEO With Letaido](https://ahrefs.com/blog/letaido-for-aeo/) | Ahrefs Blog | 105 | AI Search | 2026-07-14 15:23 UTC |
 | [How to measure AI share of voice using Semrush](https://www.semrush.com/blog/how-to-measure-ai-share-of-voice/) | Semrush Blog | 95 | AI Search | 2026-07-17 10:35 UTC |
 | [Link building for SEO: What works in 2026](https://www.semrush.com/blog/link-building/) | Semrush Blog | 95 | Links | 2026-07-17 10:24 UTC |
 | [Why Brand Positioning Is Now an AI Search Variable](https://www.semrush.com/blog/brand-positioning-is-an-ai-search-variable/) | Semrush Blog | 95 | AI Search | 2026-07-15 13:01 UTC |
