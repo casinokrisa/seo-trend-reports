@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Creating page for GBP](https://www.reddit.com/r/localseo/comments/1v2ajen/creating_page_for_gbp/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-21 06:40 UTC |
-| [Any tips to why my GMB profile + site + local seo isn't printing leads](https://www.reddit.com/r/localseo/comments/1v28oaq/any_tips_to_why_my_gmb_profile_site_local_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-21 04:59 UTC |
-| [Can Reddit Actually Help Promote a Local Business Without Feeling Like Marketing?](https://www.reddit.com/r/localseo/comments/1v28g8k/can_reddit_actually_help_promote_a_local_business/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-21 04:47 UTC |
-| [Can anyone tell me how someone with one review can rank top 3 in Map packs - in a competitive keyword at that](https://www.reddit.com/r/localseo/comments/1v25e9b/can_anyone_tell_me_how_someone_with_one_review/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-21 02:19 UTC |
-| [The goal is always steady growth, don't forget it](https://www.reddit.com/r/localseo/comments/1v24uel/the_goal_is_always_steady_growth_dont_forget_it/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-21 01:55 UTC |
-| [Looking to connect with Phoenix metro small businesses for local partnerships](https://www.reddit.com/r/localseo/comments/1v21ekb/looking_to_connect_with_phoenix_metro_small/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-20 23:21 UTC |
-| [Phoenix Metro Website backlink exchanges?](https://www.reddit.com/r/localseo/comments/1v20xg2/phoenix_metro_website_backlink_exchanges/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-07-20 23:02 UTC |
-| [Bought a business a year ago, ready to change the name](https://www.reddit.com/r/localseo/comments/1v1wb6h/bought_a_business_a_year_ago_ready_to_change_the/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-20 20:01 UTC |
-| [You have received an invitation to Google Business Profile of your client.](https://www.reddit.com/r/localseo/comments/1v1vqkn/you_have_received_an_invitation_to_google/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-20 19:40 UTC |
-| [PSA: The new Gemini + Google Business Profile integration is finally live. Here’s why it’s actually a big deal for local SEO.](https://www.reddit.com/r/localseo/comments/1v1up2e/psa_the_new_gemini_google_business_profile/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-20 19:02 UTC |
-| [Does anyone else think map grids create more anxiety than value?](https://www.reddit.com/r/localseo/comments/1v1un30/does_anyone_else_think_map_grids_create_more/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-20 19:00 UTC |
-| [After 12 Months of Building, We Automated 80% of Our SEO Workflow (Tracking, Keyword Planning, Backlinks &amp; GBP Rankings)](https://www.reddit.com/r/localseo/comments/1v1sllg/after_12_months_of_building_we_automated_80_of/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-20 17:48 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
@@ -47,8 +36,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Link building for SEO: What works in 2026](https://www.semrush.com/blog/link-building/) | Semrush Blog | 95 | Links | 2026-07-17 10:24 UTC |
 | [Why Brand Positioning Is Now an AI Search Variable](https://www.semrush.com/blog/brand-positioning-is-an-ai-search-variable/) | Semrush Blog | 95 | AI Search | 2026-07-15 13:01 UTC |
 | [How to do AI search optimization for local businesses](https://www.semrush.com/blog/ai-search-optimization-for-local-businesses/) | Semrush Blog | 95 | AI Search | 2026-07-15 11:05 UTC |
-| [Audience research: What it is &amp; how to conduct it](https://www.semrush.com/blog/audience-research/) | Semrush Blog | 95 | Migration | 2026-07-14 09:25 UTC |
-| [Keyword cannibalization: How to find, fix, and prevent it](https://www.semrush.com/blog/keyword-cannibalization-guide/) | Semrush Blog | 95 | AI Search | 2026-07-14 09:12 UTC |
 
 ## Notes
 
