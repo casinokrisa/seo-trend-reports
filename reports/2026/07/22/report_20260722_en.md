@@ -18,12 +18,17 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google AI Mode &amp; ChatGPT Tests Bottom Card Citations](https://www.seroundtable.com/google-ai-mode-chatgpt-bottom-citations-41721.html) | Search Engine Roundtable | 210 | Links | 2026-07-22 11:31 UTC |
+| [Google Lawsuit Against SerpApi Over Scraping Search Results Dismissed](https://www.seroundtable.com/google-lawsuit-serpapi-dismissed-41731.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-22 11:21 UTC |
+| [Google Ads Appeals Limits Set To 6 Months](https://www.seroundtable.com/google-ads-appeals-limit-41730.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-22 11:11 UTC |
+| [Google Updates Its Crawl Budget Doc: Every Site Starts On Conservative Crawl](https://www.seroundtable.com/google-updates-optimize-your-crawl-budget-41732.html) | Search Engine Roundtable | 210 | Indexing | 2026-07-22 11:05 UTC |
 | [Daily Search Forum Recap: July 21, 2026](https://www.seroundtable.com/recap-07-21-2026-41720.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-21 14:00 UTC |
-| [Google Local Services Ads Transitioning To Google Ads Platform](https://www.seroundtable.com/google-local-services-ads-transition-google-ads-41717.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-21 11:51 UTC |
-| [Google Updates Performance Max Doc: AI Generates Text Customization &amp; More](https://www.seroundtable.com/google-updates-pmax-ai-generates-text-customization-41707.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-21 11:41 UTC |
-| [Google Ads Google Analytics Bulk Linking](https://www.seroundtable.com/google-ads-bulk-linking-analytics-41714.html) | Search Engine Roundtable | 190 | Links | 2026-07-21 11:31 UTC |
-| [Bing Tests Open Sitelinks Button In Search](https://www.seroundtable.com/bing-open-sitelinks-41719.html) | Search Engine Roundtable | 190 | Links | 2026-07-21 11:21 UTC |
-| [Bing Tests Image Section In Shopping Panel](https://www.seroundtable.com/bing-images-shopping-panel-41708.html) | Search Engine Roundtable | 190 | General | 2026-07-21 11:11 UTC |
+| [Google Local Services Ads Transitioning To Google Ads Platform](https://www.seroundtable.com/google-local-services-ads-transition-google-ads-41717.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-21 11:51 UTC |
+| [Google Updates Performance Max Doc: AI Generates Text Customization &amp; More](https://www.seroundtable.com/google-updates-pmax-ai-generates-text-customization-41707.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-21 11:41 UTC |
+| [Google Ads Google Analytics Bulk Linking](https://www.seroundtable.com/google-ads-bulk-linking-analytics-41714.html) | Search Engine Roundtable | 170 | Links | 2026-07-21 11:31 UTC |
+| [Bing Tests Open Sitelinks Button In Search](https://www.seroundtable.com/bing-open-sitelinks-41719.html) | Search Engine Roundtable | 170 | Links | 2026-07-21 11:21 UTC |
+| [Bing Tests Image Section In Shopping Panel](https://www.seroundtable.com/bing-images-shopping-panel-41708.html) | Search Engine Roundtable | 170 | General | 2026-07-21 11:11 UTC |
+| [Website marketing: A guide for the AI search era](https://www.semrush.com/blog/website-marketing/) | Semrush Blog | 150 | AI Search | 2026-07-22 10:05 UTC |
 
 ## Notes for manual writing
 
