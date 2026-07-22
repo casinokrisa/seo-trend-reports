@@ -18,6 +18,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Another Google Local Bug: Google Local Review Replies Not Displaying](https://www.seroundtable.com/google-local-review-replies-not-displaying-41739.html) | Search Engine Roundtable | 210 | Local SEO | 2026-07-22 15:44 UTC |
+| [Daily Search Forum Recap: July 22, 2026](https://www.seroundtable.com/recap-07-22-2026-41733.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-22 14:00 UTC |
 | [Google Search Using Latest Gemini 3.5 Flash-Lite](https://www.seroundtable.com/google-search-35-flash-lite-41729.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-22 11:51 UTC |
 | [Google Ads Moved Missed Opportunities From Labs To Recommendations Tab](https://www.seroundtable.com/google-ads-missed-opportunities-recommendations-41723.html) | Search Engine Roundtable | 190 | GSC | 2026-07-22 11:41 UTC |
 | [Google AI Mode &amp; ChatGPT Tests Bottom Card Citations](https://www.seroundtable.com/google-ai-mode-chatgpt-bottom-citations-41721.html) | Search Engine Roundtable | 190 | Links | 2026-07-22 11:31 UTC |
