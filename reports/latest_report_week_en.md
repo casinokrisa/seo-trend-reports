@@ -27,8 +27,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Daily Search Forum Recap: July 20, 2026](https://www.seroundtable.com/recap-07-20-2026-41715.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-20 14:00 UTC |
 | [Google Search Ranking Volatility This Weekend - Around July 18th &amp; 19th](https://www.seroundtable.com/google-search-ranking-volatility-41712.html) | Search Engine Roundtable | 170 | General | 2026-07-20 12:04 UTC |
 | [Google: We Send Billions Of Clicks To Websites Weekly Through AI Search](https://www.seroundtable.com/google-ai-search-billions-clicks-41709.html) | Search Engine Roundtable | 170 | GSC | 2026-07-20 11:51 UTC |
-| [What are backlinks in SEO &amp; how do I get them?](https://www.semrush.com/blog/what-are-backlinks/) | Semrush Blog | 150 | Links | 2026-07-22 10:22 UTC |
-| [Website marketing: A guide for the AI search era](https://www.semrush.com/blog/website-marketing/) | Semrush Blog | 150 | AI Search | 2026-07-22 10:05 UTC |
+| [What are backlinks in SEO &amp; how do I get them?](https://www.semrush.com/blog/what-are-backlinks/) | Semrush Blog | 130 | Links | 2026-07-22 10:22 UTC |
+| [Website marketing: A guide for the AI search era](https://www.semrush.com/blog/website-marketing/) | Semrush Blog | 130 | AI Search | 2026-07-22 10:05 UTC |
 | [The 9 Best Generative Engine Optimization (GEO) Tools of 2026](https://www.semrush.com/blog/best-generative-engine-optimization-tools/) | Semrush Blog | 110 | AI Search | 2026-07-20 20:36 UTC |
 | [AI visibility is a topic-level game: A study of 50,000 brands in ChatGPT [Study]](https://www.semrush.com/blog/chatgpt-topic-authority-study/) | Semrush Blog | 110 | AI Search | 2026-07-20 13:04 UTC |
 | [The Free Tools SEO Strategy: How to Rank With Calculators, Converters, and Generators](https://ahrefs.com/blog/the-free-tools-seo-strategy/) | Ahrefs Blog | 105 | General | 2026-07-16 11:30 UTC |

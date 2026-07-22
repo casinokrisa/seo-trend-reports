@@ -30,8 +30,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Google Analytics Bulk Linking](https://www.seroundtable.com/google-ads-bulk-linking-analytics-41714.html) | Search Engine Roundtable | 170 | Links | 2026-07-21 11:31 UTC |
 | [Bing Tests Open Sitelinks Button In Search](https://www.seroundtable.com/bing-open-sitelinks-41719.html) | Search Engine Roundtable | 170 | Links | 2026-07-21 11:21 UTC |
 | [Bing Tests Image Section In Shopping Panel](https://www.seroundtable.com/bing-images-shopping-panel-41708.html) | Search Engine Roundtable | 170 | General | 2026-07-21 11:11 UTC |
-| [What are backlinks in SEO &amp; how do I get them?](https://www.semrush.com/blog/what-are-backlinks/) | Semrush Blog | 150 | Links | 2026-07-22 10:22 UTC |
-| [Website marketing: A guide for the AI search era](https://www.semrush.com/blog/website-marketing/) | Semrush Blog | 150 | AI Search | 2026-07-22 10:05 UTC |
+| [What are backlinks in SEO &amp; how do I get them?](https://www.semrush.com/blog/what-are-backlinks/) | Semrush Blog | 130 | Links | 2026-07-22 10:22 UTC |
+| [Website marketing: A guide for the AI search era](https://www.semrush.com/blog/website-marketing/) | Semrush Blog | 130 | AI Search | 2026-07-22 10:05 UTC |
 
 ## Notes for manual writing
 
