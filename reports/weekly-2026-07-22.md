@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [~1 month of organic-only SEO on a new site. 24 clicks, 409 impressions.](https://www.reddit.com/r/localseo/comments/1v37m96/1_month_of_organiconly_seo_on_a_new_site_24/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-07-22 06:12 UTC |
-| [Opening the doors was the easy part getting people inside hasn't been.](https://www.reddit.com/r/localseo/comments/1v2zvun/opening_the_doors_was_the_easy_part_getting/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-22 00:08 UTC |
-| [Why are my legit Google reviews being removed?](https://www.reddit.com/r/localseo/comments/1v2zhr9/why_are_my_legit_google_reviews_being_removed/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-21 23:52 UTC |
-| [Is anyone using the GBP Chat Feature?](https://www.reddit.com/r/localseo/comments/1v2upre/is_anyone_using_the_gbp_chat_feature/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-21 20:44 UTC |
-| [GBP Chat Feature](https://www.reddit.com/r/localseo/comments/1v2u9eb/gbp_chat_feature/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-21 20:28 UTC |
-| [Google Profile Insights](https://www.reddit.com/r/localseo/comments/1v2r6xx/google_profile_insights/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-21 18:39 UTC |
-| [Nobody reads your website. They judge it in 5 seconds.](https://www.reddit.com/r/localseo/comments/1v2r31p/nobody_reads_your_website_they_judge_it_in_5/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-21 18:35 UTC |
-| [I quit my agency job to go solo. Here's my first 90 days doing local SEO for myself.](https://www.reddit.com/r/localseo/comments/1v2p87a/i_quit_my_agency_job_to_go_solo_heres_my_first_90/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-21 17:32 UTC |
-| [Feedback On How Home Service Businesses Can Get More Local Customers Using Google Maps and their Business Website?](https://www.reddit.com/r/localseo/comments/1v2olq1/feedback_on_how_home_service_businesses_can_get/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-21 17:10 UTC |
-| [Need advice on strategy building](https://www.reddit.com/r/localseo/comments/1v2olkc/need_advice_on_strategy_building/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-21 17:10 UTC |
-| [Removed 1,427 Google reviews in 4 months. Here's what nobody tells you about review removal 🧵](https://www.reddit.com/r/localseo/comments/1v2nhgh/removed_1427_google_reviews_in_4_months_heres/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-21 16:31 UTC |
-| [Ads have arrived in ai overviews](https://www.reddit.com/r/localseo/comments/1v2m93j/ads_have_arrived_in_ai_overviews/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-21 15:47 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
