@@ -27,8 +27,9 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Lawsuit Against SerpApi Over Scraping Search Results Dismissed](https://www.seroundtable.com/google-lawsuit-serpapi-dismissed-41731.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-22 11:21 UTC |
 | [Google Ads Appeals Limits Set To 6 Months](https://www.seroundtable.com/google-ads-appeals-limit-41730.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-22 11:11 UTC |
 | [Google Updates Its Crawl Budget Doc: Every Site Starts On Conservative Crawl](https://www.seroundtable.com/google-updates-optimize-your-crawl-budget-41732.html) | Search Engine Roundtable | 190 | Indexing | 2026-07-22 11:05 UTC |
-| [What are backlinks in SEO &amp; how do I get them?](https://www.semrush.com/blog/what-are-backlinks/) | Semrush Blog | 130 | Links | 2026-07-22 10:22 UTC |
-| [Website marketing: A guide for the AI search era](https://www.semrush.com/blog/website-marketing/) | Semrush Blog | 130 | AI Search | 2026-07-22 10:05 UTC |
+| [What is a landing page? What to know + examples](https://www.semrush.com/blog/what-is-a-landing-page/) | Semrush Blog | 150 | Migration | 2026-07-23 09:42 UTC |
+| [What are backlinks in SEO &amp; how do I get them?](https://www.semrush.com/blog/what-are-backlinks/) | Semrush Blog | 110 | Links | 2026-07-22 10:22 UTC |
+| [Website marketing: A guide for the AI search era](https://www.semrush.com/blog/website-marketing/) | Semrush Blog | 110 | AI Search | 2026-07-22 10:05 UTC |
 
 ## Notes for manual writing
 
