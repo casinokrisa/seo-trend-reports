@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: July 23, 2026](https://www.seroundtable.com/recap-07-23-2026-41744.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-23 14:00 UTC |
+| [Daily Search Forum Recap: July 23, 2026](https://www.seroundtable.com/recap-07-23-2026-41744.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-23 14:00 UTC |
 | [Large Publishers Strongly Considering Blocking Google Search Completely](https://www.seroundtable.com/publishers-blocking-google-search-41735.html) | Search Engine Roundtable | 190 | GSC | 2026-07-23 11:51 UTC |
 | [Google Hotel Search Updates In EU Based On DMA](https://www.seroundtable.com/google-hotel-search-eu-41737.html) | Search Engine Roundtable | 190 | General | 2026-07-23 11:41 UTC |
 | [Google Maps Review Not Posted Email Notice](https://www.seroundtable.com/google-review-not-posted-email-41734.html) | Search Engine Roundtable | 190 | Local SEO | 2026-07-23 11:31 UTC |
@@ -26,7 +26,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Discover Tests Rounded Corners](https://www.seroundtable.com/google-discover-rounded-corners-41742.html) | Search Engine Roundtable | 190 | General | 2026-07-23 11:11 UTC |
 | [ChatGPT Ads Manager Gains Conversions Value Tooltips](https://www.seroundtable.com/chatgpt-ads-manager-conversions-value-41741.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-23 11:05 UTC |
 | [EU Fines Google $1 Billion Under DMA For Anti-Competitive Search Dominance](https://www.seroundtable.com/eu-fines-google-1-billion-dma-41745.html) | Search Engine Roundtable | 190 | General | 2026-07-23 10:15 UTC |
-| [Google Ad Revenue Up 14.5% With Revenue Up 24% - Biggest Quarter Ever](https://www.seroundtable.com/google-ad-revenue-earnings-41738.html) | Search Engine Roundtable | 190 | General | 2026-07-22 20:08 UTC |
+| [Google Ad Revenue Up 14.5% With Revenue Up 24% - Biggest Quarter Ever](https://www.seroundtable.com/google-ad-revenue-earnings-41738.html) | Search Engine Roundtable | 170 | General | 2026-07-22 20:08 UTC |
 | [Another Google Local Bug: Google Local Review Replies Not Displaying](https://www.seroundtable.com/google-local-review-replies-not-displaying-41739.html) | Search Engine Roundtable | 170 | Local SEO | 2026-07-22 15:44 UTC |
 | [Daily Search Forum Recap: July 22, 2026](https://www.seroundtable.com/recap-07-22-2026-41733.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-22 14:00 UTC |
 | [Google Search Using Latest Gemini 3.5 Flash-Lite](https://www.seroundtable.com/google-search-35-flash-lite-41729.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-22 11:51 UTC |
