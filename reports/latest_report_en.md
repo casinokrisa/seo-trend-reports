@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Ad Revenue Up 14.5% With Revenue Up 24% - Biggest Quarter Ever](https://www.seroundtable.com/google-ad-revenue-earnings-41738.html) | Search Engine Roundtable | 210 | General | 2026-07-22 20:08 UTC |
+| [Google Ad Revenue Up 14.5% With Revenue Up 24% - Biggest Quarter Ever](https://www.seroundtable.com/google-ad-revenue-earnings-41738.html) | Search Engine Roundtable | 190 | General | 2026-07-22 20:08 UTC |
 | [Another Google Local Bug: Google Local Review Replies Not Displaying](https://www.seroundtable.com/google-local-review-replies-not-displaying-41739.html) | Search Engine Roundtable | 190 | Local SEO | 2026-07-22 15:44 UTC |
 | [Daily Search Forum Recap: July 22, 2026](https://www.seroundtable.com/recap-07-22-2026-41733.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-22 14:00 UTC |
 | [Google Search Using Latest Gemini 3.5 Flash-Lite](https://www.seroundtable.com/google-search-35-flash-lite-41729.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-22 11:51 UTC |
@@ -27,7 +27,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Lawsuit Against SerpApi Over Scraping Search Results Dismissed](https://www.seroundtable.com/google-lawsuit-serpapi-dismissed-41731.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-22 11:21 UTC |
 | [Google Ads Appeals Limits Set To 6 Months](https://www.seroundtable.com/google-ads-appeals-limit-41730.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-22 11:11 UTC |
 | [Google Updates Its Crawl Budget Doc: Every Site Starts On Conservative Crawl](https://www.seroundtable.com/google-updates-optimize-your-crawl-budget-41732.html) | Search Engine Roundtable | 190 | Indexing | 2026-07-22 11:05 UTC |
-| [Daily Search Forum Recap: July 21, 2026](https://www.seroundtable.com/recap-07-21-2026-41720.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-21 14:00 UTC |
 | [What are backlinks in SEO &amp; how do I get them?](https://www.semrush.com/blog/what-are-backlinks/) | Semrush Blog | 130 | Links | 2026-07-22 10:22 UTC |
 | [Website marketing: A guide for the AI search era](https://www.semrush.com/blog/website-marketing/) | Semrush Blog | 130 | AI Search | 2026-07-22 10:05 UTC |
 

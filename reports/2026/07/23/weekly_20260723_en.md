@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Ad Revenue Up 14.5% With Revenue Up 24% - Biggest Quarter Ever](https://www.seroundtable.com/google-ad-revenue-earnings-41738.html) | Search Engine Roundtable | 210 | General | 2026-07-22 20:08 UTC |
+| [Google Ad Revenue Up 14.5% With Revenue Up 24% - Biggest Quarter Ever](https://www.seroundtable.com/google-ad-revenue-earnings-41738.html) | Search Engine Roundtable | 190 | General | 2026-07-22 20:08 UTC |
 | [Another Google Local Bug: Google Local Review Replies Not Displaying](https://www.seroundtable.com/google-local-review-replies-not-displaying-41739.html) | Search Engine Roundtable | 190 | Local SEO | 2026-07-22 15:44 UTC |
 | [Daily Search Forum Recap: July 22, 2026](https://www.seroundtable.com/recap-07-22-2026-41733.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-22 14:00 UTC |
 | [Google Search Using Latest Gemini 3.5 Flash-Lite](https://www.seroundtable.com/google-search-35-flash-lite-41729.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-22 11:51 UTC |
