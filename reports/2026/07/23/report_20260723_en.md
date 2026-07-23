@@ -6,29 +6,13 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [R&amp;R VS Gohighlevel Website to calendar subscription model](https://www.reddit.com/r/localseo/comments/1v40ad0/rr_vs_gohighlevel_website_to_calendar/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-23 02:00 UTC |
-| [صيانة غسالات الدمام \| خدمة منزلية سريعة مع ضمان](https://www.reddit.com/r/localseo/comments/1v3snk3/%D8%B5%D9%8A%D8%A7%D9%86%D8%A9_%D8%BA%D8%B3%D8%A7%D9%84%D8%A7%D8%AA_%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85_%D8%AE%D8%AF%D9%85%D8%A9_%D9%85%D9%86%D8%B2%D9%84%D9%8A%D8%A9_%D8%B3%D8%B1%D9%8A%D8%B9%D8%A9_%D9%85%D8%B9_%D8%B6%D9%85%D8%A7%D9%86/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-22 20:47 UTC |
-| [First time getting a client as a solo SEO freelancer. 100% upfront or 50/50?](https://www.reddit.com/r/localseo/comments/1v3r020/first_time_getting_a_client_as_a_solo_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-22 19:50 UTC |
-| [Practitioner GBPs - how to write their name?](https://www.reddit.com/r/localseo/comments/1v3pssu/practitioner_gbps_how_to_write_their_name/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-22 19:08 UTC |
-| [The best roofer in most towns gets the fewest calls.](https://www.reddit.com/r/localseo/comments/1v3ob84/the_best_roofer_in_most_towns_gets_the_fewest/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-22 18:16 UTC |
-| [Google Search Console Introduces a New AI Setting: Should You Enable It?](https://www.reddit.com/r/localseo/comments/1v3njnh/google_search_console_introduces_a_new_ai_setting/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-07-22 17:50 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-| 1 | [R&amp;R VS Gohighlevel Website to calendar subscription model](https://www.reddit.com/r/localseo/comments/1v40ad0/rr_vs_gohighlevel_website_to_calendar/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-23 02:00 UTC |
-| 2 | [صيانة غسالات الدمام \| خدمة منزلية سريعة مع ضمان](https://www.reddit.com/r/localseo/comments/1v3snk3/%D8%B5%D9%8A%D8%A7%D9%86%D8%A9_%D8%BA%D8%B3%D8%A7%D9%84%D8%A7%D8%AA_%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85_%D8%AE%D8%AF%D9%85%D8%A9_%D9%85%D9%86%D8%B2%D9%84%D9%8A%D8%A9_%D8%B3%D8%B1%D9%8A%D8%B9%D8%A9_%D9%85%D8%B9_%D8%B6%D9%85%D8%A7%D9%86/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-22 20:47 UTC |
-| 3 | [First time getting a client as a solo SEO freelancer. 100% upfront or 50/50?](https://www.reddit.com/r/localseo/comments/1v3r020/first_time_getting_a_client_as_a_solo_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-22 19:50 UTC |
-| 4 | [Practitioner GBPs - how to write their name?](https://www.reddit.com/r/localseo/comments/1v3pssu/practitioner_gbps_how_to_write_their_name/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-22 19:08 UTC |
-| 5 | [The best roofer in most towns gets the fewest calls.](https://www.reddit.com/r/localseo/comments/1v3ob84/the_best_roofer_in_most_towns_gets_the_fewest/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-22 18:16 UTC |
-| 6 | [Google Search Console Introduces a New AI Setting: Should You Enable It?](https://www.reddit.com/r/localseo/comments/1v3njnh/google_search_console_introduces_a_new_ai_setting/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-07-22 17:50 UTC |
-| 7 | [Looking for Paid Ads Specialist](https://www.reddit.com/r/localseo/comments/1v3m8n3/looking_for_paid_ads_specialist/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-22 17:05 UTC |
-| 8 | [GBP: Deselect the toggles](https://www.reddit.com/r/localseo/comments/1v3l9cg/gbp_deselect_the_toggles/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-22 16:32 UTC |
-| 9 | [How Much Does SEO Cost in 2027? Complete Pricing Guide](https://www.reddit.com/r/localseo/comments/1v3kth0/how_much_does_seo_cost_in_2027_complete_pricing/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-22 16:16 UTC |
-| 10 | [What would you say, If a tool actually tells you these type of suggestions.](https://www.reddit.com/r/localseo/comments/1v3jqia/what_would_you_say_if_a_tool_actually_tells_you/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-22 15:39 UTC |
-| 11 | [How many secondary categories should you add to a Google Business Profile?](https://www.reddit.com/r/localseo/comments/1v3il56/how_many_secondary_categories_should_you_add_to_a/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-22 14:58 UTC |
-| 12 | [Google is coming for your earnings](https://www.reddit.com/r/localseo/comments/1v3hdcv/google_is_coming_for_your_earnings/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-22 14:13 UTC |
+|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Notable items (Sites)
 
