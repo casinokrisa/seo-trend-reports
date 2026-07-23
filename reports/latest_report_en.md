@@ -35,8 +35,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Lawsuit Against SerpApi Over Scraping Search Results Dismissed](https://www.seroundtable.com/google-lawsuit-serpapi-dismissed-41731.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-22 11:21 UTC |
 | [The Content SEO Manager: How a brand-new role took over content marketing [Study]](https://www.semrush.com/blog/content-seo-manager-study/) | Semrush Blog | 130 | AI Search | 2026-07-23 13:00 UTC |
 | [What is a landing page? What to know + examples](https://www.semrush.com/blog/what-is-a-landing-page/) | Semrush Blog | 130 | Migration | 2026-07-23 09:42 UTC |
-| [What are backlinks in SEO &amp; how do I get them?](https://www.semrush.com/blog/what-are-backlinks/) | Semrush Blog | 110 | Links | 2026-07-22 10:22 UTC |
-| [Website marketing: A guide for the AI search era](https://www.semrush.com/blog/website-marketing/) | Semrush Blog | 110 | AI Search | 2026-07-22 10:05 UTC |
 
 ## Notes for manual writing
 
