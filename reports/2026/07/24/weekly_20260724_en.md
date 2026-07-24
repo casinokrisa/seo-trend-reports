@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Google and Yelp do not own your reviews. Take them back.](https://www.reddit.com/r/localseo/comments/1v53k1b/google_and_yelp_do_not_own_your_reviews_take_them/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-24 06:44 UTC |
-| [Looking for Paid Ads Specialist](https://www.reddit.com/r/localseo/comments/1v53iv9/looking_for_paid_ads_specialist/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-24 06:43 UTC |
-| [Ranking on Google but still not getting leads? Check these two things.](https://www.reddit.com/r/localseo/comments/1v533sh/ranking_on_google_but_still_not_getting_leads/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-24 06:20 UTC |
-| [To all the people loosing rankings recently…](https://www.reddit.com/r/localseo/comments/1v52wjg/to_all_the_people_loosing_rankings_recently/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-24 06:09 UTC |
-| [Google Profile Names Broken](https://www.reddit.com/r/localseo/comments/1v4sgwl/google_profile_names_broken/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-23 22:11 UTC |
-| [Limpieza de servicios en GBP](https://www.reddit.com/r/localseo/comments/1v4qd1z/limpieza_de_servicios_en_gbp/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-23 20:52 UTC |
-| [If your practice doesn't show up in the Google Map Pack, you're invisible to most new patients](https://www.reddit.com/r/localseo/comments/1v4iodj/if_your_practice_doesnt_show_up_in_the_google_map/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-23 16:21 UTC |
-| [Did you know that you can move the map pin of Service Area Business?](https://www.reddit.com/r/localseo/comments/1v4i9lb/did_you_know_that_you_can_move_the_map_pin_of/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-23 16:07 UTC |
-| [Do call tracking numbers still hurt local rankings in 2026, or is NAP consistency fear outdated?](https://www.reddit.com/r/localseo/comments/1v4h9k6/do_call_tracking_numbers_still_hurt_local/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-23 15:31 UTC |
-| [GBP Reviews &amp; Responses](https://www.reddit.com/r/localseo/comments/1v4d0gr/gbp_reviews_responses/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-23 12:50 UTC |
-| [SEO AI Tools](https://www.reddit.com/r/localseo/comments/1v47za7/seo_ai_tools/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-23 08:37 UTC |
-| [R&amp;R VS Gohighlevel Website to calendar subscription model](https://www.reddit.com/r/localseo/comments/1v40ad0/rr_vs_gohighlevel_website_to_calendar/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-23 02:00 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
@@ -38,6 +27,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Moved Missed Opportunities From Labs To Recommendations Tab](https://www.seroundtable.com/google-ads-missed-opportunities-recommendations-41723.html) | Search Engine Roundtable | 170 | GSC | 2026-07-22 11:41 UTC |
 | [Google AI Mode &amp; ChatGPT Tests Bottom Card Citations](https://www.seroundtable.com/google-ai-mode-chatgpt-bottom-citations-41721.html) | Search Engine Roundtable | 170 | Links | 2026-07-22 11:31 UTC |
 | [Google Lawsuit Against SerpApi Over Scraping Search Results Dismissed](https://www.seroundtable.com/google-lawsuit-serpapi-dismissed-41731.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-22 11:21 UTC |
+| [AI Search Strategy: 4 Pillars to Show Up More (and Right) in AI Answers](https://ahrefs.com/blog/ai-search-strategy/) | Ahrefs Blog | 160 | GSC | 2026-07-24 07:55 UTC |
 | [The Content SEO Manager: How a brand-new role took over content marketing [Study]](https://www.semrush.com/blog/content-seo-manager-study/) | Semrush Blog | 130 | AI Search | 2026-07-23 13:00 UTC |
 | [What is a landing page? What to know + examples](https://www.semrush.com/blog/what-is-a-landing-page/) | Semrush Blog | 130 | Migration | 2026-07-23 09:42 UTC |
 | [What are backlinks in SEO &amp; how do I get them?](https://www.semrush.com/blog/what-are-backlinks/) | Semrush Blog | 110 | Links | 2026-07-22 10:22 UTC |
