@@ -12,25 +12,25 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Search News Buzz Video Recap: Google Sends Billions Of Clicks From AI Search, Publisher To Block Google, $120 Billion Quarter, EUâs $1 Billion Fine &amp; More](https://www.seroundtable.com/video-07-24-2026-41749.html) | Search Engine Roundtable | 210 | GSC | 2026-07-24 12:01 UTC |
+| [Google Merchant Center Gains More AI Features](https://www.seroundtable.com/google-merchant-center-ai-features-41736.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-24 11:51 UTC |
+| [Bing Tests Fading Out Related Searches On Hover](https://www.seroundtable.com/bing-fading-out-related-searches-41722.html) | Search Engine Roundtable | 210 | General | 2026-07-24 11:41 UTC |
+| [Google Ads AI Max For Shopping Campaigns Expands](https://www.seroundtable.com/google-ads-ai-max-shopping-campaigns-41743.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-24 11:31 UTC |
 | [Google Ads Recommended By Google Al In Conversion Summaries](https://www.seroundtable.com/google-ads-recommended-by-google-al-conversions-41716.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-24 11:21 UTC |
 | [Google Ads Gambling Certification Applications &amp; Standards Update On 8/26](https://www.seroundtable.com/google-ads-gambling-certification-applications-update-41750.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-24 11:16 UTC |
 | [Google Comparison Listing Ads Now CSS Product Listing Ads](https://www.seroundtable.com/google-css-product-listing-ads-41746.html) | Search Engine Roundtable | 210 | Migration | 2026-07-24 11:11 UTC |
 | [Google AdSense Related Search Format To Be Retired On August 6th](https://www.seroundtable.com/google-adsense-related-search-deprecating-41747.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-24 11:05 UTC |
-| [Daily Search Forum Recap: July 23, 2026](https://www.seroundtable.com/recap-07-23-2026-41744.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-23 14:00 UTC |
+| [Daily Search Forum Recap: July 23, 2026](https://www.seroundtable.com/recap-07-23-2026-41744.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-23 14:00 UTC |
 | [Large Publishers Strongly Considering Blocking Google Search Completely](https://www.seroundtable.com/publishers-blocking-google-search-41735.html) | Search Engine Roundtable | 170 | GSC | 2026-07-23 11:51 UTC |
 | [Google Hotel Search Updates In EU Based On DMA](https://www.seroundtable.com/google-hotel-search-eu-41737.html) | Search Engine Roundtable | 170 | General | 2026-07-23 11:41 UTC |
 | [Google Maps Review Not Posted Email Notice](https://www.seroundtable.com/google-review-not-posted-email-41734.html) | Search Engine Roundtable | 170 | Local SEO | 2026-07-23 11:31 UTC |
 | [Google Ads API Version 25 Now Available](https://www.seroundtable.com/google-ads-api-v-25-41740.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-23 11:21 UTC |
 | [Google Discover Tests Rounded Corners](https://www.seroundtable.com/google-discover-rounded-corners-41742.html) | Search Engine Roundtable | 170 | General | 2026-07-23 11:11 UTC |
 | [ChatGPT Ads Manager Gains Conversions Value Tooltips](https://www.seroundtable.com/chatgpt-ads-manager-conversions-value-41741.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-23 11:05 UTC |
-| [EU Fines Google $1 Billion Under DMA For Anti-Competitive Search Dominance](https://www.seroundtable.com/eu-fines-google-1-billion-dma-41745.html) | Search Engine Roundtable | 170 | General | 2026-07-23 10:15 UTC |
-| [Google Ad Revenue Up 14.5% With Revenue Up 24% - Biggest Quarter Ever](https://www.seroundtable.com/google-ad-revenue-earnings-41738.html) | Search Engine Roundtable | 170 | General | 2026-07-22 20:08 UTC |
-| [Another Google Local Bug: Google Local Review Replies Not Displaying](https://www.seroundtable.com/google-local-review-replies-not-displaying-41739.html) | Search Engine Roundtable | 170 | Local SEO | 2026-07-22 15:44 UTC |
-| [Daily Search Forum Recap: July 22, 2026](https://www.seroundtable.com/recap-07-22-2026-41733.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-22 14:00 UTC |
 | [5 AI Search Trends I’m Seeing in 2026, Backed by Ahrefs Data](https://ahrefs.com/blog/ai-search-trends/) | Ahrefs Blog | 160 | AI Search | 2026-07-24 11:03 UTC |
 | [Free LLMs.txt Generator](https://ahrefs.com/blog/free-llms-txt-generator/) | Ahrefs Blog | 160 | AI Search | 2026-07-24 09:52 UTC |
-| [AI Search Strategy: 4 Pillars to Show Up More (and Right) in AI Answers](https://ahrefs.com/blog/ai-search-strategy/) | Ahrefs Blog | 160 | GSC | 2026-07-24 07:55 UTC |
-| [The Content SEO Manager: How a brand-new role took over content marketing [Study]](https://www.semrush.com/blog/content-seo-manager-study/) | Semrush Blog | 130 | AI Search | 2026-07-23 13:00 UTC |
+| [AI Search Strategy: 4 Pillars to Show Up More (and Right) in AI Answers](https://ahrefs.com/blog/ai-search-strategy/) | Ahrefs Blog | 140 | GSC | 2026-07-24 07:55 UTC |
+| [The Content SEO Manager: How a brand-new role took over content marketing [Study]](https://www.semrush.com/blog/content-seo-manager-study/) | Semrush Blog | 110 | AI Search | 2026-07-23 13:00 UTC |
 | [What is a landing page? What to know + examples](https://www.semrush.com/blog/what-is-a-landing-page/) | Semrush Blog | 110 | Migration | 2026-07-23 09:42 UTC |
 | [What are backlinks in SEO &amp; how do I get them?](https://www.semrush.com/blog/what-are-backlinks/) | Semrush Blog | 110 | Links | 2026-07-22 10:22 UTC |
 | [Website marketing: A guide for the AI search era](https://www.semrush.com/blog/website-marketing/) | Semrush Blog | 110 | AI Search | 2026-07-22 10:05 UTC |
