@@ -33,11 +33,11 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Hotel Search Updates In EU Based On DMA](https://www.seroundtable.com/google-hotel-search-eu-41737.html) | Search Engine Roundtable | 170 | General | 2026-07-23 11:41 UTC |
 | [Google Maps Review Not Posted Email Notice](https://www.seroundtable.com/google-review-not-posted-email-41734.html) | Search Engine Roundtable | 170 | Local SEO | 2026-07-23 11:31 UTC |
 | [Google Ads API Version 25 Now Available](https://www.seroundtable.com/google-ads-api-v-25-41740.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-23 11:21 UTC |
-| [Google Discover Tests Rounded Corners](https://www.seroundtable.com/google-discover-rounded-corners-41742.html) | Search Engine Roundtable | 170 | General | 2026-07-23 11:11 UTC |
-| [Semrush reviews: What people say about the platform](https://www.semrush.com/blog/semrush-reviews/) | Semrush Blog | 150 | General | 2026-07-24 16:34 UTC |
 | [5 AI Search Trends I’m Seeing in 2026, Backed by Ahrefs Data](https://ahrefs.com/blog/ai-search-trends/) | Ahrefs Blog | 140 | AI Search | 2026-07-24 11:03 UTC |
 | [Free LLMs.txt Generator](https://ahrefs.com/blog/free-llms-txt-generator/) | Ahrefs Blog | 140 | AI Search | 2026-07-24 09:52 UTC |
 | [AI Search Strategy: 4 Pillars to Show Up More (and Right) in AI Answers](https://ahrefs.com/blog/ai-search-strategy/) | Ahrefs Blog | 140 | GSC | 2026-07-24 07:55 UTC |
+| [Semrush reviews: What people say about the platform](https://www.semrush.com/blog/semrush-reviews/) | Semrush Blog | 130 | General | 2026-07-24 16:34 UTC |
+| [The Content SEO Manager: How a brand-new role took over content marketing [Study]](https://www.semrush.com/blog/content-seo-manager-study/) | Semrush Blog | 110 | AI Search | 2026-07-23 13:00 UTC |
 
 ## Notes for manual writing
 
