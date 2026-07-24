@@ -12,7 +12,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Search News Buzz Video Recap: Google Sends Billions Of Clicks From AI Search, Publisher To Block Google, $120 Billion Quarter, EUâs $1 Billion Fine &amp; More](https://www.seroundtable.com/video-07-24-2026-41749.html) | Search Engine Roundtable | 210 | GSC | 2026-07-24 12:01 UTC |
+| [Added a new review snippet guideline](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 220 | Migration | 2026-07-24 00:00 UTC |
+| [Daily Search Forum Recap: July 24, 2026](https://www.seroundtable.com/recap-07-24-2026-41751.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-24 14:00 UTC |
+| [Search News Buzz Video Recap: Google Sends Billions Of Clicks From AI Search, Publisher To Block Google, $120 Billion Quarter, EU's $1 Billion Fine &amp; More](https://www.seroundtable.com/video-07-24-2026-41749.html) | Search Engine Roundtable | 210 | GSC | 2026-07-24 12:01 UTC |
 | [Google Merchant Center Gains More AI Features](https://www.seroundtable.com/google-merchant-center-ai-features-41736.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-24 11:51 UTC |
 | [Bing Tests Fading Out Related Searches On Hover](https://www.seroundtable.com/bing-fading-out-related-searches-41722.html) | Search Engine Roundtable | 210 | General | 2026-07-24 11:41 UTC |
 | [Google Ads AI Max For Shopping Campaigns Expands](https://www.seroundtable.com/google-ads-ai-max-shopping-campaigns-41743.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-24 11:31 UTC |
@@ -26,7 +28,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Maps Review Not Posted Email Notice](https://www.seroundtable.com/google-review-not-posted-email-41734.html) | Search Engine Roundtable | 170 | Local SEO | 2026-07-23 11:31 UTC |
 | [Google Ads API Version 25 Now Available](https://www.seroundtable.com/google-ads-api-v-25-41740.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-23 11:21 UTC |
 | [Google Discover Tests Rounded Corners](https://www.seroundtable.com/google-discover-rounded-corners-41742.html) | Search Engine Roundtable | 170 | General | 2026-07-23 11:11 UTC |
-| [ChatGPT Ads Manager Gains Conversions Value Tooltips](https://www.seroundtable.com/chatgpt-ads-manager-conversions-value-41741.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-23 11:05 UTC |
 | [5 AI Search Trends I’m Seeing in 2026, Backed by Ahrefs Data](https://ahrefs.com/blog/ai-search-trends/) | Ahrefs Blog | 160 | AI Search | 2026-07-24 11:03 UTC |
 | [Free LLMs.txt Generator](https://ahrefs.com/blog/free-llms-txt-generator/) | Ahrefs Blog | 160 | AI Search | 2026-07-24 09:52 UTC |
 | [AI Search Strategy: 4 Pillars to Show Up More (and Right) in AI Answers](https://ahrefs.com/blog/ai-search-strategy/) | Ahrefs Blog | 140 | GSC | 2026-07-24 07:55 UTC |
