@@ -29,8 +29,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Comparison Listing Ads Now CSS Product Listing Ads](https://www.seroundtable.com/google-css-product-listing-ads-41746.html) | Search Engine Roundtable | 190 | Migration | 2026-07-24 11:11 UTC |
 | [Google AdSense Related Search Format To Be Retired On August 6th](https://www.seroundtable.com/google-adsense-related-search-deprecating-41747.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-24 11:05 UTC |
 | [5 AI Search Trends I’m Seeing in 2026, Backed by Ahrefs Data](https://ahrefs.com/blog/ai-search-trends/) | Ahrefs Blog | 140 | AI Search | 2026-07-24 11:03 UTC |
-| [Free LLMs.txt Generator](https://ahrefs.com/blog/free-llms-txt-generator/) | Ahrefs Blog | 140 | AI Search | 2026-07-24 09:52 UTC |
 | [Semrush reviews: What people say about the platform](https://www.semrush.com/blog/semrush-reviews/) | Semrush Blog | 130 | General | 2026-07-24 16:34 UTC |
+| [Free LLMs.txt Generator](https://ahrefs.com/blog/free-llms-txt-generator/) | Ahrefs Blog | 120 | AI Search | 2026-07-24 09:52 UTC |
 | [AI Search Strategy: 4 Pillars to Show Up More (and Right) in AI Answers](https://ahrefs.com/blog/ai-search-strategy/) | Ahrefs Blog | 120 | GSC | 2026-07-24 07:55 UTC |
 
 ## Notes for manual writing
