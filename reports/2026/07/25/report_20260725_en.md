@@ -6,13 +6,29 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Calls dropped from avg 22 to 2 this month. the call button is gone from the organic map pack for SAB listings](https://www.reddit.com/r/localseo/comments/1v605pb/calls_dropped_from_avg_22_to_2_this_month_the/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-25 06:14 UTC |
+| [Getting screwed on Google ad phone calls?](https://www.reddit.com/r/localseo/comments/1v5rbi6/getting_screwed_on_google_ad_phone_calls/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-24 23:15 UTC |
+| [Are You Actually Using Google Business Profile Products to Generate More Local Leads?](https://www.reddit.com/r/localseo/comments/1v5ocq2/are_you_actually_using_google_business_profile/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-24 21:16 UTC |
+| [For multi-location businesses, do you build one strong domain with location pages or separate sites for each location?](https://www.reddit.com/r/localseo/comments/1v5nh2p/for_multilocation_businesses_do_you_build_one/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-24 20:44 UTC |
+| [10,000 visitors and the phone never rang. It happens more than you'd think.](https://www.reddit.com/r/localseo/comments/1v5jeod/10000_visitors_and_the_phone_never_rang_it/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-24 18:17 UTC |
+| [How much does ranking improve by adding a visible address on the GBP?](https://www.reddit.com/r/localseo/comments/1v5gzh5/how_much_does_ranking_improve_by_adding_a_visible/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-24 16:53 UTC |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
+| 1 | [Calls dropped from avg 22 to 2 this month. the call button is gone from the organic map pack for SAB listings](https://www.reddit.com/r/localseo/comments/1v605pb/calls_dropped_from_avg_22_to_2_this_month_the/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-25 06:14 UTC |
+| 2 | [Getting screwed on Google ad phone calls?](https://www.reddit.com/r/localseo/comments/1v5rbi6/getting_screwed_on_google_ad_phone_calls/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-24 23:15 UTC |
+| 3 | [Are You Actually Using Google Business Profile Products to Generate More Local Leads?](https://www.reddit.com/r/localseo/comments/1v5ocq2/are_you_actually_using_google_business_profile/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-24 21:16 UTC |
+| 4 | [For multi-location businesses, do you build one strong domain with location pages or separate sites for each location?](https://www.reddit.com/r/localseo/comments/1v5nh2p/for_multilocation_businesses_do_you_build_one/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-24 20:44 UTC |
+| 5 | [10,000 visitors and the phone never rang. It happens more than you'd think.](https://www.reddit.com/r/localseo/comments/1v5jeod/10000_visitors_and_the_phone_never_rang_it/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-24 18:17 UTC |
+| 6 | [How much does ranking improve by adding a visible address on the GBP?](https://www.reddit.com/r/localseo/comments/1v5gzh5/how_much_does_ranking_improve_by_adding_a_visible/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-24 16:53 UTC |
+| 7 | [How much time does it takes to rank on top 3 on GBP. If a business having around 200 to 300 reviews with a website.](https://www.reddit.com/r/localseo/comments/1v5fw4s/how_much_time_does_it_takes_to_rank_on_top_3_on/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-24 16:14 UTC |
+| 8 | [Did the April Google review policy actually nuke anyone's reviews, or is everyone just seeing the July bug?](https://www.reddit.com/r/localseo/comments/1v57a3i/did_the_april_google_review_policy_actually_nuke/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-24 10:15 UTC |
+| 9 | [Google and Yelp do not own your reviews. Take them back.](https://www.reddit.com/r/localseo/comments/1v53k1b/google_and_yelp_do_not_own_your_reviews_take_them/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-24 06:44 UTC |
+| 10 | [Looking for Paid Ads Specialist](https://www.reddit.com/r/localseo/comments/1v53iv9/looking_for_paid_ads_specialist/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-24 06:43 UTC |
+| 11 | [Ranking on Google but still not getting leads? Check these two things.](https://www.reddit.com/r/localseo/comments/1v533sh/ranking_on_google_but_still_not_getting_leads/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-24 06:20 UTC |
+| 12 | [To all the people loosing rankings recently…](https://www.reddit.com/r/localseo/comments/1v52wjg/to_all_the_people_loosing_rankings_recently/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-24 06:09 UTC |
 
 ## Notable items (Sites)
 
