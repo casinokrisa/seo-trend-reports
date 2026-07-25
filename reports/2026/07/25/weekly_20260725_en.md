@@ -13,7 +13,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Added a new review snippet guideline](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Migration | 2026-07-24 00:00 UTC |
-| [Daily Search Forum Recap: July 24, 2026](https://www.seroundtable.com/recap-07-24-2026-41751.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-24 14:00 UTC |
+| [Daily Search Forum Recap: July 24, 2026](https://www.seroundtable.com/recap-07-24-2026-41751.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-24 14:00 UTC |
 | [Search News Buzz Video Recap: Google Sends Billions Of Clicks From AI Search, Publisher To Block Google, $120 Billion Quarter, EU's $1 Billion Fine &amp; More](https://www.seroundtable.com/video-07-24-2026-41749.html) | Search Engine Roundtable | 170 | GSC | 2026-07-24 12:01 UTC |
 | [Google Merchant Center Gains More AI Features](https://www.seroundtable.com/google-merchant-center-ai-features-41736.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-24 11:51 UTC |
 | [Bing Tests Fading Out Related Searches On Hover](https://www.seroundtable.com/bing-fading-out-related-searches-41722.html) | Search Engine Roundtable | 170 | General | 2026-07-24 11:41 UTC |
