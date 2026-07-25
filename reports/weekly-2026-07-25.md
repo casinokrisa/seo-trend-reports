@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Calls dropped from avg 22 to 2 this month. the call button is gone from the organic map pack for SAB listings](https://www.reddit.com/r/localseo/comments/1v605pb/calls_dropped_from_avg_22_to_2_this_month_the/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-25 06:14 UTC |
-| [Getting screwed on Google ad phone calls?](https://www.reddit.com/r/localseo/comments/1v5rbi6/getting_screwed_on_google_ad_phone_calls/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-24 23:15 UTC |
-| [Are You Actually Using Google Business Profile Products to Generate More Local Leads?](https://www.reddit.com/r/localseo/comments/1v5ocq2/are_you_actually_using_google_business_profile/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-24 21:16 UTC |
-| [For multi-location businesses, do you build one strong domain with location pages or separate sites for each location?](https://www.reddit.com/r/localseo/comments/1v5nh2p/for_multilocation_businesses_do_you_build_one/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-24 20:44 UTC |
-| [10,000 visitors and the phone never rang. It happens more than you'd think.](https://www.reddit.com/r/localseo/comments/1v5jeod/10000_visitors_and_the_phone_never_rang_it/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-24 18:17 UTC |
-| [How much does ranking improve by adding a visible address on the GBP?](https://www.reddit.com/r/localseo/comments/1v5gzh5/how_much_does_ranking_improve_by_adding_a_visible/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-24 16:53 UTC |
-| [How much time does it takes to rank on top 3 on GBP. If a business having around 200 to 300 reviews with a website.](https://www.reddit.com/r/localseo/comments/1v5fw4s/how_much_time_does_it_takes_to_rank_on_top_3_on/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-24 16:14 UTC |
-| [Did the April Google review policy actually nuke anyone's reviews, or is everyone just seeing the July bug?](https://www.reddit.com/r/localseo/comments/1v57a3i/did_the_april_google_review_policy_actually_nuke/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-24 10:15 UTC |
-| [Google and Yelp do not own your reviews. Take them back.](https://www.reddit.com/r/localseo/comments/1v53k1b/google_and_yelp_do_not_own_your_reviews_take_them/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-24 06:44 UTC |
-| [Looking for Paid Ads Specialist](https://www.reddit.com/r/localseo/comments/1v53iv9/looking_for_paid_ads_specialist/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-24 06:43 UTC |
-| [Ranking on Google but still not getting leads? Check these two things.](https://www.reddit.com/r/localseo/comments/1v533sh/ranking_on_google_but_still_not_getting_leads/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-24 06:20 UTC |
-| [To all the people loosing rankings recently…](https://www.reddit.com/r/localseo/comments/1v52wjg/to_all_the_people_loosing_rankings_recently/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-24 06:09 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
@@ -41,8 +30,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Discover Tests Rounded Corners](https://www.seroundtable.com/google-discover-rounded-corners-41742.html) | Search Engine Roundtable | 170 | General | 2026-07-23 11:11 UTC |
 | [5 AI Search Trends I’m Seeing in 2026, Backed by Ahrefs Data](https://ahrefs.com/blog/ai-search-trends/) | Ahrefs Blog | 140 | AI Search | 2026-07-24 11:03 UTC |
 | [Free LLMs.txt Generator](https://ahrefs.com/blog/free-llms-txt-generator/) | Ahrefs Blog | 140 | AI Search | 2026-07-24 09:52 UTC |
-| [AI Search Strategy: 4 Pillars to Show Up More (and Right) in AI Answers](https://ahrefs.com/blog/ai-search-strategy/) | Ahrefs Blog | 140 | GSC | 2026-07-24 07:55 UTC |
 | [Semrush reviews: What people say about the platform](https://www.semrush.com/blog/semrush-reviews/) | Semrush Blog | 130 | General | 2026-07-24 16:34 UTC |
+| [AI Search Strategy: 4 Pillars to Show Up More (and Right) in AI Answers](https://ahrefs.com/blog/ai-search-strategy/) | Ahrefs Blog | 120 | GSC | 2026-07-24 07:55 UTC |
 | [The Content SEO Manager: How a brand-new role took over content marketing [Study]](https://www.semrush.com/blog/content-seo-manager-study/) | Semrush Blog | 110 | AI Search | 2026-07-23 13:00 UTC |
 | [What is a landing page? What to know + examples](https://www.semrush.com/blog/what-is-a-landing-page/) | Semrush Blog | 110 | Migration | 2026-07-23 09:42 UTC |
 | [What are backlinks in SEO &amp; how do I get them?](https://www.semrush.com/blog/what-are-backlinks/) | Semrush Blog | 110 | Links | 2026-07-22 10:22 UTC |
