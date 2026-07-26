@@ -12,8 +12,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Search Ranking Volatility July 24th Through The Weekend](https://www.seroundtable.com/google-ranking-volatility-41758.html) | Search Engine Roundtable | 210 | General | 2026-07-26 12:09 UTC |
 | [Added a new review snippet guideline](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Migration | 2026-07-24 00:00 UTC |
+| [Google Search Ranking Volatility July 24th Through The Weekend](https://www.seroundtable.com/google-ranking-volatility-41758.html) | Search Engine Roundtable | 190 | General | 2026-07-26 12:09 UTC |
 | [Daily Search Forum Recap: July 24, 2026](https://www.seroundtable.com/recap-07-24-2026-41751.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-24 14:00 UTC |
 | [Search News Buzz Video Recap: Google Sends Billions Of Clicks From AI Search, Publisher To Block Google, $120 Billion Quarter, EU's $1 Billion Fine &amp; More](https://www.seroundtable.com/video-07-24-2026-41749.html) | Search Engine Roundtable | 170 | GSC | 2026-07-24 12:01 UTC |
 | [Google Merchant Center Gains More AI Features](https://www.seroundtable.com/google-merchant-center-ai-features-41736.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-24 11:51 UTC |
