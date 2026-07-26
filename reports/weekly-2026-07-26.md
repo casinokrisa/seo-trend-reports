@@ -23,7 +23,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Gambling Certification Applications &amp; Standards Update On 8/26](https://www.seroundtable.com/google-ads-gambling-certification-applications-update-41750.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-24 11:16 UTC |
 | [Google Comparison Listing Ads Now CSS Product Listing Ads](https://www.seroundtable.com/google-css-product-listing-ads-41746.html) | Search Engine Roundtable | 170 | Migration | 2026-07-24 11:11 UTC |
 | [Google AdSense Related Search Format To Be Retired On August 6th](https://www.seroundtable.com/google-adsense-related-search-deprecating-41747.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-24 11:05 UTC |
-| [Daily Search Forum Recap: July 23, 2026](https://www.seroundtable.com/recap-07-23-2026-41744.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-23 14:00 UTC |
+| [Daily Search Forum Recap: July 23, 2026](https://www.seroundtable.com/recap-07-23-2026-41744.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-23 14:00 UTC |
 | [Large Publishers Strongly Considering Blocking Google Search Completely](https://www.seroundtable.com/publishers-blocking-google-search-41735.html) | Search Engine Roundtable | 155 | GSC | 2026-07-23 11:51 UTC |
 | [Google Hotel Search Updates In EU Based On DMA](https://www.seroundtable.com/google-hotel-search-eu-41737.html) | Search Engine Roundtable | 155 | General | 2026-07-23 11:41 UTC |
 | [Google Maps Review Not Posted Email Notice](https://www.seroundtable.com/google-review-not-posted-email-41734.html) | Search Engine Roundtable | 155 | Local SEO | 2026-07-23 11:31 UTC |
