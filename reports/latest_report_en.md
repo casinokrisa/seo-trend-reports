@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| _No site items in window_ |  |  |  |  |
+| [Google Search Ranking Volatility July 24th Through The Weekend](https://www.seroundtable.com/google-ranking-volatility-41758.html) | Search Engine Roundtable | 210 | General | 2026-07-26 12:09 UTC |
 
 ## Notes for manual writing
 

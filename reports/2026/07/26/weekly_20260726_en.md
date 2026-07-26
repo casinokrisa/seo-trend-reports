@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google Search Ranking Volatility July 24th Through The Weekend](https://www.seroundtable.com/google-ranking-volatility-41758.html) | Search Engine Roundtable | 210 | General | 2026-07-26 12:09 UTC |
 | [Added a new review snippet guideline](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Migration | 2026-07-24 00:00 UTC |
 | [Daily Search Forum Recap: July 24, 2026](https://www.seroundtable.com/recap-07-24-2026-41751.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-24 14:00 UTC |
 | [Search News Buzz Video Recap: Google Sends Billions Of Clicks From AI Search, Publisher To Block Google, $120 Billion Quarter, EU's $1 Billion Fine &amp; More](https://www.seroundtable.com/video-07-24-2026-41749.html) | Search Engine Roundtable | 170 | GSC | 2026-07-24 12:01 UTC |
@@ -23,16 +24,15 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Comparison Listing Ads Now CSS Product Listing Ads](https://www.seroundtable.com/google-css-product-listing-ads-41746.html) | Search Engine Roundtable | 170 | Migration | 2026-07-24 11:11 UTC |
 | [Google AdSense Related Search Format To Be Retired On August 6th](https://www.seroundtable.com/google-adsense-related-search-deprecating-41747.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-24 11:05 UTC |
 | [Daily Search Forum Recap: July 23, 2026](https://www.seroundtable.com/recap-07-23-2026-41744.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-23 14:00 UTC |
-| [Large Publishers Strongly Considering Blocking Google Search Completely](https://www.seroundtable.com/publishers-blocking-google-search-41735.html) | Search Engine Roundtable | 170 | GSC | 2026-07-23 11:51 UTC |
-| [Google Hotel Search Updates In EU Based On DMA](https://www.seroundtable.com/google-hotel-search-eu-41737.html) | Search Engine Roundtable | 170 | General | 2026-07-23 11:41 UTC |
+| [Large Publishers Strongly Considering Blocking Google Search Completely](https://www.seroundtable.com/publishers-blocking-google-search-41735.html) | Search Engine Roundtable | 155 | GSC | 2026-07-23 11:51 UTC |
+| [Google Hotel Search Updates In EU Based On DMA](https://www.seroundtable.com/google-hotel-search-eu-41737.html) | Search Engine Roundtable | 155 | General | 2026-07-23 11:41 UTC |
 | [Google Maps Review Not Posted Email Notice](https://www.seroundtable.com/google-review-not-posted-email-41734.html) | Search Engine Roundtable | 155 | Local SEO | 2026-07-23 11:31 UTC |
 | [Google Ads API Version 25 Now Available](https://www.seroundtable.com/google-ads-api-v-25-41740.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-23 11:21 UTC |
-| [Google Discover Tests Rounded Corners](https://www.seroundtable.com/google-discover-rounded-corners-41742.html) | Search Engine Roundtable | 155 | General | 2026-07-23 11:11 UTC |
 | [5 AI Search Trends I’m Seeing in 2026, Backed by Ahrefs Data](https://ahrefs.com/blog/ai-search-trends/) | Ahrefs Blog | 120 | AI Search | 2026-07-24 11:03 UTC |
 | [Free LLMs.txt Generator](https://ahrefs.com/blog/free-llms-txt-generator/) | Ahrefs Blog | 120 | AI Search | 2026-07-24 09:52 UTC |
 | [AI Search Strategy: 4 Pillars to Show Up More (and Right) in AI Answers](https://ahrefs.com/blog/ai-search-strategy/) | Ahrefs Blog | 120 | GSC | 2026-07-24 07:55 UTC |
 | [Semrush reviews: What people say about the platform](https://www.semrush.com/blog/semrush-reviews/) | Semrush Blog | 110 | General | 2026-07-24 16:34 UTC |
-| [The Content SEO Manager: How a brand-new role took over content marketing [Study]](https://www.semrush.com/blog/content-seo-manager-study/) | Semrush Blog | 110 | AI Search | 2026-07-23 13:00 UTC |
+| [The Content SEO Manager: How a brand-new role took over content marketing [Study]](https://www.semrush.com/blog/content-seo-manager-study/) | Semrush Blog | 95 | AI Search | 2026-07-23 13:00 UTC |
 | [What is a landing page? What to know + examples](https://www.semrush.com/blog/what-is-a-landing-page/) | Semrush Blog | 95 | Migration | 2026-07-23 09:42 UTC |
 | [What are backlinks in SEO &amp; how do I get them?](https://www.semrush.com/blog/what-are-backlinks/) | Semrush Blog | 95 | Links | 2026-07-22 10:22 UTC |
 | [Website marketing: A guide for the AI search era](https://www.semrush.com/blog/website-marketing/) | Semrush Blog | 95 | AI Search | 2026-07-22 10:05 UTC |
