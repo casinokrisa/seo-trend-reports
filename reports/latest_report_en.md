@@ -6,29 +6,13 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [How Path-50 Ltd (London) went from barely showing up to ranking #1 in parts of London in just 14 days](https://www.reddit.com/r/localseo/comments/1v6ue7d/how_path50_ltd_london_went_from_barely_showing_up/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-26 05:11 UTC |
-| [Small local business owner here (well, I work with a bunch of them) — wanted to share something that keeps coming up.](https://www.reddit.com/r/localseo/comments/1v6bshj/small_local_business_owner_here_well_i_work_with/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-25 15:47 UTC |
-| [Bright local rank location checking](https://www.reddit.com/r/localseo/comments/1v660n0/bright_local_rank_location_checking/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-25 11:36 UTC |
-| [How much reviews rating affect in ranking and conversions ?](https://www.reddit.com/r/localseo/comments/1v65u4a/how_much_reviews_rating_affect_in_ranking_and/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-25 11:27 UTC |
-| [The Best Prompt to Test a Suspect Business](https://www.reddit.com/r/localseo/comments/1v62jed/the_best_prompt_to_test_a_suspect_business/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-25 08:25 UTC |
-| [Calls dropped from avg 22 to 2 this month. the call button is gone from the organic map pack for SAB listings](https://www.reddit.com/r/localseo/comments/1v605pb/calls_dropped_from_avg_22_to_2_this_month_the/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-25 06:14 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-| 1 | [How Path-50 Ltd (London) went from barely showing up to ranking #1 in parts of London in just 14 days](https://www.reddit.com/r/localseo/comments/1v6ue7d/how_path50_ltd_london_went_from_barely_showing_up/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-26 05:11 UTC |
-| 2 | [Small local business owner here (well, I work with a bunch of them) — wanted to share something that keeps coming up.](https://www.reddit.com/r/localseo/comments/1v6bshj/small_local_business_owner_here_well_i_work_with/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-25 15:47 UTC |
-| 3 | [Bright local rank location checking](https://www.reddit.com/r/localseo/comments/1v660n0/bright_local_rank_location_checking/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-25 11:36 UTC |
-| 4 | [How much reviews rating affect in ranking and conversions ?](https://www.reddit.com/r/localseo/comments/1v65u4a/how_much_reviews_rating_affect_in_ranking_and/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-25 11:27 UTC |
-| 5 | [The Best Prompt to Test a Suspect Business](https://www.reddit.com/r/localseo/comments/1v62jed/the_best_prompt_to_test_a_suspect_business/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-25 08:25 UTC |
-| 6 | [Calls dropped from avg 22 to 2 this month. the call button is gone from the organic map pack for SAB listings](https://www.reddit.com/r/localseo/comments/1v605pb/calls_dropped_from_avg_22_to_2_this_month_the/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-25 06:14 UTC |
-| 7 | [Getting screwed on Google ad phone calls?](https://www.reddit.com/r/localseo/comments/1v5rbi6/getting_screwed_on_google_ad_phone_calls/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-24 23:15 UTC |
-| 8 | [Are You Actually Using Google Business Profile Products to Generate More Local Leads?](https://www.reddit.com/r/localseo/comments/1v5ocq2/are_you_actually_using_google_business_profile/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-24 21:16 UTC |
-| 9 | [For multi-location businesses, do you build one strong domain with location pages or separate sites for each location?](https://www.reddit.com/r/localseo/comments/1v5nh2p/for_multilocation_businesses_do_you_build_one/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-24 20:44 UTC |
-| 10 | [10,000 visitors and the phone never rang. It happens more than you'd think.](https://www.reddit.com/r/localseo/comments/1v5jeod/10000_visitors_and_the_phone_never_rang_it/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-24 18:17 UTC |
-| 11 | [How much does ranking improve by adding a visible address on the GBP?](https://www.reddit.com/r/localseo/comments/1v5gzh5/how_much_does_ranking_improve_by_adding_a_visible/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-24 16:53 UTC |
-| 12 | [How much time does it takes to rank on top 3 on GBP. If a business having around 200 to 300 reviews with a website.](https://www.reddit.com/r/localseo/comments/1v5fw4s/how_much_time_does_it_takes_to_rank_on_top_3_on/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-24 16:14 UTC |
+|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Notable items (Sites)
 
