@@ -18,7 +18,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: July 24, 2026](https://www.seroundtable.com/recap-07-24-2026-41751.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-24 14:00 UTC |
 | [Semrush reviews: What people say about the platform](https://www.semrush.com/blog/semrush-reviews/) | Semrush Blog | 110 | General | 2026-07-24 16:34 UTC |
 
 ## Notes for manual writing
