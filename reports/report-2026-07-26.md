@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Semrush reviews: What people say about the platform](https://www.semrush.com/blog/semrush-reviews/) | Semrush Blog | 110 | General | 2026-07-24 16:34 UTC |
+| _No site items in window_ |  |  |  |  |
 
 ## Notes for manual writing
 
