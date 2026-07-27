@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Took over a client with 200+ citations. Deleting the bad ones doubled their leads.](https://www.reddit.com/r/localseo/comments/1v7s2ae/took_over_a_client_with_200_citations_deleting/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-27 06:14 UTC |
-| [[ Removed by Reddit ]](https://www.reddit.com/r/localseo/comments/1v7qifp/removed_by_reddit/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-27 04:50 UTC |
-| [Anyone notice the keyword data when scrolling under performance on GMB?](https://www.reddit.com/r/localseo/comments/1v7p964/anyone_notice_the_keyword_data_when_scrolling/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-27 03:47 UTC |
-| [Your Google Business Profile is your real homepage. Most owners haven't opened it in months.](https://www.reddit.com/r/localseo/comments/1v7b194/your_google_business_profile_is_your_real/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-26 17:57 UTC |
-| [I need an SEO guy/gal. I have the best reviews and more of them than any other business doing what I do, but I can’t get consistent ever. Hence, I don’t have money to pay for SEO upfront. I’d pay 10% of each job, crazy money](https://www.reddit.com/r/localseo/comments/1v715ot/i_need_an_seo_guygal_i_have_the_best_reviews_and/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-26 11:21 UTC |
-| [Can anyone help me in SEO for my business?](https://www.reddit.com/r/localseo/comments/1v6xsf4/can_anyone_help_me_in_seo_for_my_business/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-26 08:18 UTC |
-| [Small local business owner here (well, I work with a bunch of them) — wanted to share something that keeps coming up.](https://www.reddit.com/r/localseo/comments/1v6bshj/small_local_business_owner_here_well_i_work_with/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-25 15:47 UTC |
-| [Bright local rank location checking](https://www.reddit.com/r/localseo/comments/1v660n0/bright_local_rank_location_checking/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-25 11:36 UTC |
-| [How much reviews rating affect in ranking and conversions ?](https://www.reddit.com/r/localseo/comments/1v65u4a/how_much_reviews_rating_affect_in_ranking_and/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-25 11:27 UTC |
-| [The Best Prompt to Test a Suspect Business](https://www.reddit.com/r/localseo/comments/1v62jed/the_best_prompt_to_test_a_suspect_business/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-25 08:25 UTC |
-| [Calls dropped from avg 22 to 2 this month. the call button is gone from the organic map pack for SAB listings](https://www.reddit.com/r/localseo/comments/1v605pb/calls_dropped_from_avg_22_to_2_this_month_the/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-25 06:14 UTC |
-| [Getting screwed on Google ad phone calls?](https://www.reddit.com/r/localseo/comments/1v5rbi6/getting_screwed_on_google_ad_phone_calls/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-24 23:15 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
@@ -34,6 +23,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Gambling Certification Applications &amp; Standards Update On 8/26](https://www.seroundtable.com/google-ads-gambling-certification-applications-update-41750.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-24 11:16 UTC |
 | [Google Comparison Listing Ads Now CSS Product Listing Ads](https://www.seroundtable.com/google-css-product-listing-ads-41746.html) | Search Engine Roundtable | 170 | Migration | 2026-07-24 11:11 UTC |
 | [Google AdSense Related Search Format To Be Retired On August 6th](https://www.seroundtable.com/google-adsense-related-search-deprecating-41747.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-24 11:05 UTC |
+| [Google Doesn’t Punish AI Content; It Punishes Bad Content (331k Pages Studied)](https://ahrefs.com/blog/google-doesnt-punish-ai-content/) | Ahrefs Blog | 160 | AI Search | 2026-07-27 08:00 UTC |
 | [Daily Search Forum Recap: July 23, 2026](https://www.seroundtable.com/recap-07-23-2026-41744.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-23 14:00 UTC |
 | [Large Publishers Strongly Considering Blocking Google Search Completely](https://www.seroundtable.com/publishers-blocking-google-search-41735.html) | Search Engine Roundtable | 155 | GSC | 2026-07-23 11:51 UTC |
 | [Google Hotel Search Updates In EU Based On DMA](https://www.seroundtable.com/google-hotel-search-eu-41737.html) | Search Engine Roundtable | 155 | General | 2026-07-23 11:41 UTC |
