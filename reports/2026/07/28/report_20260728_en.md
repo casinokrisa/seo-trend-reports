@@ -36,8 +36,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Vibe Coding for Marketers: A Beginner’s Guide](https://ahrefs.com/blog/vibe-coding-for-marketers-a-beginners-guide/) | Ahrefs Blog | 140 | AI Search | 2026-07-28 08:06 UTC |
 | [Keyword mapping for SEO: Guide + free template](https://www.semrush.com/blog/keyword-mapping/) | Semrush Blog | 110 | Content | 2026-07-27 15:11 UTC |
 | [How to determine AI visibility ROI and revenue impact](https://www.semrush.com/blog/ai-visibility-roi/) | Semrush Blog | 110 | Links | 2026-07-27 10:17 UTC |
-| [How to find AI visibility gaps with Semrush](https://www.semrush.com/blog/find-ai-visibility-gaps-with-semrush/) | Semrush Blog | 110 | AI Search | 2026-07-27 09:34 UTC |
-| [13 Advanced SEO techniques &amp; strategies for 2026](https://www.semrush.com/blog/advanced-seo/) | Semrush Blog | 110 | Indexing | 2026-07-27 09:12 UTC |
 
 ## Notes for manual writing
 
