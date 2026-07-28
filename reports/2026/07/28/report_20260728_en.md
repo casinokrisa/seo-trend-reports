@@ -18,18 +18,20 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google Ads AI Generated Images With Upload Image Feature](https://www.seroundtable.com/google-ads-ai-generated-images-upload-image-41766.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-28 11:11 UTC |
+| [Google Ads To Allow For Social Casino Games Ads](https://www.seroundtable.com/google-social-casino-games-ads-41763.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-28 11:05 UTC |
 | [Daily Search Forum Recap: July 27, 2026](https://www.seroundtable.com/recap-07-27-2026-41762.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-27 14:00 UTC |
-| [Google Review Snippets Prohibits Fake or Undisclosed Incentivized Reviews](https://www.seroundtable.com/google-review-snippets-guidelines-update-41754.html) | Search Engine Roundtable | 190 | Technical SEO | 2026-07-27 11:51 UTC |
-| [Google Business Profile Dashboard In Blue](https://www.seroundtable.com/google-business-profile-dashboard-blue-41748.html) | Search Engine Roundtable | 190 | Local SEO | 2026-07-27 11:41 UTC |
-| [Google Ads Household Income Exclusions For PMax](https://www.seroundtable.com/google-ads-household-income-exclusions-41753.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-27 11:31 UTC |
-| [Google Ads Conversion Measurement Doc Updated With Timing &amp; Data Sources](https://www.seroundtable.com/google-ads-conversion-measurement-update-41752.html) | Search Engine Roundtable | 190 | General | 2026-07-27 11:21 UTC |
-| [Google Request Indexing Issue With Robots.txt Files?](https://www.seroundtable.com/google-request-indexing-robots-txt-41761.html) | Search Engine Roundtable | 190 | Indexing | 2026-07-27 11:16 UTC |
-| [ChatGPT Ads Manager Budget Changes, New Features, API &amp; Ad Formats](https://www.seroundtable.com/chatgpt-ads-budget-api-ad-formats-more-41756.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-27 11:11 UTC |
-| [Google Ads Editor Version 2.13 Is Now Available](https://www.seroundtable.com/google-ads-editor-version-2-13-41755.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-27 11:05 UTC |
+| [Google Review Snippets Prohibits Fake or Undisclosed Incentivized Reviews](https://www.seroundtable.com/google-review-snippets-guidelines-update-41754.html) | Search Engine Roundtable | 170 | Technical SEO | 2026-07-27 11:51 UTC |
+| [Google Business Profile Dashboard In Blue](https://www.seroundtable.com/google-business-profile-dashboard-blue-41748.html) | Search Engine Roundtable | 170 | Local SEO | 2026-07-27 11:41 UTC |
+| [Google Ads Household Income Exclusions For PMax](https://www.seroundtable.com/google-ads-household-income-exclusions-41753.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-27 11:31 UTC |
+| [Google Ads Conversion Measurement Doc Updated With Timing &amp; Data Sources](https://www.seroundtable.com/google-ads-conversion-measurement-update-41752.html) | Search Engine Roundtable | 170 | General | 2026-07-27 11:21 UTC |
+| [Google Request Indexing Issue With Robots.txt Files?](https://www.seroundtable.com/google-request-indexing-robots-txt-41761.html) | Search Engine Roundtable | 170 | Indexing | 2026-07-27 11:16 UTC |
+| [ChatGPT Ads Manager Budget Changes, New Features, API &amp; Ad Formats](https://www.seroundtable.com/chatgpt-ads-budget-api-ad-formats-more-41756.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-27 11:11 UTC |
+| [Google Ads Editor Version 2.13 Is Now Available](https://www.seroundtable.com/google-ads-editor-version-2-13-41755.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-27 11:05 UTC |
 | [Vibe Coding for Marketers: A Beginner’s Guide](https://ahrefs.com/blog/vibe-coding-for-marketers-a-beginners-guide/) | Ahrefs Blog | 160 | AI Search | 2026-07-28 08:06 UTC |
 | [Keyword mapping for SEO: Guide + free template](https://www.semrush.com/blog/keyword-mapping/) | Semrush Blog | 130 | Content | 2026-07-27 15:11 UTC |
-| [How to determine AI visibility ROI and revenue impact](https://www.semrush.com/blog/ai-visibility-roi/) | Semrush Blog | 130 | Links | 2026-07-27 10:17 UTC |
 | [Google Doesn’t Punish AI Content; It Punishes Bad Content (331k Pages Studied)](https://ahrefs.com/blog/google-doesnt-punish-ai-content/) | Ahrefs Blog | 120 | AI Search | 2026-07-27 08:00 UTC |
+| [How to determine AI visibility ROI and revenue impact](https://www.semrush.com/blog/ai-visibility-roi/) | Semrush Blog | 110 | Links | 2026-07-27 10:17 UTC |
 | [How to find AI visibility gaps with Semrush](https://www.semrush.com/blog/find-ai-visibility-gaps-with-semrush/) | Semrush Blog | 110 | AI Search | 2026-07-27 09:34 UTC |
 | [13 Advanced SEO techniques &amp; strategies for 2026](https://www.semrush.com/blog/advanced-seo/) | Semrush Blog | 110 | Indexing | 2026-07-27 09:12 UTC |
 
