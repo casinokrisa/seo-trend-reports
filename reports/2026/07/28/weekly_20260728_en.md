@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: July 28, 2026](https://www.seroundtable.com/recap-07-28-2026-41768.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-28 14:00 UTC |
+| [Daily Search Forum Recap: July 28, 2026](https://www.seroundtable.com/recap-07-28-2026-41768.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-28 14:00 UTC |
 | [Google Page Indexing Report Delays Providing Static Data](https://www.seroundtable.com/google-page-indexing-report-delays-static-data-41769.html) | Search Engine Roundtable | 190 | Indexing | 2026-07-28 11:51 UTC |
 | [New Google Ads Status: Has Improvements](https://www.seroundtable.com/google-ads-status-has-improvements-41759.html) | Search Engine Roundtable | 190 | General | 2026-07-28 11:41 UTC |
 | [Google Ads Gain Product Clicks &amp; Non-Product Clicks Metrics](https://www.seroundtable.com/google-ads-product-clicks-non-41757.html) | Search Engine Roundtable | 190 | GSC | 2026-07-28 11:31 UTC |
