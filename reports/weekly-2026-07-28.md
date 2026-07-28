@@ -6,7 +6,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Como sacar más provecho con sitios de alquiler](https://www.reddit.com/r/localseo/comments/1v8oag2/como_sacar_m%C3%A1s_provecho_con_sitios_de_alquiler/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-28 04:57 UTC |
+| [GSC - questions](https://www.reddit.com/r/localseo/comments/1v8m5bf/gsc_questions/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-07-28 03:13 UTC |
+| [Review bug (??)](https://www.reddit.com/r/localseo/comments/1v8k442/review_bug/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-28 01:42 UTC |
+| [Shiv and Kyle’s local SEO course](https://www.reddit.com/r/localseo/comments/1v8juhh/shiv_and_kyles_local_seo_course/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-28 01:31 UTC |
+| [] yelp has shut down solicited reviews how do we get them now?](https://www.reddit.com/r/localseo/comments/1v8fja6/yelp_has_shut_down_solicited_reviews_how_do_we/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-27 22:32 UTC |
+| [Highest Rated Nashville Party Bus on Google - Honky Tonk Party Express](https://www.reddit.com/r/localseo/comments/1v8ajwh/highest_rated_nashville_party_bus_on_google_honky/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-27 19:29 UTC |
+| [Is it worth becoming a local SEO freelancer in 2026?](https://www.reddit.com/r/localseo/comments/1v89qcz/is_it_worth_becoming_a_local_seo_freelancer_in/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-27 19:00 UTC |
+| [What to do in case of a Negative Review?](https://www.reddit.com/r/localseo/comments/1v85yop/what_to_do_in_case_of_a_negative_review/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-27 16:50 UTC |
+| [Local seo tool for Southeast Asia / APAC](https://www.reddit.com/r/localseo/comments/1v7zmoq/local_seo_tool_for_southeast_asia_apac/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-27 12:56 UTC |
+| [What is the most effective way for local businesses to show up on Gemini and Google AI overview?](https://www.reddit.com/r/localseo/comments/1v7vchq/what_is_the_most_effective_way_for_local/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-27 09:24 UTC |
+| [Took over a client with 200+ citations. Deleting the bad ones doubled their leads.](https://www.reddit.com/r/localseo/comments/1v7s2ae/took_over_a_client_with_200_citations_deleting/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-27 06:14 UTC |
+| [Anyone notice the keyword data when scrolling under performance on GMB?](https://www.reddit.com/r/localseo/comments/1v7p964/anyone_notice_the_keyword_data_when_scrolling/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-27 03:47 UTC |
 
 ## Weekly notable items (Sites)
 
