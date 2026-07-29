@@ -25,9 +25,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Microsoft Advertising Ad Preview Hub For PMax Campaigns](https://www.seroundtable.com/microsoft-ad-preview-hub-pmax-41767.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-28 11:21 UTC |
 | [Google Ads AI Generated Images With Upload Image Feature](https://www.seroundtable.com/google-ads-ai-generated-images-upload-image-41766.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-28 11:11 UTC |
 | [Google Ads To Allow For Social Casino Games Ads](https://www.seroundtable.com/google-social-casino-games-ads-41763.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-28 11:05 UTC |
-| [Daily Search Forum Recap: July 27, 2026](https://www.seroundtable.com/recap-07-27-2026-41762.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-27 14:00 UTC |
 | [Vibe Coding for Marketers: A Beginner’s Guide](https://ahrefs.com/blog/vibe-coding-for-marketers-a-beginners-guide/) | Ahrefs Blog | 140 | AI Search | 2026-07-28 08:06 UTC |
-| [Keyword mapping for SEO: Guide + free template](https://www.semrush.com/blog/keyword-mapping/) | Semrush Blog | 110 | Content | 2026-07-27 15:11 UTC |
 
 ## Notes for manual writing
 
