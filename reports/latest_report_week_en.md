@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [ok here's what actually matters for GBP ranking, not the recycled stuff](https://www.reddit.com/r/localseo/comments/1v9ngvs/ok_heres_what_actually_matters_for_gbp_ranking/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-29 06:03 UTC |
-| [What actually worked for getting my pet waste removal business to show up on Google AND ChatGPT/Gemini/etc.](https://www.reddit.com/r/localseo/comments/1v9m8mz/what_actually_worked_for_getting_my_pet_waste/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-29 05:00 UTC |
-| [Review Cook - google reviews tool advise](https://www.reddit.com/r/localseo/comments/1v9jjr6/review_cook_google_reviews_tool_advise/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-29 02:50 UTC |
-| [Bounce rate of 12%](https://www.reddit.com/r/localseo/comments/1v9irpl/bounce_rate_of_12/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-29 02:15 UTC |
-| [📍Changing Your Google Business Profile Address? Read This First.](https://www.reddit.com/r/localseo/comments/1v9hpaw/changing_your_google_business_profile_address/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-29 01:27 UTC |
-| [Duplicate GBPs everywhere. Merge Or Delete?](https://www.reddit.com/r/localseo/comments/1v9g1ei/duplicate_gbps_everywhere_merge_or_delete/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-29 00:15 UTC |
-| [Ai Rankings taking over GMB Map packs](https://www.reddit.com/r/localseo/comments/1v9ec2z/ai_rankings_taking_over_gmb_map_packs/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-28 23:05 UTC |
-| [There's a ranking factor so boring nobody talks about it. So most businesses get it wrong.](https://www.reddit.com/r/localseo/comments/1v97bme/theres_a_ranking_factor_so_boring_nobody_talks/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-28 18:43 UTC |
-| [Should backlinks point to my homepage, service pages, or location pages?](https://www.reddit.com/r/localseo/comments/1v977ju/should_backlinks_point_to_my_homepage_service/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-07-28 18:40 UTC |
-| [Sitemap &amp; GBP Strategy for a Pure SAB (Service Area Business) in a Regional Market? (Eastern Idaho)](https://www.reddit.com/r/localseo/comments/1v93716/sitemap_gbp_strategy_for_a_pure_sab_service_area/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-28 16:19 UTC |
-| [Pages Indexed in GSC but Completely Missing from SERPs even when using site operator searches (Since July 6th–7th) – Anyone Else?](https://www.reddit.com/r/localseo/comments/1v92sgd/pages_indexed_in_gsc_but_completely_missing_from/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Indexing | 2026-07-28 16:05 UTC |
-| [Location Pages: What I've noticed helps them rank and convert](https://www.reddit.com/r/localseo/comments/1v9111j/location_pages_what_ive_noticed_helps_them_rank/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-28 15:01 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
@@ -39,7 +28,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Request Indexing Issue With Robots.txt Files?](https://www.seroundtable.com/google-request-indexing-robots-txt-41761.html) | Search Engine Roundtable | 170 | Indexing | 2026-07-27 11:16 UTC |
 | [ChatGPT Ads Manager Budget Changes, New Features, API &amp; Ad Formats](https://www.seroundtable.com/chatgpt-ads-budget-api-ad-formats-more-41756.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-27 11:11 UTC |
 | [Google Ads Editor Version 2.13 Is Now Available](https://www.seroundtable.com/google-ads-editor-version-2-13-41755.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-27 11:05 UTC |
-| [Vibe Coding for Marketers: A Beginner’s Guide](https://ahrefs.com/blog/vibe-coding-for-marketers-a-beginners-guide/) | Ahrefs Blog | 140 | AI Search | 2026-07-28 08:06 UTC |
+| [Vibe Coding for Marketers: A Beginner’s Guide](https://ahrefs.com/blog/vibe-coding-for-marketers-a-beginners-guide/) | Ahrefs Blog | 120 | AI Search | 2026-07-28 08:06 UTC |
 | [Google Doesn’t Punish AI Content; It Punishes Bad Content (331k Pages Studied)](https://ahrefs.com/blog/google-doesnt-punish-ai-content/) | Ahrefs Blog | 120 | AI Search | 2026-07-27 08:00 UTC |
 | [Keyword mapping for SEO: Guide + free template](https://www.semrush.com/blog/keyword-mapping/) | Semrush Blog | 110 | Content | 2026-07-27 15:11 UTC |
 | [How to determine AI visibility ROI and revenue impact](https://www.semrush.com/blog/ai-visibility-roi/) | Semrush Blog | 110 | Links | 2026-07-27 10:17 UTC |
