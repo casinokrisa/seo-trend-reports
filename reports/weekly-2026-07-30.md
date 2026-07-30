@@ -12,9 +12,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Bing Ads Revenue Up 10%](https://www.seroundtable.com/microsoft-earnings-41786.html) | Search Engine Roundtable | 210 | General | 2026-07-29 20:03 UTC |
 | [Platform properties roll out globally, plus a new social and video performance guide](https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide) | Google Search Central Blog | 210 | GSC | 2026-07-29 00:00 UTC |
 | [Added guide on analyzing social and video platform content](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | GSC | 2026-07-29 00:00 UTC |
+| [Bing Ads Revenue Up 10%](https://www.seroundtable.com/microsoft-earnings-41786.html) | Search Engine Roundtable | 190 | General | 2026-07-29 20:03 UTC |
 | [Daily Search Forum Recap: July 29, 2026](https://www.seroundtable.com/recap-07-29-2026-41781.html) | Search Engine Roundtable | 190 | GSC | 2026-07-29 14:00 UTC |
 | [Google Platform Properties Now Fully Live](https://www.seroundtable.com/google-platform-properties-live-41785.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-29 13:33 UTC |
 | [The Problem With unavailable_after - Google Might Not See Updated Dates](https://www.seroundtable.com/google-unavailable_after-date-41771.html) | Search Engine Roundtable | 190 | Indexing | 2026-07-29 11:51 UTC |
