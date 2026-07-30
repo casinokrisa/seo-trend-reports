@@ -12,23 +12,25 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google Related Searches Based On Your Browsing](https://www.seroundtable.com/google-related-searches-based-on-your-browsing-41764.html) | Search Engine Roundtable | 210 | General | 2026-07-30 11:51 UTC |
+| [Google Shopping Ads With AI-Generated Descriptions](https://www.seroundtable.com/google-shopping-ads-ai-generated-descriptions-41784.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-30 11:32 UTC |
+| [Almost Half Of Google Searches Have AI Overviews &amp; Climbing](https://www.seroundtable.com/half-google-searches-ai-overviews-41780.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-30 11:31 UTC |
+| [Google Blames Website For Race Based AI Overview Response](https://www.seroundtable.com/google-race-ai-overview-response-41787.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-30 11:21 UTC |
+| [Google: Offline Conversions With GBRAID URL Parameter Help Doc](https://www.seroundtable.com/google-offline-conversions-gbraid-url-parameter-41792.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-30 11:16 UTC |
+| [Google Discover Tests Read Later Queue Carousel](https://www.seroundtable.com/google-discover-read-later-queue-41718.html) | Search Engine Roundtable | 210 | Content | 2026-07-30 11:11 UTC |
 | [Platform properties roll out globally, plus a new social and video performance guide](https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide) | Google Search Central Blog | 210 | GSC | 2026-07-29 00:00 UTC |
 | [Added guide on analyzing social and video platform content](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | GSC | 2026-07-29 00:00 UTC |
 | [Bing Ads Revenue Up 10%](https://www.seroundtable.com/microsoft-earnings-41786.html) | Search Engine Roundtable | 190 | General | 2026-07-29 20:03 UTC |
-| [Daily Search Forum Recap: July 29, 2026](https://www.seroundtable.com/recap-07-29-2026-41781.html) | Search Engine Roundtable | 190 | GSC | 2026-07-29 14:00 UTC |
-| [Google Platform Properties Now Fully Live](https://www.seroundtable.com/google-platform-properties-live-41785.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-29 13:33 UTC |
+| [Daily Search Forum Recap: July 29, 2026](https://www.seroundtable.com/recap-07-29-2026-41781.html) | Search Engine Roundtable | 170 | GSC | 2026-07-29 14:00 UTC |
+| [Google Platform Properties Now Fully Live](https://www.seroundtable.com/google-platform-properties-live-41785.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-29 13:33 UTC |
 | [The Problem With unavailable_after - Google Might Not See Updated Dates](https://www.seroundtable.com/google-unavailable_after-date-41771.html) | Search Engine Roundtable | 170 | Indexing | 2026-07-29 11:51 UTC |
 | [Bing Testing Pricing On Product Images](https://www.seroundtable.com/bing-pricing-product-images-41765.html) | Search Engine Roundtable | 170 | General | 2026-07-29 11:41 UTC |
 | [Google Ads Target CPA &amp; Target ROAS As Explicit Bidding Strategy Options](https://www.seroundtable.com/google-ads-target-cpa-target-roas-bidding-options-41770.html) | Search Engine Roundtable | 170 | General | 2026-07-29 11:31 UTC |
 | [Google Search Doesn't Publish Precedence For Metadata In Conflict](https://www.seroundtable.com/google-precedence-metadata-conflicts-41778.html) | Search Engine Roundtable | 170 | Migration | 2026-07-29 11:21 UTC |
 | [Google Ads Lead Journey Mapping](https://www.seroundtable.com/google-ads-lead-journey-mapping-41782.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-29 11:11 UTC |
 | [Google Ads Budget Panel](https://www.seroundtable.com/google-ads-budget-panel-41779.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-29 11:05 UTC |
-| [Daily Search Forum Recap: July 28, 2026](https://www.seroundtable.com/recap-07-28-2026-41768.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-28 14:00 UTC |
-| [Google Page Indexing Report Delays Providing Static Data](https://www.seroundtable.com/google-page-indexing-report-delays-static-data-41769.html) | Search Engine Roundtable | 170 | Indexing | 2026-07-28 11:51 UTC |
-| [New Google Ads Status: Has Improvements](https://www.seroundtable.com/google-ads-status-has-improvements-41759.html) | Search Engine Roundtable | 170 | General | 2026-07-28 11:41 UTC |
-| [Google Ads Gain Product Clicks &amp; Non-Product Clicks Metrics](https://www.seroundtable.com/google-ads-product-clicks-non-41757.html) | Search Engine Roundtable | 170 | GSC | 2026-07-28 11:31 UTC |
-| [Microsoft Advertising Ad Preview Hub For PMax Campaigns](https://www.seroundtable.com/microsoft-ad-preview-hub-pmax-41767.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-28 11:21 UTC |
-| [Google Ads AI Generated Images With Upload Image Feature](https://www.seroundtable.com/google-ads-ai-generated-images-upload-image-41766.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-28 11:11 UTC |
+| [Digital PR for AI visibility: 5 tactics + how to measure](https://www.semrush.com/blog/digital-pr-for-ai-visibility/) | Semrush Blog | 150 | AI Search | 2026-07-30 10:42 UTC |
+| [What is schema markup? And how to add it to your site](https://www.semrush.com/blog/schema-markup/) | Semrush Blog | 150 | AI Search | 2026-07-30 10:21 UTC |
 | [Content optimization: 20 tactics to boost SEO &amp; AI visibility](https://www.semrush.com/blog/content-optimization/) | Semrush Blog | 150 | AI Search | 2026-07-30 10:07 UTC |
 | [Vibe Coding for Marketers: A Beginner’s Guide](https://ahrefs.com/blog/vibe-coding-for-marketers-a-beginners-guide/) | Ahrefs Blog | 120 | AI Search | 2026-07-28 08:06 UTC |
 | [Keyword mapping for SEO: Guide + free template](https://www.semrush.com/blog/keyword-mapping/) | Semrush Blog | 110 | Content | 2026-07-27 15:11 UTC |
@@ -40,7 +42,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [How to find AI visibility gaps with Semrush](https://www.semrush.com/blog/find-ai-visibility-gaps-with-semrush/) | Semrush Blog | 95 | AI Search | 2026-07-27 09:34 UTC |
 | [13 Advanced SEO techniques &amp; strategies for 2026](https://www.semrush.com/blog/advanced-seo/) | Semrush Blog | 95 | Indexing | 2026-07-27 09:12 UTC |
 | [Semrush reviews: What people say about the platform](https://www.semrush.com/blog/semrush-reviews/) | Semrush Blog | 95 | General | 2026-07-24 16:34 UTC |
-| [The Content SEO Manager: How a brand-new role took over content marketing [Study]](https://www.semrush.com/blog/content-seo-manager-study/) | Semrush Blog | 95 | AI Search | 2026-07-23 13:00 UTC |
 
 ## Notes
 
