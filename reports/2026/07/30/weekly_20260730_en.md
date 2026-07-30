@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Why Should One Service Area Business Hide Its Address While Another Displays One?](https://www.reddit.com/r/localseo/comments/1vakkqk/why_should_one_service_area_business_hide_its/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-30 05:34 UTC |
-| [Why is my resort’s GBP missing prices, &quot;Check Availability&quot;, and check-in/out times compared to competitors?](https://www.reddit.com/r/localseo/comments/1vabnew/why_is_my_resorts_gbp_missing_prices_check/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-29 22:45 UTC |
-| [Google Support: Signed, Baby Jane](https://www.reddit.com/r/localseo/comments/1v9yt1f/google_support_signed_baby_jane/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-29 15:04 UTC |
-| [How do you claim a Service Area Business when the &quot;Claim this business&quot; option is completely missing?](https://www.reddit.com/r/localseo/comments/1v9y8hd/how_do_you_claim_a_service_area_business_when_the/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-29 14:44 UTC |
-| [AEO/GEO is just good LocalSEO](https://www.reddit.com/r/localseo/comments/1v9uop2/aeogeo_is_just_good_localseo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-29 12:24 UTC |
-| [ok here's what actually matters for GBP ranking, not the recycled stuff](https://www.reddit.com/r/localseo/comments/1v9ngvs/ok_heres_what_actually_matters_for_gbp_ranking/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-29 06:03 UTC |
-| [What actually worked for getting my pet waste removal business to show up on Google AND ChatGPT/Gemini/etc.](https://www.reddit.com/r/localseo/comments/1v9m8mz/what_actually_worked_for_getting_my_pet_waste/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-07-29 05:00 UTC |
-| [Review Cook - google reviews tool advise](https://www.reddit.com/r/localseo/comments/1v9jjr6/review_cook_google_reviews_tool_advise/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-29 02:50 UTC |
-| [Bounce rate of 12%](https://www.reddit.com/r/localseo/comments/1v9irpl/bounce_rate_of_12/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-29 02:15 UTC |
-| [📍Changing Your Google Business Profile Address? Read This First.](https://www.reddit.com/r/localseo/comments/1v9hpaw/changing_your_google_business_profile_address/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-29 01:27 UTC |
-| [Duplicate GBPs everywhere. Merge Or Delete?](https://www.reddit.com/r/localseo/comments/1v9g1ei/duplicate_gbps_everywhere_merge_or_delete/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-29 00:15 UTC |
-| [Ai Rankings taking over GMB Map packs](https://www.reddit.com/r/localseo/comments/1v9ec2z/ai_rankings_taking_over_gmb_map_packs/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-28 23:05 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
@@ -41,14 +30,14 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Microsoft Advertising Ad Preview Hub For PMax Campaigns](https://www.seroundtable.com/microsoft-ad-preview-hub-pmax-41767.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-28 11:21 UTC |
 | [Google Ads AI Generated Images With Upload Image Feature](https://www.seroundtable.com/google-ads-ai-generated-images-upload-image-41766.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-28 11:11 UTC |
 | [Vibe Coding for Marketers: A Beginner’s Guide](https://ahrefs.com/blog/vibe-coding-for-marketers-a-beginners-guide/) | Ahrefs Blog | 120 | AI Search | 2026-07-28 08:06 UTC |
-| [Google Doesn’t Punish AI Content; It Punishes Bad Content (331k Pages Studied)](https://ahrefs.com/blog/google-doesnt-punish-ai-content/) | Ahrefs Blog | 120 | AI Search | 2026-07-27 08:00 UTC |
 | [Keyword mapping for SEO: Guide + free template](https://www.semrush.com/blog/keyword-mapping/) | Semrush Blog | 110 | Content | 2026-07-27 15:11 UTC |
 | [How to determine AI visibility ROI and revenue impact](https://www.semrush.com/blog/ai-visibility-roi/) | Semrush Blog | 110 | Links | 2026-07-27 10:17 UTC |
-| [How to find AI visibility gaps with Semrush](https://www.semrush.com/blog/find-ai-visibility-gaps-with-semrush/) | Semrush Blog | 110 | AI Search | 2026-07-27 09:34 UTC |
-| [13 Advanced SEO techniques &amp; strategies for 2026](https://www.semrush.com/blog/advanced-seo/) | Semrush Blog | 110 | Indexing | 2026-07-27 09:12 UTC |
+| [Google Doesn’t Punish AI Content; It Punishes Bad Content (331k Pages Studied)](https://ahrefs.com/blog/google-doesnt-punish-ai-content/) | Ahrefs Blog | 105 | AI Search | 2026-07-27 08:00 UTC |
 | [5 AI Search Trends I’m Seeing in 2026, Backed by Ahrefs Data](https://ahrefs.com/blog/ai-search-trends/) | Ahrefs Blog | 105 | AI Search | 2026-07-24 11:03 UTC |
 | [Free LLMs.txt Generator](https://ahrefs.com/blog/free-llms-txt-generator/) | Ahrefs Blog | 105 | AI Search | 2026-07-24 09:52 UTC |
 | [AI Search Strategy: 4 Pillars to Show Up More (and Right) in AI Answers](https://ahrefs.com/blog/ai-search-strategy/) | Ahrefs Blog | 105 | GSC | 2026-07-24 07:55 UTC |
+| [How to find AI visibility gaps with Semrush](https://www.semrush.com/blog/find-ai-visibility-gaps-with-semrush/) | Semrush Blog | 95 | AI Search | 2026-07-27 09:34 UTC |
+| [13 Advanced SEO techniques &amp; strategies for 2026](https://www.semrush.com/blog/advanced-seo/) | Semrush Blog | 95 | Indexing | 2026-07-27 09:12 UTC |
 | [Semrush reviews: What people say about the platform](https://www.semrush.com/blog/semrush-reviews/) | Semrush Blog | 95 | General | 2026-07-24 16:34 UTC |
 | [The Content SEO Manager: How a brand-new role took over content marketing [Study]](https://www.semrush.com/blog/content-seo-manager-study/) | Semrush Blog | 95 | AI Search | 2026-07-23 13:00 UTC |
 | [What is a landing page? What to know + examples](https://www.semrush.com/blog/what-is-a-landing-page/) | Semrush Blog | 95 | Migration | 2026-07-23 09:42 UTC |
