@@ -12,16 +12,16 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: July 30, 2026](https://www.seroundtable.com/recap-07-30-2026-41789.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-30 14:00 UTC |
 | [Platform properties roll out globally, plus a new social and video performance guide](https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide) | Google Search Central Blog | 210 | GSC | 2026-07-29 00:00 UTC |
 | [Added guide on analyzing social and video platform content](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | GSC | 2026-07-29 00:00 UTC |
+| [Daily Search Forum Recap: July 30, 2026](https://www.seroundtable.com/recap-07-30-2026-41789.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-30 14:00 UTC |
 | [Google Related Searches Based On Your Browsing](https://www.seroundtable.com/google-related-searches-based-on-your-browsing-41764.html) | Search Engine Roundtable | 190 | General | 2026-07-30 11:51 UTC |
 | [Google Shopping Ads With AI-Generated Descriptions](https://www.seroundtable.com/google-shopping-ads-ai-generated-descriptions-41784.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-30 11:32 UTC |
 | [Almost Half Of Google Searches Have AI Overviews &amp; Climbing](https://www.seroundtable.com/half-google-searches-ai-overviews-41780.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-30 11:31 UTC |
 | [Google Blames Website For Race Based AI Overview Response](https://www.seroundtable.com/google-race-ai-overview-response-41787.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-30 11:21 UTC |
 | [Google: Offline Conversions With GBRAID URL Parameter Help Doc](https://www.seroundtable.com/google-offline-conversions-gbraid-url-parameter-41792.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-30 11:16 UTC |
 | [Google Discover Tests Read Later Queue Carousel](https://www.seroundtable.com/google-discover-read-later-queue-41718.html) | Search Engine Roundtable | 190 | Content | 2026-07-30 11:11 UTC |
-| [Bing Ads Revenue Up 10%](https://www.seroundtable.com/microsoft-earnings-41786.html) | Search Engine Roundtable | 190 | General | 2026-07-29 20:03 UTC |
+| [Bing Ads Revenue Up 10%](https://www.seroundtable.com/microsoft-earnings-41786.html) | Search Engine Roundtable | 170 | General | 2026-07-29 20:03 UTC |
 | [Daily Search Forum Recap: July 29, 2026](https://www.seroundtable.com/recap-07-29-2026-41781.html) | Search Engine Roundtable | 170 | GSC | 2026-07-29 14:00 UTC |
 | [Google Platform Properties Now Fully Live](https://www.seroundtable.com/google-platform-properties-live-41785.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-29 13:33 UTC |
 | [The Problem With unavailable_after - Google Might Not See Updated Dates](https://www.seroundtable.com/google-unavailable_after-date-41771.html) | Search Engine Roundtable | 170 | Indexing | 2026-07-29 11:51 UTC |
