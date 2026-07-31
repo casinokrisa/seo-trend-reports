@@ -19,12 +19,12 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: July 30, 2026](https://www.seroundtable.com/recap-07-30-2026-41789.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-30 14:00 UTC |
-| [Google Related Searches Based On Your Browsing](https://www.seroundtable.com/google-related-searches-based-on-your-browsing-41764.html) | Search Engine Roundtable | 190 | General | 2026-07-30 11:51 UTC |
-| [Google Shopping Ads With AI-Generated Descriptions](https://www.seroundtable.com/google-shopping-ads-ai-generated-descriptions-41784.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-30 11:32 UTC |
-| [Almost Half Of Google Searches Have AI Overviews &amp; Climbing](https://www.seroundtable.com/half-google-searches-ai-overviews-41780.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-30 11:31 UTC |
-| [Google Blames Website For Race Based AI Overview Response](https://www.seroundtable.com/google-race-ai-overview-response-41787.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-30 11:21 UTC |
-| [Google: Offline Conversions With GBRAID URL Parameter Help Doc](https://www.seroundtable.com/google-offline-conversions-gbraid-url-parameter-41792.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-30 11:16 UTC |
-| [Google Discover Tests Read Later Queue Carousel](https://www.seroundtable.com/google-discover-read-later-queue-41718.html) | Search Engine Roundtable | 190 | Content | 2026-07-30 11:11 UTC |
+| [Google Related Searches Based On Your Browsing](https://www.seroundtable.com/google-related-searches-based-on-your-browsing-41764.html) | Search Engine Roundtable | 170 | General | 2026-07-30 11:51 UTC |
+| [Google Shopping Ads With AI-Generated Descriptions](https://www.seroundtable.com/google-shopping-ads-ai-generated-descriptions-41784.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-30 11:32 UTC |
+| [Almost Half Of Google Searches Have AI Overviews &amp; Climbing](https://www.seroundtable.com/half-google-searches-ai-overviews-41780.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-30 11:31 UTC |
+| [Google Blames Website For Race Based AI Overview Response](https://www.seroundtable.com/google-race-ai-overview-response-41787.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-30 11:21 UTC |
+| [Google: Offline Conversions With GBRAID URL Parameter Help Doc](https://www.seroundtable.com/google-offline-conversions-gbraid-url-parameter-41792.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-30 11:16 UTC |
+| [Google Discover Tests Read Later Queue Carousel](https://www.seroundtable.com/google-discover-read-later-queue-41718.html) | Search Engine Roundtable | 170 | Content | 2026-07-30 11:11 UTC |
 | [Digital PR for AI visibility: 5 tactics + how to measure](https://www.semrush.com/blog/digital-pr-for-ai-visibility/) | Semrush Blog | 110 | AI Search | 2026-07-30 10:42 UTC |
 | [What is schema markup? And how to add it to your site](https://www.semrush.com/blog/schema-markup/) | Semrush Blog | 110 | AI Search | 2026-07-30 10:21 UTC |
 | [Content optimization: 20 tactics to boost SEO &amp; AI visibility](https://www.semrush.com/blog/content-optimization/) | Semrush Blog | 110 | AI Search | 2026-07-30 10:07 UTC |
