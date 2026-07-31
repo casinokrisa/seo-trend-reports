@@ -25,9 +25,9 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Blames Website For Race Based AI Overview Response](https://www.seroundtable.com/google-race-ai-overview-response-41787.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-30 11:21 UTC |
 | [Google: Offline Conversions With GBRAID URL Parameter Help Doc](https://www.seroundtable.com/google-offline-conversions-gbraid-url-parameter-41792.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-30 11:16 UTC |
 | [Google Discover Tests Read Later Queue Carousel](https://www.seroundtable.com/google-discover-read-later-queue-41718.html) | Search Engine Roundtable | 190 | Content | 2026-07-30 11:11 UTC |
-| [Digital PR for AI visibility: 5 tactics + how to measure](https://www.semrush.com/blog/digital-pr-for-ai-visibility/) | Semrush Blog | 130 | AI Search | 2026-07-30 10:42 UTC |
-| [What is schema markup? And how to add it to your site](https://www.semrush.com/blog/schema-markup/) | Semrush Blog | 130 | AI Search | 2026-07-30 10:21 UTC |
-| [Content optimization: 20 tactics to boost SEO &amp; AI visibility](https://www.semrush.com/blog/content-optimization/) | Semrush Blog | 130 | AI Search | 2026-07-30 10:07 UTC |
+| [Digital PR for AI visibility: 5 tactics + how to measure](https://www.semrush.com/blog/digital-pr-for-ai-visibility/) | Semrush Blog | 110 | AI Search | 2026-07-30 10:42 UTC |
+| [What is schema markup? And how to add it to your site](https://www.semrush.com/blog/schema-markup/) | Semrush Blog | 110 | AI Search | 2026-07-30 10:21 UTC |
+| [Content optimization: 20 tactics to boost SEO &amp; AI visibility](https://www.semrush.com/blog/content-optimization/) | Semrush Blog | 110 | AI Search | 2026-07-30 10:07 UTC |
 
 ## Notes for manual writing
 
