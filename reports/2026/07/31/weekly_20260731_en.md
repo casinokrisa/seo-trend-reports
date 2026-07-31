@@ -13,10 +13,10 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: July 31, 2026](https://www.seroundtable.com/recap-07-31-2026-41800.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-31 14:00 UTC |
-| [Search News Buzz Video Recap: Google Platform Properties Live, Google Ads Lead Journey Mapping, Microsoft Ads, ChatGPT Ads &amp; More SEO](https://www.seroundtable.com/video-07-31-2026-41791.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-31 12:01 UTC |
-| [Microsoft Ads Predictive Matching Moving To Search Term Matching](https://www.seroundtable.com/microsoft-predictive-matching-search-term-41783.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-31 11:51 UTC |
 | [Platform properties roll out globally, plus a new social and video performance guide](https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide) | Google Search Central Blog | 210 | GSC | 2026-07-29 00:00 UTC |
 | [Added guide on analyzing social and video platform content](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | GSC | 2026-07-29 00:00 UTC |
+| [Search News Buzz Video Recap: Google Platform Properties Live, Google Ads Lead Journey Mapping, Microsoft Ads, ChatGPT Ads &amp; More SEO](https://www.seroundtable.com/video-07-31-2026-41791.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-31 12:01 UTC |
+| [Microsoft Ads Predictive Matching Moving To Search Term Matching](https://www.seroundtable.com/microsoft-predictive-matching-search-term-41783.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-31 11:51 UTC |
 | [Blocking Internal Search Results Not In Google Guidelines Anymore But...](https://www.seroundtable.com/internal-search-results-google-guidelines-41794.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-31 11:41 UTC |
 | [Google Ads Insights Carousel](https://www.seroundtable.com/google-ads-insights-carousel-41790.html) | Search Engine Roundtable | 190 | General | 2026-07-31 11:31 UTC |
 | [ChatGPT Ads Business Agent Conversation Campaign Type](https://www.seroundtable.com/chatgpt-ads-business-agent-41801.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-31 11:23 UTC |
