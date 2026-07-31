@@ -12,9 +12,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: July 31, 2026](https://www.seroundtable.com/recap-07-31-2026-41800.html) | Search Engine Roundtable | 210 | AI Search | 2026-07-31 14:00 UTC |
 | [Platform properties roll out globally, plus a new social and video performance guide](https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide) | Google Search Central Blog | 210 | GSC | 2026-07-29 00:00 UTC |
 | [Added guide on analyzing social and video platform content](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | GSC | 2026-07-29 00:00 UTC |
+| [Daily Search Forum Recap: July 31, 2026](https://www.seroundtable.com/recap-07-31-2026-41800.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-31 14:00 UTC |
 | [Search News Buzz Video Recap: Google Platform Properties Live, Google Ads Lead Journey Mapping, Microsoft Ads, ChatGPT Ads &amp; More SEO](https://www.seroundtable.com/video-07-31-2026-41791.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-31 12:01 UTC |
 | [Microsoft Ads Predictive Matching Moving To Search Term Matching](https://www.seroundtable.com/microsoft-predictive-matching-search-term-41783.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-31 11:51 UTC |
 | [Blocking Internal Search Results Not In Google Guidelines Anymore But...](https://www.seroundtable.com/internal-search-results-google-guidelines-41794.html) | Search Engine Roundtable | 190 | AI Search | 2026-07-31 11:41 UTC |
@@ -29,7 +29,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Blames Website For Race Based AI Overview Response](https://www.seroundtable.com/google-race-ai-overview-response-41787.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-30 11:21 UTC |
 | [Google: Offline Conversions With GBRAID URL Parameter Help Doc](https://www.seroundtable.com/google-offline-conversions-gbraid-url-parameter-41792.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-30 11:16 UTC |
 | [Google Discover Tests Read Later Queue Carousel](https://www.seroundtable.com/google-discover-read-later-queue-41718.html) | Search Engine Roundtable | 170 | Content | 2026-07-30 11:11 UTC |
-| [7 best AI visibility tracking tools for agencies by need](https://www.semrush.com/blog/ai-visibility-tracking-tools-for-agencies/) | Semrush Blog | 150 | AI Search | 2026-07-31 15:04 UTC |
+| [7 best AI visibility tracking tools for agencies by need](https://www.semrush.com/blog/ai-visibility-tracking-tools-for-agencies/) | Semrush Blog | 130 | AI Search | 2026-07-31 15:04 UTC |
 | [Digital PR for AI visibility: 5 tactics + how to measure](https://www.semrush.com/blog/digital-pr-for-ai-visibility/) | Semrush Blog | 110 | AI Search | 2026-07-30 10:42 UTC |
 | [What is schema markup? And how to add it to your site](https://www.semrush.com/blog/schema-markup/) | Semrush Blog | 110 | AI Search | 2026-07-30 10:21 UTC |
 | [Content optimization: 20 tactics to boost SEO &amp; AI visibility](https://www.semrush.com/blog/content-optimization/) | Semrush Blog | 110 | AI Search | 2026-07-30 10:07 UTC |
