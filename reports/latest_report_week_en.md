@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [AI Is Transforming Local Search. Is Your Business Ready?](https://www.reddit.com/r/localseo/comments/1vcevfc/ai_is_transforming_local_search_is_your_business/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-08-01 05:49 UTC |
-| [Best link building strategies for health websites?](https://www.reddit.com/r/localseo/comments/1vc10nq/best_link_building_strategies_for_health_websites/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-07-31 19:39 UTC |
-| [Brand keyword vanished from SERP at a specific hour and still hasn't come back, 19+ hours later, what do i do?](https://www.reddit.com/r/localseo/comments/1vc0pxo/brand_keyword_vanished_from_serp_at_a_specific/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-31 19:27 UTC |
-| [I'm new to SEO. Help a girlie out 🥹 What are the most helpful tools, YouTube channels, blogs, or resources you'd recommend for learning local SEO?](https://www.reddit.com/r/localseo/comments/1vc0c8x/im_new_to_seo_help_a_girlie_out_what_are_the_most/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-31 19:13 UTC |
-| [google business profile suspension in medical niches](https://www.reddit.com/r/localseo/comments/1vbv9lx/google_business_profile_suspension_in_medical/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-31 16:08 UTC |
-| [Local Seo tools](https://www.reddit.com/r/localseo/comments/1vbuk0n/local_seo_tools/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-31 15:43 UTC |
-| [Unsticking a Google Business Page Phone Number](https://www.reddit.com/r/localseo/comments/1vbsr3k/unsticking_a_google_business_page_phone_number/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-31 14:36 UTC |
-| [Is prominence the new rank?](https://www.reddit.com/r/localseo/comments/1vbl7wp/is_prominence_the_new_rank/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-31 08:41 UTC |
-| [Does this Matter ?](https://www.reddit.com/r/localseo/comments/1vbjj2q/does_this_matter/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-31 07:05 UTC |
-| [How can I rank page 1 on SERP but not top 3 on map pack for the same keyword](https://www.reddit.com/r/localseo/comments/1vbfs0z/how_can_i_rank_page_1_on_serp_but_not_top_3_on/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-31 03:54 UTC |
-| [Most business owners don't have an SEO problem, they have a website problem](https://www.reddit.com/r/localseo/comments/1vbaewa/most_business_owners_dont_have_an_seo_problem/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-07-30 23:52 UTC |
-| [Has anyone noticed GBP products going into the pending stage even tho they were published long back and approved? I've noticed this for every client today, not sure what's the reason, as I don't stuff keywords in the title and text tho.](https://www.reddit.com/r/localseo/comments/1vao88s/has_anyone_noticed_gbp_products_going_into_the/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-07-30 09:01 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
