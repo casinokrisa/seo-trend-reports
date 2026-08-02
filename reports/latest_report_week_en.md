@@ -26,15 +26,15 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Related Searches Based On Your Browsing](https://www.seroundtable.com/google-related-searches-based-on-your-browsing-41764.html) | Search Engine Roundtable | 170 | General | 2026-07-30 11:51 UTC |
 | [Google Shopping Ads With AI-Generated Descriptions](https://www.seroundtable.com/google-shopping-ads-ai-generated-descriptions-41784.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-30 11:32 UTC |
 | [Almost Half Of Google Searches Have AI Overviews &amp; Climbing](https://www.seroundtable.com/half-google-searches-ai-overviews-41780.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-30 11:31 UTC |
-| [Google Blames Website For Race Based AI Overview Response](https://www.seroundtable.com/google-race-ai-overview-response-41787.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-30 11:21 UTC |
-| [Google: Offline Conversions With GBRAID URL Parameter Help Doc](https://www.seroundtable.com/google-offline-conversions-gbraid-url-parameter-41792.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-30 11:16 UTC |
-| [Google Discover Tests Read Later Queue Carousel](https://www.seroundtable.com/google-discover-read-later-queue-41718.html) | Search Engine Roundtable | 170 | Content | 2026-07-30 11:11 UTC |
+| [Google Blames Website For Race Based AI Overview Response](https://www.seroundtable.com/google-race-ai-overview-response-41787.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-30 11:21 UTC |
+| [Google: Offline Conversions With GBRAID URL Parameter Help Doc](https://www.seroundtable.com/google-offline-conversions-gbraid-url-parameter-41792.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-30 11:16 UTC |
+| [Google Discover Tests Read Later Queue Carousel](https://www.seroundtable.com/google-discover-read-later-queue-41718.html) | Search Engine Roundtable | 155 | Content | 2026-07-30 11:11 UTC |
 | [7 best AI visibility tracking tools for agencies by need](https://www.semrush.com/blog/ai-visibility-tracking-tools-for-agencies/) | Semrush Blog | 110 | AI Search | 2026-07-31 15:04 UTC |
-| [Digital PR for AI visibility: 5 tactics + how to measure](https://www.semrush.com/blog/digital-pr-for-ai-visibility/) | Semrush Blog | 110 | AI Search | 2026-07-30 10:42 UTC |
-| [What is schema markup? And how to add it to your site](https://www.semrush.com/blog/schema-markup/) | Semrush Blog | 110 | AI Search | 2026-07-30 10:21 UTC |
-| [Content optimization: 20 tactics to boost SEO &amp; AI visibility](https://www.semrush.com/blog/content-optimization/) | Semrush Blog | 110 | AI Search | 2026-07-30 10:07 UTC |
 | [Vibe Coding for Marketers: A Beginner’s Guide](https://ahrefs.com/blog/vibe-coding-for-marketers-a-beginners-guide/) | Ahrefs Blog | 105 | AI Search | 2026-07-28 08:06 UTC |
 | [Google Doesn’t Punish AI Content; It Punishes Bad Content (331k Pages Studied)](https://ahrefs.com/blog/google-doesnt-punish-ai-content/) | Ahrefs Blog | 105 | AI Search | 2026-07-27 08:00 UTC |
+| [Digital PR for AI visibility: 5 tactics + how to measure](https://www.semrush.com/blog/digital-pr-for-ai-visibility/) | Semrush Blog | 95 | AI Search | 2026-07-30 10:42 UTC |
+| [What is schema markup? And how to add it to your site](https://www.semrush.com/blog/schema-markup/) | Semrush Blog | 95 | AI Search | 2026-07-30 10:21 UTC |
+| [Content optimization: 20 tactics to boost SEO &amp; AI visibility](https://www.semrush.com/blog/content-optimization/) | Semrush Blog | 95 | AI Search | 2026-07-30 10:07 UTC |
 | [Keyword mapping for SEO: Guide + free template](https://www.semrush.com/blog/keyword-mapping/) | Semrush Blog | 95 | Content | 2026-07-27 15:11 UTC |
 | [How to determine AI visibility ROI and revenue impact](https://www.semrush.com/blog/ai-visibility-roi/) | Semrush Blog | 95 | Links | 2026-07-27 10:17 UTC |
 | [How to find AI visibility gaps with Semrush](https://www.semrush.com/blog/find-ai-visibility-gaps-with-semrush/) | Semrush Blog | 95 | AI Search | 2026-07-27 09:34 UTC |
