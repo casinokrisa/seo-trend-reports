@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google Search Filter By Recent Broken](https://www.seroundtable.com/google-search-filter-by-recent-bug-41807.html) | Search Engine Roundtable | 210 | Content | 2026-08-02 11:41 UTC |
 | [Platform properties roll out globally, plus a new social and video performance guide](https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide) | Google Search Central Blog | 195 | GSC | 2026-07-29 00:00 UTC |
 | [Added guide on analyzing social and video platform content](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | GSC | 2026-07-29 00:00 UTC |
 | [Daily Search Forum Recap: July 31, 2026](https://www.seroundtable.com/recap-07-31-2026-41800.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-31 14:00 UTC |
@@ -23,12 +24,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Local Service Ads To Require D-U-N-S Numbers For Some](https://www.seroundtable.com/google-local-service-ads-duns-41760.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-31 11:21 UTC |
 | [Google Business Profiles Products Are Stuck In Pending Status](https://www.seroundtable.com/google-business-profiles-products-pending-status-bug-41793.html) | Search Engine Roundtable | 170 | Local SEO | 2026-07-31 11:11 UTC |
 | [Daily Search Forum Recap: July 30, 2026](https://www.seroundtable.com/recap-07-30-2026-41789.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-30 14:00 UTC |
-| [Google Related Searches Based On Your Browsing](https://www.seroundtable.com/google-related-searches-based-on-your-browsing-41764.html) | Search Engine Roundtable | 170 | General | 2026-07-30 11:51 UTC |
-| [Google Shopping Ads With AI-Generated Descriptions](https://www.seroundtable.com/google-shopping-ads-ai-generated-descriptions-41784.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-30 11:32 UTC |
-| [Almost Half Of Google Searches Have AI Overviews &amp; Climbing](https://www.seroundtable.com/half-google-searches-ai-overviews-41780.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-30 11:31 UTC |
+| [Google Related Searches Based On Your Browsing](https://www.seroundtable.com/google-related-searches-based-on-your-browsing-41764.html) | Search Engine Roundtable | 155 | General | 2026-07-30 11:51 UTC |
+| [Google Shopping Ads With AI-Generated Descriptions](https://www.seroundtable.com/google-shopping-ads-ai-generated-descriptions-41784.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-30 11:32 UTC |
+| [Almost Half Of Google Searches Have AI Overviews &amp; Climbing](https://www.seroundtable.com/half-google-searches-ai-overviews-41780.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-30 11:31 UTC |
 | [Google Blames Website For Race Based AI Overview Response](https://www.seroundtable.com/google-race-ai-overview-response-41787.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-30 11:21 UTC |
 | [Google: Offline Conversions With GBRAID URL Parameter Help Doc](https://www.seroundtable.com/google-offline-conversions-gbraid-url-parameter-41792.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-30 11:16 UTC |
-| [Google Discover Tests Read Later Queue Carousel](https://www.seroundtable.com/google-discover-read-later-queue-41718.html) | Search Engine Roundtable | 155 | Content | 2026-07-30 11:11 UTC |
 | [7 best AI visibility tracking tools for agencies by need](https://www.semrush.com/blog/ai-visibility-tracking-tools-for-agencies/) | Semrush Blog | 110 | AI Search | 2026-07-31 15:04 UTC |
 | [Vibe Coding for Marketers: A Beginner’s Guide](https://ahrefs.com/blog/vibe-coding-for-marketers-a-beginners-guide/) | Ahrefs Blog | 105 | AI Search | 2026-07-28 08:06 UTC |
 | [Google Doesn’t Punish AI Content; It Punishes Bad Content (331k Pages Studied)](https://ahrefs.com/blog/google-doesnt-punish-ai-content/) | Ahrefs Blog | 105 | AI Search | 2026-07-27 08:00 UTC |

@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| _No site items in window_ |  |  |  |  |
+| [Google Search Filter By Recent Broken](https://www.seroundtable.com/google-search-filter-by-recent-bug-41807.html) | Search Engine Roundtable | 210 | Content | 2026-08-02 11:41 UTC |
 
 ## Notes for manual writing
 
