@@ -18,8 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: July 31, 2026](https://www.seroundtable.com/recap-07-31-2026-41800.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-31 14:00 UTC |
-| [7 best AI visibility tracking tools for agencies by need](https://www.semrush.com/blog/ai-visibility-tracking-tools-for-agencies/) | Semrush Blog | 110 | AI Search | 2026-07-31 15:04 UTC |
+| _No site items in window_ |  |  |  |  |
 
 ## Notes for manual writing
 
