@@ -13,7 +13,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Platform properties roll out globally, plus a new social and video performance guide](https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide) | Google Search Central Blog | 195 | GSC | 2026-07-29 00:00 UTC |
-| [Google Search Filter By Recent Broken](https://www.seroundtable.com/google-search-filter-by-recent-bug-41807.html) | Search Engine Roundtable | 190 | Content | 2026-08-02 11:41 UTC |
+| [Google Search Filter By Recent Broken (Fixed)](https://www.seroundtable.com/google-search-filter-by-recent-bug-41807.html) | Search Engine Roundtable | 190 | Content | 2026-08-02 11:41 UTC |
 | [Added guide on analyzing social and video platform content](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | GSC | 2026-07-29 00:00 UTC |
 | [Daily Search Forum Recap: July 31, 2026](https://www.seroundtable.com/recap-07-31-2026-41800.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-31 14:00 UTC |
 | [Search News Buzz Video Recap: Google Platform Properties Live, Google Ads Lead Journey Mapping, Microsoft Ads, ChatGPT Ads &amp; More SEO](https://www.seroundtable.com/video-07-31-2026-41791.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-31 12:01 UTC |
