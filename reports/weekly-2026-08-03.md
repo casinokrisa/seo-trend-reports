@@ -19,10 +19,10 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Search News Buzz Video Recap: Google Platform Properties Live, Google Ads Lead Journey Mapping, Microsoft Ads, ChatGPT Ads &amp; More SEO](https://www.seroundtable.com/video-07-31-2026-41791.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-31 12:01 UTC |
 | [Microsoft Ads Predictive Matching Moving To Search Term Matching](https://www.seroundtable.com/microsoft-predictive-matching-search-term-41783.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-31 11:51 UTC |
 | [Blocking Internal Search Results Not In Google Guidelines Anymore But...](https://www.seroundtable.com/internal-search-results-google-guidelines-41794.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-31 11:41 UTC |
-| [Google Ads Insights Carousel](https://www.seroundtable.com/google-ads-insights-carousel-41790.html) | Search Engine Roundtable | 170 | General | 2026-07-31 11:31 UTC |
-| [ChatGPT Ads Business Agent Conversation Campaign Type](https://www.seroundtable.com/chatgpt-ads-business-agent-41801.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-31 11:23 UTC |
-| [Google Local Service Ads To Require D-U-N-S Numbers For Some](https://www.seroundtable.com/google-local-service-ads-duns-41760.html) | Search Engine Roundtable | 170 | AI Search | 2026-07-31 11:21 UTC |
-| [Google Business Profiles Products Are Stuck In Pending Status](https://www.seroundtable.com/google-business-profiles-products-pending-status-bug-41793.html) | Search Engine Roundtable | 170 | Local SEO | 2026-07-31 11:11 UTC |
+| [Google Ads Insights Carousel](https://www.seroundtable.com/google-ads-insights-carousel-41790.html) | Search Engine Roundtable | 155 | General | 2026-07-31 11:31 UTC |
+| [ChatGPT Ads Business Agent Conversation Campaign Type](https://www.seroundtable.com/chatgpt-ads-business-agent-41801.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-31 11:23 UTC |
+| [Google Local Service Ads To Require D-U-N-S Numbers For Some](https://www.seroundtable.com/google-local-service-ads-duns-41760.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-31 11:21 UTC |
+| [Google Business Profiles Products Are Stuck In Pending Status](https://www.seroundtable.com/google-business-profiles-products-pending-status-bug-41793.html) | Search Engine Roundtable | 155 | Local SEO | 2026-07-31 11:11 UTC |
 | [Daily Search Forum Recap: July 30, 2026](https://www.seroundtable.com/recap-07-30-2026-41789.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-30 14:00 UTC |
 | [Google Related Searches Based On Your Browsing](https://www.seroundtable.com/google-related-searches-based-on-your-browsing-41764.html) | Search Engine Roundtable | 155 | General | 2026-07-30 11:51 UTC |
 | [Google Shopping Ads With AI-Generated Descriptions](https://www.seroundtable.com/google-shopping-ads-ai-generated-descriptions-41784.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-30 11:32 UTC |
@@ -35,9 +35,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [What is schema markup? And how to add it to your site](https://www.semrush.com/blog/schema-markup/) | Semrush Blog | 95 | AI Search | 2026-07-30 10:21 UTC |
 | [Content optimization: 20 tactics to boost SEO &amp; AI visibility](https://www.semrush.com/blog/content-optimization/) | Semrush Blog | 95 | AI Search | 2026-07-30 10:07 UTC |
 | [Keyword mapping for SEO: Guide + free template](https://www.semrush.com/blog/keyword-mapping/) | Semrush Blog | 95 | Content | 2026-07-27 15:11 UTC |
-| [How to determine AI visibility ROI and revenue impact](https://www.semrush.com/blog/ai-visibility-roi/) | Semrush Blog | 95 | Links | 2026-07-27 10:17 UTC |
-| [How to find AI visibility gaps with Semrush](https://www.semrush.com/blog/find-ai-visibility-gaps-with-semrush/) | Semrush Blog | 95 | AI Search | 2026-07-27 09:34 UTC |
-| [13 Advanced SEO techniques &amp; strategies for 2026](https://www.semrush.com/blog/advanced-seo/) | Semrush Blog | 95 | Indexing | 2026-07-27 09:12 UTC |
 
 ## Notes
 
