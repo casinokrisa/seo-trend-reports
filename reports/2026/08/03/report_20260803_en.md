@@ -26,7 +26,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Trends Lets You Compare 220% More Search Terms](https://www.seroundtable.com/google-trends-more-search-terms-41788.html) | Search Engine Roundtable | 190 | General | 2026-08-03 11:11 UTC |
 | [Bing Webmaster Tools SOAP/POX APIs To Be Retired On August 31, 2026](https://www.seroundtable.com/bing-webmaster-tools-soap-pox-apis-retire-41805.html) | Search Engine Roundtable | 190 | General | 2026-08-03 11:05 UTC |
 | [Google Search Filter By Recent Broken (Fixed)](https://www.seroundtable.com/google-search-filter-by-recent-bug-41807.html) | Search Engine Roundtable | 170 | Content | 2026-08-02 11:41 UTC |
-| [How topical authority spreads (and where it doesn’t) in ChatGPT [Study]](https://www.semrush.com/blog/chatgpt-topical-focus-study/) | Semrush Blog | 150 | AI Search | 2026-08-03 13:00 UTC |
+| [How topical authority spreads (and where it doesn’t) in ChatGPT [Study]](https://www.semrush.com/blog/chatgpt-topical-focus-study/) | Semrush Blog | 130 | AI Search | 2026-08-03 13:00 UTC |
 
 ## Notes for manual writing
 

@@ -29,7 +29,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Insights Carousel](https://www.seroundtable.com/google-ads-insights-carousel-41790.html) | Search Engine Roundtable | 155 | General | 2026-07-31 11:31 UTC |
 | [ChatGPT Ads Business Agent Conversation Campaign Type](https://www.seroundtable.com/chatgpt-ads-business-agent-41801.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-31 11:23 UTC |
 | [Google Local Service Ads To Require D-U-N-S Numbers For Some](https://www.seroundtable.com/google-local-service-ads-duns-41760.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-31 11:21 UTC |
-| [How topical authority spreads (and where it doesn’t) in ChatGPT [Study]](https://www.semrush.com/blog/chatgpt-topical-focus-study/) | Semrush Blog | 150 | AI Search | 2026-08-03 13:00 UTC |
+| [How topical authority spreads (and where it doesn’t) in ChatGPT [Study]](https://www.semrush.com/blog/chatgpt-topical-focus-study/) | Semrush Blog | 130 | AI Search | 2026-08-03 13:00 UTC |
 | [Vibe Coding for Marketers: A Beginner’s Guide](https://ahrefs.com/blog/vibe-coding-for-marketers-a-beginners-guide/) | Ahrefs Blog | 105 | AI Search | 2026-07-28 08:06 UTC |
 | [7 best AI visibility tracking tools for agencies by need](https://www.semrush.com/blog/ai-visibility-tracking-tools-for-agencies/) | Semrush Blog | 95 | AI Search | 2026-07-31 15:04 UTC |
 | [Digital PR for AI visibility: 5 tactics + how to measure](https://www.semrush.com/blog/digital-pr-for-ai-visibility/) | Semrush Blog | 95 | AI Search | 2026-07-30 10:42 UTC |
