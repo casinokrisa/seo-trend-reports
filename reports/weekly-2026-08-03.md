@@ -31,7 +31,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google: Offline Conversions With GBRAID URL Parameter Help Doc](https://www.seroundtable.com/google-offline-conversions-gbraid-url-parameter-41792.html) | Search Engine Roundtable | 155 | AI Search | 2026-07-30 11:16 UTC |
 | [7 best AI visibility tracking tools for agencies by need](https://www.semrush.com/blog/ai-visibility-tracking-tools-for-agencies/) | Semrush Blog | 110 | AI Search | 2026-07-31 15:04 UTC |
 | [Vibe Coding for Marketers: A Beginner’s Guide](https://ahrefs.com/blog/vibe-coding-for-marketers-a-beginners-guide/) | Ahrefs Blog | 105 | AI Search | 2026-07-28 08:06 UTC |
-| [Google Doesn’t Punish AI Content; It Punishes Bad Content (331k Pages Studied)](https://ahrefs.com/blog/google-doesnt-punish-ai-content/) | Ahrefs Blog | 105 | AI Search | 2026-07-27 08:00 UTC |
 | [Digital PR for AI visibility: 5 tactics + how to measure](https://www.semrush.com/blog/digital-pr-for-ai-visibility/) | Semrush Blog | 95 | AI Search | 2026-07-30 10:42 UTC |
 | [What is schema markup? And how to add it to your site](https://www.semrush.com/blog/schema-markup/) | Semrush Blog | 95 | AI Search | 2026-07-30 10:21 UTC |
 | [Content optimization: 20 tactics to boost SEO &amp; AI visibility](https://www.semrush.com/blog/content-optimization/) | Semrush Blog | 95 | AI Search | 2026-07-30 10:07 UTC |
