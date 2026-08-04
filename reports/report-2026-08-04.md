@@ -19,11 +19,11 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: August 4, 2026](https://www.seroundtable.com/recap-08-04-2026-41815.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-04 14:00 UTC |
-| [August 2026 Google Webmaster Report](https://www.seroundtable.com/august-2026-google-webmaster-report-41804.html) | Search Engine Roundtable | 210 | General | 2026-08-04 11:51 UTC |
-| [Google Ads Tests Anchor Text Hyperlinks In Ad Descriptions](https://www.seroundtable.com/google-ads-text-hyperlinks-ad-descriptions-41814.html) | Search Engine Roundtable | 210 | Links | 2026-08-04 11:41 UTC |
-| [Google Ads Ad Preview &amp; Diagnosis Captcha Bug](https://www.seroundtable.com/google-ads-ad-preview-and-diagnosis-broken-41812.html) | Search Engine Roundtable | 210 | General | 2026-08-04 11:31 UTC |
-| [Google Ads Text Disclaimer Override Pinned Descriptions Position One](https://www.seroundtable.com/google-ads-text-disclaimer-override-41803.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-04 11:21 UTC |
-| [Handle Swapping Coming To Google Search Profiles](https://www.seroundtable.com/google-handle-swapping-search-profiles-41813.html) | Search Engine Roundtable | 210 | Links | 2026-08-04 11:11 UTC |
+| [August 2026 Google Webmaster Report](https://www.seroundtable.com/august-2026-google-webmaster-report-41804.html) | Search Engine Roundtable | 190 | General | 2026-08-04 11:51 UTC |
+| [Google Ads Tests Anchor Text Hyperlinks In Ad Descriptions](https://www.seroundtable.com/google-ads-text-hyperlinks-ad-descriptions-41814.html) | Search Engine Roundtable | 190 | Links | 2026-08-04 11:41 UTC |
+| [Google Ads Ad Preview &amp; Diagnosis Captcha Bug](https://www.seroundtable.com/google-ads-ad-preview-and-diagnosis-broken-41812.html) | Search Engine Roundtable | 190 | General | 2026-08-04 11:31 UTC |
+| [Google Ads Text Disclaimer Override Pinned Descriptions Position One](https://www.seroundtable.com/google-ads-text-disclaimer-override-41803.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-04 11:21 UTC |
+| [Handle Swapping Coming To Google Search Profiles](https://www.seroundtable.com/google-handle-swapping-search-profiles-41813.html) | Search Engine Roundtable | 190 | Links | 2026-08-04 11:11 UTC |
 | [Daily Search Forum Recap: August 3, 2026](https://www.seroundtable.com/recap-08-03-2026-41810.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-03 14:00 UTC |
 | [Google Search Ranking Volatility Hits August 1st &amp; Heats Up Into August 3rd](https://www.seroundtable.com/google-search-ranking-volatility-august-1-41811.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-03 11:51 UTC |
 | [Google Business Profiles Protect From Fraudulent Calls and Texts Updated](https://www.seroundtable.com/google-business-profiles-fraud-calls-texts-41806.html) | Search Engine Roundtable | 170 | Local SEO | 2026-08-03 11:41 UTC |
