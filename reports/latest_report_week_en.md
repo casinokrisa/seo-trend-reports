@@ -12,8 +12,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: August 4, 2026](https://www.seroundtable.com/recap-08-04-2026-41815.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-04 14:00 UTC |
 | [Platform properties roll out globally, plus a new social and video performance guide](https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide) | Google Search Central Blog | 195 | GSC | 2026-07-29 00:00 UTC |
+| [Daily Search Forum Recap: August 4, 2026](https://www.seroundtable.com/recap-08-04-2026-41815.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-04 14:00 UTC |
 | [August 2026 Google Webmaster Report](https://www.seroundtable.com/august-2026-google-webmaster-report-41804.html) | Search Engine Roundtable | 190 | General | 2026-08-04 11:51 UTC |
 | [Google Ads Tests Anchor Text Hyperlinks In Ad Descriptions](https://www.seroundtable.com/google-ads-text-hyperlinks-ad-descriptions-41814.html) | Search Engine Roundtable | 190 | Links | 2026-08-04 11:41 UTC |
 | [Google Ads Ad Preview &amp; Diagnosis Captcha Bug](https://www.seroundtable.com/google-ads-ad-preview-and-diagnosis-broken-41812.html) | Search Engine Roundtable | 190 | General | 2026-08-04 11:31 UTC |
