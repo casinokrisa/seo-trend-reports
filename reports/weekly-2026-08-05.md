@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Daily Search Forum Recap: August 5, 2026](https://www.seroundtable.com/recap-08-05-2026-41820.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-05 14:00 UTC |
 | [Google: Reddit Gets No Special Preference In Google Search Rankings](https://www.seroundtable.com/reddit-no-special-preference-google-41818.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-05 11:51 UTC |
 | [Google Assistant Shutting Down On Mobile Devices On September 4](https://www.seroundtable.com/google-assistant-shutting-down-41822.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-05 11:41 UTC |
 | [Google Ads Government Documents &amp; Services Policy To Be Updated](https://www.seroundtable.com/google-ads-government-documents-and-services-41819.html) | Search Engine Roundtable | 210 | General | 2026-08-05 11:31 UTC |
@@ -26,7 +27,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Daily Search Forum Recap: August 3, 2026](https://www.seroundtable.com/recap-08-03-2026-41810.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-03 14:00 UTC |
 | [Google Search Ranking Volatility Hits August 1st &amp; Heats Up Into August 3rd](https://www.seroundtable.com/google-search-ranking-volatility-august-1-41811.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-03 11:51 UTC |
 | [Google Business Profiles Protect From Fraudulent Calls and Texts Updated](https://www.seroundtable.com/google-business-profiles-fraud-calls-texts-41806.html) | Search Engine Roundtable | 170 | Local SEO | 2026-08-03 11:41 UTC |
-| [Bing Webmaster Tools Page &amp; Query Level Filtering Coming To Reports](https://www.seroundtable.com/bing-webmaster-tools-page-query-level-filtering-coming-41802.html) | Search Engine Roundtable | 170 | General | 2026-08-03 11:31 UTC |
 | [How topical authority spreads (and where it doesn’t) in ChatGPT [Study]](https://www.semrush.com/blog/chatgpt-topical-focus-study/) | Semrush Blog | 110 | AI Search | 2026-08-03 13:00 UTC |
 | [7 best AI visibility tracking tools for agencies by need](https://www.semrush.com/blog/ai-visibility-tracking-tools-for-agencies/) | Semrush Blog | 95 | AI Search | 2026-07-31 15:04 UTC |
 | [Digital PR for AI visibility: 5 tactics + how to measure](https://www.semrush.com/blog/digital-pr-for-ai-visibility/) | Semrush Blog | 95 | AI Search | 2026-07-30 10:42 UTC |
