@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: August 5, 2026](https://www.seroundtable.com/recap-08-05-2026-41820.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-05 14:00 UTC |
+| [Daily Search Forum Recap: August 5, 2026](https://www.seroundtable.com/recap-08-05-2026-41820.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-05 14:00 UTC |
 | [Google: Reddit Gets No Special Preference In Google Search Rankings](https://www.seroundtable.com/reddit-no-special-preference-google-41818.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-05 11:51 UTC |
 | [Google Assistant Shutting Down On Mobile Devices On September 4](https://www.seroundtable.com/google-assistant-shutting-down-41822.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-05 11:41 UTC |
 | [Google Ads Government Documents &amp; Services Policy To Be Updated](https://www.seroundtable.com/google-ads-government-documents-and-services-41819.html) | Search Engine Roundtable | 190 | General | 2026-08-05 11:31 UTC |
