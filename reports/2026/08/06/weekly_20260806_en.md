@@ -6,7 +6,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Just saw some organic traffic come in from countries I didn't know existed](https://www.reddit.com/r/localseo/comments/1vgwo0f/just_saw_some_organic_traffic_come_in_from/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-06 06:50 UTC |
+| [What to do when you can't make edits but need to fix issues before making your second appeal?](https://www.reddit.com/r/localseo/comments/1vgw5bt/what_to_do_when_you_cant_make_edits_but_need_to/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-06 06:20 UTC |
+| [Phone number is not showing up even after contacting help](https://www.reddit.com/r/localseo/comments/1vgrj1p/phone_number_is_not_showing_up_even_after/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-06 02:24 UTC |
+| [Client's map pack spot is being held by a GBP listing that reeks of spam, reported it three times, still outranking us four months later](https://www.reddit.com/r/localseo/comments/1vgkqcc/clients_map_pack_spot_is_being_held_by_a_gbp/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-05 21:32 UTC |
+| [How important is this ?](https://www.reddit.com/r/localseo/comments/1vgi3j9/how_important_is_this/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-05 19:55 UTC |
+| [Need Help to Resolve This Issue!](https://www.reddit.com/r/localseo/comments/1vgep20/need_help_to_resolve_this_issue/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-05 17:54 UTC |
+| [How much can i charge for a small clients?](https://www.reddit.com/r/localseo/comments/1vgdee5/how_much_can_i_charge_for_a_small_clients/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-05 17:08 UTC |
+| [One Year of site-wide SEO Effort](https://www.reddit.com/r/localseo/comments/1vgcvrn/one_year_of_sitewide_seo_effort/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-05 16:50 UTC |
+| [Results fromWhitespark Local SEO Optimization service? (Not their tools)](https://www.reddit.com/r/localseo/comments/1vg65mz/results_fromwhitespark_local_seo_optimization/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-05 12:36 UTC |
+| [How does keyword cannibalization actually work on e-commerce sites, and how bad is it for SEO?](https://www.reddit.com/r/localseo/comments/1vfz2f7/how_does_keyword_cannibalization_actually_work_on/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-05 06:14 UTC |
+| [Anyone else struggle to know if their listings are actually optimized?](https://www.reddit.com/r/localseo/comments/1vfyv6g/anyone_else_struggle_to_know_if_their_listings/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-05 06:03 UTC |
+| [Best Practice For Merging Multiple Acquisitions?](https://www.reddit.com/r/localseo/comments/1vfx7ph/best_practice_for_merging_multiple_acquisitions/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-05 04:35 UTC |
 
 ## Weekly notable items (Sites)
 
