@@ -24,7 +24,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Government Documents &amp; Services Policy To Be Updated](https://www.seroundtable.com/google-ads-government-documents-and-services-41819.html) | Search Engine Roundtable | 190 | General | 2026-08-05 11:31 UTC |
 | [Bing Top Source Search Feature](https://www.seroundtable.com/bing-top-source-41530.html) | Search Engine Roundtable | 190 | General | 2026-08-05 11:21 UTC |
 | [Google Local Services Platform Policies Now Local Services Ads Requirements](https://www.seroundtable.com/google-renames-local-services-platform-policies-to-requirements-41809.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-05 11:11 UTC |
-| [Daily Search Forum Recap: August 4, 2026](https://www.seroundtable.com/recap-08-04-2026-41815.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-04 14:00 UTC |
 
 ## Notes for manual writing
 
