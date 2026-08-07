@@ -26,7 +26,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Video Q&amp;A On August 17 Bidding Update](https://www.seroundtable.com/google-ads-qa-bidding-update-41825.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-06 11:21 UTC |
 | [New Google Product Listing Ads Deal Ends Experimental Annotation](https://www.seroundtable.com/google-pla-deal-ends-annotation-41826.html) | Search Engine Roundtable | 190 | General | 2026-08-06 11:11 UTC |
 | [Google Ads Won't Let Free Email Accounts Take Sensitive Actions](https://www.seroundtable.com/google-ads-free-email-account-security-41827.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-06 11:05 UTC |
-| [Daily Search Forum Recap: August 5, 2026](https://www.seroundtable.com/recap-08-05-2026-41820.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-05 14:00 UTC |
 
 ## Notes for manual writing
 
