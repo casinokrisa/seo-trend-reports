@@ -25,7 +25,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [On Sep 1 Google Ads To Migrate ACA &amp; Campaign-Level Broad Match To AI Max](https://www.seroundtable.com/google-ads-migrate-ai-max-sep1-41829.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-07 11:31 UTC |
 | [Google Crawlers Send HTTP Requests: HEAD, OPTIONS, PUT, PATCH, DELETE](https://www.seroundtable.com/google-crawlers-head-options-put-patch-delete-41833.html) | Search Engine Roundtable | 190 | Indexing | 2026-08-07 11:21 UTC |
 | [Google Ads Phone Conversions Report Gets View Call Report Link](https://www.seroundtable.com/google-ads-phone-call-view-call-report-link-41772.html) | Search Engine Roundtable | 190 | Links | 2026-08-07 11:11 UTC |
-| [Google Ads Live Tests Of Strong Match Labels](https://www.seroundtable.com/google-ads-strong-match-labels-live-test-41836.html) | Search Engine Roundtable | 190 | General | 2026-08-07 09:55 UTC |
+| [Google Ads Live Tests Of Strong Match Labels](https://www.seroundtable.com/google-ads-strong-match-labels-live-test-41836.html) | Search Engine Roundtable | 170 | General | 2026-08-07 09:55 UTC |
 
 ## Notes for manual writing
 
