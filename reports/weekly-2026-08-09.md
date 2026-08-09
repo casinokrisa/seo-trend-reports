@@ -24,9 +24,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Search Ranking Volatility Heats Up Into August 5th &amp; 6th](https://www.seroundtable.com/google-search-ranking-volatility-heated-41830.html) | Search Engine Roundtable | 170 | General | 2026-08-06 11:55 UTC |
 | [Google AI Leadership Changes: Jeff Dean Leaves, Demis Hassabis Change &amp; More](https://www.seroundtable.com/google-ai-leadership-shuffle-41824.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-06 11:51 UTC |
 | [Google Search Console Shows AI Mode Queries, Not In Generative AI Reports](https://www.seroundtable.com/google-search-console-ai-mode-queries-41821.html) | Search Engine Roundtable | 170 | GSC | 2026-08-06 11:41 UTC |
-| [Microsoft Ads New Exclude Audience Ads Placements Within PMax Campaigns](https://www.seroundtable.com/microsoft-advertising-exclude-audience-ads-41823.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-06 11:31 UTC |
-| [Google Ads Video Q&amp;A On August 17 Bidding Update](https://www.seroundtable.com/google-ads-qa-bidding-update-41825.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-06 11:21 UTC |
-| [New Google Product Listing Ads Deal Ends Experimental Annotation](https://www.seroundtable.com/google-pla-deal-ends-annotation-41826.html) | Search Engine Roundtable | 170 | General | 2026-08-06 11:11 UTC |
+| [Microsoft Ads New Exclude Audience Ads Placements Within PMax Campaigns](https://www.seroundtable.com/microsoft-advertising-exclude-audience-ads-41823.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-06 11:31 UTC |
+| [Google Ads Video Q&amp;A On August 17 Bidding Update](https://www.seroundtable.com/google-ads-qa-bidding-update-41825.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-06 11:21 UTC |
+| [New Google Product Listing Ads Deal Ends Experimental Annotation](https://www.seroundtable.com/google-pla-deal-ends-annotation-41826.html) | Search Engine Roundtable | 155 | General | 2026-08-06 11:11 UTC |
 | [How topical authority spreads (and where it doesn’t) in ChatGPT [Study]](https://www.semrush.com/blog/chatgpt-topical-focus-study/) | Semrush Blog | 95 | AI Search | 2026-08-03 13:00 UTC |
 
 ## Notes
