@@ -20,7 +20,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Crawlers Send HTTP Requests: HEAD, OPTIONS, PUT, PATCH, DELETE](https://www.seroundtable.com/google-crawlers-head-options-put-patch-delete-41833.html) | Search Engine Roundtable | 170 | Indexing | 2026-08-07 11:21 UTC |
 | [Google Ads Phone Conversions Report Gets View Call Report Link](https://www.seroundtable.com/google-ads-phone-call-view-call-report-link-41772.html) | Search Engine Roundtable | 170 | Links | 2026-08-07 11:11 UTC |
 | [Google Ads Live Tests Of Strong Match Labels](https://www.seroundtable.com/google-ads-strong-match-labels-live-test-41836.html) | Search Engine Roundtable | 170 | General | 2026-08-07 09:55 UTC |
-| [Daily Search Forum Recap: August 6, 2026](https://www.seroundtable.com/recap-08-06-2026-41831.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-06 14:00 UTC |
+| [Daily Search Forum Recap: August 6, 2026](https://www.seroundtable.com/recap-08-06-2026-41831.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-06 14:00 UTC |
 | [Google Search Ranking Volatility Heats Up Into August 5th &amp; 6th](https://www.seroundtable.com/google-search-ranking-volatility-heated-41830.html) | Search Engine Roundtable | 155 | General | 2026-08-06 11:55 UTC |
 | [Google AI Leadership Changes: Jeff Dean Leaves, Demis Hassabis Change &amp; More](https://www.seroundtable.com/google-ai-leadership-shuffle-41824.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-06 11:51 UTC |
 | [Google Search Console Shows AI Mode Queries, Not In Generative AI Reports](https://www.seroundtable.com/google-search-console-ai-mode-queries-41821.html) | Search Engine Roundtable | 155 | GSC | 2026-08-06 11:41 UTC |
