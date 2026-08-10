@@ -18,6 +18,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Microsoft Advertising Bulk Edit/Appeal Disapproved Assets](https://www.seroundtable.com/microsoft-ads-bulk-edit-disapproved-assets-41835.html) | Search Engine Roundtable | 210 | General | 2026-08-10 11:11 UTC |
+| [Google Home Page Create Images, Ask About Files &amp; Brainstorm Buttons](https://www.seroundtable.com/google-home-page-ai-features-41842.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-10 11:05 UTC |
 | [Traffic Is Down—Now What? Marketing Success In the Age of AI](https://www.semrush.com/blog/overcoming-ai-related-traffic-loss/) | Semrush Blog | 150 | AI Search | 2026-08-10 09:52 UTC |
 | [What is organic traffic? (And how to increase it)](https://www.semrush.com/blog/organic-traffic/) | Semrush Blog | 150 | AI Search | 2026-08-10 08:58 UTC |
 | [Local SEO keyword research: A step-by-step guide](https://www.semrush.com/blog/local-keyword-research/) | Semrush Blog | 150 | Local SEO | 2026-08-10 08:41 UTC |
