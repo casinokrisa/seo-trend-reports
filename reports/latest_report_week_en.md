@@ -19,7 +19,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [On Sep 1 Google Ads To Migrate ACA &amp; Campaign-Level Broad Match To AI Max](https://www.seroundtable.com/google-ads-migrate-ai-max-sep1-41829.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-07 11:31 UTC |
 | [Google Crawlers Send HTTP Requests: HEAD, OPTIONS, PUT, PATCH, DELETE](https://www.seroundtable.com/google-crawlers-head-options-put-patch-delete-41833.html) | Search Engine Roundtable | 170 | Indexing | 2026-08-07 11:21 UTC |
 | [Google Ads Phone Conversions Report Gets View Call Report Link](https://www.seroundtable.com/google-ads-phone-call-view-call-report-link-41772.html) | Search Engine Roundtable | 170 | Links | 2026-08-07 11:11 UTC |
-| [Google Ads Live Tests Of Strong Match Labels](https://www.seroundtable.com/google-ads-strong-match-labels-live-test-41836.html) | Search Engine Roundtable | 170 | General | 2026-08-07 09:55 UTC |
+| [Google Ads Live Tests Of Strong Match Labels](https://www.seroundtable.com/google-ads-strong-match-labels-live-test-41836.html) | Search Engine Roundtable | 155 | General | 2026-08-07 09:55 UTC |
 | [Daily Search Forum Recap: August 6, 2026](https://www.seroundtable.com/recap-08-06-2026-41831.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-06 14:00 UTC |
 | [Google Search Ranking Volatility Heats Up Into August 5th &amp; 6th](https://www.seroundtable.com/google-search-ranking-volatility-heated-41830.html) | Search Engine Roundtable | 155 | General | 2026-08-06 11:55 UTC |
 | [Google AI Leadership Changes: Jeff Dean Leaves, Demis Hassabis Change &amp; More](https://www.seroundtable.com/google-ai-leadership-shuffle-41824.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-06 11:51 UTC |
@@ -27,6 +27,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Microsoft Ads New Exclude Audience Ads Placements Within PMax Campaigns](https://www.seroundtable.com/microsoft-advertising-exclude-audience-ads-41823.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-06 11:31 UTC |
 | [Google Ads Video Q&amp;A On August 17 Bidding Update](https://www.seroundtable.com/google-ads-qa-bidding-update-41825.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-06 11:21 UTC |
 | [New Google Product Listing Ads Deal Ends Experimental Annotation](https://www.seroundtable.com/google-pla-deal-ends-annotation-41826.html) | Search Engine Roundtable | 155 | General | 2026-08-06 11:11 UTC |
+| [Traffic Is Down—Now What? Marketing Success In the Age of AI](https://www.semrush.com/blog/overcoming-ai-related-traffic-loss/) | Semrush Blog | 150 | AI Search | 2026-08-10 09:52 UTC |
+| [What is organic traffic? (And how to increase it)](https://www.semrush.com/blog/organic-traffic/) | Semrush Blog | 150 | AI Search | 2026-08-10 08:58 UTC |
+| [Local SEO keyword research: A step-by-step guide](https://www.semrush.com/blog/local-keyword-research/) | Semrush Blog | 150 | Local SEO | 2026-08-10 08:41 UTC |
 | [How topical authority spreads (and where it doesn’t) in ChatGPT [Study]](https://www.semrush.com/blog/chatgpt-topical-focus-study/) | Semrush Blog | 95 | AI Search | 2026-08-03 13:00 UTC |
 
 ## Notes
