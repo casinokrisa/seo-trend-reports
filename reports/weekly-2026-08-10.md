@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: August 10, 2026](https://www.seroundtable.com/recap-08-10-2026-41843.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-10 14:00 UTC |
+| [Daily Search Forum Recap: August 10, 2026](https://www.seroundtable.com/recap-08-10-2026-41843.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-10 14:00 UTC |
 | [Meta/Facebook Crawling Web &amp; May Be Building Search Engine](https://www.seroundtable.com/meta-facebook-search-engine-41840.html) | Search Engine Roundtable | 190 | Indexing | 2026-08-10 11:51 UTC |
 | [Google Local Disallows Repeated Bilingual Names &amp; Transliterations](https://www.seroundtable.com/google-business-profiles-disallows-repeated-bilingual-names-41839.html) | Search Engine Roundtable | 190 | Local SEO | 2026-08-10 11:41 UTC |
 | [Google: Hreflang URLs Not Indexed In The Proper Sense](https://www.seroundtable.com/google-hreflang-urls-not-indexed-41838.html) | Search Engine Roundtable | 190 | Indexing | 2026-08-10 11:31 UTC |
