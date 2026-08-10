@@ -13,12 +13,12 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: August 10, 2026](https://www.seroundtable.com/recap-08-10-2026-41843.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-10 14:00 UTC |
-| [Meta/Facebook Crawling Web &amp; May Be Building Search Engine](https://www.seroundtable.com/meta-facebook-search-engine-41840.html) | Search Engine Roundtable | 210 | Indexing | 2026-08-10 11:51 UTC |
-| [Google Local Disallows Repeated Bilingual Names &amp; Transliterations](https://www.seroundtable.com/google-business-profiles-disallows-repeated-bilingual-names-41839.html) | Search Engine Roundtable | 210 | Local SEO | 2026-08-10 11:41 UTC |
-| [Google: Hreflang URLs Not Indexed In The Proper Sense](https://www.seroundtable.com/google-hreflang-urls-not-indexed-41838.html) | Search Engine Roundtable | 210 | Indexing | 2026-08-10 11:31 UTC |
-| [Google AI Labels On Local Pack &amp; Google Discover Ads](https://www.seroundtable.com/google-ads-ai-labels-local-pack-discover-41841.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-10 11:21 UTC |
-| [Microsoft Advertising Bulk Edit/Appeal Disapproved Assets](https://www.seroundtable.com/microsoft-ads-bulk-edit-disapproved-assets-41835.html) | Search Engine Roundtable | 210 | General | 2026-08-10 11:11 UTC |
-| [Google Home Page Create Images, Ask About Files &amp; Brainstorm Buttons](https://www.seroundtable.com/google-home-page-ai-features-41842.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-10 11:05 UTC |
+| [Meta/Facebook Crawling Web &amp; May Be Building Search Engine](https://www.seroundtable.com/meta-facebook-search-engine-41840.html) | Search Engine Roundtable | 190 | Indexing | 2026-08-10 11:51 UTC |
+| [Google Local Disallows Repeated Bilingual Names &amp; Transliterations](https://www.seroundtable.com/google-business-profiles-disallows-repeated-bilingual-names-41839.html) | Search Engine Roundtable | 190 | Local SEO | 2026-08-10 11:41 UTC |
+| [Google: Hreflang URLs Not Indexed In The Proper Sense](https://www.seroundtable.com/google-hreflang-urls-not-indexed-41838.html) | Search Engine Roundtable | 190 | Indexing | 2026-08-10 11:31 UTC |
+| [Google AI Labels On Local Pack &amp; Google Discover Ads](https://www.seroundtable.com/google-ads-ai-labels-local-pack-discover-41841.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-10 11:21 UTC |
+| [Microsoft Advertising Bulk Edit/Appeal Disapproved Assets](https://www.seroundtable.com/microsoft-ads-bulk-edit-disapproved-assets-41835.html) | Search Engine Roundtable | 190 | General | 2026-08-10 11:11 UTC |
+| [Google Home Page Create Images, Ask About Files &amp; Brainstorm Buttons](https://www.seroundtable.com/google-home-page-ai-features-41842.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-10 11:05 UTC |
 | [Daily Search Forum Recap: August 7, 2026](https://www.seroundtable.com/recap-08-07-2026-41837.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-07 14:00 UTC |
 | [Search News Buzz Video Recap: Wild Google Ranking Volatility, Reddit Special Preference, Big Google Executive Shakeup &amp; More Search News](https://www.seroundtable.com/video-08-07-2026-41834.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-07 12:01 UTC |
 | [New Google Ads Report On New Customers Acquired](https://www.seroundtable.com/google-ads-report-on-new-customers-acquired-41832.html) | Search Engine Roundtable | 155 | General | 2026-08-07 11:51 UTC |
