@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Anyone else trying to cut back on SEO tool subscriptions?](https://www.reddit.com/r/localseo/comments/1vkcgld/anyone_else_trying_to_cut_back_on_seo_tool/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-10 05:55 UTC |
-| [Very competitive market](https://www.reddit.com/r/localseo/comments/1vkbbcb/very_competitive_market/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-10 04:51 UTC |
-| [LSA for Agencies](https://www.reddit.com/r/localseo/comments/1vka5f9/lsa_for_agencies/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-10 03:50 UTC |
-| [How to find expired domains with GMBs?](https://www.reddit.com/r/localseo/comments/1vk9hm2/how_to_find_expired_domains_with_gmbs/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-10 03:16 UTC |
-| [GBP without a website?](https://www.reddit.com/r/localseo/comments/1vk74c6/gbp_without_a_website/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-10 01:22 UTC |
-| [Lead Generation Help](https://www.reddit.com/r/localseo/comments/1vk5uz0/lead_generation_help/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-10 00:23 UTC |
-| [Direct Question to the Local Business Owner - Have you tried using Local SEO to grow your business in your area?](https://www.reddit.com/r/localseo/comments/1vk3euc/direct_question_to_the_local_business_owner_have/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-09 22:33 UTC |
-| [Struggling with replies on guest post pitches?](https://www.reddit.com/r/localseo/comments/1vjzfly/struggling_with_replies_on_guest_post_pitches/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-08-09 19:50 UTC |
-| [Looking for a white-label Local SEO partnership](https://www.reddit.com/r/localseo/comments/1vjybv0/looking_for_a_whitelabel_local_seo_partnership/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-09 19:06 UTC |
-| [I Automated the Job Nobody Wants: Chasing Unpaid Invoices](https://www.reddit.com/r/localseo/comments/1vjm5ig/i_automated_the_job_nobody_wants_chasing_unpaid/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-08-09 10:12 UTC |
-| [Should I shift my niche?](https://www.reddit.com/r/localseo/comments/1vjkgqj/should_i_shift_my_niche/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-09 08:30 UTC |
-| [What would cause a GBP to rank high in Ai search/ai mode results but not high in map packs?](https://www.reddit.com/r/localseo/comments/1vjhcch/what_would_cause_a_gbp_to_rank_high_in_ai/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-09 05:28 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
