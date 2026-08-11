@@ -28,8 +28,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Phone Conversions Report Gets View Call Report Link](https://www.seroundtable.com/google-ads-phone-call-view-call-report-link-41772.html) | Search Engine Roundtable | 155 | Links | 2026-08-07 11:11 UTC |
 | [Google Ads Live Tests Of Strong Match Labels](https://www.seroundtable.com/google-ads-strong-match-labels-live-test-41836.html) | Search Engine Roundtable | 155 | General | 2026-08-07 09:55 UTC |
 | [Traffic Is Down—Now What? Marketing Success In the Age of AI](https://www.semrush.com/blog/overcoming-ai-related-traffic-loss/) | Semrush Blog | 130 | AI Search | 2026-08-10 09:52 UTC |
-| [What is organic traffic? (And how to increase it)](https://www.semrush.com/blog/organic-traffic/) | Semrush Blog | 130 | AI Search | 2026-08-10 08:58 UTC |
-| [Local SEO keyword research: A step-by-step guide](https://www.semrush.com/blog/local-keyword-research/) | Semrush Blog | 130 | Local SEO | 2026-08-10 08:41 UTC |
+| [What is organic traffic? (And how to increase it)](https://www.semrush.com/blog/organic-traffic/) | Semrush Blog | 110 | AI Search | 2026-08-10 08:58 UTC |
+| [Local SEO keyword research: A step-by-step guide](https://www.semrush.com/blog/local-keyword-research/) | Semrush Blog | 110 | Local SEO | 2026-08-10 08:41 UTC |
 
 ## Notes
 
