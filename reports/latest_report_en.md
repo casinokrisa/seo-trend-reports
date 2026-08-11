@@ -19,11 +19,11 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: August 11, 2026](https://www.seroundtable.com/recap-08-11-2026-41852.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-11 14:00 UTC |
-| [Google Ads Sponsored Results Tests Advertiser Name &amp; Favicon Summary](https://www.seroundtable.com/google-ads-sponsored-results-ad-summary-header-41851.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-11 11:51 UTC |
-| [Google Travel Campaigns Migrating To Search Campaigns For Travel](https://www.seroundtable.com/google-travel-campaigns-migrating-41849.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-11 11:41 UTC |
-| [Google Still Aggressively Poaching Agency Ads Accounts](https://www.seroundtable.com/google-poaching-agency-ads-accounts-41845.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-11 11:31 UTC |
-| [Google Ads &amp; Google Analytics Gain New AI Features](https://www.seroundtable.com/google-ads-analytics-new-ai-features-41848.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-11 11:21 UTC |
-| [SEOs Taking Over Expired Google X Accounts](https://www.seroundtable.com/seo-expired-google-x-accounts-41844.html) | Search Engine Roundtable | 210 | Indexing | 2026-08-11 11:11 UTC |
+| [Google Ads Sponsored Results Tests Advertiser Name &amp; Favicon Summary](https://www.seroundtable.com/google-ads-sponsored-results-ad-summary-header-41851.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-11 11:51 UTC |
+| [Google Travel Campaigns Migrating To Search Campaigns For Travel](https://www.seroundtable.com/google-travel-campaigns-migrating-41849.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-11 11:41 UTC |
+| [Google Still Aggressively Poaching Agency Ads Accounts](https://www.seroundtable.com/google-poaching-agency-ads-accounts-41845.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-11 11:31 UTC |
+| [Google Ads &amp; Google Analytics Gain New AI Features](https://www.seroundtable.com/google-ads-analytics-new-ai-features-41848.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-11 11:21 UTC |
+| [SEOs Taking Over Expired Google X Accounts](https://www.seroundtable.com/seo-expired-google-x-accounts-41844.html) | Search Engine Roundtable | 190 | Indexing | 2026-08-11 11:11 UTC |
 | [Google Search Console Generative AI Performance Report Available For All](https://www.seroundtable.com/google-search-console-ai-report-live-41850.html) | Search Engine Roundtable | 190 | GSC | 2026-08-11 09:46 UTC |
 | [Daily Search Forum Recap: August 10, 2026](https://www.seroundtable.com/recap-08-10-2026-41843.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-10 14:00 UTC |
 | [Meta/Facebook Crawling Web &amp; May Be Building Search Engine](https://www.seroundtable.com/meta-facebook-search-engine-41840.html) | Search Engine Roundtable | 170 | Indexing | 2026-08-10 11:51 UTC |
