@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: August 11, 2026](https://www.seroundtable.com/recap-08-11-2026-41852.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-11 14:00 UTC |
+| [Daily Search Forum Recap: August 11, 2026](https://www.seroundtable.com/recap-08-11-2026-41852.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-11 14:00 UTC |
 | [Google Ads Sponsored Results Tests Advertiser Name &amp; Favicon Summary](https://www.seroundtable.com/google-ads-sponsored-results-ad-summary-header-41851.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-11 11:51 UTC |
 | [Google Travel Campaigns Migrating To Search Campaigns For Travel](https://www.seroundtable.com/google-travel-campaigns-migrating-41849.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-11 11:41 UTC |
 | [Google Still Aggressively Poaching Agency Ads Accounts](https://www.seroundtable.com/google-poaching-agency-ads-accounts-41845.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-11 11:31 UTC |

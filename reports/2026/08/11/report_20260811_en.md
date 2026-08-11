@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: August 11, 2026](https://www.seroundtable.com/recap-08-11-2026-41852.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-11 14:00 UTC |
+| [Daily Search Forum Recap: August 11, 2026](https://www.seroundtable.com/recap-08-11-2026-41852.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-11 14:00 UTC |
 | [Google Ads Sponsored Results Tests Advertiser Name &amp; Favicon Summary](https://www.seroundtable.com/google-ads-sponsored-results-ad-summary-header-41851.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-11 11:51 UTC |
 | [Google Travel Campaigns Migrating To Search Campaigns For Travel](https://www.seroundtable.com/google-travel-campaigns-migrating-41849.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-11 11:41 UTC |
 | [Google Still Aggressively Poaching Agency Ads Accounts](https://www.seroundtable.com/google-poaching-agency-ads-accounts-41845.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-11 11:31 UTC |
@@ -34,8 +34,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Home Page Create Images, Ask About Files &amp; Brainstorm Buttons](https://www.seroundtable.com/google-home-page-ai-features-41842.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-10 11:05 UTC |
 | [Topical Gravity: Why topics are the new unit of your search strategy](https://www.semrush.com/blog/topical-gravity/) | Semrush Blog | 130 | AI Search | 2026-08-11 13:00 UTC |
 | [Traffic Is Down—Now What? Marketing Success In the Age of AI](https://www.semrush.com/blog/overcoming-ai-related-traffic-loss/) | Semrush Blog | 110 | AI Search | 2026-08-10 09:52 UTC |
-| [What is organic traffic? (And how to increase it)](https://www.semrush.com/blog/organic-traffic/) | Semrush Blog | 110 | AI Search | 2026-08-10 08:58 UTC |
-| [Local SEO keyword research: A step-by-step guide](https://www.semrush.com/blog/local-keyword-research/) | Semrush Blog | 110 | Local SEO | 2026-08-10 08:41 UTC |
 
 ## Notes for manual writing
 
