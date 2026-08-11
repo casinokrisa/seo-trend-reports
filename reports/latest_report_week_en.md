@@ -12,6 +12,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google Ads Sponsored Results Tests Advertiser Name &amp; Favicon Summary](https://www.seroundtable.com/google-ads-sponsored-results-ad-summary-header-41851.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-11 11:51 UTC |
+| [Google Travel Campaigns Migrating To Search Campaigns For Travel](https://www.seroundtable.com/google-travel-campaigns-migrating-41849.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-11 11:41 UTC |
+| [Google Still Aggressively Poaching Agency Ads Accounts](https://www.seroundtable.com/google-poaching-agency-ads-accounts-41845.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-11 11:31 UTC |
 | [Google Ads &amp; Google Analytics Gain New AI Features](https://www.seroundtable.com/google-ads-analytics-new-ai-features-41848.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-11 11:21 UTC |
 | [SEOs Taking Over Expired Google X Accounts](https://www.seroundtable.com/seo-expired-google-x-accounts-41844.html) | Search Engine Roundtable | 210 | Indexing | 2026-08-11 11:11 UTC |
 | [Google Search Console Generative AI Performance Report Available For All](https://www.seroundtable.com/google-search-console-ai-report-live-41850.html) | Search Engine Roundtable | 210 | GSC | 2026-08-11 09:46 UTC |
@@ -24,9 +27,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Home Page Create Images, Ask About Files &amp; Brainstorm Buttons](https://www.seroundtable.com/google-home-page-ai-features-41842.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-10 11:05 UTC |
 | [Daily Search Forum Recap: August 7, 2026](https://www.seroundtable.com/recap-08-07-2026-41837.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-07 14:00 UTC |
 | [Search News Buzz Video Recap: Wild Google Ranking Volatility, Reddit Special Preference, Big Google Executive Shakeup &amp; More Search News](https://www.seroundtable.com/video-08-07-2026-41834.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-07 12:01 UTC |
-| [New Google Ads Report On New Customers Acquired](https://www.seroundtable.com/google-ads-report-on-new-customers-acquired-41832.html) | Search Engine Roundtable | 155 | General | 2026-08-07 11:51 UTC |
-| [ChatGPT Ads Updates: oCPC, Dynamic URLs, Muti-Product Carousel &amp; More](https://www.seroundtable.com/openai-chatgpt-ads-updates-41828.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-07 11:41 UTC |
-| [On Sep 1 Google Ads To Migrate ACA &amp; Campaign-Level Broad Match To AI Max](https://www.seroundtable.com/google-ads-migrate-ai-max-sep1-41829.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-07 11:31 UTC |
 | [Traffic Is Down—Now What? Marketing Success In the Age of AI](https://www.semrush.com/blog/overcoming-ai-related-traffic-loss/) | Semrush Blog | 110 | AI Search | 2026-08-10 09:52 UTC |
 | [What is organic traffic? (And how to increase it)](https://www.semrush.com/blog/organic-traffic/) | Semrush Blog | 110 | AI Search | 2026-08-10 08:58 UTC |
 | [Local SEO keyword research: A step-by-step guide](https://www.semrush.com/blog/local-keyword-research/) | Semrush Blog | 110 | Local SEO | 2026-08-10 08:41 UTC |
