@@ -27,6 +27,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Microsoft Advertising Bulk Edit/Appeal Disapproved Assets](https://www.seroundtable.com/microsoft-ads-bulk-edit-disapproved-assets-41835.html) | Search Engine Roundtable | 170 | General | 2026-08-10 11:11 UTC |
 | [Google Home Page Create Images, Ask About Files &amp; Brainstorm Buttons](https://www.seroundtable.com/google-home-page-ai-features-41842.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-10 11:05 UTC |
 | [Daily Search Forum Recap: August 7, 2026](https://www.seroundtable.com/recap-08-07-2026-41837.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-07 14:00 UTC |
+| [234 ChatGPT prompts (and how to write your own)](https://www.semrush.com/blog/chatgpt-prompts/) | Semrush Blog | 150 | AI Search | 2026-08-12 06:58 UTC |
 | [Topical Gravity: Why topics are the new unit of your search strategy](https://www.semrush.com/blog/topical-gravity/) | Semrush Blog | 130 | AI Search | 2026-08-11 13:00 UTC |
 | [Traffic Is Down—Now What? Marketing Success In the Age of AI](https://www.semrush.com/blog/overcoming-ai-related-traffic-loss/) | Semrush Blog | 110 | AI Search | 2026-08-10 09:52 UTC |
 | [What is organic traffic? (And how to increase it)](https://www.semrush.com/blog/organic-traffic/) | Semrush Blog | 110 | AI Search | 2026-08-10 08:58 UTC |
