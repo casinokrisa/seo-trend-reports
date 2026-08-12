@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [What SEO tools do you actually use every day?](https://www.reddit.com/r/localseo/comments/1vm4k54/what_seo_tools_do_you_actually_use_every_day/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-12 04:57 UTC |
-| [Keywords to include in homepage and suburb pages](https://www.reddit.com/r/localseo/comments/1vm0jow/keywords_to_include_in_homepage_and_suburb_pages/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-12 01:40 UTC |
-| [Local SEO Topical Maps](https://www.reddit.com/r/localseo/comments/1vlxv8e/local_seo_topical_maps/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-11 23:40 UTC |
-| [ai bot behavior index](https://www.reddit.com/r/localseo/comments/1vls235/ai_bot_behavior_index/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Indexing | 2026-08-11 19:52 UTC |
-| [Why is Google Search Console giving social media insights now?](https://www.reddit.com/r/localseo/comments/1vlpxyx/why_is_google_search_console_giving_social_media/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-08-11 18:36 UTC |
-| [Cuál es el mejor curso de SEO Local que han tomado?](https://www.reddit.com/r/localseo/comments/1vloeg4/cu%C3%A1l_es_el_mejor_curso_de_seo_local_que_han_tomado/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-11 17:42 UTC |
-| [Is this offer good?](https://www.reddit.com/r/localseo/comments/1vlnwi0/is_this_offer_good/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-11 17:24 UTC |
-| [Tips for Local SEO](https://www.reddit.com/r/localseo/comments/1vlhr9n/tips_for_local_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-11 13:39 UTC |
-| [What area should I target?](https://www.reddit.com/r/localseo/comments/1vlabwc/what_area_should_i_target/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-11 07:13 UTC |
-| [Get a competitor's listing (which is non-compliant) removed](https://www.reddit.com/r/localseo/comments/1vl9vwc/get_a_competitors_listing_which_is_noncompliant/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-11 06:47 UTC |
-| [GBP Video verification issue](https://www.reddit.com/r/localseo/comments/1vl7mpw/gbp_video_verification_issue/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-11 04:43 UTC |
-| [Is apollo a good database to get dental leads](https://www.reddit.com/r/localseo/comments/1vl6m0o/is_apollo_a_good_database_to_get_dental_leads/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-11 03:50 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
