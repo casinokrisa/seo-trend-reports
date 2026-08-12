@@ -30,7 +30,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Still Aggressively Poaching Agency Ads Accounts](https://www.seroundtable.com/google-poaching-agency-ads-accounts-41845.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-11 11:31 UTC |
 | [Google Ads &amp; Google Analytics Gain New AI Features](https://www.seroundtable.com/google-ads-analytics-new-ai-features-41848.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-11 11:21 UTC |
 | [SEOs Taking Over Expired Google X Accounts](https://www.seroundtable.com/seo-expired-google-x-accounts-41844.html) | Search Engine Roundtable | 170 | Indexing | 2026-08-11 11:11 UTC |
-| [Google Search Console Generative AI Performance Report Expands To More](https://www.seroundtable.com/google-search-console-ai-report-live-41850.html) | Search Engine Roundtable | 170 | GSC | 2026-08-11 09:46 UTC |
 | [234 ChatGPT prompts (and how to write your own)](https://www.semrush.com/blog/chatgpt-prompts/) | Semrush Blog | 130 | AI Search | 2026-08-12 06:58 UTC |
 | [Topical Gravity: Why topics are the new unit of your search strategy](https://www.semrush.com/blog/topical-gravity/) | Semrush Blog | 110 | AI Search | 2026-08-11 13:00 UTC |
 
