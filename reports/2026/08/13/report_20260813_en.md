@@ -33,7 +33,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Claude watermarks its output: what content teams should know](https://www.semrush.com/blog/claude-ai-watermarks/) | Semrush Blog | 150 | Content | 2026-08-13 14:56 UTC |
 | [37 Proven Ways to Use AI in Marketing](https://ahrefs.com/blog/how-to-use-ai-in-marketing/) | Ahrefs Blog | 140 | AI Search | 2026-08-13 08:32 UTC |
 | [AI keyword research: How to use free chatbot tools](https://www.semrush.com/blog/ai-keyword-research/) | Semrush Blog | 130 | AI Search | 2026-08-13 11:09 UTC |
-| [234 ChatGPT prompts (and how to write your own)](https://www.semrush.com/blog/chatgpt-prompts/) | Semrush Blog | 110 | AI Search | 2026-08-12 06:58 UTC |
 
 ## Notes for manual writing
 
