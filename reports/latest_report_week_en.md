@@ -27,7 +27,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Search Console Generative AI Performance Report Expands To More](https://www.seroundtable.com/google-search-console-ai-report-live-41850.html) | Search Engine Roundtable | 170 | GSC | 2026-08-11 09:46 UTC |
 | [Daily Search Forum Recap: August 10, 2026](https://www.seroundtable.com/recap-08-10-2026-41843.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-10 14:00 UTC |
 | [Meta/Facebook Crawling Web &amp; May Be Building Search Engine](https://www.seroundtable.com/meta-facebook-search-engine-41840.html) | Search Engine Roundtable | 170 | Indexing | 2026-08-10 11:51 UTC |
-| [234 ChatGPT prompts (and how to write your own)](https://www.semrush.com/blog/chatgpt-prompts/) | Semrush Blog | 130 | AI Search | 2026-08-12 06:58 UTC |
+| [37 Proven Ways to Use AI in Marketing](https://ahrefs.com/blog/how-to-use-ai-in-marketing/) | Ahrefs Blog | 160 | AI Search | 2026-08-13 08:32 UTC |
+| [234 ChatGPT prompts (and how to write your own)](https://www.semrush.com/blog/chatgpt-prompts/) | Semrush Blog | 110 | AI Search | 2026-08-12 06:58 UTC |
 | [Topical Gravity: Why topics are the new unit of your search strategy](https://www.semrush.com/blog/topical-gravity/) | Semrush Blog | 110 | AI Search | 2026-08-11 13:00 UTC |
 | [Traffic Is Down—Now What? Marketing Success In the Age of AI](https://www.semrush.com/blog/overcoming-ai-related-traffic-loss/) | Semrush Blog | 110 | AI Search | 2026-08-10 09:52 UTC |
 | [What is organic traffic? (And how to increase it)](https://www.semrush.com/blog/organic-traffic/) | Semrush Blog | 110 | AI Search | 2026-08-10 08:58 UTC |
