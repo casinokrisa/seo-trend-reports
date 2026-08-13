@@ -6,7 +6,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Looking for some advice from people working in SEO](https://www.reddit.com/r/localseo/comments/1vn189z/looking_for_some_advice_from_people_working_in_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-13 05:01 UTC |
+| [GMB turn into verification](https://www.reddit.com/r/localseo/comments/1vmzibf/gmb_turn_into_verification/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-13 03:31 UTC |
+| [I’m trying to do SEO properly for roofers, but I feel like I’ve hit a wall with local rankings/backlinks — what am I missing?](https://www.reddit.com/r/localseo/comments/1vmz7hb/im_trying_to_do_seo_properly_for_roofers_but_i/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-08-13 03:17 UTC |
+| [anyone else's clients blow their budget on a new website when their GBP is the actual problem](https://www.reddit.com/r/localseo/comments/1vmw48k/anyone_elses_clients_blow_their_budget_on_a_new/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-13 00:53 UTC |
+| [Google business profile — possible to remove if need be?](https://www.reddit.com/r/localseo/comments/1vmr6a4/google_business_profile_possible_to_remove_if/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-12 21:26 UTC |
+| [How to make local therapy business appear in search results](https://www.reddit.com/r/localseo/comments/1vmqpzk/how_to_make_local_therapy_business_appear_in/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-12 21:09 UTC |
+| [GBP video verification rejected 3x for &quot;no surrounding area&quot; — multi-tenant building with no street-level signage. Found the building's monument sign but haven't tried it yet. Thoughts?](https://www.reddit.com/r/localseo/comments/1vmq7wg/gbp_video_verification_rejected_3x_for_no/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-12 20:50 UTC |
+| [Have u seen one page ranking for two locations?](https://www.reddit.com/r/localseo/comments/1vmnpt5/have_u_seen_one_page_ranking_for_two_locations/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-12 19:15 UTC |
+| [Suite Number Removed From GBP](https://www.reddit.com/r/localseo/comments/1vmisc8/suite_number_removed_from_gbp/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-12 16:20 UTC |
+| [Do PO boxes mess up NAP?](https://www.reddit.com/r/localseo/comments/1vmg6xs/do_po_boxes_mess_up_nap/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-12 14:46 UTC |
+| [Why Local Citations Still Matter for Local SEO in 2026](https://www.reddit.com/r/localseo/comments/1vmatxn/why_local_citations_still_matter_for_local_seo_in/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-12 10:55 UTC |
+| [The Death of Social Media &amp; SEO](https://www.reddit.com/r/localseo/comments/1vmai45/the_death_of_social_media_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-12 10:38 UTC |
 
 ## Weekly notable items (Sites)
 
