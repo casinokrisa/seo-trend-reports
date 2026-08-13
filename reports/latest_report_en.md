@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: August 13, 2026](https://www.seroundtable.com/recap-08-13-2026-41868.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-13 14:00 UTC |
+| [Daily Search Forum Recap: August 13, 2026](https://www.seroundtable.com/recap-08-13-2026-41868.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-13 14:00 UTC |
 | [Google Search Ranking Volatility Spikes On August 12-13](https://www.seroundtable.com/google-search-ranking-volatility-spikes-41869.html) | Search Engine Roundtable | 190 | General | 2026-08-13 11:51 UTC |
 | [Google Lowers Subscriber Requirements For Search Profiles](https://www.seroundtable.com/google-search-profiles-lowers-subscriber-requirements-41866.html) | Search Engine Roundtable | 190 | General | 2026-08-13 11:41 UTC |
 | [OpenAI Makes The ChatGPT Sources Less Visible](https://www.seroundtable.com/openai-chatgpt-sources-less-visible-41864.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-13 11:31 UTC |
@@ -30,8 +30,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google AI Overview Local Results Pulling From Low-Quality Listicles](https://www.seroundtable.com/google-ai-overview-local-results-listicles-41854.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-12 11:31 UTC |
 | [Google Merchant Center Performance Reporting Update Coming August 24th](https://www.seroundtable.com/google-merchant-center-performance-report-update-41859.html) | Search Engine Roundtable | 170 | General | 2026-08-12 11:21 UTC |
 | [ChatGPT Ads With AI Descriptive Heading](https://www.seroundtable.com/chatgpt-ads-descriptive-heading-41853.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-12 11:11 UTC |
-| [Claude watermarks its output: what content teams should know](https://www.semrush.com/blog/claude-ai-watermarks/) | Semrush Blog | 150 | Content | 2026-08-13 14:56 UTC |
 | [37 Proven Ways to Use AI in Marketing](https://ahrefs.com/blog/how-to-use-ai-in-marketing/) | Ahrefs Blog | 140 | AI Search | 2026-08-13 08:32 UTC |
+| [Claude watermarks its output: what content teams should know](https://www.semrush.com/blog/claude-ai-watermarks/) | Semrush Blog | 130 | Content | 2026-08-13 14:56 UTC |
 | [AI keyword research: How to use free chatbot tools](https://www.semrush.com/blog/ai-keyword-research/) | Semrush Blog | 130 | AI Search | 2026-08-13 11:09 UTC |
 
 ## Notes for manual writing

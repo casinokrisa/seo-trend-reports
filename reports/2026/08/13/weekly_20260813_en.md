@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: August 13, 2026](https://www.seroundtable.com/recap-08-13-2026-41868.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-13 14:00 UTC |
+| [Daily Search Forum Recap: August 13, 2026](https://www.seroundtable.com/recap-08-13-2026-41868.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-13 14:00 UTC |
 | [Google Search Ranking Volatility Spikes On August 12-13](https://www.seroundtable.com/google-search-ranking-volatility-spikes-41869.html) | Search Engine Roundtable | 190 | General | 2026-08-13 11:51 UTC |
 | [Google Lowers Subscriber Requirements For Search Profiles](https://www.seroundtable.com/google-search-profiles-lowers-subscriber-requirements-41866.html) | Search Engine Roundtable | 190 | General | 2026-08-13 11:41 UTC |
 | [OpenAI Makes The ChatGPT Sources Less Visible](https://www.seroundtable.com/openai-chatgpt-sources-less-visible-41864.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-13 11:31 UTC |
@@ -27,8 +27,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Daily Search Forum Recap: August 11, 2026](https://www.seroundtable.com/recap-08-11-2026-41852.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-11 14:00 UTC |
 | [Google Ads Sponsored Results Tests Advertiser Name &amp; Favicon Summary](https://www.seroundtable.com/google-ads-sponsored-results-ad-summary-header-41851.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-11 11:51 UTC |
 | [Google Travel Campaigns Migrating To Search Campaigns For Travel](https://www.seroundtable.com/google-travel-campaigns-migrating-41849.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-11 11:41 UTC |
-| [Claude watermarks its output: what content teams should know](https://www.semrush.com/blog/claude-ai-watermarks/) | Semrush Blog | 150 | Content | 2026-08-13 14:56 UTC |
 | [37 Proven Ways to Use AI in Marketing](https://ahrefs.com/blog/how-to-use-ai-in-marketing/) | Ahrefs Blog | 140 | AI Search | 2026-08-13 08:32 UTC |
+| [Claude watermarks its output: what content teams should know](https://www.semrush.com/blog/claude-ai-watermarks/) | Semrush Blog | 130 | Content | 2026-08-13 14:56 UTC |
 | [AI keyword research: How to use free chatbot tools](https://www.semrush.com/blog/ai-keyword-research/) | Semrush Blog | 130 | AI Search | 2026-08-13 11:09 UTC |
 | [234 ChatGPT prompts (and how to write your own)](https://www.semrush.com/blog/chatgpt-prompts/) | Semrush Blog | 110 | AI Search | 2026-08-12 06:58 UTC |
 | [Topical Gravity: Why topics are the new unit of your search strategy](https://www.semrush.com/blog/topical-gravity/) | Semrush Blog | 110 | AI Search | 2026-08-11 13:00 UTC |
