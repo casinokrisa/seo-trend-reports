@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: August 14, 2026](https://www.seroundtable.com/recap-08-14-2026-41875.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-14 14:00 UTC |
+| [Daily Search Forum Recap: August 14, 2026](https://www.seroundtable.com/recap-08-14-2026-41875.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-14 14:00 UTC |
 | [Search News Buzz Video Recap: Google AI Home Page Test, AI Local Pack Slop, Google Poaching Advertisers &amp; Meta Building A Search Engine](https://www.seroundtable.com/video-08-14-2026-41871.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-14 12:01 UTC |
 | [Google Ads Language Targeting Update Coming In September](https://www.seroundtable.com/google-ads-language-targeting-update-41867.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-14 11:51 UTC |
 | [Google AI Overviews With AI-Generated Images In The Wild](https://www.seroundtable.com/ai-generated-images-google-ai-overviews-41872.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-14 11:41 UTC |
