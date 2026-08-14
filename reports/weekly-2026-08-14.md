@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [There's a meaningful difference between ranking for a keyword and being recommended by AI. Most people are conflating them.](https://www.reddit.com/r/localseo/comments/1vnyafx/theres_a_meaningful_difference_between_ranking/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-08-14 05:24 UTC |
-| [60 days old. Zero backlinks. Zero ads.](https://www.reddit.com/r/localseo/comments/1vnxk3y/60_days_old_zero_backlinks_zero_ads/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-08-14 04:45 UTC |
-| [Look at me Google &quot; It's OUR keyword now! &quot; This is the result of everything I've been suggesting on here!](https://www.reddit.com/r/localseo/comments/1vnnii1/look_at_me_google_its_our_keyword_now_this_is_the/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-13 21:12 UTC |
-| [Anthropic started watermarking Claude's text output - Thoughts on the future of AI-written copy affecting SEO?](https://www.reddit.com/r/localseo/comments/1vnmrxa/anthropic_started_watermarking_claudes_text/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-08-13 20:44 UTC |
-| [I need suggestion about Niche selection in Local SEO .](https://www.reddit.com/r/localseo/comments/1vnj5km/i_need_suggestion_about_niche_selection_in_local/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-13 18:32 UTC |
-| [Is GBPPromote decent to use? Looking to switch but…](https://www.reddit.com/r/localseo/comments/1vnhw01/is_gbppromote_decent_to_use_looking_to_switch_but/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-13 17:48 UTC |
-| [Starting from scratch](https://www.reddit.com/r/localseo/comments/1vnfusb/starting_from_scratch/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-13 16:36 UTC |
-| [Namecheap is down and lying to customers. Beware LocalSEO.](https://www.reddit.com/r/localseo/comments/1vnfkhn/namecheap_is_down_and_lying_to_customers_beware/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-13 16:26 UTC |
-| [Namecheap is currently completely down](https://www.reddit.com/r/localseo/comments/1vne7p7/namecheap_is_currently_completely_down/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-13 15:38 UTC |
-| [Is this normal??](https://www.reddit.com/r/localseo/comments/1vne3oi/is_this_normal/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-13 15:34 UTC |
-| [Looking to hire a local SEO expert — what should they actually be doing?](https://www.reddit.com/r/localseo/comments/1vnd6d0/looking_to_hire_a_local_seo_expert_what_should/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-13 15:00 UTC |
-| [The Future of SEO, AI &amp; Web Design with Martin Vassilev](https://www.reddit.com/r/localseo/comments/1vncg4o/the_future_of_seo_ai_web_design_with_martin/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-08-13 14:34 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
