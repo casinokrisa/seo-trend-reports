@@ -28,8 +28,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Daily Search Forum Recap: August 12, 2026](https://www.seroundtable.com/recap-08-12-2026-41861.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-12 14:00 UTC |
 | [Google Ads New Local Customer Optimization Help Doc](https://www.seroundtable.com/google-ads-new-local-customer-optimization-41862.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-12 11:51 UTC |
 | [Claude Now Watermarks Everything It Writes. Here’s What It Means for Marketers](https://ahrefs.com/blog/claude-now-watermarks-everything-it-writes/) | Ahrefs Blog | 120 | AI Search | 2026-08-14 13:39 UTC |
-| [37 Proven Ways to Use AI in Marketing](https://ahrefs.com/blog/how-to-use-ai-in-marketing/) | Ahrefs Blog | 120 | AI Search | 2026-08-13 08:32 UTC |
 | [AI keyword research: How to use free chatbot tools](https://www.semrush.com/blog/ai-keyword-research/) | Semrush Blog | 110 | AI Search | 2026-08-13 11:09 UTC |
+| [37 Proven Ways to Use AI in Marketing](https://ahrefs.com/blog/how-to-use-ai-in-marketing/) | Ahrefs Blog | 105 | AI Search | 2026-08-13 08:32 UTC |
 | [234 ChatGPT prompts (and how to write your own)](https://www.semrush.com/blog/chatgpt-prompts/) | Semrush Blog | 95 | AI Search | 2026-08-12 06:58 UTC |
 | [Topical Gravity: Why topics are the new unit of your search strategy](https://www.semrush.com/blog/topical-gravity/) | Semrush Blog | 95 | AI Search | 2026-08-11 13:00 UTC |
 | [Traffic Is Down—Now What? Marketing Success In the Age of AI](https://www.semrush.com/blog/overcoming-ai-related-traffic-loss/) | Semrush Blog | 95 | AI Search | 2026-08-10 09:52 UTC |
