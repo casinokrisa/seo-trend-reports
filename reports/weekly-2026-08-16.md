@@ -20,9 +20,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Googlebot Say They Are Coming From California But Might Not](https://www.seroundtable.com/google-crawlers-location-googlebot-41874.html) | Search Engine Roundtable | 170 | Indexing | 2026-08-14 11:21 UTC |
 | [Google Local Report Owner Response](https://www.seroundtable.com/google-report-owner-response-41873.html) | Search Engine Roundtable | 170 | Local SEO | 2026-08-14 11:11 UTC |
 | [Daily Search Forum Recap: August 13, 2026](https://www.seroundtable.com/recap-08-13-2026-41868.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-13 14:00 UTC |
-| [Google Search Ranking Volatility Spikes On August 12-13](https://www.seroundtable.com/google-search-ranking-volatility-spikes-41869.html) | Search Engine Roundtable | 170 | General | 2026-08-13 11:51 UTC |
-| [Google Lowers Subscriber Requirements For Search Profiles](https://www.seroundtable.com/google-search-profiles-lowers-subscriber-requirements-41866.html) | Search Engine Roundtable | 170 | General | 2026-08-13 11:41 UTC |
-| [OpenAI Makes The ChatGPT Sources Less Visible](https://www.seroundtable.com/openai-chatgpt-sources-less-visible-41864.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-13 11:31 UTC |
+| [Google Search Ranking Volatility Spikes On August 12-13](https://www.seroundtable.com/google-search-ranking-volatility-spikes-41869.html) | Search Engine Roundtable | 155 | General | 2026-08-13 11:51 UTC |
+| [Google Lowers Subscriber Requirements For Search Profiles](https://www.seroundtable.com/google-search-profiles-lowers-subscriber-requirements-41866.html) | Search Engine Roundtable | 155 | General | 2026-08-13 11:41 UTC |
+| [OpenAI Makes The ChatGPT Sources Less Visible](https://www.seroundtable.com/openai-chatgpt-sources-less-visible-41864.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-13 11:31 UTC |
 | [Misconfiguring Cloudflare Can Hurt Your SEO Badly](https://www.seroundtable.com/misconfigure-cloudflare-seo-41865.html) | Search Engine Roundtable | 155 | Indexing | 2026-08-13 11:21 UTC |
 | [Spammy Google Selected Canonical In Search Console](https://www.seroundtable.com/spammy-google-selected-canonical-41863.html) | Search Engine Roundtable | 155 | GSC | 2026-08-13 11:11 UTC |
 | [Daily Search Forum Recap: August 12, 2026](https://www.seroundtable.com/recap-08-12-2026-41861.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-12 14:00 UTC |
