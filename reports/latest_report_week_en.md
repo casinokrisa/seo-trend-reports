@@ -27,6 +27,10 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Spammy Google Selected Canonical In Search Console](https://www.seroundtable.com/spammy-google-selected-canonical-41863.html) | Search Engine Roundtable | 155 | GSC | 2026-08-13 11:11 UTC |
 | [Daily Search Forum Recap: August 12, 2026](https://www.seroundtable.com/recap-08-12-2026-41861.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-12 14:00 UTC |
 | [Google Ads New Local Customer Optimization Help Doc](https://www.seroundtable.com/google-ads-new-local-customer-optimization-41862.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-12 11:51 UTC |
+| [SEO strategy in 2026: how to build one (+ free workbook)](https://www.semrush.com/blog/seo-strategy/) | Semrush Blog | 150 | AI Search | 2026-08-17 10:08 UTC |
+| [SEO for a new website: A sequencing guide for your first 90 days](https://www.semrush.com/blog/seo-for-new-website/) | Semrush Blog | 150 | AI Search | 2026-08-17 09:29 UTC |
+| [What is query fan-out? How to find &amp; optimize for subqueries](https://www.semrush.com/blog/query-fan-out/) | Semrush Blog | 150 | AI Search | 2026-08-17 09:16 UTC |
+| [How to do prompt research for AI SEO](https://www.semrush.com/blog/prompt-research-for-ai-seo/) | Semrush Blog | 150 | AI Search | 2026-08-17 09:03 UTC |
 | [Claude Now Watermarks Everything It Writes. Here’s What It Means for Marketers](https://ahrefs.com/blog/claude-now-watermarks-everything-it-writes/) | Ahrefs Blog | 120 | AI Search | 2026-08-14 13:39 UTC |
 | [37 Proven Ways to Use AI in Marketing](https://ahrefs.com/blog/how-to-use-ai-in-marketing/) | Ahrefs Blog | 105 | AI Search | 2026-08-13 08:32 UTC |
 | [AI keyword research: How to use free chatbot tools](https://www.semrush.com/blog/ai-keyword-research/) | Semrush Blog | 95 | AI Search | 2026-08-13 11:09 UTC |
