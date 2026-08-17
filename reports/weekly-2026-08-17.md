@@ -32,8 +32,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [AI keyword research: How to use free chatbot tools](https://www.semrush.com/blog/ai-keyword-research/) | Semrush Blog | 95 | AI Search | 2026-08-13 11:09 UTC |
 | [234 ChatGPT prompts (and how to write your own)](https://www.semrush.com/blog/chatgpt-prompts/) | Semrush Blog | 95 | AI Search | 2026-08-12 06:58 UTC |
 | [Topical Gravity: Why topics are the new unit of your search strategy](https://www.semrush.com/blog/topical-gravity/) | Semrush Blog | 95 | AI Search | 2026-08-11 13:00 UTC |
-| [Traffic Is Down—Now What? Marketing Success In the Age of AI](https://www.semrush.com/blog/overcoming-ai-related-traffic-loss/) | Semrush Blog | 95 | AI Search | 2026-08-10 09:52 UTC |
-| [What is organic traffic? (And how to increase it)](https://www.semrush.com/blog/organic-traffic/) | Semrush Blog | 95 | AI Search | 2026-08-10 08:58 UTC |
 
 ## Notes
 
