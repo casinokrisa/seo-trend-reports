@@ -18,6 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google Hiring A Product Manager For Content Automation](https://www.seroundtable.com/google-hiring-content-automation-pm-41880.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-17 11:05 UTC |
 | [SEO strategy in 2026: how to build one (+ free workbook)](https://www.semrush.com/blog/seo-strategy/) | Semrush Blog | 150 | AI Search | 2026-08-17 10:08 UTC |
 | [SEO for a new website: A sequencing guide for your first 90 days](https://www.semrush.com/blog/seo-for-new-website/) | Semrush Blog | 150 | AI Search | 2026-08-17 09:29 UTC |
 | [What is query fan-out? How to find &amp; optimize for subqueries](https://www.semrush.com/blog/query-fan-out/) | Semrush Blog | 150 | AI Search | 2026-08-17 09:16 UTC |

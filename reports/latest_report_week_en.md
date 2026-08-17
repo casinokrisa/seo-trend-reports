@@ -12,13 +12,14 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google Hiring A Product Manager For Content Automation](https://www.seroundtable.com/google-hiring-content-automation-pm-41880.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-17 11:05 UTC |
 | [Daily Search Forum Recap: August 14, 2026](https://www.seroundtable.com/recap-08-14-2026-41875.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-14 14:00 UTC |
 | [Search News Buzz Video Recap: Google AI Home Page Test, AI Local Pack Slop, Google Poaching Advertisers &amp; Meta Building A Search Engine](https://www.seroundtable.com/video-08-14-2026-41871.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-14 12:01 UTC |
 | [Google Ads Language Targeting Update Coming In September](https://www.seroundtable.com/google-ads-language-targeting-update-41867.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-14 11:51 UTC |
 | [Google AI Overviews With AI-Generated Images In The Wild](https://www.seroundtable.com/ai-generated-images-google-ai-overviews-41872.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-14 11:41 UTC |
-| [Google Merchant Center For Agencies Can Link Up To 1,000 Accounts](https://www.seroundtable.com/google-merchant-center-for-agencies-1000-accounts-41870.html) | Search Engine Roundtable | 170 | Links | 2026-08-14 11:31 UTC |
-| [Googlebot Say They Are Coming From California But Might Not](https://www.seroundtable.com/google-crawlers-location-googlebot-41874.html) | Search Engine Roundtable | 170 | Indexing | 2026-08-14 11:21 UTC |
-| [Google Local Report Owner Response](https://www.seroundtable.com/google-report-owner-response-41873.html) | Search Engine Roundtable | 170 | Local SEO | 2026-08-14 11:11 UTC |
+| [Google Merchant Center For Agencies Can Link Up To 1,000 Accounts](https://www.seroundtable.com/google-merchant-center-for-agencies-1000-accounts-41870.html) | Search Engine Roundtable | 155 | Links | 2026-08-14 11:31 UTC |
+| [Googlebot Say They Are Coming From California But Might Not](https://www.seroundtable.com/google-crawlers-location-googlebot-41874.html) | Search Engine Roundtable | 155 | Indexing | 2026-08-14 11:21 UTC |
+| [Google Local Report Owner Response](https://www.seroundtable.com/google-report-owner-response-41873.html) | Search Engine Roundtable | 155 | Local SEO | 2026-08-14 11:11 UTC |
 | [Daily Search Forum Recap: August 13, 2026](https://www.seroundtable.com/recap-08-13-2026-41868.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-13 14:00 UTC |
 | [Google Search Ranking Volatility Spikes On August 12-13](https://www.seroundtable.com/google-search-ranking-volatility-spikes-41869.html) | Search Engine Roundtable | 155 | General | 2026-08-13 11:51 UTC |
 | [Google Lowers Subscriber Requirements For Search Profiles](https://www.seroundtable.com/google-search-profiles-lowers-subscriber-requirements-41866.html) | Search Engine Roundtable | 155 | General | 2026-08-13 11:41 UTC |
@@ -26,7 +27,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Misconfiguring Cloudflare Can Hurt Your SEO Badly](https://www.seroundtable.com/misconfigure-cloudflare-seo-41865.html) | Search Engine Roundtable | 155 | Indexing | 2026-08-13 11:21 UTC |
 | [Spammy Google Selected Canonical In Search Console](https://www.seroundtable.com/spammy-google-selected-canonical-41863.html) | Search Engine Roundtable | 155 | GSC | 2026-08-13 11:11 UTC |
 | [Daily Search Forum Recap: August 12, 2026](https://www.seroundtable.com/recap-08-12-2026-41861.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-12 14:00 UTC |
-| [Google Ads New Local Customer Optimization Help Doc](https://www.seroundtable.com/google-ads-new-local-customer-optimization-41862.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-12 11:51 UTC |
 | [SEO strategy in 2026: how to build one (+ free workbook)](https://www.semrush.com/blog/seo-strategy/) | Semrush Blog | 150 | AI Search | 2026-08-17 10:08 UTC |
 | [SEO for a new website: A sequencing guide for your first 90 days](https://www.semrush.com/blog/seo-for-new-website/) | Semrush Blog | 150 | AI Search | 2026-08-17 09:29 UTC |
 | [What is query fan-out? How to find &amp; optimize for subqueries](https://www.semrush.com/blog/query-fan-out/) | Semrush Blog | 150 | AI Search | 2026-08-17 09:16 UTC |
