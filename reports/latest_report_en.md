@@ -19,7 +19,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Google Performance Reports Drop In Impressions/Clicks ~August 12](https://www.seroundtable.com/google-search-console-performance-reports-drop-41884.html) | Search Engine Roundtable | 210 | GSC | 2026-08-17 17:37 UTC |
-| [Google AI Overviews With AI-Generated Images In The Wild (Test Paused)](https://www.seroundtable.com/ai-generated-images-google-ai-overviews-41872.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-17 17:00 UTC |
+| [Google AI Overviews With AI-Generated Images In The Wild (Test Paused)](https://www.seroundtable.com/ai-generated-images-google-ai-overviews-41872.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-17 17:00 UTC |
 | [Daily Search Forum Recap: August 17, 2026](https://www.seroundtable.com/recap-08-17-2026-41881.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-17 14:00 UTC |
 | [Google Search Using Gemini 3.7 Flash In AI Mode](https://www.seroundtable.com/google-search-gemini-3-7-flash-41879.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-17 11:51 UTC |
 | [Google Ads Tests New Review Layout With Supersized Star](https://www.seroundtable.com/google-ads-review-layout-41877.html) | Search Engine Roundtable | 190 | General | 2026-08-17 11:41 UTC |
