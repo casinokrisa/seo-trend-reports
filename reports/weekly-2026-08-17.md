@@ -18,7 +18,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Bing Testing Large Images In Sponsored Results](https://www.seroundtable.com/large-images-bing-ads-41878.html) | Search Engine Roundtable | 210 | General | 2026-08-17 11:21 UTC |
 | [Google Ads Tests Blue Hyperlinks In Ad Descriptions](https://www.seroundtable.com/google-ads-blue-hyperlinks-41847.html) | Search Engine Roundtable | 210 | Links | 2026-08-17 11:11 UTC |
 | [Google Hiring A Product Manager For Content Automation](https://www.seroundtable.com/google-hiring-content-automation-pm-41880.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-17 11:05 UTC |
-| [Daily Search Forum Recap: August 14, 2026](https://www.seroundtable.com/recap-08-14-2026-41875.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-14 14:00 UTC |
+| [Daily Search Forum Recap: August 14, 2026](https://www.seroundtable.com/recap-08-14-2026-41875.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-14 14:00 UTC |
 | [Search News Buzz Video Recap: Google AI Home Page Test, AI Local Pack Slop, Google Poaching Advertisers &amp; Meta Building A Search Engine](https://www.seroundtable.com/video-08-14-2026-41871.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-14 12:01 UTC |
 | [Google Ads Language Targeting Update Coming In September](https://www.seroundtable.com/google-ads-language-targeting-update-41867.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-14 11:51 UTC |
 | [Google AI Overviews With AI-Generated Images In The Wild](https://www.seroundtable.com/ai-generated-images-google-ai-overviews-41872.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-14 11:41 UTC |
