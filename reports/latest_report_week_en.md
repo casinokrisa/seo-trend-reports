@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [What is the best process for keyword strategy for Local SEO?](https://www.reddit.com/r/localseo/comments/1vr2fzr/what_is_the_best_process_for_keyword_strategy_for/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-17 19:36 UTC |
-| [Any seo advice to fix my living?](https://www.reddit.com/r/localseo/comments/1vqylcm/any_seo_advice_to_fix_my_living/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-17 17:22 UTC |
-| [Actual A2P Consent Compliance as Apposed to Registration](https://www.reddit.com/r/localseo/comments/1vqx3zk/actual_a2p_consent_compliance_as_apposed_to/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-17 16:31 UTC |
-| [Ugh. Google is adding Local Services Ads to AI Mode](https://www.reddit.com/r/localseo/comments/1vquzoa/ugh_google_is_adding_local_services_ads_to_ai_mode/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-08-17 15:08 UTC |
-| [ANY ADVICE? :(](https://www.reddit.com/r/localseo/comments/1vqukqy/any_advice/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-17 14:53 UTC |
-| [Missing reviews in GBP](https://www.reddit.com/r/localseo/comments/1vqt33s/missing_reviews_in_gbp/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-17 13:57 UTC |
-| [Looking for a Remote Local SEO Job - 2+ Years in LOCAL SEO and Copywriting](https://www.reddit.com/r/localseo/comments/1vqqqg9/looking_for_a_remote_local_seo_job_2_years_in/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-17 12:18 UTC |
-| [Has anyone successfully connected G2 with their website to display reviews and collect new ones?](https://www.reddit.com/r/localseo/comments/1vqqioa/has_anyone_successfully_connected_g2_with_their/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-17 12:08 UTC |
-| [Experts, What tool has helped you most to improve your businesses local SEO?](https://www.reddit.com/r/localseo/comments/1vqp91w/experts_what_tool_has_helped_you_most_to_improve/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-17 11:07 UTC |
-| [Simple things I do in Local SEO that can help your GBP profile](https://www.reddit.com/r/localseo/comments/1vqp7n2/simple_things_i_do_in_local_seo_that_can_help/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-17 11:05 UTC |
-| [Lost my job, trying to keep my family afloat - looking for local marketing work](https://www.reddit.com/r/localseo/comments/1vqocsg/lost_my_job_trying_to_keep_my_family_afloat/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-17 10:19 UTC |
-| [The data behind why expanding your GBP &quot;Service Area&quot; radius has zero impact on Map Pack rankings](https://www.reddit.com/r/localseo/comments/1vqnj7r/the_data_behind_why_expanding_your_gbp_service/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-17 09:33 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
