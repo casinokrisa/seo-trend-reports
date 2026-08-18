@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Daily Search Forum Recap: August 18, 2026](https://www.seroundtable.com/recap-08-18-2026-41885.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-18 14:00 UTC |
 | [You Can Now Edit Your Handle On Google Search Profiles](https://www.seroundtable.com/google-search-profiles-edit-your-handle-41886.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-18 11:51 UTC |
 | [Google Related Searches For With Underline Hyperlink](https://www.seroundtable.com/google-related-search-for-underline-41846.html) | Search Engine Roundtable | 210 | Links | 2026-08-18 11:41 UTC |
 | [ChatGPT Ads Switching Advertisers On Load](https://www.seroundtable.com/chatgpt-ads-switching-advertisers-41883.html) | Search Engine Roundtable | 210 | Links | 2026-08-18 11:31 UTC |
@@ -19,14 +20,13 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Search Will Eventually Support HTTP QUERY Method](https://www.seroundtable.com/google-support-http-query-method-41882.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-18 11:11 UTC |
 | [Google Performance Reports Drop In Impressions/Clicks ~August 12](https://www.seroundtable.com/google-search-console-performance-reports-drop-41884.html) | Search Engine Roundtable | 190 | GSC | 2026-08-17 17:37 UTC |
 | [Google AI Overviews With AI-Generated Images In The Wild (Test Paused)](https://www.seroundtable.com/ai-generated-images-google-ai-overviews-41872.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-17 17:00 UTC |
-| [Daily Search Forum Recap: August 17, 2026](https://www.seroundtable.com/recap-08-17-2026-41881.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-17 14:00 UTC |
+| [Daily Search Forum Recap: August 17, 2026](https://www.seroundtable.com/recap-08-17-2026-41881.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-17 14:00 UTC |
 | [Google Search Using Gemini 3.7 Flash In AI Mode](https://www.seroundtable.com/google-search-gemini-3-7-flash-41879.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-17 11:51 UTC |
 | [Google Ads Tests New Review Layout With Supersized Star](https://www.seroundtable.com/google-ads-review-layout-41877.html) | Search Engine Roundtable | 170 | General | 2026-08-17 11:41 UTC |
 | [Apple Adds Thousands Of New IP Addresses For Applebot To Crawl From](https://www.seroundtable.com/applebot-ip-addresses-41876.html) | Search Engine Roundtable | 170 | Indexing | 2026-08-17 11:31 UTC |
 | [Bing Testing Large Images In Sponsored Results](https://www.seroundtable.com/large-images-bing-ads-41878.html) | Search Engine Roundtable | 170 | General | 2026-08-17 11:21 UTC |
 | [Google Ads Tests Blue Hyperlinks In Ad Descriptions](https://www.seroundtable.com/google-ads-blue-hyperlinks-41847.html) | Search Engine Roundtable | 170 | Links | 2026-08-17 11:11 UTC |
 | [Google Hiring A Product Manager For Content Automation](https://www.seroundtable.com/google-hiring-content-automation-pm-41880.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-17 11:05 UTC |
-| [Daily Search Forum Recap: August 14, 2026](https://www.seroundtable.com/recap-08-14-2026-41875.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-14 14:00 UTC |
 | [SEO content: A complete guide for search and AI](https://www.semrush.com/blog/seo-content/) | Semrush Blog | 110 | AI Search | 2026-08-17 10:53 UTC |
 | [SEO strategy in 2026: how to build one (+ free workbook)](https://www.semrush.com/blog/seo-strategy/) | Semrush Blog | 110 | AI Search | 2026-08-17 10:08 UTC |
 | [SEO for a new website: A sequencing guide for your first 90 days](https://www.semrush.com/blog/seo-for-new-website/) | Semrush Blog | 110 | AI Search | 2026-08-17 09:29 UTC |
