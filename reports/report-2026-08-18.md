@@ -29,9 +29,9 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Hiring A Product Manager For Content Automation](https://www.seroundtable.com/google-hiring-content-automation-pm-41880.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-17 11:05 UTC |
 | [SEO content: A complete guide for search and AI](https://www.semrush.com/blog/seo-content/) | Semrush Blog | 130 | AI Search | 2026-08-17 10:53 UTC |
 | [SEO strategy in 2026: how to build one (+ free workbook)](https://www.semrush.com/blog/seo-strategy/) | Semrush Blog | 130 | AI Search | 2026-08-17 10:08 UTC |
-| [SEO for a new website: A sequencing guide for your first 90 days](https://www.semrush.com/blog/seo-for-new-website/) | Semrush Blog | 130 | AI Search | 2026-08-17 09:29 UTC |
-| [What is query fan-out? How to find &amp; optimize for subqueries](https://www.semrush.com/blog/query-fan-out/) | Semrush Blog | 130 | AI Search | 2026-08-17 09:16 UTC |
-| [How to do prompt research for AI SEO](https://www.semrush.com/blog/prompt-research-for-ai-seo/) | Semrush Blog | 130 | AI Search | 2026-08-17 09:03 UTC |
+| [SEO for a new website: A sequencing guide for your first 90 days](https://www.semrush.com/blog/seo-for-new-website/) | Semrush Blog | 110 | AI Search | 2026-08-17 09:29 UTC |
+| [What is query fan-out? How to find &amp; optimize for subqueries](https://www.semrush.com/blog/query-fan-out/) | Semrush Blog | 110 | AI Search | 2026-08-17 09:16 UTC |
+| [How to do prompt research for AI SEO](https://www.semrush.com/blog/prompt-research-for-ai-seo/) | Semrush Blog | 110 | AI Search | 2026-08-17 09:03 UTC |
 
 ## Notes for manual writing
 
