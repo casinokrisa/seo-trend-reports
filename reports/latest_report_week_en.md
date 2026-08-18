@@ -28,7 +28,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Googlebot Say They Are Coming From California But Might Not](https://www.seroundtable.com/google-crawlers-location-googlebot-41874.html) | Search Engine Roundtable | 155 | Indexing | 2026-08-14 11:21 UTC |
 | [Google Local Report Owner Response](https://www.seroundtable.com/google-report-owner-response-41873.html) | Search Engine Roundtable | 155 | Local SEO | 2026-08-14 11:11 UTC |
 | [SEO content: A complete guide for search and AI](https://www.semrush.com/blog/seo-content/) | Semrush Blog | 130 | AI Search | 2026-08-17 10:53 UTC |
-| [SEO strategy in 2026: how to build one (+ free workbook)](https://www.semrush.com/blog/seo-strategy/) | Semrush Blog | 130 | AI Search | 2026-08-17 10:08 UTC |
+| [SEO strategy in 2026: how to build one (+ free workbook)](https://www.semrush.com/blog/seo-strategy/) | Semrush Blog | 110 | AI Search | 2026-08-17 10:08 UTC |
 | [SEO for a new website: A sequencing guide for your first 90 days](https://www.semrush.com/blog/seo-for-new-website/) | Semrush Blog | 110 | AI Search | 2026-08-17 09:29 UTC |
 | [What is query fan-out? How to find &amp; optimize for subqueries](https://www.semrush.com/blog/query-fan-out/) | Semrush Blog | 110 | AI Search | 2026-08-17 09:16 UTC |
 | [How to do prompt research for AI SEO](https://www.semrush.com/blog/prompt-research-for-ai-seo/) | Semrush Blog | 110 | AI Search | 2026-08-17 09:03 UTC |
