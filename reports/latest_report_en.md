@@ -34,7 +34,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Bing Testing Large Images In Sponsored Results](https://www.seroundtable.com/large-images-bing-ads-41878.html) | Search Engine Roundtable | 170 | General | 2026-08-17 11:21 UTC |
 | [Google Ads Tests Blue Hyperlinks In Ad Descriptions](https://www.seroundtable.com/google-ads-blue-hyperlinks-41847.html) | Search Engine Roundtable | 170 | Links | 2026-08-17 11:11 UTC |
 | [SEO content: A complete guide for search and AI](https://www.semrush.com/blog/seo-content/) | Semrush Blog | 110 | AI Search | 2026-08-17 10:53 UTC |
-| [SEO strategy in 2026: how to build one (+ free workbook)](https://www.semrush.com/blog/seo-strategy/) | Semrush Blog | 110 | AI Search | 2026-08-17 10:08 UTC |
 
 ## Notes for manual writing
 
