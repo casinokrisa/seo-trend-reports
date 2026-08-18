@@ -13,7 +13,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Google August 2026 Spam Update Has Been Unleashed](https://www.seroundtable.com/google-august-2026-spam-update-41895.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-18 16:45 UTC |
-| [Daily Search Forum Recap: August 18, 2026](https://www.seroundtable.com/recap-08-18-2026-41885.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-18 14:00 UTC |
+| [Daily Search Forum Recap: August 18, 2026](https://www.seroundtable.com/recap-08-18-2026-41885.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-18 14:00 UTC |
 | [You Can Now Edit Your Handle On Google Search Profiles](https://www.seroundtable.com/google-search-profiles-edit-your-handle-41886.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-18 11:51 UTC |
 | [Google Related Searches For With Underline Hyperlink](https://www.seroundtable.com/google-related-search-for-underline-41846.html) | Search Engine Roundtable | 190 | Links | 2026-08-18 11:41 UTC |
 | [ChatGPT Ads Switching Advertisers On Load](https://www.seroundtable.com/chatgpt-ads-switching-advertisers-41883.html) | Search Engine Roundtable | 190 | Links | 2026-08-18 11:31 UTC |
