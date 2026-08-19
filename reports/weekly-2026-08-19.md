@@ -35,7 +35,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Claude Now Watermarks Everything It Writes. Here’s What It Means for Marketers](https://ahrefs.com/blog/claude-now-watermarks-everything-it-writes/) | Ahrefs Blog | 105 | AI Search | 2026-08-14 13:39 UTC |
 | [37 Proven Ways to Use AI in Marketing](https://ahrefs.com/blog/how-to-use-ai-in-marketing/) | Ahrefs Blog | 105 | AI Search | 2026-08-13 08:32 UTC |
 | [AI keyword research: How to use free chatbot tools](https://www.semrush.com/blog/ai-keyword-research/) | Semrush Blog | 95 | AI Search | 2026-08-13 11:09 UTC |
-| [234 ChatGPT prompts (and how to write your own)](https://www.semrush.com/blog/chatgpt-prompts/) | Semrush Blog | 95 | AI Search | 2026-08-12 06:58 UTC |
 
 ## Notes
 
