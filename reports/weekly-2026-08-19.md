@@ -18,8 +18,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Search Video Carousel Showing Less Often](https://www.seroundtable.com/google-video-carousel-drops-41894.html) | Search Engine Roundtable | 210 | General | 2026-08-19 11:31 UTC |
 | [Google Ads Bidding Option For Customer Retention Loyalty Program Members](https://www.seroundtable.com/google-ads-bidding-loyalty-program-members-41897.html) | Search Engine Roundtable | 210 | General | 2026-08-19 11:21 UTC |
 | [Google Business Profiles Testing Revamped Q&amp;A Feature](https://www.seroundtable.com/google-business-profiles-revamped-qa-41896.html) | Search Engine Roundtable | 210 | Local SEO | 2026-08-19 11:11 UTC |
-| [Google Trends Gains Explore Maps &amp; Regional Breakdown](https://www.seroundtable.com/google-trends-explore-maps-and-regional-breakdown-41899.html) | Search Engine Roundtable | 210 | Local SEO | 2026-08-19 09:54 UTC |
-| [Google Analytics Real Time Outage Seems To Be Resolving](https://www.seroundtable.com/google-analytics-real-time-outage-41898.html) | Search Engine Roundtable | 210 | General | 2026-08-19 09:44 UTC |
+| [Google Trends Gains Explore Maps &amp; Regional Breakdown](https://www.seroundtable.com/google-trends-explore-maps-and-regional-breakdown-41899.html) | Search Engine Roundtable | 190 | Local SEO | 2026-08-19 09:54 UTC |
+| [Google Analytics Real Time Outage Seems To Be Resolving](https://www.seroundtable.com/google-analytics-real-time-outage-41898.html) | Search Engine Roundtable | 190 | General | 2026-08-19 09:44 UTC |
 | [Google August 2026 Spam Update Has Been Unleashed](https://www.seroundtable.com/google-august-2026-spam-update-41895.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-18 16:45 UTC |
 | [Daily Search Forum Recap: August 18, 2026](https://www.seroundtable.com/recap-08-18-2026-41885.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-18 14:00 UTC |
 | [You Can Now Edit Your Handle On Google Search Profiles](https://www.seroundtable.com/google-search-profiles-edit-your-handle-41886.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-18 11:51 UTC |
