@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [What’s one local SEO tactic that actually made a noticeable difference for you?](https://www.reddit.com/r/localseo/comments/1vscm1w/whats_one_local_seo_tactic_that_actually_made_a/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-19 04:52 UTC |
-| [When looking at Bright Local's breakdown of Google's algorithm for local organic search (NOT the map pack)...](https://www.reddit.com/r/localseo/comments/1vsaolw/when_looking_at_bright_locals_breakdown_of/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-19 03:16 UTC |
-| [Starting rank-and-rent](https://www.reddit.com/r/localseo/comments/1vs96y4/starting_rankandrent/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-19 02:07 UTC |
-| [[Our City]Moving.com or [Company Name].com?](https://www.reddit.com/r/localseo/comments/1vs5h21/our_citymovingcom_or_company_namecom/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-18 23:24 UTC |
-| [How should I optimize a page for “real estate CPA Houston” — strict intent vs competitor keyword gap?](https://www.reddit.com/r/localseo/comments/1vs1dni/how_should_i_optimize_a_page_for_real_estate_cpa/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-18 20:41 UTC |
-| [Tested 20 companies to see if ChatGPT/Perplexity even mention them — most were invisible](https://www.reddit.com/r/localseo/comments/1vs174i/tested_20_companies_to_see_if_chatgptperplexity/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-08-18 20:35 UTC |
-| [What type of tracking system do you use to track calls and leads from Website?](https://www.reddit.com/r/localseo/comments/1vs0tnr/what_type_of_tracking_system_do_you_use_to_track/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-18 20:21 UTC |
-| [Local Falcon says I dropped to 8th. But I can’t figure out why](https://www.reddit.com/r/localseo/comments/1vrx4tb/local_falcon_says_i_dropped_to_8th_but_i_cant/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-18 18:10 UTC |
-| [If you’re serving multiple locations, please don’t rely only on your homepage or one generic service page.](https://www.reddit.com/r/localseo/comments/1vrunv7/if_youre_serving_multiple_locations_please_dont/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-18 16:44 UTC |
-| [How to get backlinks indexed?](https://www.reddit.com/r/localseo/comments/1vrqerw/how_to_get_backlinks_indexed/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Indexing | 2026-08-18 14:15 UTC |
-| [Which parts of SEO do you think AI still can't do well without human judgment?](https://www.reddit.com/r/localseo/comments/1vrlf8u/which_parts_of_seo_do_you_think_ai_still_cant_do/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-08-18 10:34 UTC |
-| [GBP Recovery Issue – Unable to Click “Continue”](https://www.reddit.com/r/localseo/comments/1vrk6z0/gbp_recovery_issue_unable_to_click_continue/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-18 09:24 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
