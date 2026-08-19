@@ -27,7 +27,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Search Will Eventually Support HTTP QUERY Method](https://www.seroundtable.com/google-support-http-query-method-41882.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-18 11:11 UTC |
 | [Google Performance Reports Drop In Impressions/Clicks ~August 12](https://www.seroundtable.com/google-search-console-performance-reports-drop-41884.html) | Search Engine Roundtable | 170 | GSC | 2026-08-17 17:37 UTC |
 | [Google AI Overviews With AI-Generated Images In The Wild (Test Paused)](https://www.seroundtable.com/ai-generated-images-google-ai-overviews-41872.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-17 17:00 UTC |
-| [Daily Search Forum Recap: August 17, 2026](https://www.seroundtable.com/recap-08-17-2026-41881.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-17 14:00 UTC |
 
 ## Notes for manual writing
 
