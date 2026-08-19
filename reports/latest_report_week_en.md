@@ -27,6 +27,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Apple Adds Thousands Of New IP Addresses For Applebot To Crawl From](https://www.seroundtable.com/applebot-ip-addresses-41876.html) | Search Engine Roundtable | 170 | Indexing | 2026-08-17 11:31 UTC |
 | [Bing Testing Large Images In Sponsored Results](https://www.seroundtable.com/large-images-bing-ads-41878.html) | Search Engine Roundtable | 170 | General | 2026-08-17 11:21 UTC |
 | [Google Ads Tests Blue Hyperlinks In Ad Descriptions](https://www.seroundtable.com/google-ads-blue-hyperlinks-41847.html) | Search Engine Roundtable | 170 | Links | 2026-08-17 11:11 UTC |
+| [The ultimate guide to creating a content marketing strategy](https://www.semrush.com/blog/content-marketing-strategy-guide/) | Semrush Blog | 150 | AI Search | 2026-08-19 08:34 UTC |
+| [Microsoft Clarity adds an AI Scrape-to-Referral Ratio](https://www.semrush.com/blog/microsoft-clarity-scrape-to-referral/) | Semrush Blog | 150 | Indexing | 2026-08-19 08:22 UTC |
 | [SEO content: A complete guide for search and AI](https://www.semrush.com/blog/seo-content/) | Semrush Blog | 110 | AI Search | 2026-08-17 10:53 UTC |
 | [SEO strategy in 2026: how to build one (+ free workbook)](https://www.semrush.com/blog/seo-strategy/) | Semrush Blog | 110 | AI Search | 2026-08-17 10:08 UTC |
 | [SEO for a new website: A sequencing guide for your first 90 days](https://www.semrush.com/blog/seo-for-new-website/) | Semrush Blog | 110 | AI Search | 2026-08-17 09:29 UTC |

@@ -25,6 +25,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [ChatGPT Ads Switching Advertisers On Load](https://www.seroundtable.com/chatgpt-ads-switching-advertisers-41883.html) | Search Engine Roundtable | 190 | Links | 2026-08-18 11:31 UTC |
 | [Google AdSense Will Stop Euro-Denominated Check Payments August 7](https://www.seroundtable.com/google-adsense-drops-euro-denominated-check-payments-41817.html) | Search Engine Roundtable | 190 | General | 2026-08-18 11:21 UTC |
 | [Google Search Will Eventually Support HTTP QUERY Method](https://www.seroundtable.com/google-support-http-query-method-41882.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-18 11:11 UTC |
+| [The ultimate guide to creating a content marketing strategy](https://www.semrush.com/blog/content-marketing-strategy-guide/) | Semrush Blog | 150 | AI Search | 2026-08-19 08:34 UTC |
+| [Microsoft Clarity adds an AI Scrape-to-Referral Ratio](https://www.semrush.com/blog/microsoft-clarity-scrape-to-referral/) | Semrush Blog | 150 | Indexing | 2026-08-19 08:22 UTC |
 
 ## Notes for manual writing
 
