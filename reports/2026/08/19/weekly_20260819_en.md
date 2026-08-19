@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: August 19, 2026](https://www.seroundtable.com/recap-08-19-2026-41900.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-19 14:00 UTC |
+| [Daily Search Forum Recap: August 19, 2026](https://www.seroundtable.com/recap-08-19-2026-41900.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-19 14:00 UTC |
 | [ChatGPT Ads Expanding To 31 European Countries](https://www.seroundtable.com/chatgpt-ads-europe-41902.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-19 11:51 UTC |
 | [Google: We Do Not Roll Out Updates Prior To The Announcement](https://www.seroundtable.com/google-rollout-search-updates-announcement-41901.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-19 11:41 UTC |
 | [Google Search Video Carousel Showing Less Often](https://www.seroundtable.com/google-video-carousel-drops-41894.html) | Search Engine Roundtable | 190 | General | 2026-08-19 11:31 UTC |
