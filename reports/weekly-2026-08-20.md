@@ -12,6 +12,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Why Google Announces Some Search Updates But Not All](https://www.seroundtable.com/google-announces-some-updates-41903.html) | Search Engine Roundtable | 210 | Technical SEO | 2026-08-20 11:51 UTC |
+| [Google Ads Can Find Sitelinks For You](https://www.seroundtable.com/google-ads-find-sitelinks-for-you-41907.html) | Search Engine Roundtable | 210 | Links | 2026-08-20 11:41 UTC |
+| [Google Ads Enhanced Matching In Customer Match](https://www.seroundtable.com/google-ads-enhanced-matching-41905.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-20 11:31 UTC |
 | [Microsoft Advertising Rolling Out AI Max Globally](https://www.seroundtable.com/microsoft-advertising-ai-max-41909.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-20 11:21 UTC |
 | [Google Bringing Back Google Posts Insights (People Viewed)](https://www.seroundtable.com/google-posts-insights-views-41913.html) | Search Engine Roundtable | 210 | Local SEO | 2026-08-20 11:15 UTC |
 | [Spike In Complaints On Favicons Disappearing From Google Search](https://www.seroundtable.com/google-search-favicons-breaking-41904.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-20 11:11 UTC |
@@ -24,9 +27,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Business Profiles Testing Revamped Q&amp;A Feature](https://www.seroundtable.com/google-business-profiles-revamped-qa-41896.html) | Search Engine Roundtable | 170 | Local SEO | 2026-08-19 11:11 UTC |
 | [Google Trends Gains Explore Maps &amp; Regional Breakdown](https://www.seroundtable.com/google-trends-explore-maps-and-regional-breakdown-41899.html) | Search Engine Roundtable | 170 | Local SEO | 2026-08-19 09:54 UTC |
 | [Google Analytics Real Time Outage Seems To Be Resolving](https://www.seroundtable.com/google-analytics-real-time-outage-41898.html) | Search Engine Roundtable | 170 | General | 2026-08-19 09:44 UTC |
-| [Google August 2026 Spam Update Has Been Unleashed](https://www.seroundtable.com/google-august-2026-spam-update-41895.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-18 16:45 UTC |
-| [Daily Search Forum Recap: August 18, 2026](https://www.seroundtable.com/recap-08-18-2026-41885.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-18 14:00 UTC |
-| [You Can Now Edit Your Handle On Google Search Profiles](https://www.seroundtable.com/google-search-profiles-edit-your-handle-41886.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-18 11:51 UTC |
 | [The ultimate guide to creating a content marketing strategy](https://www.semrush.com/blog/content-marketing-strategy-guide/) | Semrush Blog | 110 | AI Search | 2026-08-19 08:34 UTC |
 | [Microsoft Clarity adds an AI Scrape-to-Referral Ratio](https://www.semrush.com/blog/microsoft-clarity-scrape-to-referral/) | Semrush Blog | 110 | Indexing | 2026-08-19 08:22 UTC |
 | [Claude Now Watermarks Everything It Writes. Here’s What It Means for Marketers](https://ahrefs.com/blog/claude-now-watermarks-everything-it-writes/) | Ahrefs Blog | 105 | AI Search | 2026-08-14 13:39 UTC |
