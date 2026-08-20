@@ -13,8 +13,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: August 20, 2026](https://www.seroundtable.com/recap-08-20-2026-41914.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-20 14:00 UTC |
-| [Why Google Announces Some Search Updates But Not All](https://www.seroundtable.com/google-announces-some-updates-41903.html) | Search Engine Roundtable | 210 | Technical SEO | 2026-08-20 11:51 UTC |
-| [Google Ads Can Find Sitelinks For You](https://www.seroundtable.com/google-ads-find-sitelinks-for-you-41907.html) | Search Engine Roundtable | 210 | Links | 2026-08-20 11:41 UTC |
+| [Why Google Announces Some Search Updates But Not All](https://www.seroundtable.com/google-announces-some-updates-41903.html) | Search Engine Roundtable | 190 | Technical SEO | 2026-08-20 11:51 UTC |
+| [Google Ads Can Find Sitelinks For You](https://www.seroundtable.com/google-ads-find-sitelinks-for-you-41907.html) | Search Engine Roundtable | 190 | Links | 2026-08-20 11:41 UTC |
 | [Google Ads Enhanced Matching In Customer Match](https://www.seroundtable.com/google-ads-enhanced-matching-41905.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-20 11:31 UTC |
 | [Microsoft Advertising Rolling Out AI Max Globally](https://www.seroundtable.com/microsoft-advertising-ai-max-41909.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-20 11:21 UTC |
 | [Google Bringing Back Google Posts Insights (People Viewed)](https://www.seroundtable.com/google-posts-insights-views-41913.html) | Search Engine Roundtable | 190 | Local SEO | 2026-08-20 11:15 UTC |
