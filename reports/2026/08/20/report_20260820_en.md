@@ -27,7 +27,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Trends Gains Explore Maps &amp; Regional Breakdown](https://www.seroundtable.com/google-trends-explore-maps-and-regional-breakdown-41899.html) | Search Engine Roundtable | 190 | Local SEO | 2026-08-19 09:54 UTC |
 | [Google Analytics Real Time Outage Seems To Be Resolving](https://www.seroundtable.com/google-analytics-real-time-outage-41898.html) | Search Engine Roundtable | 190 | General | 2026-08-19 09:44 UTC |
 | [Google August 2026 Spam Update Has Been Unleashed](https://www.seroundtable.com/google-august-2026-spam-update-41895.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-18 16:45 UTC |
-| [Daily Search Forum Recap: August 18, 2026](https://www.seroundtable.com/recap-08-18-2026-41885.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-18 14:00 UTC |
 | [The ultimate guide to creating a content marketing strategy](https://www.semrush.com/blog/content-marketing-strategy-guide/) | Semrush Blog | 130 | AI Search | 2026-08-19 08:34 UTC |
 | [Microsoft Clarity adds an AI Scrape-to-Referral Ratio](https://www.semrush.com/blog/microsoft-clarity-scrape-to-referral/) | Semrush Blog | 130 | Indexing | 2026-08-19 08:22 UTC |
 
