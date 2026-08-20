@@ -33,6 +33,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Bidding Option For Customer Retention Loyalty Program Members](https://www.seroundtable.com/google-ads-bidding-loyalty-program-members-41897.html) | Search Engine Roundtable | 170 | General | 2026-08-19 11:21 UTC |
 | [Google Business Profiles Testing Revamped Q&amp;A Feature](https://www.seroundtable.com/google-business-profiles-revamped-qa-41896.html) | Search Engine Roundtable | 170 | Local SEO | 2026-08-19 11:11 UTC |
 | [Google Trends Gains Explore Maps &amp; Regional Breakdown](https://www.seroundtable.com/google-trends-explore-maps-and-regional-breakdown-41899.html) | Search Engine Roundtable | 170 | Local SEO | 2026-08-19 09:54 UTC |
+| [What Is Information Gain in SEO? (and How To Add It to Your Content)](https://ahrefs.com/blog/information-gain/) | Ahrefs Blog | 160 | AI Search | 2026-08-20 15:39 UTC |
 | [Google Search Console: the ultimate guide for 2026](https://www.semrush.com/blog/google-search-console/) | Semrush Blog | 150 | GSC | 2026-08-20 12:57 UTC |
 | [The ultimate guide to creating a content marketing strategy](https://www.semrush.com/blog/content-marketing-strategy-guide/) | Semrush Blog | 110 | AI Search | 2026-08-19 08:34 UTC |
 | [Microsoft Clarity adds an AI Scrape-to-Referral Ratio](https://www.semrush.com/blog/microsoft-clarity-scrape-to-referral/) | Semrush Blog | 110 | Indexing | 2026-08-19 08:22 UTC |
