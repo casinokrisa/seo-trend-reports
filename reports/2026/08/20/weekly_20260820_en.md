@@ -19,7 +19,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Bidding Option For Customer Retention Loyalty Program Members](https://www.seroundtable.com/google-ads-bidding-loyalty-program-members-41897.html) | Search Engine Roundtable | 190 | General | 2026-08-19 11:21 UTC |
 | [Google Business Profiles Testing Revamped Q&amp;A Feature](https://www.seroundtable.com/google-business-profiles-revamped-qa-41896.html) | Search Engine Roundtable | 190 | Local SEO | 2026-08-19 11:11 UTC |
 | [Google Trends Gains Explore Maps &amp; Regional Breakdown](https://www.seroundtable.com/google-trends-explore-maps-and-regional-breakdown-41899.html) | Search Engine Roundtable | 190 | Local SEO | 2026-08-19 09:54 UTC |
-| [Google Analytics Real Time Outage Seems To Be Resolving](https://www.seroundtable.com/google-analytics-real-time-outage-41898.html) | Search Engine Roundtable | 190 | General | 2026-08-19 09:44 UTC |
+| [Google Analytics Real Time Outage Seems To Be Resolving](https://www.seroundtable.com/google-analytics-real-time-outage-41898.html) | Search Engine Roundtable | 170 | General | 2026-08-19 09:44 UTC |
 | [Google August 2026 Spam Update Has Been Unleashed](https://www.seroundtable.com/google-august-2026-spam-update-41895.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-18 16:45 UTC |
 | [Daily Search Forum Recap: August 18, 2026](https://www.seroundtable.com/recap-08-18-2026-41885.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-18 14:00 UTC |
 | [You Can Now Edit Your Handle On Google Search Profiles](https://www.seroundtable.com/google-search-profiles-edit-your-handle-41886.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-18 11:51 UTC |
@@ -31,10 +31,10 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Microsoft Clarity adds an AI Scrape-to-Referral Ratio](https://www.semrush.com/blog/microsoft-clarity-scrape-to-referral/) | Semrush Blog | 110 | Indexing | 2026-08-19 08:22 UTC |
 | [SEO content: A complete guide for search and AI](https://www.semrush.com/blog/seo-content/) | Semrush Blog | 110 | AI Search | 2026-08-17 10:53 UTC |
 | [SEO strategy in 2026: how to build one (+ free workbook)](https://www.semrush.com/blog/seo-strategy/) | Semrush Blog | 110 | AI Search | 2026-08-17 10:08 UTC |
-| [SEO for a new website: A sequencing guide for your first 90 days](https://www.semrush.com/blog/seo-for-new-website/) | Semrush Blog | 110 | AI Search | 2026-08-17 09:29 UTC |
-| [What is query fan-out? How to find &amp; optimize for subqueries](https://www.semrush.com/blog/query-fan-out/) | Semrush Blog | 110 | AI Search | 2026-08-17 09:16 UTC |
-| [How to do prompt research for AI SEO](https://www.semrush.com/blog/prompt-research-for-ai-seo/) | Semrush Blog | 110 | AI Search | 2026-08-17 09:03 UTC |
 | [Claude Now Watermarks Everything It Writes. Here’s What It Means for Marketers](https://ahrefs.com/blog/claude-now-watermarks-everything-it-writes/) | Ahrefs Blog | 105 | AI Search | 2026-08-14 13:39 UTC |
+| [SEO for a new website: A sequencing guide for your first 90 days](https://www.semrush.com/blog/seo-for-new-website/) | Semrush Blog | 95 | AI Search | 2026-08-17 09:29 UTC |
+| [What is query fan-out? How to find &amp; optimize for subqueries](https://www.semrush.com/blog/query-fan-out/) | Semrush Blog | 95 | AI Search | 2026-08-17 09:16 UTC |
+| [How to do prompt research for AI SEO](https://www.semrush.com/blog/prompt-research-for-ai-seo/) | Semrush Blog | 95 | AI Search | 2026-08-17 09:03 UTC |
 | [AI keyword research: How to use free chatbot tools](https://www.semrush.com/blog/ai-keyword-research/) | Semrush Blog | 95 | AI Search | 2026-08-13 11:09 UTC |
 
 ## Notes
