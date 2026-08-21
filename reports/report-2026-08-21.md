@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: August 21, 2026](https://www.seroundtable.com/recap-08-21-2026-41922.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-21 14:00 UTC |
+| [Daily Search Forum Recap: August 21, 2026](https://www.seroundtable.com/recap-08-21-2026-41922.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-21 14:00 UTC |
 | [Google Search Console Crawl Stats Missing Two Days Of Data](https://www.seroundtable.com/google-search-console-crawl-stats-missing-41923.html) | Search Engine Roundtable | 190 | Indexing | 2026-08-21 13:12 UTC |
 | [Search News Buzz Video Recap: Google Unleashed The August 2026 Spam Update, Gemini 3.7 Powers AI Mode, Google and Microsoft Ads News &amp; More](https://www.seroundtable.com/video-08-21-2026-41915.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-21 12:01 UTC |
 | [Google Preferred Source Button Improved For Publishers](https://www.seroundtable.com/google-preferred-source-button-update-41912.html) | Search Engine Roundtable | 190 | General | 2026-08-21 11:51 UTC |
