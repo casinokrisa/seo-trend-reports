@@ -31,7 +31,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Search Console: the ultimate guide for 2026](https://www.semrush.com/blog/google-search-console/) | Semrush Blog | 110 | GSC | 2026-08-20 12:57 UTC |
 | [The ultimate guide to creating a content marketing strategy](https://www.semrush.com/blog/content-marketing-strategy-guide/) | Semrush Blog | 110 | AI Search | 2026-08-19 08:34 UTC |
 | [Microsoft Clarity adds an AI Scrape-to-Referral Ratio](https://www.semrush.com/blog/microsoft-clarity-scrape-to-referral/) | Semrush Blog | 110 | Indexing | 2026-08-19 08:22 UTC |
-| [Claude Now Watermarks Everything It Writes. Here’s What It Means for Marketers](https://ahrefs.com/blog/claude-now-watermarks-everything-it-writes/) | Ahrefs Blog | 105 | AI Search | 2026-08-14 13:39 UTC |
 | [SEO content: A complete guide for search and AI](https://www.semrush.com/blog/seo-content/) | Semrush Blog | 95 | AI Search | 2026-08-17 10:53 UTC |
 | [SEO strategy in 2026: how to build one (+ free workbook)](https://www.semrush.com/blog/seo-strategy/) | Semrush Blog | 95 | AI Search | 2026-08-17 10:08 UTC |
 | [SEO for a new website: A sequencing guide for your first 90 days](https://www.semrush.com/blog/seo-for-new-website/) | Semrush Blog | 95 | AI Search | 2026-08-17 09:29 UTC |
