@@ -27,7 +27,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Discover Feed Can Be Tailored By Words](https://www.seroundtable.com/google-discover-tailored-feed-by-words-41911.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-21 11:11 UTC |
 | [Google Tag &amp; Google Tag Manager Updated](https://www.seroundtable.com/google-tag-and-google-tag-manager-updated-41918.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-21 11:05 UTC |
 | [Google August 2026 Spam Update Has Finished Rolling Out](https://www.seroundtable.com/google-august-2026-spam-update-done-41906.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-21 09:20 UTC |
-| [Daily Search Forum Recap: August 20, 2026](https://www.seroundtable.com/recap-08-20-2026-41914.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-20 14:00 UTC |
+| [Daily Search Forum Recap: August 20, 2026](https://www.seroundtable.com/recap-08-20-2026-41914.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-20 14:00 UTC |
 | [Why Google Announces Some Search Updates But Not All](https://www.seroundtable.com/google-announces-some-updates-41903.html) | Search Engine Roundtable | 170 | Technical SEO | 2026-08-20 11:51 UTC |
 | [Google Ads Can Find Sitelinks For You](https://www.seroundtable.com/google-ads-find-sitelinks-for-you-41907.html) | Search Engine Roundtable | 170 | Links | 2026-08-20 11:41 UTC |
 | [Google Ads Enhanced Matching In Customer Match](https://www.seroundtable.com/google-ads-enhanced-matching-41905.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-20 11:31 UTC |
