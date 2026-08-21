@@ -32,7 +32,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Daily Search Forum Recap: August 20, 2026](https://www.seroundtable.com/recap-08-20-2026-41914.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-20 14:00 UTC |
 | [Why Google Announces Some Search Updates But Not All](https://www.seroundtable.com/google-announces-some-updates-41903.html) | Search Engine Roundtable | 170 | Technical SEO | 2026-08-20 11:51 UTC |
 | [Google Ads Can Find Sitelinks For You](https://www.seroundtable.com/google-ads-find-sitelinks-for-you-41907.html) | Search Engine Roundtable | 170 | Links | 2026-08-20 11:41 UTC |
-| [Google Ads Enhanced Matching In Customer Match](https://www.seroundtable.com/google-ads-enhanced-matching-41905.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-20 11:31 UTC |
 | [What Is Information Gain in SEO? (and How To Add It to Your Content)](https://ahrefs.com/blog/information-gain/) | Ahrefs Blog | 120 | AI Search | 2026-08-20 15:39 UTC |
 | [Google Search Console: the ultimate guide for 2026](https://www.semrush.com/blog/google-search-console/) | Semrush Blog | 110 | GSC | 2026-08-20 12:57 UTC |
 
