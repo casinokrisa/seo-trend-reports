@@ -26,7 +26,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Bringing Back Google Posts Insights (People Viewed)](https://www.seroundtable.com/google-posts-insights-views-41913.html) | Search Engine Roundtable | 190 | Local SEO | 2026-08-20 11:15 UTC |
 | [Spike In Complaints On Favicons Disappearing From Google Search](https://www.seroundtable.com/google-search-favicons-breaking-41904.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-20 11:11 UTC |
 | [Google Ads API Version 25.1 Now Available](https://www.seroundtable.com/google-ads-api-version-25-1-41908.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-20 11:05 UTC |
-| [Daily Search Forum Recap: August 19, 2026](https://www.seroundtable.com/recap-08-19-2026-41900.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-19 14:00 UTC |
 | [What Is Information Gain in SEO? (and How To Add It to Your Content)](https://ahrefs.com/blog/information-gain/) | Ahrefs Blog | 140 | AI Search | 2026-08-20 15:39 UTC |
 | [Google Search Console: the ultimate guide for 2026](https://www.semrush.com/blog/google-search-console/) | Semrush Blog | 130 | GSC | 2026-08-20 12:57 UTC |
 
