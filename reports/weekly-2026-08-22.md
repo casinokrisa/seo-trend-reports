@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Should I continue to work for this client?](https://www.reddit.com/r/localseo/comments/1vv16u8/should_i_continue_to_work_for_this_client/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-22 03:24 UTC |
-| [Is right after payment the best time to ask for a Google review?](https://www.reddit.com/r/localseo/comments/1vuuv51/is_right_after_payment_the_best_time_to_ask_for_a/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-21 22:34 UTC |
-| [Google Rank and ChatGPT Recommendations are apparently Unrelated](https://www.reddit.com/r/localseo/comments/1vurjk6/google_rank_and_chatgpt_recommendations_are/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-08-21 20:22 UTC |
-| [65 Point Local SEO Checklist](https://www.reddit.com/r/localseo/comments/1vuon4w/65_point_local_seo_checklist/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-21 18:34 UTC |
-| [Mapped out a site structure for a construction company today. The &quot;one services page with dropdowns&quot; thing is killing more local businesses than I expected.](https://www.reddit.com/r/localseo/comments/1vunzcl/mapped_out_a_site_structure_for_a_construction/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-21 18:11 UTC |
-| [What’s the hardest thing to explain to your clients about why they need what you’re recommending?](https://www.reddit.com/r/localseo/comments/1vumvaq/whats_the_hardest_thing_to_explain_to_your/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-08-21 17:30 UTC |
-| [Google Sites?](https://www.reddit.com/r/localseo/comments/1vui7xc/google_sites/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-21 14:39 UTC |
-| [Do small SEO companies and freelancers make most of their money from long-term contracts or one-time SEO projects?](https://www.reddit.com/r/localseo/comments/1vuh1lg/do_small_seo_companies_and_freelancers_make_most/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-21 13:54 UTC |
-| [Has anyone else looked into this change from Google?](https://www.reddit.com/r/localseo/comments/1vufmim/has_anyone_else_looked_into_this_change_from/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-21 12:56 UTC |
-| [What would you focus on with these SEO numbers?](https://www.reddit.com/r/localseo/comments/1vueh7t/what_would_you_focus_on_with_these_seo_numbers/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-21 12:04 UTC |
-| [Does having a lot of reviews actually matter if the reviews are short?](https://www.reddit.com/r/localseo/comments/1vu93wm/does_having_a_lot_of_reviews_actually_matter_if/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-08-21 07:11 UTC |
-| [How much does the GBP primary category really move the needle vs everything else?](https://www.reddit.com/r/localseo/comments/1vu6ern/how_much_does_the_gbp_primary_category_really/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-08-21 04:43 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
