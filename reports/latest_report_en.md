@@ -29,7 +29,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Discover Feed Can Be Tailored By Words](https://www.seroundtable.com/google-discover-tailored-feed-by-words-41911.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-21 11:11 UTC |
 | [Google Tag &amp; Google Tag Manager Updated](https://www.seroundtable.com/google-tag-and-google-tag-manager-updated-41918.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-21 11:05 UTC |
 | [Google August 2026 Spam Update Has Finished Rolling Out](https://www.seroundtable.com/google-august-2026-spam-update-done-41906.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-21 09:20 UTC |
-| [Daily Search Forum Recap: August 20, 2026](https://www.seroundtable.com/recap-08-20-2026-41914.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-20 14:00 UTC |
 | [What Is Information Gain in SEO? (and How To Add It to Your Content)](https://ahrefs.com/blog/information-gain/) | Ahrefs Blog | 120 | AI Search | 2026-08-20 15:39 UTC |
 
 ## Notes for manual writing
