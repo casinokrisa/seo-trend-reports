@@ -25,11 +25,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Tag &amp; Google Tag Manager Updated](https://www.seroundtable.com/google-tag-and-google-tag-manager-updated-41918.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-21 11:05 UTC |
 | [Google August 2026 Spam Update Has Finished Rolling Out](https://www.seroundtable.com/google-august-2026-spam-update-done-41906.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-21 09:20 UTC |
 | [Daily Search Forum Recap: August 20, 2026](https://www.seroundtable.com/recap-08-20-2026-41914.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-20 14:00 UTC |
-| [Why Google Announces Some Search Updates But Not All](https://www.seroundtable.com/google-announces-some-updates-41903.html) | Search Engine Roundtable | 170 | Technical SEO | 2026-08-20 11:51 UTC |
-| [Google Ads Can Find Sitelinks For You](https://www.seroundtable.com/google-ads-find-sitelinks-for-you-41907.html) | Search Engine Roundtable | 170 | Links | 2026-08-20 11:41 UTC |
-| [Google Ads Enhanced Matching In Customer Match](https://www.seroundtable.com/google-ads-enhanced-matching-41905.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-20 11:31 UTC |
+| [Why Google Announces Some Search Updates But Not All](https://www.seroundtable.com/google-announces-some-updates-41903.html) | Search Engine Roundtable | 155 | Technical SEO | 2026-08-20 11:51 UTC |
+| [Google Ads Can Find Sitelinks For You](https://www.seroundtable.com/google-ads-find-sitelinks-for-you-41907.html) | Search Engine Roundtable | 155 | Links | 2026-08-20 11:41 UTC |
+| [Google Ads Enhanced Matching In Customer Match](https://www.seroundtable.com/google-ads-enhanced-matching-41905.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-20 11:31 UTC |
 | [What Is Information Gain in SEO? (and How To Add It to Your Content)](https://ahrefs.com/blog/information-gain/) | Ahrefs Blog | 120 | AI Search | 2026-08-20 15:39 UTC |
-| [Google Search Console: the ultimate guide for 2026](https://www.semrush.com/blog/google-search-console/) | Semrush Blog | 110 | GSC | 2026-08-20 12:57 UTC |
+| [Google Search Console: the ultimate guide for 2026](https://www.semrush.com/blog/google-search-console/) | Semrush Blog | 95 | GSC | 2026-08-20 12:57 UTC |
 | [The ultimate guide to creating a content marketing strategy](https://www.semrush.com/blog/content-marketing-strategy-guide/) | Semrush Blog | 95 | AI Search | 2026-08-19 08:34 UTC |
 | [Microsoft Clarity adds an AI Scrape-to-Referral Ratio](https://www.semrush.com/blog/microsoft-clarity-scrape-to-referral/) | Semrush Blog | 95 | Indexing | 2026-08-19 08:22 UTC |
 | [SEO content: A complete guide for search and AI](https://www.semrush.com/blog/seo-content/) | Semrush Blog | 95 | AI Search | 2026-08-17 10:53 UTC |
