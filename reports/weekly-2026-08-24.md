@@ -33,7 +33,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [The ultimate guide to creating a content marketing strategy](https://www.semrush.com/blog/content-marketing-strategy-guide/) | Semrush Blog | 95 | AI Search | 2026-08-19 08:34 UTC |
 | [Microsoft Clarity adds an AI Scrape-to-Referral Ratio](https://www.semrush.com/blog/microsoft-clarity-scrape-to-referral/) | Semrush Blog | 95 | Indexing | 2026-08-19 08:22 UTC |
 | [SEO content: A complete guide for search and AI](https://www.semrush.com/blog/seo-content/) | Semrush Blog | 95 | AI Search | 2026-08-17 10:53 UTC |
-| [SEO strategy in 2026: how to build one (+ free workbook)](https://www.semrush.com/blog/seo-strategy/) | Semrush Blog | 95 | AI Search | 2026-08-17 10:08 UTC |
 
 ## Notes
 
