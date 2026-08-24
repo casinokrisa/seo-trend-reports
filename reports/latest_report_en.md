@@ -26,7 +26,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Reduces Conversion Cycle For Maximize Conversion Value Bidding](https://www.seroundtable.com/google-ads-conversion-cycle-max-conv-41919.html) | Search Engine Roundtable | 190 | General | 2026-08-24 11:11 UTC |
 | [Google Search Console Sends New Owner Email Notifications - Bug?](https://www.seroundtable.com/google-search-console-new-owner-emails-41932.html) | Search Engine Roundtable | 190 | GSC | 2026-08-24 11:05 UTC |
 | [Google Fixed Favicon Bug &amp; Crawl Stats Missing Data](https://www.seroundtable.com/google-fix-favicon-crawl-stats-41928.html) | Search Engine Roundtable | 190 | Indexing | 2026-08-24 00:45 UTC |
-| [MBA Metrics for SEO: How to Speak Leadership’s Language](https://ahrefs.com/blog/mba-metrics-for-seo/) | Ahrefs Blog | 160 | GSC | 2026-08-24 15:52 UTC |
+| [MBA Metrics for SEO: How to Speak Leadership’s Language](https://ahrefs.com/blog/mba-metrics-for-seo/) | Ahrefs Blog | 140 | GSC | 2026-08-24 15:52 UTC |
 
 ## Notes for manual writing
 

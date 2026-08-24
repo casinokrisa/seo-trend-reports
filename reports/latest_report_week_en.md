@@ -21,7 +21,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Search Console Sends New Owner Email Notifications - Bug?](https://www.seroundtable.com/google-search-console-new-owner-emails-41932.html) | Search Engine Roundtable | 190 | GSC | 2026-08-24 11:05 UTC |
 | [Google Fixed Favicon Bug &amp; Crawl Stats Missing Data](https://www.seroundtable.com/google-fix-favicon-crawl-stats-41928.html) | Search Engine Roundtable | 190 | Indexing | 2026-08-24 00:45 UTC |
 | [New custom button for preferred sources](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Migration | 2026-08-20 00:00 UTC |
-| [MBA Metrics for SEO: How to Speak Leadership’s Language](https://ahrefs.com/blog/mba-metrics-for-seo/) | Ahrefs Blog | 160 | GSC | 2026-08-24 15:52 UTC |
 | [Daily Search Forum Recap: August 21, 2026](https://www.seroundtable.com/recap-08-21-2026-41922.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-21 14:00 UTC |
 | [Google Search Console Crawl Stats Missing Two Days Of Data](https://www.seroundtable.com/google-search-console-crawl-stats-missing-41923.html) | Search Engine Roundtable | 155 | Indexing | 2026-08-21 13:12 UTC |
 | [Search News Buzz Video Recap: Google Unleashed The August 2026 Spam Update, Gemini 3.7 Powers AI Mode, Google and Microsoft Ads News &amp; More](https://www.seroundtable.com/video-08-21-2026-41915.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-21 12:01 UTC |
@@ -29,6 +28,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Microsoft Advertising Max CPC Won't Be Available For New Campaigns On Oct 1](https://www.seroundtable.com/microsoft-advertising-max-cpc-sunset-41917.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-21 11:41 UTC |
 | [Google Ads &amp; AI Max New Experimentation &amp; Planning Features](https://www.seroundtable.com/google-ads-ai-max-experimentation-planning-41910.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-21 11:23 UTC |
 | [Google Local Service Ads Pre-Badge Ads &amp; Expansion Of Verticals](https://www.seroundtable.com/google-lsa-prebadge-new-verticals-41920.html) | Search Engine Roundtable | 155 | General | 2026-08-21 11:21 UTC |
+| [MBA Metrics for SEO: How to Speak Leadership’s Language](https://ahrefs.com/blog/mba-metrics-for-seo/) | Ahrefs Blog | 140 | GSC | 2026-08-24 15:52 UTC |
 | [What Is Information Gain in SEO? (and How To Add It to Your Content)](https://ahrefs.com/blog/information-gain/) | Ahrefs Blog | 105 | AI Search | 2026-08-20 15:39 UTC |
 | [Google Search Console: the ultimate guide for 2026](https://www.semrush.com/blog/google-search-console/) | Semrush Blog | 95 | GSC | 2026-08-20 12:57 UTC |
 | [The ultimate guide to creating a content marketing strategy](https://www.semrush.com/blog/content-marketing-strategy-guide/) | Semrush Blog | 95 | AI Search | 2026-08-19 08:34 UTC |
