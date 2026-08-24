@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Fixed Favicon Bug &amp; Crawl Stats Missing Data](https://www.seroundtable.com/google-fix-favicon-crawl-stats-41928.html) | Search Engine Roundtable | 210 | Indexing | 2026-08-24 00:45 UTC |
+| [Google Fixed Favicon Bug &amp; Crawl Stats Missing Data](https://www.seroundtable.com/google-fix-favicon-crawl-stats-41928.html) | Search Engine Roundtable | 190 | Indexing | 2026-08-24 00:45 UTC |
 | [New custom button for preferred sources](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Migration | 2026-08-20 00:00 UTC |
 | [Daily Search Forum Recap: August 21, 2026](https://www.seroundtable.com/recap-08-21-2026-41922.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-21 14:00 UTC |
 | [Google Search Console Crawl Stats Missing Two Days Of Data](https://www.seroundtable.com/google-search-console-crawl-stats-missing-41923.html) | Search Engine Roundtable | 170 | Indexing | 2026-08-21 13:12 UTC |

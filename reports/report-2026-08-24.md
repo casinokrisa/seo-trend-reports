@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Fixed Favicon Bug &amp; Crawl Stats Missing Data](https://www.seroundtable.com/google-fix-favicon-crawl-stats-41928.html) | Search Engine Roundtable | 210 | Indexing | 2026-08-24 00:45 UTC |
+| [Google Fixed Favicon Bug &amp; Crawl Stats Missing Data](https://www.seroundtable.com/google-fix-favicon-crawl-stats-41928.html) | Search Engine Roundtable | 190 | Indexing | 2026-08-24 00:45 UTC |
 
 ## Notes for manual writing
 
