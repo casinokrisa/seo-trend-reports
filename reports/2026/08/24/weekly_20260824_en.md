@@ -20,7 +20,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Search Console Sends New Owner Email Notifications - Bug?](https://www.seroundtable.com/google-search-console-new-owner-emails-41932.html) | Search Engine Roundtable | 210 | GSC | 2026-08-24 11:05 UTC |
 | [Google Fixed Favicon Bug &amp; Crawl Stats Missing Data](https://www.seroundtable.com/google-fix-favicon-crawl-stats-41928.html) | Search Engine Roundtable | 190 | Indexing | 2026-08-24 00:45 UTC |
 | [New custom button for preferred sources](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Migration | 2026-08-20 00:00 UTC |
-| [Daily Search Forum Recap: August 21, 2026](https://www.seroundtable.com/recap-08-21-2026-41922.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-21 14:00 UTC |
+| [Daily Search Forum Recap: August 21, 2026](https://www.seroundtable.com/recap-08-21-2026-41922.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-21 14:00 UTC |
 | [Google Search Console Crawl Stats Missing Two Days Of Data](https://www.seroundtable.com/google-search-console-crawl-stats-missing-41923.html) | Search Engine Roundtable | 155 | Indexing | 2026-08-21 13:12 UTC |
 | [Search News Buzz Video Recap: Google Unleashed The August 2026 Spam Update, Gemini 3.7 Powers AI Mode, Google and Microsoft Ads News &amp; More](https://www.seroundtable.com/video-08-21-2026-41915.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-21 12:01 UTC |
 | [Google Preferred Source Button Improved For Publishers](https://www.seroundtable.com/google-preferred-source-button-update-41912.html) | Search Engine Roundtable | 155 | General | 2026-08-21 11:51 UTC |
