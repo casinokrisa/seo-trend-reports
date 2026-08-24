@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: August 24, 2026](https://www.seroundtable.com/recap-08-24-2026-41933.html) | Search Engine Roundtable | 210 | Indexing | 2026-08-24 14:00 UTC |
+| [Daily Search Forum Recap: August 24, 2026](https://www.seroundtable.com/recap-08-24-2026-41933.html) | Search Engine Roundtable | 190 | Indexing | 2026-08-24 14:00 UTC |
 | [Google Makes Minor Updates To Canonicalization Help Docs](https://www.seroundtable.com/google-updates-canonicalization-help-docs-41925.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-24 11:51 UTC |
 | [Google Merchant Center Product Images Minimum Size Will Be 500x500 Pixels](https://www.seroundtable.com/google-merchant-center-product-images-update-41924.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-24 11:41 UTC |
 | [Google Aware Of Reviews Missing After Google Business Profile Reinstatement](https://www.seroundtable.com/reviews-missing-google-business-profile-reinstatement-41927.html) | Search Engine Roundtable | 190 | Local SEO | 2026-08-24 11:31 UTC |
