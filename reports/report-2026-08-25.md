@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: August 25, 2026](https://www.seroundtable.com/recap-08-25-2026-41938.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-25 14:00 UTC |
+| [Daily Search Forum Recap: August 25, 2026](https://www.seroundtable.com/recap-08-25-2026-41938.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-25 14:00 UTC |
 | [Google To Charge For Missed &amp; Subsequent Calls On LSAs](https://www.seroundtable.com/google-lsa-missed-subsequent-calls-41940.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-25 11:57 UTC |
 | [Google Shows AI Overviews Above Stock Charts For Stock Price Queries](https://www.seroundtable.com/google-ai-overviews-stock-price-queries-41934.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-25 11:51 UTC |
 | [Google Ads Tests Loading Sponsored Results Using Gemini With Animation](https://www.seroundtable.com/google-ads-loading-gemini-41937.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-25 11:41 UTC |
