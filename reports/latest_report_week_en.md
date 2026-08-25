@@ -28,7 +28,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Reduces Conversion Cycle For Maximize Conversion Value Bidding](https://www.seroundtable.com/google-ads-conversion-cycle-max-conv-41919.html) | Search Engine Roundtable | 170 | General | 2026-08-24 11:11 UTC |
 | [Google Search Console Sends New Owner Email Notifications - Bug?](https://www.seroundtable.com/google-search-console-new-owner-emails-41932.html) | Search Engine Roundtable | 170 | GSC | 2026-08-24 11:05 UTC |
 | [Google Fixed Favicon Bug &amp; Crawl Stats Missing Data](https://www.seroundtable.com/google-fix-favicon-crawl-stats-41928.html) | Search Engine Roundtable | 170 | Indexing | 2026-08-24 00:45 UTC |
-| [MBA Metrics for SEO: How to Speak Leadership’s Language](https://ahrefs.com/blog/mba-metrics-for-seo/) | Ahrefs Blog | 140 | GSC | 2026-08-24 15:52 UTC |
+| [MBA Metrics for SEO: How to Speak Leadership’s Language](https://ahrefs.com/blog/mba-metrics-for-seo/) | Ahrefs Blog | 120 | GSC | 2026-08-24 15:52 UTC |
 | [What Is Information Gain in SEO? (and How To Add It to Your Content)](https://ahrefs.com/blog/information-gain/) | Ahrefs Blog | 105 | AI Search | 2026-08-20 15:39 UTC |
 | [Google Search Console: the ultimate guide for 2026](https://www.semrush.com/blog/google-search-console/) | Semrush Blog | 95 | GSC | 2026-08-20 12:57 UTC |
 | [The ultimate guide to creating a content marketing strategy](https://www.semrush.com/blog/content-marketing-strategy-guide/) | Semrush Blog | 95 | AI Search | 2026-08-19 08:34 UTC |
