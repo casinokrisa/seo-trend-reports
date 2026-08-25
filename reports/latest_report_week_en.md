@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google Search Showing Fewer PDF Files. But Why?](https://www.seroundtable.com/google-search-fewer-pdf-files-41946.html) | Search Engine Roundtable | 210 | General | 2026-08-25 21:01 UTC |
 | [Daily Search Forum Recap: August 25, 2026](https://www.seroundtable.com/recap-08-25-2026-41938.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-25 14:00 UTC |
 | [Google To Charge For Missed &amp; Subsequent Calls On LSAs](https://www.seroundtable.com/google-lsa-missed-subsequent-calls-41940.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-25 11:57 UTC |
 | [Google Shows AI Overviews Above Stock Charts For Stock Price Queries](https://www.seroundtable.com/google-ai-overviews-stock-price-queries-41934.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-25 11:51 UTC |
@@ -27,7 +28,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Tests Pink Highlights In Featured Snippets](https://www.seroundtable.com/google-pink-highlights-featured-snippets-41926.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-24 11:21 UTC |
 | [Google Ads Reduces Conversion Cycle For Maximize Conversion Value Bidding](https://www.seroundtable.com/google-ads-conversion-cycle-max-conv-41919.html) | Search Engine Roundtable | 170 | General | 2026-08-24 11:11 UTC |
 | [Google Search Console Sends New Owner Email Notifications - Bug?](https://www.seroundtable.com/google-search-console-new-owner-emails-41932.html) | Search Engine Roundtable | 170 | GSC | 2026-08-24 11:05 UTC |
-| [Google Fixed Favicon Bug &amp; Crawl Stats Missing Data](https://www.seroundtable.com/google-fix-favicon-crawl-stats-41928.html) | Search Engine Roundtable | 170 | Indexing | 2026-08-24 00:45 UTC |
 | [MBA Metrics for SEO: How to Speak Leadership’s Language](https://ahrefs.com/blog/mba-metrics-for-seo/) | Ahrefs Blog | 120 | GSC | 2026-08-24 15:52 UTC |
 | [What Is Information Gain in SEO? (and How To Add It to Your Content)](https://ahrefs.com/blog/information-gain/) | Ahrefs Blog | 105 | AI Search | 2026-08-20 15:39 UTC |
 | [Google Search Console: the ultimate guide for 2026](https://www.semrush.com/blog/google-search-console/) | Semrush Blog | 95 | GSC | 2026-08-20 12:57 UTC |
