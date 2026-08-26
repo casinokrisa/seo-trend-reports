@@ -26,7 +26,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google: There Is Nothing Special To Do For Generative AI Responses In Search](https://www.seroundtable.com/google-generative-ai-search-responses-todo-41916.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-25 11:31 UTC |
 | [Google Says Google's Crawlers Don't Parse JSON](https://www.seroundtable.com/google-crawlers-dont-parse-json-41936.html) | Search Engine Roundtable | 190 | Indexing | 2026-08-25 11:21 UTC |
 | [Google Copyable Emojis In AI Overviews](https://www.seroundtable.com/google-copyable-emojis-ai-overviews-41929.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-25 11:11 UTC |
-| [MBA Metrics for SEO: How to Speak Leadership’s Language](https://ahrefs.com/blog/mba-metrics-for-seo/) | Ahrefs Blog | 120 | GSC | 2026-08-24 15:52 UTC |
 
 ## Notes for manual writing
 
