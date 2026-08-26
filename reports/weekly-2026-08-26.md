@@ -28,6 +28,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Tests Loading Sponsored Results Using Gemini With Animation](https://www.seroundtable.com/google-ads-loading-gemini-41937.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-25 11:41 UTC |
 | [Google: There Is Nothing Special To Do For Generative AI Responses In Search](https://www.seroundtable.com/google-generative-ai-search-responses-todo-41916.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-25 11:31 UTC |
 | [Google Says Google's Crawlers Don't Parse JSON](https://www.seroundtable.com/google-crawlers-dont-parse-json-41936.html) | Search Engine Roundtable | 170 | Indexing | 2026-08-25 11:21 UTC |
+| [Google releases August 2026 spam update: What marketers need to know](https://www.semrush.com/blog/google-august-2026-spam-update/) | Semrush Blog | 130 | General | 2026-08-26 08:25 UTC |
+| [Reddit's citations in ChatGPT fall from 3.8% to 0.5%](https://www.semrush.com/blog/reddits-citations-in-chatgpt-fall/) | Semrush Blog | 130 | AI Search | 2026-08-26 08:21 UTC |
 | [MBA Metrics for SEO: How to Speak Leadership’s Language](https://ahrefs.com/blog/mba-metrics-for-seo/) | Ahrefs Blog | 120 | GSC | 2026-08-24 15:52 UTC |
 | [What Is Information Gain in SEO? (and How To Add It to Your Content)](https://ahrefs.com/blog/information-gain/) | Ahrefs Blog | 105 | AI Search | 2026-08-20 15:39 UTC |
 | [Google Search Console: the ultimate guide for 2026](https://www.semrush.com/blog/google-search-console/) | Semrush Blog | 95 | GSC | 2026-08-20 12:57 UTC |
