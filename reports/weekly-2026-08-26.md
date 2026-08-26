@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Search Showing Fewer PDF Files. But Why?](https://www.seroundtable.com/google-search-fewer-pdf-files-41946.html) | Search Engine Roundtable | 210 | General | 2026-08-25 21:01 UTC |
+| [Google Search Showing Fewer PDF Files. But Why?](https://www.seroundtable.com/google-search-fewer-pdf-files-41946.html) | Search Engine Roundtable | 190 | General | 2026-08-25 21:01 UTC |
 | [Daily Search Forum Recap: August 25, 2026](https://www.seroundtable.com/recap-08-25-2026-41938.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-25 14:00 UTC |
 | [Google To Charge For Missed &amp; Subsequent Calls On LSAs](https://www.seroundtable.com/google-lsa-missed-subsequent-calls-41940.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-25 11:57 UTC |
 | [Google Shows AI Overviews Above Stock Charts For Stock Price Queries](https://www.seroundtable.com/google-ai-overviews-stock-price-queries-41934.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-25 11:51 UTC |
