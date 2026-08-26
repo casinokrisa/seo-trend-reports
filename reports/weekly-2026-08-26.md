@@ -31,8 +31,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [MBA Metrics for SEO: How to Speak Leadership’s Language](https://ahrefs.com/blog/mba-metrics-for-seo/) | Ahrefs Blog | 120 | GSC | 2026-08-24 15:52 UTC |
 | [What Is Information Gain in SEO? (and How To Add It to Your Content)](https://ahrefs.com/blog/information-gain/) | Ahrefs Blog | 105 | AI Search | 2026-08-20 15:39 UTC |
 | [Google Search Console: the ultimate guide for 2026](https://www.semrush.com/blog/google-search-console/) | Semrush Blog | 95 | GSC | 2026-08-20 12:57 UTC |
-| [The ultimate guide to creating a content marketing strategy](https://www.semrush.com/blog/content-marketing-strategy-guide/) | Semrush Blog | 95 | AI Search | 2026-08-19 08:34 UTC |
-| [Microsoft Clarity adds an AI Scrape-to-Referral Ratio](https://www.semrush.com/blog/microsoft-clarity-scrape-to-referral/) | Semrush Blog | 95 | Indexing | 2026-08-19 08:22 UTC |
 
 ## Notes
 
