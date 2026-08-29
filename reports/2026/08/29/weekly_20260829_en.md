@@ -14,7 +14,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 |---|---|---:|---|---:|
 | [Update to the Site Reputation Policy](https://developers.google.com/search/blog/2026/08/update-site-reputation-policy) | Google Search Central Blog | 210 | Content | 2026-08-28 00:00 UTC |
 | [Updated the favicon documentation](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Links | 2026-08-28 00:00 UTC |
-| [Google AI Overviews Pushing Searchers Into AI Mode, Drops Show More Button](https://www.seroundtable.com/google-ai-overviews-push-ai-mode-responses-41974.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-28 17:30 UTC |
+| [Google AI Overviews Pushing Searchers Into AI Mode, Drops Show More Button](https://www.seroundtable.com/google-ai-overviews-push-ai-mode-responses-41974.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-28 17:30 UTC |
 | [Daily Search Forum Recap: August 28, 2026](https://www.seroundtable.com/recap-08-28-2026-41971.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-28 14:00 UTC |
 | [Search News Buzz Video Recap: Google GoTo Parameter Fight, PDFs Go Missing In Google, SEO For AI Responses &amp; Google and Microsoft Ads News](https://www.seroundtable.com/video-08-28-2026-41963.html) | Search Engine Roundtable | 170 | Links | 2026-08-28 12:01 UTC |
 | [Google Ads Book Buttons Expand To Search &amp; Performance Max](https://www.seroundtable.com/google-ads-book-buttons-41964.html) | Search Engine Roundtable | 170 | Local SEO | 2026-08-28 11:51 UTC |

@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google AI Overviews Pushing Searchers Into AI Mode, Drops Show More Button](https://www.seroundtable.com/google-ai-overviews-push-ai-mode-responses-41974.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-28 17:30 UTC |
+| [Google AI Overviews Pushing Searchers Into AI Mode, Drops Show More Button](https://www.seroundtable.com/google-ai-overviews-push-ai-mode-responses-41974.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-28 17:30 UTC |
 | [Daily Search Forum Recap: August 28, 2026](https://www.seroundtable.com/recap-08-28-2026-41971.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-28 14:00 UTC |
 | [Search News Buzz Video Recap: Google GoTo Parameter Fight, PDFs Go Missing In Google, SEO For AI Responses &amp; Google and Microsoft Ads News](https://www.seroundtable.com/video-08-28-2026-41963.html) | Search Engine Roundtable | 170 | Links | 2026-08-28 12:01 UTC |
 | [Google Ads Book Buttons Expand To Search &amp; Performance Max](https://www.seroundtable.com/google-ads-book-buttons-41964.html) | Search Engine Roundtable | 170 | Local SEO | 2026-08-28 11:51 UTC |
@@ -28,7 +28,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Search Having Indexing/Serving Issues August 28th](https://www.seroundtable.com/google-search-indexing-issues-41972.html) | Search Engine Roundtable | 170 | Indexing | 2026-08-28 11:15 UTC |
 | [Google AI Mode Asking Searchers To Sign In](https://www.seroundtable.com/google-ai-mode-sign-in-41962.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-28 11:11 UTC |
 | [Google Search Now Lists The Supported Favicon File Formats](https://www.seroundtable.com/google-favicon-docs-file-formats-41970.html) | Search Engine Roundtable | 170 | General | 2026-08-28 11:05 UTC |
-| [Google Won't Enforce Its Site Reputation Policy Manual Actions In Europe](https://www.seroundtable.com/google-site-reputation-policy-eea-41968.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-28 05:00 UTC |
 | [How We Use AI for Every Article Without Making AI Slop](https://ahrefs.com/blog/how-we-use-ai-without-making-ai-slop/) | Ahrefs Blog | 120 | AI Search | 2026-08-28 13:05 UTC |
 | [How to track AI Overviews with Semrush](https://www.semrush.com/blog/semrush-ai-overview-research/) | Semrush Blog | 110 | AI Search | 2026-08-28 12:40 UTC |
 
