@@ -26,12 +26,12 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Search Now Lists The Supported Favicon File Formats](https://www.seroundtable.com/google-favicon-docs-file-formats-41970.html) | Search Engine Roundtable | 170 | General | 2026-08-28 11:05 UTC |
 | [Google Won't Enforce Its Site Reputation Policy Manual Actions In Europe](https://www.seroundtable.com/google-site-reputation-policy-eea-41968.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-28 05:00 UTC |
 | [IRS Website Drops Heavily In Google Search](https://www.seroundtable.com/irs-website-drops-google-search-41967.html) | Search Engine Roundtable | 170 | General | 2026-08-27 18:23 UTC |
-| [Google AI Mode Adds Flight Price Tracking, Mile Rates &amp; Hotel Booking](https://www.seroundtable.com/google-ai-mode-travel-updates-41956.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-27 16:00 UTC |
-| [Daily Search Forum Recap: August 27, 2026](https://www.seroundtable.com/recap-08-27-2026-41960.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-27 14:00 UTC |
+| [Google AI Mode Adds Flight Price Tracking, Mile Rates &amp; Hotel Booking](https://www.seroundtable.com/google-ai-mode-travel-updates-41956.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-27 16:00 UTC |
+| [Daily Search Forum Recap: August 27, 2026](https://www.seroundtable.com/recap-08-27-2026-41960.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-27 14:00 UTC |
 | [Bing Tests Renaming Copilot Search Answer To AI Overviews](https://www.seroundtable.com/bing-testing-copilot-search-ai-overviews-41953.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-27 11:51 UTC |
 | [How We Use AI for Every Article Without Making AI Slop](https://ahrefs.com/blog/how-we-use-ai-without-making-ai-slop/) | Ahrefs Blog | 120 | AI Search | 2026-08-28 13:05 UTC |
-| [Analysis: Reddit Appears in 83.9% of Google’s Discussions and Forums Results](https://ahrefs.com/blog/discussions-and-forums-serps/) | Ahrefs Blog | 120 | Links | 2026-08-27 13:49 UTC |
 | [How to track AI Overviews with Semrush](https://www.semrush.com/blog/semrush-ai-overview-research/) | Semrush Blog | 110 | AI Search | 2026-08-28 12:40 UTC |
+| [Analysis: Reddit Appears in 83.9% of Google’s Discussions and Forums Results](https://ahrefs.com/blog/discussions-and-forums-serps/) | Ahrefs Blog | 105 | Links | 2026-08-27 13:49 UTC |
 | [MBA Metrics for SEO: How to Speak Leadership’s Language](https://ahrefs.com/blog/mba-metrics-for-seo/) | Ahrefs Blog | 105 | GSC | 2026-08-24 15:52 UTC |
 | [Google releases August 2026 spam update: What marketers need to know](https://www.semrush.com/blog/google-august-2026-spam-update/) | Semrush Blog | 95 | General | 2026-08-26 08:25 UTC |
 | [Reddit's citations in ChatGPT fall from 3.8% to 0.5%](https://www.semrush.com/blog/reddits-citations-in-chatgpt-fall/) | Semrush Blog | 95 | AI Search | 2026-08-26 08:21 UTC |
