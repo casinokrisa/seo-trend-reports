@@ -25,7 +25,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google AI Mode Asking Searchers To Sign In](https://www.seroundtable.com/google-ai-mode-sign-in-41962.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-28 11:11 UTC |
 | [Google Search Now Lists The Supported Favicon File Formats](https://www.seroundtable.com/google-favicon-docs-file-formats-41970.html) | Search Engine Roundtable | 170 | General | 2026-08-28 11:05 UTC |
 | [Google Won't Enforce Its Site Reputation Policy Manual Actions In Europe](https://www.seroundtable.com/google-site-reputation-policy-eea-41968.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-28 05:00 UTC |
-| [IRS Website Drops Heavily In Google Search](https://www.seroundtable.com/irs-website-drops-google-search-41967.html) | Search Engine Roundtable | 170 | General | 2026-08-27 18:23 UTC |
+| [IRS Website Drops Heavily In Google Search](https://www.seroundtable.com/irs-website-drops-google-search-41967.html) | Search Engine Roundtable | 155 | General | 2026-08-27 18:23 UTC |
 | [Google AI Mode Adds Flight Price Tracking, Mile Rates &amp; Hotel Booking](https://www.seroundtable.com/google-ai-mode-travel-updates-41956.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-27 16:00 UTC |
 | [Daily Search Forum Recap: August 27, 2026](https://www.seroundtable.com/recap-08-27-2026-41960.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-27 14:00 UTC |
 | [Bing Tests Renaming Copilot Search Answer To AI Overviews](https://www.seroundtable.com/bing-testing-copilot-search-ai-overviews-41953.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-27 11:51 UTC |
