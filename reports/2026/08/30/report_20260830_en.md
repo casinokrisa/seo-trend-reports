@@ -18,10 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google AI Overviews Pushing Searchers Into AI Mode, Drops Show More Button](https://www.seroundtable.com/google-ai-overviews-push-ai-mode-responses-41974.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-28 17:30 UTC |
-| [Daily Search Forum Recap: August 28, 2026](https://www.seroundtable.com/recap-08-28-2026-41971.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-28 14:00 UTC |
-| [How We Use AI for Every Article Without Making AI Slop](https://ahrefs.com/blog/how-we-use-ai-without-making-ai-slop/) | Ahrefs Blog | 120 | AI Search | 2026-08-28 13:05 UTC |
-| [How to track AI Overviews with Semrush](https://www.semrush.com/blog/semrush-ai-overview-research/) | Semrush Blog | 110 | AI Search | 2026-08-28 12:40 UTC |
+| _No site items in window_ |  |  |  |  |
 
 ## Notes for manual writing
 
