@@ -14,9 +14,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 |---|---|---:|---|---:|
 | [Updated the European Search Dataset Licensing Program page](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 220 | AI Search | 2026-08-31 00:00 UTC |
 | [Google: We Don't Penalize For Old Outbound Links With Shady Content](https://www.seroundtable.com/google-old-shady-links-41987.html) | Search Engine Roundtable | 210 | Links | 2026-08-31 18:59 UTC |
-| [Google European Search Dataset Licensing Program Details](https://www.seroundtable.com/google-european-search-dataset-licensing-program-41986.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-31 16:13 UTC |
-| [Daily Search Forum Recap: August 31, 2026](https://www.seroundtable.com/recap-08-31-2026-41981.html) | Search Engine Roundtable | 210 | AI Search | 2026-08-31 14:00 UTC |
 | [Update to the Site Reputation Policy](https://developers.google.com/search/blog/2026/08/update-site-reputation-policy) | Google Search Central Blog | 195 | Content | 2026-08-28 00:00 UTC |
+| [Google European Search Dataset Licensing Program Details](https://www.seroundtable.com/google-european-search-dataset-licensing-program-41986.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-31 16:13 UTC |
+| [Daily Search Forum Recap: August 31, 2026](https://www.seroundtable.com/recap-08-31-2026-41981.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-31 14:00 UTC |
 | [Microsoft Advertising New Updated Design Preview](https://www.seroundtable.com/microsoft-advertising-updated-design-preview-41978.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-31 11:51 UTC |
 | [Google Merchant Center Popular Products Enhanced Coverage &amp; Insights](https://www.seroundtable.com/google-merchant-center-popular-products-report-enhanced-41977.html) | Search Engine Roundtable | 190 | GSC | 2026-08-31 11:41 UTC |
 | [Microsoft Forcing Copilot Users To Login But Not For Copilot Search Answers](https://www.seroundtable.com/microsoft-copilot-login-41975.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-31 11:31 UTC |
