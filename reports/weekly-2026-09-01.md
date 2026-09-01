@@ -12,24 +12,24 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Global: Google Search Console AI Performance Report &amp; AI Control](https://www.seroundtable.com/google-search-console-generative-ai-tools-live-41984.html) | Search Engine Roundtable | 210 | GSC | 2026-09-01 11:51 UTC |
+| [Google Ads AI-Generated From The Store Rating Reviews Label](https://www.seroundtable.com/google-ads-ai-generated-store-rating-reviews-41983.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-01 11:41 UTC |
+| [Google Ads Performance Max Help Docs Updated](https://www.seroundtable.com/google-ads-pmax-help-doc-updated-41982.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-01 11:31 UTC |
+| [Google: Verifying Your Request To Continue To Search Results](https://www.seroundtable.com/google-search-verifying-your-request-continue-41985.html) | Search Engine Roundtable | 210 | General | 2026-09-01 11:21 UTC |
+| [Google Ads AI Max Keyword Prioritization For Exact Match](https://www.seroundtable.com/google-ads-ai-max-keyword-prioritization-41988.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-01 11:15 UTC |
+| [September 2026 Google Webmaster Report](https://www.seroundtable.com/sept-2026-google-webmaster-report-41979.html) | Search Engine Roundtable | 210 | General | 2026-09-01 11:11 UTC |
+| [Google Discover Not Loading Or Loading Slowly](https://www.seroundtable.com/google-discover-broken-41991.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-01 11:04 UTC |
 | [Updated the European Search Dataset Licensing Program page](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | AI Search | 2026-08-31 00:00 UTC |
 | [Update to the Site Reputation Policy](https://developers.google.com/search/blog/2026/08/update-site-reputation-policy) | Google Search Central Blog | 195 | Content | 2026-08-28 00:00 UTC |
 | [Google: We Don't Penalize For Old Outbound Links With Shady Content](https://www.seroundtable.com/google-old-shady-links-41987.html) | Search Engine Roundtable | 190 | Links | 2026-08-31 18:59 UTC |
 | [Google European Search Dataset Licensing Program Details](https://www.seroundtable.com/google-european-search-dataset-licensing-program-41986.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-31 16:13 UTC |
-| [Daily Search Forum Recap: August 31, 2026](https://www.seroundtable.com/recap-08-31-2026-41981.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-31 14:00 UTC |
-| [Microsoft Advertising New Updated Design Preview](https://www.seroundtable.com/microsoft-advertising-updated-design-preview-41978.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-31 11:51 UTC |
-| [Google Merchant Center Popular Products Enhanced Coverage &amp; Insights](https://www.seroundtable.com/google-merchant-center-popular-products-report-enhanced-41977.html) | Search Engine Roundtable | 190 | GSC | 2026-08-31 11:41 UTC |
-| [Microsoft Forcing Copilot Users To Login But Not For Copilot Search Answers](https://www.seroundtable.com/microsoft-copilot-login-41975.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-31 11:31 UTC |
-| [Google Confirms Search Spam Team Is Fighting &amp; Well Resourced](https://www.seroundtable.com/google-search-spam-team-fighting-41980.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-31 11:21 UTC |
-| [Google AI Mode With Inline Shopping Carousel Ads &amp; Single Ad Unit](https://www.seroundtable.com/google-ai-mode-shopping-carousel-ads-41973.html) | Search Engine Roundtable | 190 | AI Search | 2026-08-31 11:11 UTC |
-| [Google AI Overviews Pushing Searchers Into AI Mode, Drops Show More Button](https://www.seroundtable.com/google-ai-overviews-push-ai-mode-responses-41974.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-28 17:30 UTC |
-| [Daily Search Forum Recap: August 28, 2026](https://www.seroundtable.com/recap-08-28-2026-41971.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-28 14:00 UTC |
-| [Search News Buzz Video Recap: Google GoTo Parameter Fight, PDFs Go Missing In Google, SEO For AI Responses &amp; Google and Microsoft Ads News](https://www.seroundtable.com/video-08-28-2026-41963.html) | Search Engine Roundtable | 155 | Links | 2026-08-28 12:01 UTC |
-| [Google Ads Book Buttons Expand To Search &amp; Performance Max](https://www.seroundtable.com/google-ads-book-buttons-41964.html) | Search Engine Roundtable | 155 | Local SEO | 2026-08-28 11:51 UTC |
-| [Google Announces Search Updates For Transparency, Actionable Updates Get Blog Posts](https://www.seroundtable.com/google-announces-search-updates-41969.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-28 11:41 UTC |
-| [Google Preferred Sources, Tailor Your Feed &amp; Search Profiles Are Different](https://www.seroundtable.com/google-preferred-sources-tailor-your-feed-41965.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-28 11:31 UTC |
-| [Google Alcohol Advertising Policy Update On September 30](https://www.seroundtable.com/google-update-alcohol-advertising-policy-41966.html) | Search Engine Roundtable | 155 | AI Search | 2026-08-28 11:21 UTC |
-| [Where does AI get its information? And how to get cited](https://www.semrush.com/blog/where-does-ai-get-its-information/) | Semrush Blog | 150 | AI Search | 2026-09-01 07:52 UTC |
+| [Daily Search Forum Recap: August 31, 2026](https://www.seroundtable.com/recap-08-31-2026-41981.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-31 14:00 UTC |
+| [Microsoft Advertising New Updated Design Preview](https://www.seroundtable.com/microsoft-advertising-updated-design-preview-41978.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-31 11:51 UTC |
+| [Google Merchant Center Popular Products Enhanced Coverage &amp; Insights](https://www.seroundtable.com/google-merchant-center-popular-products-report-enhanced-41977.html) | Search Engine Roundtable | 170 | GSC | 2026-08-31 11:41 UTC |
+| [Microsoft Forcing Copilot Users To Login But Not For Copilot Search Answers](https://www.seroundtable.com/microsoft-copilot-login-41975.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-31 11:31 UTC |
+| [Google Confirms Search Spam Team Is Fighting &amp; Well Resourced](https://www.seroundtable.com/google-search-spam-team-fighting-41980.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-31 11:21 UTC |
+| [Google AI Mode With Inline Shopping Carousel Ads &amp; Single Ad Unit](https://www.seroundtable.com/google-ai-mode-shopping-carousel-ads-41973.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-31 11:11 UTC |
+| [Where does AI get its information? And how to get cited](https://www.semrush.com/blog/where-does-ai-get-its-information/) | Semrush Blog | 130 | AI Search | 2026-09-01 07:52 UTC |
 | [How to use AI tools for competitor analysis in 2026](https://www.semrush.com/blog/ai-tools-for-competitor-analysis/) | Semrush Blog | 110 | AI Search | 2026-08-31 09:42 UTC |
 | [18 SEO KPIs to measure organic &amp; AI search performance](https://www.semrush.com/blog/seo-kpis/) | Semrush Blog | 110 | AI Search | 2026-08-31 09:23 UTC |
 | [Enterprise SEO: What it is &amp; how to build a winning strategy](https://www.semrush.com/blog/enterprise-seo/) | Semrush Blog | 110 | Content | 2026-08-31 09:09 UTC |
