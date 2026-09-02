@@ -12,9 +12,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Working On Fixing Local Service Ads Bug](https://www.seroundtable.com/google-local-service-ads-bug-41999.html) | Search Engine Roundtable | 210 | Local SEO | 2026-09-01 19:17 UTC |
 | [Updated the European Search Dataset Licensing Program page](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | AI Search | 2026-08-31 00:00 UTC |
 | [Update to the Site Reputation Policy](https://developers.google.com/search/blog/2026/08/update-site-reputation-policy) | Google Search Central Blog | 195 | Content | 2026-08-28 00:00 UTC |
+| [Google Working On Fixing Local Service Ads Bug](https://www.seroundtable.com/google-local-service-ads-bug-41999.html) | Search Engine Roundtable | 190 | Local SEO | 2026-09-01 19:17 UTC |
 | [Daily Search Forum Recap: September 1, 2026](https://www.seroundtable.com/recap-09-01-2026-41989.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-01 14:00 UTC |
 | [Global: Google Search Console AI Performance Report &amp; AI Control](https://www.seroundtable.com/google-search-console-generative-ai-tools-live-41984.html) | Search Engine Roundtable | 190 | GSC | 2026-09-01 11:51 UTC |
 | [Google Ads AI-Generated From The Store Rating Reviews Label](https://www.seroundtable.com/google-ads-ai-generated-store-rating-reviews-41983.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-01 11:41 UTC |

@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Working On Fixing Local Service Ads Bug](https://www.seroundtable.com/google-local-service-ads-bug-41999.html) | Search Engine Roundtable | 210 | Local SEO | 2026-09-01 19:17 UTC |
+| [Google Working On Fixing Local Service Ads Bug](https://www.seroundtable.com/google-local-service-ads-bug-41999.html) | Search Engine Roundtable | 190 | Local SEO | 2026-09-01 19:17 UTC |
 | [Daily Search Forum Recap: September 1, 2026](https://www.seroundtable.com/recap-09-01-2026-41989.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-01 14:00 UTC |
 | [Global: Google Search Console AI Performance Report &amp; AI Control](https://www.seroundtable.com/google-search-console-generative-ai-tools-live-41984.html) | Search Engine Roundtable | 190 | GSC | 2026-09-01 11:51 UTC |
 | [Google Ads AI-Generated From The Store Rating Reviews Label](https://www.seroundtable.com/google-ads-ai-generated-store-rating-reviews-41983.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-01 11:41 UTC |
@@ -28,8 +28,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [September 2026 Google Webmaster Report](https://www.seroundtable.com/sept-2026-google-webmaster-report-41979.html) | Search Engine Roundtable | 190 | General | 2026-09-01 11:11 UTC |
 | [Google Discover Not Loading Or Loading Slowly](https://www.seroundtable.com/google-discover-broken-41991.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-01 11:04 UTC |
 | [Google: We Don't Penalize For Old Outbound Links With Shady Content](https://www.seroundtable.com/google-old-shady-links-41987.html) | Search Engine Roundtable | 170 | Links | 2026-08-31 18:59 UTC |
-| [Google European Search Dataset Licensing Program Details](https://www.seroundtable.com/google-european-search-dataset-licensing-program-41986.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-31 16:13 UTC |
-| [Daily Search Forum Recap: August 31, 2026](https://www.seroundtable.com/recap-08-31-2026-41981.html) | Search Engine Roundtable | 170 | AI Search | 2026-08-31 14:00 UTC |
 | [Where does AI get its information? And how to get cited](https://www.semrush.com/blog/where-does-ai-get-its-information/) | Semrush Blog | 130 | AI Search | 2026-09-01 07:52 UTC |
 
 ## Notes for manual writing
