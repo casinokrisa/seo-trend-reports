@@ -29,7 +29,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Bing Tests Search Result Snippets Without Site Names](https://www.seroundtable.com/bing-search-snippets-without-sitenames-41990.html) | Search Engine Roundtable | 190 | General | 2026-09-02 11:11 UTC |
 | [Google Analytics September 1 Data Missing](https://www.seroundtable.com/google-analytics-broken-42002.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-02 10:13 UTC |
 | [Google Working On Fixing Local Service Ads Bug](https://www.seroundtable.com/google-local-service-ads-bug-41999.html) | Search Engine Roundtable | 170 | Local SEO | 2026-09-01 19:17 UTC |
-| [Daily Search Forum Recap: September 1, 2026](https://www.seroundtable.com/recap-09-01-2026-41989.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-01 14:00 UTC |
 | [Create an AI Brand Visibility Report [+ Template]](https://www.semrush.com/blog/create-ai-seo-search-marketing-report/) | Semrush Blog | 130 | AI Search | 2026-09-02 09:33 UTC |
 | [How to prepare your site for AI agents](https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/) | Semrush Blog | 130 | Indexing | 2026-09-02 09:18 UTC |
 
