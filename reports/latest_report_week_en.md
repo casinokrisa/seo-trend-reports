@@ -12,8 +12,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: September 3, 2026](https://www.seroundtable.com/recap-09-03-2026-42013.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-03 14:00 UTC |
 | [Update to the Site Reputation Policy](https://developers.google.com/search/blog/2026/08/update-site-reputation-policy) | Google Search Central Blog | 195 | Content | 2026-08-28 00:00 UTC |
+| [Daily Search Forum Recap: September 3, 2026](https://www.seroundtable.com/recap-09-03-2026-42013.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-03 14:00 UTC |
 | [Publishers Noticing Google News Tab Content Disappearing](https://www.seroundtable.com/google-news-tab-content-disappearing-42012.html) | Search Engine Roundtable | 190 | Indexing | 2026-09-03 11:51 UTC |
 | [Google AI Mode Gemini 3.8 Flash Not Link / Citation Friendly?](https://www.seroundtable.com/google-ai-mode-gemini-38-no-links-42011.html) | Search Engine Roundtable | 190 | Links | 2026-09-03 11:41 UTC |
 | [Google Expands Merchant Center AI Performance Insights](https://www.seroundtable.com/google-expands-merchant-center-ai-performance-insights-42005.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-03 11:31 UTC |
