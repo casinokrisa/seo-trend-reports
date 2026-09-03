@@ -6,7 +6,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Struggling to get obvious fake reviews removed](https://www.reddit.com/r/localseo/comments/1w626yt/struggling_to_get_obvious_fake_reviews_removed/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-03 09:13 UTC |
+| [Why isn't my website ranking?](https://www.reddit.com/r/localseo/comments/1w61ztr/why_isnt_my_website_ranking/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-03 09:01 UTC |
+| [What’s one SEO task you stopped doing because it simply wasn’t worth the time?](https://www.reddit.com/r/localseo/comments/1w5zkbv/whats_one_seo_task_you_stopped_doing_because_it/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-03 06:37 UTC |
+| [Local seo as side hustle](https://www.reddit.com/r/localseo/comments/1w5zewq/local_seo_as_side_hustle/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-03 06:29 UTC |
+| [GMB growth stuck](https://www.reddit.com/r/localseo/comments/1w5yiz3/gmb_growth_stuck/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-03 05:40 UTC |
+| [Which is the best Local Seo Agency Right Now ?](https://www.reddit.com/r/localseo/comments/1w5xwvl/which_is_the_best_local_seo_agency_right_now/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-03 05:06 UTC |
+| [Hi, how to solve this kind of problem? Ganito ang text nya sa post pag sa page hindi naman. Anyone na makaka solve sa ganitong problema.](https://www.reddit.com/r/localseo/comments/1w5mbk1/hi_how_to_solve_this_kind_of_problem_ganito_ang/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-02 20:34 UTC |
+| [On Page tools](https://www.reddit.com/r/localseo/comments/1w5hu02/on_page_tools/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-02 17:58 UTC |
+| [I feel every Google Maps rank tracker sell us the &quot;rank in #top3&quot; lie!](https://www.reddit.com/r/localseo/comments/1w5gq3q/i_feel_every_google_maps_rank_tracker_sell_us_the/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-02 17:19 UTC |
+| [Need a Help from Big Brothers! Local Seo](https://www.reddit.com/r/localseo/comments/1w5g8za/need_a_help_from_big_brothers_local_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-02 17:03 UTC |
+| [Local seo for Pi law firms](https://www.reddit.com/r/localseo/comments/1w5c0wn/local_seo_for_pi_law_firms/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-02 14:30 UTC |
+| [How to work &quot;near me&quot; queries](https://www.reddit.com/r/localseo/comments/1w5bbs3/how_to_work_near_me_queries/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-02 14:04 UTC |
 
 ## Weekly notable items (Sites)
 
@@ -34,12 +45,12 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Where does AI get its information? And how to get cited](https://www.semrush.com/blog/where-does-ai-get-its-information/) | Semrush Blog | 110 | AI Search | 2026-09-01 07:52 UTC |
 | [How to use AI tools for competitor analysis in 2026](https://www.semrush.com/blog/ai-tools-for-competitor-analysis/) | Semrush Blog | 110 | AI Search | 2026-08-31 09:42 UTC |
 | [18 SEO KPIs to measure organic &amp; AI search performance](https://www.semrush.com/blog/seo-kpis/) | Semrush Blog | 110 | AI Search | 2026-08-31 09:23 UTC |
-| [Enterprise SEO: What it is &amp; how to build a winning strategy](https://www.semrush.com/blog/enterprise-seo/) | Semrush Blog | 110 | Content | 2026-08-31 09:09 UTC |
-| [How to rank in ChatGPT search: 8 steps to improve visibility](https://www.semrush.com/blog/chatgpt-search/) | Semrush Blog | 110 | AI Search | 2026-08-31 08:45 UTC |
-| [Why is SEO important? 11 reasons it still matters.](https://www.semrush.com/blog/importance-of-seo/) | Semrush Blog | 110 | Migration | 2026-08-31 08:21 UTC |
-| [8 Best AI Content Marketing Tools for 2026 (Tried &amp; Tested)](https://www.semrush.com/blog/best-ai-content-marketing-tools/) | Semrush Blog | 110 | AI Search | 2026-08-31 07:41 UTC |
 | [How We Use AI for Every Article Without Making AI Slop](https://ahrefs.com/blog/how-we-use-ai-without-making-ai-slop/) | Ahrefs Blog | 105 | AI Search | 2026-08-28 13:05 UTC |
 | [Analysis: Reddit Appears in 83.9% of Google’s Discussions and Forums Results](https://ahrefs.com/blog/discussions-and-forums-serps/) | Ahrefs Blog | 105 | Links | 2026-08-27 13:49 UTC |
+| [Enterprise SEO: What it is &amp; how to build a winning strategy](https://www.semrush.com/blog/enterprise-seo/) | Semrush Blog | 95 | Content | 2026-08-31 09:09 UTC |
+| [How to rank in ChatGPT search: 8 steps to improve visibility](https://www.semrush.com/blog/chatgpt-search/) | Semrush Blog | 95 | AI Search | 2026-08-31 08:45 UTC |
+| [Why is SEO important? 11 reasons it still matters.](https://www.semrush.com/blog/importance-of-seo/) | Semrush Blog | 95 | Migration | 2026-08-31 08:21 UTC |
+| [8 Best AI Content Marketing Tools for 2026 (Tried &amp; Tested)](https://www.semrush.com/blog/best-ai-content-marketing-tools/) | Semrush Blog | 95 | AI Search | 2026-08-31 07:41 UTC |
 | [How to track AI Overviews with Semrush](https://www.semrush.com/blog/semrush-ai-overview-research/) | Semrush Blog | 95 | AI Search | 2026-08-28 12:40 UTC |
 
 ## Notes
