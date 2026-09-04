@@ -6,29 +6,13 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Gardening Services](https://www.reddit.com/r/localseo/comments/1w6wwac/gardening_services/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-04 06:56 UTC |
-| [Hey local SEO pros](https://www.reddit.com/r/localseo/comments/1w6iafq/hey_local_seo_pros/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-03 19:58 UTC |
-| [Ridiculous amount of spam calls about Google My Business - is there a way to reduce?](https://www.reddit.com/r/localseo/comments/1w6cwyj/ridiculous_amount_of_spam_calls_about_google_my/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-03 16:50 UTC |
-| [Seo para plomero](https://www.reddit.com/r/localseo/comments/1w69gz2/seo_para_plomero/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-03 14:45 UTC |
-| [&quot;Get closer than ever to your customers. So close that you tell them what they need well before they realize it themselves.&quot; -Steve Jobs](https://www.reddit.com/r/localseo/comments/1w64s4b/get_closer_than_ever_to_your_customers_so_close/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-03 11:32 UTC |
-| [Why isn't my website ranking?](https://www.reddit.com/r/localseo/comments/1w61ztr/why_isnt_my_website_ranking/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-03 09:01 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-| 1 | [Gardening Services](https://www.reddit.com/r/localseo/comments/1w6wwac/gardening_services/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-04 06:56 UTC |
-| 2 | [Hey local SEO pros](https://www.reddit.com/r/localseo/comments/1w6iafq/hey_local_seo_pros/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-03 19:58 UTC |
-| 3 | [Ridiculous amount of spam calls about Google My Business - is there a way to reduce?](https://www.reddit.com/r/localseo/comments/1w6cwyj/ridiculous_amount_of_spam_calls_about_google_my/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-03 16:50 UTC |
-| 4 | [Seo para plomero](https://www.reddit.com/r/localseo/comments/1w69gz2/seo_para_plomero/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-03 14:45 UTC |
-| 5 | [&quot;Get closer than ever to your customers. So close that you tell them what they need well before they realize it themselves.&quot; -Steve Jobs](https://www.reddit.com/r/localseo/comments/1w64s4b/get_closer_than_ever_to_your_customers_so_close/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-03 11:32 UTC |
-| 6 | [Why isn't my website ranking?](https://www.reddit.com/r/localseo/comments/1w61ztr/why_isnt_my_website_ranking/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-03 09:01 UTC |
-| 7 | [What’s one SEO task you stopped doing because it simply wasn’t worth the time?](https://www.reddit.com/r/localseo/comments/1w5zkbv/whats_one_seo_task_you_stopped_doing_because_it/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-03 06:37 UTC |
-| 8 | [Local seo as side hustle](https://www.reddit.com/r/localseo/comments/1w5zewq/local_seo_as_side_hustle/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-03 06:29 UTC |
-| 9 | [GMB growth stuck](https://www.reddit.com/r/localseo/comments/1w5yiz3/gmb_growth_stuck/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-03 05:40 UTC |
-| 10 | [Which is the best Local Seo Agency Right Now ?](https://www.reddit.com/r/localseo/comments/1w5xwvl/which_is_the_best_local_seo_agency_right_now/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-03 05:06 UTC |
-| 11 | [Hi, how to solve this kind of problem? Ganito ang text nya sa post pag sa page hindi naman. Anyone na makaka solve sa ganitong problema.](https://www.reddit.com/r/localseo/comments/1w5mbk1/hi_how_to_solve_this_kind_of_problem_ganito_ang/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-02 20:34 UTC |
-| 12 | [On Page tools](https://www.reddit.com/r/localseo/comments/1w5hu02/on_page_tools/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-02 17:58 UTC |
+|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Notable items (Sites)
 
