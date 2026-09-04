@@ -12,26 +12,25 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: September 3, 2026](https://www.seroundtable.com/recap-09-03-2026-42013.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-03 14:00 UTC |
-| [Publishers Noticing Google News Tab Content Disappearing](https://www.seroundtable.com/google-news-tab-content-disappearing-42012.html) | Search Engine Roundtable | 190 | Indexing | 2026-09-03 11:51 UTC |
-| [Google AI Mode Gemini 3.8 Flash Not Link / Citation Friendly?](https://www.seroundtable.com/google-ai-mode-gemini-38-no-links-42011.html) | Search Engine Roundtable | 190 | Links | 2026-09-03 11:41 UTC |
-| [Google Expands Merchant Center AI Performance Insights](https://www.seroundtable.com/google-expands-merchant-center-ai-performance-insights-42005.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-03 11:31 UTC |
-| [Google Ads Under Re-Review Label Status](https://www.seroundtable.com/google-ads-under-re-review-status-41976.html) | Search Engine Roundtable | 190 | General | 2026-09-03 11:21 UTC |
-| [Google Ads New Phone Call &amp; Offline Conversions Details](https://www.seroundtable.com/google-ads-phone-call-offline-conversions-42000.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-03 11:11 UTC |
+| [Search News Buzz Video Recap: Google Ad Tech Monopoly Wonât Be Broken Up, AI Mode Takes Over, Gemini Not Citing, AdSense Impression Changes &amp; Bugs](https://www.seroundtable.com/video-09-04-2026-42015.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-04 12:01 UTC |
+| [New Google Business Profiles Submit A Business Photo For Verification](https://www.seroundtable.com/google-business-profiles-business-photo-verification-42019.html) | Search Engine Roundtable | 210 | Local SEO | 2026-09-04 11:51 UTC |
+| [Google Expands Waze Ads Beyond The United States](https://www.seroundtable.com/google-expands-waze-ads-42018.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-04 11:41 UTC |
+| [Google Ads Collapsing Sitelinks That You Can Expand](https://www.seroundtable.com/google-ads-collapsing-sitelinks-42014.html) | Search Engine Roundtable | 210 | Links | 2026-09-04 11:31 UTC |
+| [Bing Tests Bolded HTTPS URLs In Snippets](https://www.seroundtable.com/bing-bolded-https-urls-41939.html) | Search Engine Roundtable | 210 | Migration | 2026-09-04 11:21 UTC |
+| [Google Ads Pushing Dismissed Recommendations](https://www.seroundtable.com/google-ads-dismissed-recommendations-42016.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-04 11:11 UTC |
+| [ChatGPT Ads Manager Plugin, Audience Updates, Product Feeds &amp; More](https://www.seroundtable.com/openai-chatgpt-ads-updates-42017.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-04 11:05 UTC |
 | [Updated the European Search Dataset Licensing Program page](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | AI Search | 2026-08-31 00:00 UTC |
+| [Daily Search Forum Recap: September 3, 2026](https://www.seroundtable.com/recap-09-03-2026-42013.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-03 14:00 UTC |
+| [Publishers Noticing Google News Tab Content Disappearing](https://www.seroundtable.com/google-news-tab-content-disappearing-42012.html) | Search Engine Roundtable | 170 | Indexing | 2026-09-03 11:51 UTC |
+| [Google AI Mode Gemini 3.8 Flash Not Link / Citation Friendly?](https://www.seroundtable.com/google-ai-mode-gemini-38-no-links-42011.html) | Search Engine Roundtable | 170 | Links | 2026-09-03 11:41 UTC |
+| [Google Expands Merchant Center AI Performance Insights](https://www.seroundtable.com/google-expands-merchant-center-ai-performance-insights-42005.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-03 11:31 UTC |
+| [Google Ads Under Re-Review Label Status](https://www.seroundtable.com/google-ads-under-re-review-status-41976.html) | Search Engine Roundtable | 170 | General | 2026-09-03 11:21 UTC |
+| [Google Ads New Phone Call &amp; Offline Conversions Details](https://www.seroundtable.com/google-ads-phone-call-offline-conversions-42000.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-03 11:11 UTC |
 | [Google Search Using Gemini 3.8 Flash In AI Mode](https://www.seroundtable.com/google-search-ai-mode-gemini-38-42009.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-02 15:59 UTC |
 | [Judge Rules Google Ad Tech Business Won't Be Broken Up](https://www.seroundtable.com/google-ad-tech-business-ruling-42008.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-02 15:31 UTC |
-| [Daily Search Forum Recap: September 2, 2026](https://www.seroundtable.com/recap-09-02-2026-42003.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-02 14:00 UTC |
-| [Google Trends Explore Page Adds Category Filtering](https://www.seroundtable.com/google-trends-filter-category-42007.html) | Search Engine Roundtable | 170 | General | 2026-09-02 13:38 UTC |
-| [Google: The Disavow Tool Does Have Effects](https://www.seroundtable.com/google-disavow-tool-effects-42004.html) | Search Engine Roundtable | 170 | Links | 2026-09-02 11:51 UTC |
-| [Google Ads New Pre-Fill Asset Groups With Generated Assets](https://www.seroundtable.com/google-ads-pre-fill-asset-groups-41993.html) | Search Engine Roundtable | 170 | General | 2026-09-02 11:41 UTC |
-| [Google AdSense Begin-to-Render Impression Measurement Coming](https://www.seroundtable.com/google-adsense-begin-to-render-41992.html) | Search Engine Roundtable | 170 | Indexing | 2026-09-02 11:31 UTC |
-| [Google Tell Maps Starts To Roll Out](https://www.seroundtable.com/google-tell-maps-42001.html) | Search Engine Roundtable | 170 | Local SEO | 2026-09-02 11:21 UTC |
-| [Bing Tests Search Result Snippets Without Site Names](https://www.seroundtable.com/bing-search-snippets-without-sitenames-41990.html) | Search Engine Roundtable | 170 | General | 2026-09-02 11:11 UTC |
-| [Long-tail keywords: the ultimate guide](https://www.semrush.com/blog/how-to-choose-long-tail-keywords/) | Semrush Blog | 130 | AI Search | 2026-09-03 10:48 UTC |
+| [Long-tail keywords: the ultimate guide](https://www.semrush.com/blog/how-to-choose-long-tail-keywords/) | Semrush Blog | 110 | AI Search | 2026-09-03 10:48 UTC |
 | [Create an AI Brand Visibility Report [+ Template]](https://www.semrush.com/blog/create-ai-seo-search-marketing-report/) | Semrush Blog | 110 | AI Search | 2026-09-02 09:33 UTC |
 | [How to prepare your site for AI agents](https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/) | Semrush Blog | 110 | Indexing | 2026-09-02 09:18 UTC |
-| [How We Use AI for Every Article Without Making AI Slop](https://ahrefs.com/blog/how-we-use-ai-without-making-ai-slop/) | Ahrefs Blog | 105 | AI Search | 2026-08-28 13:05 UTC |
 | [Where does AI get its information? And how to get cited](https://www.semrush.com/blog/where-does-ai-get-its-information/) | Semrush Blog | 95 | AI Search | 2026-09-01 07:52 UTC |
 | [How to use AI tools for competitor analysis in 2026](https://www.semrush.com/blog/ai-tools-for-competitor-analysis/) | Semrush Blog | 95 | AI Search | 2026-08-31 09:42 UTC |
 | [18 SEO KPIs to measure organic &amp; AI search performance](https://www.semrush.com/blog/seo-kpis/) | Semrush Blog | 95 | AI Search | 2026-08-31 09:23 UTC |
@@ -39,7 +38,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [How to rank in ChatGPT search: 8 steps to improve visibility](https://www.semrush.com/blog/chatgpt-search/) | Semrush Blog | 95 | AI Search | 2026-08-31 08:45 UTC |
 | [Why is SEO important? 11 reasons it still matters.](https://www.semrush.com/blog/importance-of-seo/) | Semrush Blog | 95 | Migration | 2026-08-31 08:21 UTC |
 | [8 Best AI Content Marketing Tools for 2026 (Tried &amp; Tested)](https://www.semrush.com/blog/best-ai-content-marketing-tools/) | Semrush Blog | 95 | AI Search | 2026-08-31 07:41 UTC |
-| [How to track AI Overviews with Semrush](https://www.semrush.com/blog/semrush-ai-overview-research/) | Semrush Blog | 95 | AI Search | 2026-08-28 12:40 UTC |
 
 ## Notes
 
