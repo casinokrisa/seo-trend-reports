@@ -12,8 +12,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Job Search Not Showing New Jobs?](https://www.seroundtable.com/google-job-search-bug-42022.html) | Search Engine Roundtable | 210 | General | 2026-09-04 15:12 UTC |
-| [Daily Search Forum Recap: September 4, 2026](https://www.seroundtable.com/recap-09-04-2026-42020.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-04 14:00 UTC |
+| [Google Ads Tests Serving Search Ads With Restrictive Match Types In AI Mode](https://www.seroundtable.com/google-ads-serving-restrictive-match-types-ai-mode-42024.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-04 18:50 UTC |
+| [Google Job Search Not Showing New Jobs?](https://www.seroundtable.com/google-job-search-bug-42022.html) | Search Engine Roundtable | 190 | General | 2026-09-04 15:12 UTC |
+| [Daily Search Forum Recap: September 4, 2026](https://www.seroundtable.com/recap-09-04-2026-42020.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-04 14:00 UTC |
 | [Search News Buzz Video Recap: Google Ad Tech Monopoly Wonât Be Broken Up, AI Mode Takes Over, Gemini Not Citing, AdSense Impression Changes &amp; Bugs](https://www.seroundtable.com/video-09-04-2026-42015.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-04 12:01 UTC |
 | [New Google Business Profiles Submit A Business Photo For Verification](https://www.seroundtable.com/google-business-profiles-business-photo-verification-42019.html) | Search Engine Roundtable | 190 | Local SEO | 2026-09-04 11:51 UTC |
 | [Google Expands Waze Ads Beyond The United States](https://www.seroundtable.com/google-expands-waze-ads-42018.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-04 11:41 UTC |
@@ -27,7 +28,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google AI Mode Gemini 3.8 Flash Not Link / Citation Friendly?](https://www.seroundtable.com/google-ai-mode-gemini-38-no-links-42011.html) | Search Engine Roundtable | 170 | Links | 2026-09-03 11:41 UTC |
 | [Google Expands Merchant Center AI Performance Insights](https://www.seroundtable.com/google-expands-merchant-center-ai-performance-insights-42005.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-03 11:31 UTC |
 | [Google Ads Under Re-Review Label Status](https://www.seroundtable.com/google-ads-under-re-review-status-41976.html) | Search Engine Roundtable | 170 | General | 2026-09-03 11:21 UTC |
-| [Google Ads New Phone Call &amp; Offline Conversions Details](https://www.seroundtable.com/google-ads-phone-call-offline-conversions-42000.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-03 11:11 UTC |
 | [Long-tail keywords: the ultimate guide](https://www.semrush.com/blog/how-to-choose-long-tail-keywords/) | Semrush Blog | 110 | AI Search | 2026-09-03 10:48 UTC |
 | [Create an AI Brand Visibility Report [+ Template]](https://www.semrush.com/blog/create-ai-seo-search-marketing-report/) | Semrush Blog | 110 | AI Search | 2026-09-02 09:33 UTC |
 | [How to prepare your site for AI agents](https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/) | Semrush Blog | 110 | Indexing | 2026-09-02 09:18 UTC |
