@@ -6,29 +6,13 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [How would you rate this SEO progress for a ~2-month-old site?](https://www.reddit.com/r/localseo/comments/1w7twln/how_would_you_rate_this_seo_progress_for_a/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-05 07:25 UTC |
-| [Need idea...](https://www.reddit.com/r/localseo/comments/1w7sjzq/need_idea/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-05 06:12 UTC |
-| [local seo feels rigged for big brands.. how do small players even compete anymore??](https://www.reddit.com/r/localseo/comments/1w7qrz9/local_seo_feels_rigged_for_big_brands_how_do/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-05 04:37 UTC |
-| [CTR manipulation - are people faking it?](https://www.reddit.com/r/localseo/comments/1w7oyvu/ctr_manipulation_are_people_faking_it/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-09-05 03:05 UTC |
-| [Is there any way to make sure my content has great quality rather than only length for SEO ?](https://www.reddit.com/r/localseo/comments/1w7fvjp/is_there_any_way_to_make_sure_my_content_has/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Content | 2026-09-04 20:27 UTC |
-| [Are these all local service ads?](https://www.reddit.com/r/localseo/comments/1w7encu/are_these_all_local_service_ads/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-04 19:43 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-| 1 | [How would you rate this SEO progress for a ~2-month-old site?](https://www.reddit.com/r/localseo/comments/1w7twln/how_would_you_rate_this_seo_progress_for_a/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-05 07:25 UTC |
-| 2 | [Need idea...](https://www.reddit.com/r/localseo/comments/1w7sjzq/need_idea/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-05 06:12 UTC |
-| 3 | [local seo feels rigged for big brands.. how do small players even compete anymore??](https://www.reddit.com/r/localseo/comments/1w7qrz9/local_seo_feels_rigged_for_big_brands_how_do/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-05 04:37 UTC |
-| 4 | [CTR manipulation - are people faking it?](https://www.reddit.com/r/localseo/comments/1w7oyvu/ctr_manipulation_are_people_faking_it/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-09-05 03:05 UTC |
-| 5 | [Is there any way to make sure my content has great quality rather than only length for SEO ?](https://www.reddit.com/r/localseo/comments/1w7fvjp/is_there_any_way_to_make_sure_my_content_has/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Content | 2026-09-04 20:27 UTC |
-| 6 | [Are these all local service ads?](https://www.reddit.com/r/localseo/comments/1w7encu/are_these_all_local_service_ads/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-04 19:43 UTC |
-| 7 | [Are you tracking position movements of your urls?](https://www.reddit.com/r/localseo/comments/1w7ea4w/are_you_tracking_position_movements_of_your_urls/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-04 19:29 UTC |
-| 8 | [Are those SEO results good enough to start applying for Jobs/Internships?](https://www.reddit.com/r/localseo/comments/1w7dvdr/are_those_seo_results_good_enough_to_start/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-04 19:14 UTC |
-| 9 | [Free Backlinks Advice Needed](https://www.reddit.com/r/localseo/comments/1w7buhe/free_backlinks_advice_needed/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-09-04 18:02 UTC |
-| 10 | [How can a 50-day-old business get 17 calls per month?](https://www.reddit.com/r/localseo/comments/1w7ahce/how_can_a_50dayold_business_get_17_calls_per_month/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-04 17:13 UTC |
-| 11 | [Contact GBP Support](https://www.reddit.com/r/localseo/comments/1w795yc/contact_gbp_support/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-04 16:26 UTC |
-| 12 | [Your Google Business Profile is getting views, but no calls. What would you check first?](https://www.reddit.com/r/localseo/comments/1w78gds/your_google_business_profile_is_getting_views_but/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-04 16:01 UTC |
+|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Notable items (Sites)
 
