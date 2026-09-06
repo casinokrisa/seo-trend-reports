@@ -23,11 +23,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Bing Tests Bolded HTTPS URLs In Snippets](https://www.seroundtable.com/bing-bolded-https-urls-41939.html) | Search Engine Roundtable | 170 | Migration | 2026-09-04 11:21 UTC |
 | [Google Ads Pushing Dismissed Recommendations](https://www.seroundtable.com/google-ads-dismissed-recommendations-42016.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-04 11:11 UTC |
 | [ChatGPT Ads Manager Plugin, Audience Updates, Product Feeds &amp; More](https://www.seroundtable.com/openai-chatgpt-ads-updates-42017.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-04 11:05 UTC |
-| [Daily Search Forum Recap: September 3, 2026](https://www.seroundtable.com/recap-09-03-2026-42013.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-03 14:00 UTC |
-| [Publishers Noticing Google News Tab Content Disappearing](https://www.seroundtable.com/google-news-tab-content-disappearing-42012.html) | Search Engine Roundtable | 170 | Indexing | 2026-09-03 11:51 UTC |
-| [Google AI Mode Gemini 3.8 Flash Not Link / Citation Friendly?](https://www.seroundtable.com/google-ai-mode-gemini-38-no-links-42011.html) | Search Engine Roundtable | 170 | Links | 2026-09-03 11:41 UTC |
-| [Google Expands Merchant Center AI Performance Insights](https://www.seroundtable.com/google-expands-merchant-center-ai-performance-insights-42005.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-03 11:31 UTC |
-| [Google Ads Under Re-Review Label Status](https://www.seroundtable.com/google-ads-under-re-review-status-41976.html) | Search Engine Roundtable | 170 | General | 2026-09-03 11:21 UTC |
+| [Daily Search Forum Recap: September 3, 2026](https://www.seroundtable.com/recap-09-03-2026-42013.html) | Search Engine Roundtable | 155 | AI Search | 2026-09-03 14:00 UTC |
+| [Publishers Noticing Google News Tab Content Disappearing](https://www.seroundtable.com/google-news-tab-content-disappearing-42012.html) | Search Engine Roundtable | 155 | Indexing | 2026-09-03 11:51 UTC |
+| [Google AI Mode Gemini 3.8 Flash Not Link / Citation Friendly?](https://www.seroundtable.com/google-ai-mode-gemini-38-no-links-42011.html) | Search Engine Roundtable | 155 | Links | 2026-09-03 11:41 UTC |
+| [Google Expands Merchant Center AI Performance Insights](https://www.seroundtable.com/google-expands-merchant-center-ai-performance-insights-42005.html) | Search Engine Roundtable | 155 | AI Search | 2026-09-03 11:31 UTC |
+| [Google Ads Under Re-Review Label Status](https://www.seroundtable.com/google-ads-under-re-review-status-41976.html) | Search Engine Roundtable | 155 | General | 2026-09-03 11:21 UTC |
 | [Long-tail keywords: the ultimate guide](https://www.semrush.com/blog/how-to-choose-long-tail-keywords/) | Semrush Blog | 95 | AI Search | 2026-09-03 10:48 UTC |
 | [Create an AI Brand Visibility Report [+ Template]](https://www.semrush.com/blog/create-ai-seo-search-marketing-report/) | Semrush Blog | 95 | AI Search | 2026-09-02 09:33 UTC |
 | [How to prepare your site for AI agents](https://www.semrush.com/blog/how-to-prepare-your-site-for-ai-agents/) | Semrush Blog | 95 | Indexing | 2026-09-02 09:18 UTC |
