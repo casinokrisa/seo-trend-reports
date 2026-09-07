@@ -18,7 +18,16 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| _No site items in window_ |  |  |  |  |
+| [Daily Search Forum Recap: September 7, 2026](https://www.seroundtable.com/recap-09-07-2026-42028.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-07 14:00 UTC |
+| [Google Can Lose Faith In Sites Based On Low Value Programmatic SEO](https://www.seroundtable.com/google-lose-faith-42032.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-07 12:37 UTC |
+| [New Google Ads Automated Promotions](https://www.seroundtable.com/google-ads-automated-promotions-42006.html) | Search Engine Roundtable | 210 | General | 2026-09-07 11:51 UTC |
+| [Google Search Booking Partner Prices Are Customized](https://www.seroundtable.com/google-booking-partner-prices-customized-41935.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-07 11:41 UTC |
+| [Google Merchant Center Shows AI Prompts For Top Performance Insights](https://www.seroundtable.com/google-merchant-center-ai-prompts-42023.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-07 11:31 UTC |
+| [Google Shopping Ads Have A Reverse Crocodile Effect With AI Overviews](https://www.seroundtable.com/google-shopping-ads-imp-ctr-42021.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-07 11:21 UTC |
+| [Site Rules For Applebot-Extended Are Not Considered In Ranking For Search](https://www.seroundtable.com/applebot-extended-search-ranking-42025.html) | Search Engine Roundtable | 210 | General | 2026-09-07 11:11 UTC |
+| [Google AI Overviews Get A Character Counter Tool](https://www.seroundtable.com/google-ai-overviews-character-counter-42026.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-07 11:05 UTC |
+| [Topic clusters for SEO: what they are &amp; how to create them](https://www.semrush.com/blog/topic-clusters/) | Semrush Blog | 150 | AI Search | 2026-09-07 12:58 UTC |
+| [AI chatbots talked 57.5% of AI users out of buying](https://www.semrush.com/blog/ai-chatbots-talk-ai-users-out-of-buying/) | Semrush Blog | 130 | AI Search | 2026-09-07 08:48 UTC |
 
 ## Notes for manual writing
 
