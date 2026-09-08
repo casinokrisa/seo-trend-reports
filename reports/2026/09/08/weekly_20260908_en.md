@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Why do AI-generated Google review replies still sound so bad?](https://www.reddit.com/r/localseo/comments/1wahm9y/why_do_aigenerated_google_review_replies_still/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-09-08 07:34 UTC |
-| [Is “AI SEO” becoming a real skill, or are we just repackaging good SEO with a new name?](https://www.reddit.com/r/localseo/comments/1wah0be/is_ai_seo_becoming_a_real_skill_or_are_we_just/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-09-08 06:58 UTC |
-| [Service &amp; location pages](https://www.reddit.com/r/localseo/comments/1wael0k/service_location_pages/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-08 04:44 UTC |
-| [No Recurring SEO Needed - First Web Design Project (pretty happy with the results)](https://www.reddit.com/r/localseo/comments/1wad3zg/no_recurring_seo_needed_first_web_design_project/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-08 03:27 UTC |
-| [Ran a local SEO agency for a year, got tired of being the human API, so I built software that does the job itself. Now I need advice. &quot;i will not promote&quot;](https://www.reddit.com/r/localseo/comments/1wacomf/ran_a_local_seo_agency_for_a_year_got_tired_of/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-08 03:06 UTC |
-| [I am a Local SEO expert looking for remote SEO job niche Plumbing business location US.](https://www.reddit.com/r/localseo/comments/1wab493/i_am_a_local_seo_expert_looking_for_remote_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-08 01:52 UTC |
-| [Case Study: 10X’d an education consultancy’s organic traffic with less than $100/month.](https://www.reddit.com/r/localseo/comments/1wa1x5c/case_study_10xd_an_education_consultancys_organic/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-07 19:30 UTC |
-| [1 month into my Local SEO side hustle- pretty happy with this](https://www.reddit.com/r/localseo/comments/1wa0gre/1_month_into_my_local_seo_side_hustle_pretty/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-07 18:37 UTC |
-| [Are Google sitelinks still important for SEO in 2026?](https://www.reddit.com/r/localseo/comments/1w9vlg3/are_google_sitelinks_still_important_for_seo_in/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-09-07 15:40 UTC |
-| [Bing Places takes 3-12 days to update hours after change??](https://www.reddit.com/r/localseo/comments/1w9u2xk/bing_places_takes_312_days_to_update_hours_after/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-07 14:42 UTC |
-| [What are the best AI tools for local SEO at this point?](https://www.reddit.com/r/localseo/comments/1w9peoy/what_are_the_best_ai_tools_for_local_seo_at_this/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-07 11:20 UTC |
-| [Building citations for service-area based businesses](https://www.reddit.com/r/localseo/comments/1w9p1m2/building_citations_for_servicearea_based/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-09-07 11:01 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
