@@ -30,10 +30,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Tests Thinner AI Overview Citations Panel](https://www.seroundtable.com/google-thinner-ai-overview-citations-panel-42040.html) | Search Engine Roundtable | 190 | Links | 2026-09-08 11:15 UTC |
 | [Google Business Profiles Email: Does This Look Right To You](https://www.seroundtable.com/gbp-does-this-look-right-to-you-email-42030.html) | Search Engine Roundtable | 190 | Local SEO | 2026-09-08 11:11 UTC |
 | [Google Shopping Ads With Number Sold Last Week](https://www.seroundtable.com/google-shopping-ads-sold-last-week-42039.html) | Search Engine Roundtable | 190 | General | 2026-09-08 11:05 UTC |
-| [Daily Search Forum Recap: September 7, 2026](https://www.seroundtable.com/recap-09-07-2026-42028.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-07 14:00 UTC |
-| [Google Can Lose Faith In Sites Based On Low Value Programmatic SEO](https://www.seroundtable.com/google-lose-faith-42032.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-07 12:37 UTC |
 | [AI search &amp; manufacturing SEO: What the data shows [Study]](https://www.semrush.com/blog/manufacturing-seo-ai-search/) | Semrush Blog | 130 | AI Search | 2026-09-08 13:38 UTC |
-| [Topic clusters for SEO: what they are &amp; how to create them](https://www.semrush.com/blog/topic-clusters/) | Semrush Blog | 110 | AI Search | 2026-09-07 12:58 UTC |
 
 ## Notes for manual writing
 
