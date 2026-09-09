@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: September 9, 2026](https://www.seroundtable.com/recap-09-09-2026-42052.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-09 14:00 UTC |
+| [Daily Search Forum Recap: September 9, 2026](https://www.seroundtable.com/recap-09-09-2026-42052.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-09 14:00 UTC |
 | [Google: Sometimes There Is No Absolute Right Answer For SEO](https://www.seroundtable.com/google-no-absolute-right-seo-answer-42048.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-09 11:51 UTC |
 | [Google Merchant Center AI Performance: AI Search Intent, Terms &amp; Attribution](https://www.seroundtable.com/google-merchant-center-ai-performance-new-42043.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-09 11:41 UTC |
 | [Google Ads Local Customer Optimization &amp; Store Sales In Data Manager](https://www.seroundtable.com/google-ads-local-customer-optimization-store-sales-42045.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-09 11:31 UTC |
@@ -33,7 +33,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google AI Mode Tests Paginated Follow Up Responses With Skip Button](https://www.seroundtable.com/google-ai-mode-paginated-responses-skip-42029.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-08 11:31 UTC |
 | [Google Search Console Links Report Not Updated In A Month](https://www.seroundtable.com/google-search-console-links-report-delayed-42034.html) | Search Engine Roundtable | 170 | Links | 2026-09-08 11:21 UTC |
 | [Google Tests Thinner AI Overview Citations Panel](https://www.seroundtable.com/google-thinner-ai-overview-citations-panel-42040.html) | Search Engine Roundtable | 170 | Links | 2026-09-08 11:15 UTC |
-| [We rebuilt SEOquake, Semrush’s free SEO Chrome extension](https://www.semrush.com/blog/seoquake-relaunch/) | Semrush Blog | 150 | General | 2026-09-09 15:37 UTC |
+| [We rebuilt SEOquake, Semrush’s free SEO Chrome extension](https://www.semrush.com/blog/seoquake-relaunch/) | Semrush Blog | 130 | General | 2026-09-09 15:37 UTC |
 | [How to build your first AI SEO agent (full walk-through)](https://www.semrush.com/blog/seo-ai-agent/) | Semrush Blog | 130 | AI Search | 2026-09-09 09:38 UTC |
 | [9 best AI search engines in 2026 [tested &amp; reviewed]](https://www.semrush.com/blog/best-ai-search-engines/) | Semrush Blog | 130 | AI Search | 2026-09-09 09:22 UTC |
 | [AI search &amp; manufacturing SEO: What the data shows [Study]](https://www.semrush.com/blog/manufacturing-seo-ai-search/) | Semrush Blog | 110 | AI Search | 2026-09-08 13:38 UTC |
