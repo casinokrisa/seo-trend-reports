@@ -25,12 +25,9 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Almost 100% Of People Also Ask Results Are Answered By Google AI Overviews](https://www.seroundtable.com/ppa-ai-overviews-google-42047.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-09 11:21 UTC |
 | [Google Ads Location Asset Requirements Update](https://www.seroundtable.com/google-ads-location-asset-requirements-update-42046.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-09 11:11 UTC |
 | [Google Confirmed Indexing Reporting Bug From Yesterday As Short Blip](https://www.seroundtable.com/google-confirmed-indexing-reporting-bug-from-last-night-42051.html) | Search Engine Roundtable | 190 | Indexing | 2026-09-09 09:59 UTC |
-| [Regional Differences In Google Search Experience Documentation](https://www.seroundtable.com/google-regional-differences-in-search-experience-42044.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-08 15:08 UTC |
-| [Daily Search Forum Recap: September 8, 2026](https://www.seroundtable.com/recap-09-08-2026-42041.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-08 14:00 UTC |
 | [We rebuilt SEOquake, Semrush’s free SEO Chrome extension](https://www.semrush.com/blog/seoquake-relaunch/) | Semrush Blog | 130 | General | 2026-09-09 15:37 UTC |
 | [How to build your first AI SEO agent (full walk-through)](https://www.semrush.com/blog/seo-ai-agent/) | Semrush Blog | 130 | AI Search | 2026-09-09 09:38 UTC |
 | [9 best AI search engines in 2026 [tested &amp; reviewed]](https://www.semrush.com/blog/best-ai-search-engines/) | Semrush Blog | 130 | AI Search | 2026-09-09 09:22 UTC |
-| [AI search &amp; manufacturing SEO: What the data shows [Study]](https://www.semrush.com/blog/manufacturing-seo-ai-search/) | Semrush Blog | 110 | AI Search | 2026-09-08 13:38 UTC |
 
 ## Notes for manual writing
 
