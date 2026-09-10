@@ -18,9 +18,9 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Search Deez Nuts AI Overview Easter Egg](https://www.seroundtable.com/deez-nuts-google-easter-egg-42062.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-10 14:51 UTC |
-| [Daily Search Forum Recap: September 10, 2026](https://www.seroundtable.com/recap-09-10-2026-42058.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-10 14:00 UTC |
-| [Apple: 2.5 Billion Siri Requests Every Day](https://www.seroundtable.com/apple-siri-2-5-billion-requests-daily-42060.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-10 13:03 UTC |
+| [Google Search Deez Nuts AI Overview Easter Egg](https://www.seroundtable.com/deez-nuts-google-easter-egg-42062.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-10 14:51 UTC |
+| [Daily Search Forum Recap: September 10, 2026](https://www.seroundtable.com/recap-09-10-2026-42058.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-10 14:00 UTC |
+| [Apple: 2.5 Billion Siri Requests Every Day](https://www.seroundtable.com/apple-siri-2-5-billion-requests-daily-42060.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-10 13:03 UTC |
 | [Google: The Old Position 1-10 Is Hard To Map For Site Owners](https://www.seroundtable.com/google-position-1-10-hard-map-42053.html) | Search Engine Roundtable | 190 | GSC | 2026-09-10 11:51 UTC |
 | [Google Ranking Factors Survey: Content &amp; Backlinks Most Important](https://www.seroundtable.com/google-ranking-factors-expert-survey-42057.html) | Search Engine Roundtable | 190 | Links | 2026-09-10 11:41 UTC |
 | [Bait &amp; Switch: Google Ads Revoking Credits After Advertisers Spend Them](https://www.seroundtable.com/google-ads-credit-revoked-42049.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-10 11:31 UTC |
@@ -37,7 +37,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Internal links: ultimate guide + strategies](https://www.semrush.com/blog/internal-links/) | Semrush Blog | 130 | Indexing | 2026-09-10 10:11 UTC |
 | [We rebuilt SEOquake, Semrush’s free SEO Chrome extension](https://www.semrush.com/blog/seoquake-relaunch/) | Semrush Blog | 110 | General | 2026-09-09 15:37 UTC |
 | [How to build your first AI SEO agent (full walk-through)](https://www.semrush.com/blog/seo-ai-agent/) | Semrush Blog | 110 | AI Search | 2026-09-09 09:38 UTC |
-| [9 best AI search engines in 2026 [tested &amp; reviewed]](https://www.semrush.com/blog/best-ai-search-engines/) | Semrush Blog | 110 | AI Search | 2026-09-09 09:22 UTC |
 
 ## Notes for manual writing
 
