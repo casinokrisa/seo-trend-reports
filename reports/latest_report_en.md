@@ -26,10 +26,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Bait &amp; Switch: Google Ads Revoking Credits After Advertisers Spend Them](https://www.seroundtable.com/google-ads-credit-revoked-42049.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-10 11:31 UTC |
 | [Google Ads Beta Experiment: Budget Or Bidding Targets For Search Campaigns](https://www.seroundtable.com/google-ads-budget-bidding-targets-42055.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-10 11:21 UTC |
 | [Google Maps Phone Number in Photo Scam](https://www.seroundtable.com/google-maps-phone-number-in-photo-scam-42056.html) | Search Engine Roundtable | 190 | Local SEO | 2026-09-10 11:11 UTC |
-| [Daily Search Forum Recap: September 9, 2026](https://www.seroundtable.com/recap-09-09-2026-42052.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-09 14:00 UTC |
 | [How to do keyword research with Claude and Semrush](https://www.semrush.com/blog/claude-keyword-research/) | Semrush Blog | 130 | General | 2026-09-10 17:12 UTC |
 | [Internal links: ultimate guide + strategies](https://www.semrush.com/blog/internal-links/) | Semrush Blog | 130 | Indexing | 2026-09-10 10:11 UTC |
-| [We rebuilt SEOquake, Semrush’s free SEO Chrome extension](https://www.semrush.com/blog/seoquake-relaunch/) | Semrush Blog | 110 | General | 2026-09-09 15:37 UTC |
 
 ## Notes for manual writing
 
