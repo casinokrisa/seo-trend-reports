@@ -6,13 +6,29 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Business address is different city on USPS vs Google - what do you think?](https://www.reddit.com/r/localseo/comments/1wczqrk/business_address_is_different_city_on_usps_vs/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-10 23:42 UTC |
+| [Google Maps Business Profiles Phone Number in Photo Scam](https://www.reddit.com/r/localseo/comments/1wcyehi/google_maps_business_profiles_phone_number_in/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-10 22:46 UTC |
+| [I develop website and bespoke digital tools for glaziers, plumbers and electricians - how do I reach them?](https://www.reddit.com/r/localseo/comments/1wcw8lu/i_develop_website_and_bespoke_digital_tools_for/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-09-10 21:20 UTC |
+| [Managing Unique Tracking Numbers by Platform](https://www.reddit.com/r/localseo/comments/1wcsmiu/managing_unique_tracking_numbers_by_platform/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-10 19:08 UTC |
+| [IT Services - Residential Address](https://www.reddit.com/r/localseo/comments/1wcsaef/it_services_residential_address/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-10 18:56 UTC |
+| [Who said LinkedIn lead generation doesn't work?](https://www.reddit.com/r/localseo/comments/1wcpn9r/who_said_linkedin_lead_generation_doesnt_work/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-09-10 17:24 UTC |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
+| 1 | [Business address is different city on USPS vs Google - what do you think?](https://www.reddit.com/r/localseo/comments/1wczqrk/business_address_is_different_city_on_usps_vs/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-10 23:42 UTC |
+| 2 | [Google Maps Business Profiles Phone Number in Photo Scam](https://www.reddit.com/r/localseo/comments/1wcyehi/google_maps_business_profiles_phone_number_in/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-10 22:46 UTC |
+| 3 | [I develop website and bespoke digital tools for glaziers, plumbers and electricians - how do I reach them?](https://www.reddit.com/r/localseo/comments/1wcw8lu/i_develop_website_and_bespoke_digital_tools_for/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-09-10 21:20 UTC |
+| 4 | [Managing Unique Tracking Numbers by Platform](https://www.reddit.com/r/localseo/comments/1wcsmiu/managing_unique_tracking_numbers_by_platform/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-10 19:08 UTC |
+| 5 | [IT Services - Residential Address](https://www.reddit.com/r/localseo/comments/1wcsaef/it_services_residential_address/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-10 18:56 UTC |
+| 6 | [Who said LinkedIn lead generation doesn't work?](https://www.reddit.com/r/localseo/comments/1wcpn9r/who_said_linkedin_lead_generation_doesnt_work/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-09-10 17:24 UTC |
+| 7 | [SEO + AI Search: Ask Me Anything](https://www.reddit.com/r/localseo/comments/1wcm0cs/seo_ai_search_ask_me_anything/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-09-10 15:12 UTC |
+| 8 | [What’s the Best Link Building Strategy for SEO in 2026?](https://www.reddit.com/r/localseo/comments/1wcfvqi/whats_the_best_link_building_strategy_for_seo_in/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-09-10 10:58 UTC |
+| 9 | [Google reviews republished on the homepage](https://www.reddit.com/r/localseo/comments/1wcdsfb/google_reviews_republished_on_the_homepage/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-10 09:05 UTC |
+| 10 | [540,000 BAD BACKLINKS. What should I do?](https://www.reddit.com/r/localseo/comments/1wcd5y7/540000_bad_backlinks_what_should_i_do/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-09-10 08:29 UTC |
+| 11 | [Took a client's website from1K to 11.7K monthly organic traffic sharing what actually moved the needle](https://www.reddit.com/r/localseo/comments/1wcah78/took_a_clients_website_from1k_to_117k_monthly/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-10 05:57 UTC |
+| 12 | [With every achievement it feels like I am improving from previous day](https://www.reddit.com/r/localseo/comments/1wc9cj1/with_every_achievement_it_feels_like_i_am/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-10 04:59 UTC |
 
 ## Notable items (Sites)
 
