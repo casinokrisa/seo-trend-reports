@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Dashboards Available In Google Analytics](https://www.seroundtable.com/google-analytics-dashboards-42075.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-11 16:32 UTC |
+| [Dashboards Available In Google Analytics](https://www.seroundtable.com/google-analytics-dashboards-42075.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-11 16:32 UTC |
 | [Daily Search Forum Recap: September 11, 2026](https://www.seroundtable.com/recap-09-11-2026-42070.html) | Search Engine Roundtable | 170 | Indexing | 2026-09-11 14:00 UTC |
 | [Google Search Console Indexing Report Missing Old June Data](https://www.seroundtable.com/google-search-console-indexing-report-missing-data-42073.html) | Search Engine Roundtable | 170 | Indexing | 2026-09-11 13:17 UTC |
 | [Search News Buzz Video Recap: Google Degrades EU Search Quality, Losing Faith In Your Site, AI Mode Match Types &amp; Google Maps Photo Scams](https://www.seroundtable.com/video-09-11-2026-42061.html) | Search Engine Roundtable | 170 | Local SEO | 2026-09-11 12:01 UTC |

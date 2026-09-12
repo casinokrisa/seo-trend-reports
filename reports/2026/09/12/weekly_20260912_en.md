@@ -13,8 +13,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Search Central Live is coming to Bogota and Ciudad de México](https://developers.google.com/search/blog/2026/09/search-central-live-mexico-and-colombia) | Google Search Central Blog | 195 | General | 2026-09-08 00:00 UTC |
-| [Dashboards Available In Google Analytics](https://www.seroundtable.com/google-analytics-dashboards-42075.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-11 16:32 UTC |
 | [Added documentation about regional differences in Search experience](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | AI Search | 2026-09-08 00:00 UTC |
+| [Dashboards Available In Google Analytics](https://www.seroundtable.com/google-analytics-dashboards-42075.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-11 16:32 UTC |
 | [Daily Search Forum Recap: September 11, 2026](https://www.seroundtable.com/recap-09-11-2026-42070.html) | Search Engine Roundtable | 170 | Indexing | 2026-09-11 14:00 UTC |
 | [Google Search Console Indexing Report Missing Old June Data](https://www.seroundtable.com/google-search-console-indexing-report-missing-data-42073.html) | Search Engine Roundtable | 170 | Indexing | 2026-09-11 13:17 UTC |
 | [Search News Buzz Video Recap: Google Degrades EU Search Quality, Losing Faith In Your Site, AI Mode Match Types &amp; Google Maps Photo Scams](https://www.seroundtable.com/video-09-11-2026-42061.html) | Search Engine Roundtable | 170 | Local SEO | 2026-09-11 12:01 UTC |
@@ -32,7 +32,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [What is zero-click marketing? How to execute and measure it](https://www.semrush.com/blog/zero-click-marketing/) | Semrush Blog | 110 | GSC | 2026-09-11 10:06 UTC |
 | [How to do keyword research with Claude and Semrush](https://www.semrush.com/blog/claude-keyword-research/) | Semrush Blog | 110 | General | 2026-09-10 17:12 UTC |
 | [Internal links: ultimate guide + strategies](https://www.semrush.com/blog/internal-links/) | Semrush Blog | 110 | Indexing | 2026-09-10 10:11 UTC |
-| [We rebuilt SEOquake, Semrush’s free SEO Chrome extension](https://www.semrush.com/blog/seoquake-relaunch/) | Semrush Blog | 110 | General | 2026-09-09 15:37 UTC |
+| [We rebuilt SEOquake, Semrush’s free SEO Chrome extension](https://www.semrush.com/blog/seoquake-relaunch/) | Semrush Blog | 95 | General | 2026-09-09 15:37 UTC |
 | [How to build your first AI SEO agent (full walk-through)](https://www.semrush.com/blog/seo-ai-agent/) | Semrush Blog | 95 | AI Search | 2026-09-09 09:38 UTC |
 | [9 best AI search engines in 2026 [tested &amp; reviewed]](https://www.semrush.com/blog/best-ai-search-engines/) | Semrush Blog | 95 | AI Search | 2026-09-09 09:22 UTC |
 | [AI search &amp; manufacturing SEO: What the data shows [Study]](https://www.semrush.com/blog/manufacturing-seo-ai-search/) | Semrush Blog | 95 | AI Search | 2026-09-08 13:38 UTC |
