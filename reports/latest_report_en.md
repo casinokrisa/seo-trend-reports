@@ -28,11 +28,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Video Campaign Group Beta](https://www.seroundtable.com/google-ads-video-campaign-group-42027.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-11 11:21 UTC |
 | [Google Merchant Center With Add Product Videos](https://www.seroundtable.com/google-merchant-center-add-product-videos-42064.html) | Search Engine Roundtable | 190 | General | 2026-09-11 11:11 UTC |
 | [Google AdSense Max Message Coverage &amp; Optimize My Consent Message](https://www.seroundtable.com/google-adsense-maximize-message-coverage-optimize-consent-message-42069.html) | Search Engine Roundtable | 190 | GSC | 2026-09-11 11:05 UTC |
-| [Google Search Deez Nuts AI Overview Easter Egg](https://www.seroundtable.com/deez-nuts-google-easter-egg-42062.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-10 14:51 UTC |
-| [Daily Search Forum Recap: September 10, 2026](https://www.seroundtable.com/recap-09-10-2026-42058.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-10 14:00 UTC |
-| [Apple: 2.5 Billion Siri Requests Every Day](https://www.seroundtable.com/apple-siri-2-5-billion-requests-daily-42060.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-10 13:03 UTC |
 | [What is zero-click marketing? How to execute and measure it](https://www.semrush.com/blog/zero-click-marketing/) | Semrush Blog | 130 | GSC | 2026-09-11 10:06 UTC |
-| [How to do keyword research with Claude and Semrush](https://www.semrush.com/blog/claude-keyword-research/) | Semrush Blog | 110 | General | 2026-09-10 17:12 UTC |
 
 ## Notes for manual writing
 
