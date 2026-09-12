@@ -28,7 +28,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Video Campaign Group Beta](https://www.seroundtable.com/google-ads-video-campaign-group-42027.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-11 11:21 UTC |
 | [Google Merchant Center With Add Product Videos](https://www.seroundtable.com/google-merchant-center-add-product-videos-42064.html) | Search Engine Roundtable | 170 | General | 2026-09-11 11:11 UTC |
 | [Google AdSense Max Message Coverage &amp; Optimize My Consent Message](https://www.seroundtable.com/google-adsense-maximize-message-coverage-optimize-consent-message-42069.html) | Search Engine Roundtable | 170 | GSC | 2026-09-11 11:05 UTC |
-| [What is zero-click marketing? How to execute and measure it](https://www.semrush.com/blog/zero-click-marketing/) | Semrush Blog | 110 | GSC | 2026-09-11 10:06 UTC |
 
 ## Notes for manual writing
 
