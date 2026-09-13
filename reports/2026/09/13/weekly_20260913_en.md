@@ -6,7 +6,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [If a local business ranks on Google but still gets no leads, what would you check first?](https://www.reddit.com/r/localseo/comments/1weylg6/if_a_local_business_ranks_on_google_but_still/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-13 05:12 UTC |
+| [3 SEO things that totally failed for us](https://www.reddit.com/r/localseo/comments/1wemjm4/3_seo_things_that_totally_failed_for_us/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-09-12 19:58 UTC |
+| [In 2026, which approach is most likely to help a website earn visibility across both traditional search and AI-powered search experiences?](https://www.reddit.com/r/localseo/comments/1welrp6/in_2026_which_approach_is_most_likely_to_help_a/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-09-12 19:27 UTC |
+| [Agencies managing multiple GBPs, what does your actual SOP look like?](https://www.reddit.com/r/localseo/comments/1weidhx/agencies_managing_multiple_gbps_what_does_your/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-12 17:19 UTC |
+| [SEO Pros: Are you seeing more established businesses struggle with SEO pricing?](https://www.reddit.com/r/localseo/comments/1wei8yd/seo_pros_are_you_seeing_more_established/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-12 17:14 UTC |
+| [Does AEO matter for local businesses yet?](https://www.reddit.com/r/localseo/comments/1wehur8/does_aeo_matter_for_local_businesses_yet/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-09-12 17:00 UTC |
+| [Google Business Profile reviews suddenly dropped from 30+ to only 7](https://www.reddit.com/r/localseo/comments/1weczuz/google_business_profile_reviews_suddenly_dropped/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-12 13:42 UTC |
+| [Every old SEO trick is back. It just targets AI Engines now.](https://www.reddit.com/r/localseo/comments/1wecv8n/every_old_seo_trick_is_back_it_just_targets_ai/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-09-12 13:37 UTC |
+| [Has AI search actually changed how you do Local SEO?](https://www.reddit.com/r/localseo/comments/1we52qi/has_ai_search_actually_changed_how_you_do_local/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-12 06:39 UTC |
+| [Do customers really visit local business websites anymore, or is the Google Business Profile becoming the real homepage?](https://www.reddit.com/r/localseo/comments/1we0ggy/do_customers_really_visit_local_business_websites/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-12 02:41 UTC |
+| [Almost 100% Of &quot;People Also Ask&quot; Results Are Answered By Google AI Overviews](https://www.reddit.com/r/localseo/comments/1wdwo7z/almost_100_of_people_also_ask_results_are/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-09-11 23:46 UTC |
+| [Confused about NAP + entity naming with 2 GBPs. Help needed please.](https://www.reddit.com/r/localseo/comments/1wdwjfp/confused_about_nap_entity_naming_with_2_gbps_help/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-11 23:40 UTC |
 
 ## Weekly notable items (Sites)
 
