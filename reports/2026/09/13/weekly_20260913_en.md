@@ -30,7 +30,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google: The Old Position 1-10 Is Hard To Map For Site Owners](https://www.seroundtable.com/google-position-1-10-hard-map-42053.html) | Search Engine Roundtable | 155 | GSC | 2026-09-10 11:51 UTC |
 | [Google Ranking Factors Survey: Content &amp; Backlinks Most Important](https://www.seroundtable.com/google-ranking-factors-expert-survey-42057.html) | Search Engine Roundtable | 155 | Links | 2026-09-10 11:41 UTC |
 | [What is zero-click marketing? How to execute and measure it](https://www.semrush.com/blog/zero-click-marketing/) | Semrush Blog | 110 | GSC | 2026-09-11 10:06 UTC |
-| [How to do keyword research with Claude and Semrush](https://www.semrush.com/blog/claude-keyword-research/) | Semrush Blog | 110 | General | 2026-09-10 17:12 UTC |
+| [How to do keyword research with Claude and Semrush](https://www.semrush.com/blog/claude-keyword-research/) | Semrush Blog | 95 | General | 2026-09-10 17:12 UTC |
 | [Internal links: ultimate guide + strategies](https://www.semrush.com/blog/internal-links/) | Semrush Blog | 95 | Indexing | 2026-09-10 10:11 UTC |
 | [We rebuilt SEOquake, Semrush’s free SEO Chrome extension](https://www.semrush.com/blog/seoquake-relaunch/) | Semrush Blog | 95 | General | 2026-09-09 15:37 UTC |
 | [How to build your first AI SEO agent (full walk-through)](https://www.semrush.com/blog/seo-ai-agent/) | Semrush Blog | 95 | AI Search | 2026-09-09 09:38 UTC |
