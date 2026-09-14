@@ -19,7 +19,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Search Central Live India 2026: Bengaluru, We're Coming (For Real This Time)](https://developers.google.com/search/blog/2026/09/search-central-live-india-2026) | Google Search Central Blog | 230 | General | 2026-09-14 00:00 UTC |
-| [Daily Search Forum Recap: September 14, 2026](https://www.seroundtable.com/recap-09-14-2026-42078.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-14 14:00 UTC |
+| [Daily Search Forum Recap: September 14, 2026](https://www.seroundtable.com/recap-09-14-2026-42078.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-14 14:00 UTC |
 | [Google Search Update September 4th That Reverted September 13th?](https://www.seroundtable.com/google-search-ranking-update-94-42079.html) | Search Engine Roundtable | 190 | General | 2026-09-14 12:05 UTC |
 | [Google Search Tests Blue More Link In Shopping Results](https://www.seroundtable.com/google-blue-more-link-in-shopping-results-42077.html) | Search Engine Roundtable | 190 | Links | 2026-09-14 11:51 UTC |
 | [Google AI Mode More Query Expansion Interfaces](https://www.seroundtable.com/google-ai-mode-more-query-expansions-42074.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-14 11:41 UTC |
