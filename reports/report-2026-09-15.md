@@ -18,8 +18,9 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google Search Live Now Powered By Gemini 3.8 Live](https://www.seroundtable.com/google-search-live-gemini-3-8-42094.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-15 17:58 UTC |
 | [Google Chrome User Experience Report (CrUX) With Ad Metrics](https://www.seroundtable.com/google-ad-metrics-crux-42093.html) | Search Engine Roundtable | 210 | General | 2026-09-15 16:49 UTC |
-| [Daily Search Forum Recap: September 15, 2026](https://www.seroundtable.com/recap-09-15-2026-42088.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-15 14:00 UTC |
+| [Daily Search Forum Recap: September 15, 2026](https://www.seroundtable.com/recap-09-15-2026-42088.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-15 14:00 UTC |
 | [Google Search Ranking Volatility Heats Up This Morning - September 15th](https://www.seroundtable.com/google-update-42091.html) | Search Engine Roundtable | 190 | General | 2026-09-15 11:52 UTC |
 | [Google Business Profile API Application Delays](https://www.seroundtable.com/google-business-profile-api-application-delays-42085.html) | Search Engine Roundtable | 190 | Local SEO | 2026-09-15 11:51 UTC |
 | [Google AI Mode Tests Text Link Ads](https://www.seroundtable.com/google-ai-mode-text-link-ads-42082.html) | Search Engine Roundtable | 190 | Links | 2026-09-15 11:41 UTC |
@@ -32,7 +33,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Search Tests Blue More Link In Shopping Results](https://www.seroundtable.com/google-blue-more-link-in-shopping-results-42077.html) | Search Engine Roundtable | 170 | Links | 2026-09-14 11:51 UTC |
 | [Google AI Mode More Query Expansion Interfaces](https://www.seroundtable.com/google-ai-mode-more-query-expansions-42074.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-14 11:41 UTC |
 | [Google Search: It's Normal For Image Thumbnails To Be Slow To Update](https://www.seroundtable.com/google-search-slow-image-thumbnails-42072.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-14 11:31 UTC |
-| [Google Ads Product Value Optimization Beta](https://www.seroundtable.com/google-ads-product-value-optimization-42071.html) | Search Engine Roundtable | 170 | General | 2026-09-14 11:21 UTC |
 
 ## Notes for manual writing
 
