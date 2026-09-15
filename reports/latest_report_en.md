@@ -6,13 +6,29 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Any Appointment Setters?](https://www.reddit.com/r/localseo/comments/1wgll54/any_appointment_setters/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-15 00:52 UTC |
+| [Paid ads work. Organic SEO doesn’t. What am I missing?](https://www.reddit.com/r/localseo/comments/1wgk029/paid_ads_work_organic_seo_doesnt_what_am_i_missing/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-09-14 23:42 UTC |
+| [is there any way to recover the website](https://www.reddit.com/r/localseo/comments/1wgcz60/is_there_any_way_to_recover_the_website/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-14 19:12 UTC |
+| [I am getting impressions but not clicks, how to improve my CTR?](https://www.reddit.com/r/localseo/comments/1wgbdtd/i_am_getting_impressions_but_not_clicks_how_to/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-09-14 18:17 UTC |
+| [Those of you who are running ads, what type and style is working for you?](https://www.reddit.com/r/localseo/comments/1wga697/those_of_you_who_are_running_ads_what_type_and/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-14 17:35 UTC |
+| [GBP Agency Dashboard](https://www.reddit.com/r/localseo/comments/1wga38i/gbp_agency_dashboard/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-14 17:32 UTC |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
+| 1 | [Any Appointment Setters?](https://www.reddit.com/r/localseo/comments/1wgll54/any_appointment_setters/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-15 00:52 UTC |
+| 2 | [Paid ads work. Organic SEO doesn’t. What am I missing?](https://www.reddit.com/r/localseo/comments/1wgk029/paid_ads_work_organic_seo_doesnt_what_am_i_missing/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-09-14 23:42 UTC |
+| 3 | [is there any way to recover the website](https://www.reddit.com/r/localseo/comments/1wgcz60/is_there_any_way_to_recover_the_website/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-14 19:12 UTC |
+| 4 | [I am getting impressions but not clicks, how to improve my CTR?](https://www.reddit.com/r/localseo/comments/1wgbdtd/i_am_getting_impressions_but_not_clicks_how_to/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-09-14 18:17 UTC |
+| 5 | [Those of you who are running ads, what type and style is working for you?](https://www.reddit.com/r/localseo/comments/1wga697/those_of_you_who_are_running_ads_what_type_and/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-14 17:35 UTC |
+| 6 | [GBP Agency Dashboard](https://www.reddit.com/r/localseo/comments/1wga38i/gbp_agency_dashboard/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-14 17:32 UTC |
+| 7 | [What is your best way to get new clients?](https://www.reddit.com/r/localseo/comments/1wg9g1p/what_is_your_best_way_to_get_new_clients/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-14 17:10 UTC |
+| 8 | [GMB ... for my bussines!](https://www.reddit.com/r/localseo/comments/1wg5dfw/gmb_for_my_bussines/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-14 14:43 UTC |
+| 9 | [I looked at 100 Google review responses. The biggest mistake wasn't what I expected.](https://www.reddit.com/r/localseo/comments/1wg1c8k/i_looked_at_100_google_review_responses_the/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-14 11:56 UTC |
+| 10 | [Any advice on improving my website’s / GBP visibility?](https://www.reddit.com/r/localseo/comments/1wfyyqo/any_advice_on_improving_my_websites_gbp_visibility/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-14 09:49 UTC |
+| 11 | [37% growth in under 30 days for a local SEO client](https://www.reddit.com/r/localseo/comments/1wfxjr1/37_growth_in_under_30_days_for_a_local_seo_client/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-14 08:22 UTC |
+| 12 | [Should I get new domain? Cuz the current domain ain't ranking no matter what.](https://www.reddit.com/r/localseo/comments/1wfvisn/should_i_get_new_domain_cuz_the_current_domain/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-09-14 06:21 UTC |
 
 ## Notable items (Sites)
 
