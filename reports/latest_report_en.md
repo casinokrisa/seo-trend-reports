@@ -28,7 +28,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Ads PMax: Where Should People Go After Clicking Your Ads?](https://www.seroundtable.com/google-ads-pmax-options-42087.html) | Search Engine Roundtable | 190 | Local SEO | 2026-09-15 11:31 UTC |
 | [Early Data On Google Ads August 17 Bidding Update](https://www.seroundtable.com/data-google-ads-aug17-bidding-update-42086.html) | Search Engine Roundtable | 190 | General | 2026-09-15 11:21 UTC |
 | [Google European Ecosystem Carousel Live For Weather, Translations &amp; More](https://www.seroundtable.com/google-european-ecosystem-carousel-live-42083.html) | Search Engine Roundtable | 190 | General | 2026-09-15 11:11 UTC |
-| [Daily Search Forum Recap: September 14, 2026](https://www.seroundtable.com/recap-09-14-2026-42078.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-14 14:00 UTC |
 
 ## Notes for manual writing
 
