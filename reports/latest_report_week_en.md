@@ -12,27 +12,27 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google Search Profiles Article Design, Less Followers &amp; Easier Login](https://www.seroundtable.com/google-search-profiles-updates-42098.html) | Search Engine Roundtable | 210 | General | 2026-09-16 16:00 UTC |
+| [OpenAI Testing Sponsored Agents For ChatGPT Ads](https://www.seroundtable.com/openai-chatgpt-sponsored-agents-42104.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-16 15:03 UTC |
+| [Daily Search Forum Recap: September 16, 2026](https://www.seroundtable.com/recap-09-16-2026-42100.html) | Search Engine Roundtable | 210 | GSC | 2026-09-16 14:00 UTC |
+| [Google Merchant Center AI Reports Live, Easier UCP &amp; UCP Analytics](https://www.seroundtable.com/google-merchant-center-ai-updates-42095.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-16 14:00 UTC |
+| [Google Image Search Collections Save To Suggested By Al](https://www.seroundtable.com/google-images-suggested-by-al-42096.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-16 11:51 UTC |
+| [Google Search Product Listings Tests Linking Directly To Merchant Site](https://www.seroundtable.com/google-product-listings-direct-merchant-42089.html) | Search Engine Roundtable | 210 | Links | 2026-09-16 11:41 UTC |
+| [New Information On Google Ads Multi-Source Conversions Beta](https://www.seroundtable.com/google-ads-multi-source-conversions-42080.html) | Search Engine Roundtable | 210 | General | 2026-09-16 11:31 UTC |
+| [Bing Tests Shopping Filters On Left Sidebar](https://www.seroundtable.com/bing-sidebar-shopping-filters-42084.html) | Search Engine Roundtable | 210 | General | 2026-09-16 11:21 UTC |
+| [Google Ads Spend Benchmarks Report Compares Your Competitors](https://www.seroundtable.com/google-ads-spend-benchmarks-report-competitors-42097.html) | Search Engine Roundtable | 210 | General | 2026-09-16 11:11 UTC |
+| [Google: Google Search Console AI Position Reporting Will Evolve Over Time](https://www.seroundtable.com/google-search-console-ai-reporting-change-42099.html) | Search Engine Roundtable | 210 | GSC | 2026-09-16 11:05 UTC |
 | [Search Central Live India 2026: Bengaluru, We're Coming (For Real This Time)](https://developers.google.com/search/blog/2026/09/search-central-live-india-2026) | Google Search Central Blog | 210 | General | 2026-09-14 00:00 UTC |
 | [Google Search Live Now Powered By Gemini 3.8 Live](https://www.seroundtable.com/google-search-live-gemini-3-8-42094.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-15 17:58 UTC |
 | [Google Chrome User Experience Report (CrUX) With Ad Metrics](https://www.seroundtable.com/google-ad-metrics-crux-42093.html) | Search Engine Roundtable | 190 | General | 2026-09-15 16:49 UTC |
-| [Daily Search Forum Recap: September 15, 2026](https://www.seroundtable.com/recap-09-15-2026-42088.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-15 14:00 UTC |
-| [Google Search Ranking Volatility Heats Up This Morning - September 15th](https://www.seroundtable.com/google-update-42091.html) | Search Engine Roundtable | 190 | General | 2026-09-15 11:52 UTC |
-| [Google Business Profile API Application Delays](https://www.seroundtable.com/google-business-profile-api-application-delays-42085.html) | Search Engine Roundtable | 190 | Local SEO | 2026-09-15 11:51 UTC |
-| [Google AI Mode Tests Text Link Ads](https://www.seroundtable.com/google-ai-mode-text-link-ads-42082.html) | Search Engine Roundtable | 190 | Links | 2026-09-15 11:41 UTC |
-| [Google Ads August 17 Target-Based Bidding Update Finished August 27](https://www.seroundtable.com/google-august-17-bidding-update-finished-august-27-42090.html) | Search Engine Roundtable | 190 | General | 2026-09-15 11:32 UTC |
-| [Google Ads PMax: Where Should People Go After Clicking Your Ads?](https://www.seroundtable.com/google-ads-pmax-options-42087.html) | Search Engine Roundtable | 190 | Local SEO | 2026-09-15 11:31 UTC |
-| [Early Data On Google Ads August 17 Bidding Update](https://www.seroundtable.com/data-google-ads-aug17-bidding-update-42086.html) | Search Engine Roundtable | 170 | General | 2026-09-15 11:21 UTC |
-| [Google European Ecosystem Carousel Live For Weather, Translations &amp; More](https://www.seroundtable.com/google-european-ecosystem-carousel-live-42083.html) | Search Engine Roundtable | 170 | General | 2026-09-15 11:11 UTC |
-| [Daily Search Forum Recap: September 14, 2026](https://www.seroundtable.com/recap-09-14-2026-42078.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-14 14:00 UTC |
-| [Google Search Update September 4th That Reverted September 13th?](https://www.seroundtable.com/google-search-ranking-update-94-42079.html) | Search Engine Roundtable | 170 | General | 2026-09-14 12:05 UTC |
-| [Google Search Tests Blue More Link In Shopping Results](https://www.seroundtable.com/google-blue-more-link-in-shopping-results-42077.html) | Search Engine Roundtable | 170 | Links | 2026-09-14 11:51 UTC |
-| [Google AI Mode More Query Expansion Interfaces](https://www.seroundtable.com/google-ai-mode-more-query-expansions-42074.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-14 11:41 UTC |
-| [Google Search: It's Normal For Image Thumbnails To Be Slow To Update](https://www.seroundtable.com/google-search-slow-image-thumbnails-42072.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-14 11:31 UTC |
-| [8 AI Marketing Trends I’ve Seen Firsthand in 2026 (Backed by Data)](https://ahrefs.com/blog/ai-marketing-trends/) | Ahrefs Blog | 160 | Links | 2026-09-16 09:01 UTC |
+| [Daily Search Forum Recap: September 15, 2026](https://www.seroundtable.com/recap-09-15-2026-42088.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-15 14:00 UTC |
+| [Google Search Ranking Volatility Heats Up This Morning - September 15th](https://www.seroundtable.com/google-update-42091.html) | Search Engine Roundtable | 170 | General | 2026-09-15 11:52 UTC |
+| [Google Business Profile API Application Delays](https://www.seroundtable.com/google-business-profile-api-application-delays-42085.html) | Search Engine Roundtable | 170 | Local SEO | 2026-09-15 11:51 UTC |
+| [AI Overviews Cut CTR by 23.1% in France](https://ahrefs.com/blog/ai-overviews-france-impact/) | Ahrefs Blog | 160 | GSC | 2026-09-16 16:04 UTC |
+| [8 AI Marketing Trends I’ve Seen Firsthand in 2026 (Backed by Data)](https://ahrefs.com/blog/ai-marketing-trends/) | Ahrefs Blog | 140 | Links | 2026-09-16 09:01 UTC |
 | [What is zero-click marketing? How to execute and measure it](https://www.semrush.com/blog/zero-click-marketing/) | Semrush Blog | 95 | GSC | 2026-09-11 10:06 UTC |
 | [How to do keyword research with Claude and Semrush](https://www.semrush.com/blog/claude-keyword-research/) | Semrush Blog | 95 | General | 2026-09-10 17:12 UTC |
 | [Internal links: ultimate guide + strategies](https://www.semrush.com/blog/internal-links/) | Semrush Blog | 95 | Indexing | 2026-09-10 10:11 UTC |
-| [We rebuilt SEOquake, Semrush’s free SEO Chrome extension](https://www.semrush.com/blog/seoquake-relaunch/) | Semrush Blog | 95 | General | 2026-09-09 15:37 UTC |
 
 ## Notes
 
