@@ -6,7 +6,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [[ Removed by Reddit ]](https://www.reddit.com/r/localseo/comments/1wip2po/removed_by_reddit/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-17 09:23 UTC |
+| [These is my GSC Report traffic is decent but all are coming from brand searches my keywords are not getting traffic kindly guide!](https://www.reddit.com/r/localseo/comments/1winhoc/these_is_my_gsc_report_traffic_is_decent_but_all/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-09-17 07:49 UTC |
+| [What’s one SEO strategy that used to work for you but stopped bringing results after AI search became popular?](https://www.reddit.com/r/localseo/comments/1wimsus/whats_one_seo_strategy_that_used_to_work_for_you/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-09-17 07:08 UTC |
+| [Buying fake Google reviews](https://www.reddit.com/r/localseo/comments/1wimhwn/buying_fake_google_reviews/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-17 06:50 UTC |
+| [Google Search Console traffic dropped significantly after the Spam Update — looking for an SEO audit](https://www.reddit.com/r/localseo/comments/1wiln8b/google_search_console_traffic_dropped/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-09-17 06:03 UTC |
+| [Local SEO freelance](https://www.reddit.com/r/localseo/comments/1wiaeed/local_seo_freelance/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-16 21:26 UTC |
+| [Got my website referenced on ChatGPT](https://www.reddit.com/r/localseo/comments/1whvxmz/got_my_website_referenced_on_chatgpt/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-09-16 12:32 UTC |
+| [Isn't it wrong?](https://www.reddit.com/r/localseo/comments/1whqqhh/isnt_it_wrong/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-16 07:54 UTC |
+| [What’s one Local SEO habit that has made the biggest difference for you?](https://www.reddit.com/r/localseo/comments/1whpitw/whats_one_local_seo_habit_that_has_made_the/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-16 06:45 UTC |
+| [Client Insisted On Deleting &quot; Old&quot; Pics. Now we're crying together for different reasons.](https://www.reddit.com/r/localseo/comments/1whf1k9/client_insisted_on_deleting_old_pics_now_were/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-15 22:29 UTC |
+| [Any apps that let you BCC automatic google review requests?](https://www.reddit.com/r/localseo/comments/1whadb6/any_apps_that_let_you_bcc_automatic_google_review/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-15 19:32 UTC |
+| [Advice for small business SEO](https://www.reddit.com/r/localseo/comments/1wha4n8/advice_for_small_business_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-15 19:23 UTC |
 
 ## Weekly notable items (Sites)
 
@@ -30,7 +41,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Daily Search Forum Recap: September 15, 2026](https://www.seroundtable.com/recap-09-15-2026-42088.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-15 14:00 UTC |
 | [Google Search Ranking Volatility Heats Up This Morning - September 15th](https://www.seroundtable.com/google-update-42091.html) | Search Engine Roundtable | 170 | General | 2026-09-15 11:52 UTC |
 | [AI Overviews Cut CTR by 23.1% in France](https://ahrefs.com/blog/ai-overviews-france-impact/) | Ahrefs Blog | 140 | GSC | 2026-09-16 16:04 UTC |
-| [8 AI Marketing Trends I’ve Seen Firsthand in 2026 (Backed by Data)](https://ahrefs.com/blog/ai-marketing-trends/) | Ahrefs Blog | 140 | Links | 2026-09-16 09:01 UTC |
+| [8 AI Marketing Trends I’ve Seen Firsthand in 2026 (Backed by Data)](https://ahrefs.com/blog/ai-marketing-trends/) | Ahrefs Blog | 120 | Links | 2026-09-16 09:01 UTC |
 | [What is zero-click marketing? How to execute and measure it](https://www.semrush.com/blog/zero-click-marketing/) | Semrush Blog | 95 | GSC | 2026-09-11 10:06 UTC |
 | [How to do keyword research with Claude and Semrush](https://www.semrush.com/blog/claude-keyword-research/) | Semrush Blog | 95 | General | 2026-09-10 17:12 UTC |
 | [Internal links: ultimate guide + strategies](https://www.semrush.com/blog/internal-links/) | Semrush Blog | 95 | Indexing | 2026-09-10 10:11 UTC |
