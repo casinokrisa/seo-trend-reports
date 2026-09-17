@@ -30,9 +30,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Bing Tests Shopping Filters On Left Sidebar](https://www.seroundtable.com/bing-sidebar-shopping-filters-42084.html) | Search Engine Roundtable | 190 | General | 2026-09-16 11:21 UTC |
 | [Google Ads Spend Benchmarks Report Compares Your Competitors](https://www.seroundtable.com/google-ads-spend-benchmarks-report-competitors-42097.html) | Search Engine Roundtable | 190 | General | 2026-09-16 11:11 UTC |
 | [Google: Google Search Console AI Position Reporting Will Evolve Over Time](https://www.seroundtable.com/google-search-console-ai-reporting-change-42099.html) | Search Engine Roundtable | 190 | GSC | 2026-09-16 11:05 UTC |
-| [Google Search Live Now Powered By Gemini 3.8 Live](https://www.seroundtable.com/google-search-live-gemini-3-8-42094.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-15 17:58 UTC |
-| [Google Chrome User Experience Report (CrUX) With Ad Metrics](https://www.seroundtable.com/google-ad-metrics-crux-42093.html) | Search Engine Roundtable | 170 | General | 2026-09-15 16:49 UTC |
-| [Daily Search Forum Recap: September 15, 2026](https://www.seroundtable.com/recap-09-15-2026-42088.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-15 14:00 UTC |
 | [AI Overviews Cut CTR by 23.1% in France](https://ahrefs.com/blog/ai-overviews-france-impact/) | Ahrefs Blog | 140 | GSC | 2026-09-16 16:04 UTC |
 | [8 AI Marketing Trends I’ve Seen Firsthand in 2026 (Backed by Data)](https://ahrefs.com/blog/ai-marketing-trends/) | Ahrefs Blog | 140 | Links | 2026-09-16 09:01 UTC |
 
