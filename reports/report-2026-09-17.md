@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Search Profile Badge - How To Add It To Your Site](https://www.seroundtable.com/google-search-profile-badge-42106.html) | Search Engine Roundtable | 190 | General | 2026-09-16 18:59 UTC |
+| [Google Search Profile Badge - How To Add It To Your Site](https://www.seroundtable.com/google-search-profile-badge-42106.html) | Search Engine Roundtable | 170 | General | 2026-09-16 18:59 UTC |
 | [Google Search Profiles Article Design, Less Followers &amp; Easier Login](https://www.seroundtable.com/google-search-profiles-updates-42098.html) | Search Engine Roundtable | 170 | General | 2026-09-16 16:00 UTC |
 | [OpenAI Testing Sponsored Agents For ChatGPT Ads](https://www.seroundtable.com/openai-chatgpt-sponsored-agents-42104.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-16 15:03 UTC |
 | [Daily Search Forum Recap: September 16, 2026](https://www.seroundtable.com/recap-09-16-2026-42100.html) | Search Engine Roundtable | 170 | GSC | 2026-09-16 14:00 UTC |
@@ -29,9 +29,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Bing Tests Shopping Filters On Left Sidebar](https://www.seroundtable.com/bing-sidebar-shopping-filters-42084.html) | Search Engine Roundtable | 170 | General | 2026-09-16 11:21 UTC |
 | [Google Ads Spend Benchmarks Report Compares Your Competitors](https://www.seroundtable.com/google-ads-spend-benchmarks-report-competitors-42097.html) | Search Engine Roundtable | 170 | General | 2026-09-16 11:11 UTC |
 | [Google: Google Search Console AI Position Reporting Will Evolve Over Time](https://www.seroundtable.com/google-search-console-ai-reporting-change-42099.html) | Search Engine Roundtable | 170 | GSC | 2026-09-16 11:05 UTC |
-| [I edit 115+ articles per year. Here are the 5 ways I edit drafts.](https://www.semrush.com/blog/my-editing-approaches-framework/) | Semrush Blog | 150 | Content | 2026-09-17 13:34 UTC |
+| [I edit 115+ articles per year. Here are the 5 ways I edit drafts.](https://www.semrush.com/blog/my-editing-approaches-framework/) | Semrush Blog | 130 | Content | 2026-09-17 13:34 UTC |
 | [AI Overviews Cut CTR by 23.1% in France](https://ahrefs.com/blog/ai-overviews-france-impact/) | Ahrefs Blog | 120 | GSC | 2026-09-16 16:04 UTC |
-| [8 AI Marketing Trends I’ve Seen Firsthand in 2026 (Backed by Data)](https://ahrefs.com/blog/ai-marketing-trends/) | Ahrefs Blog | 120 | Links | 2026-09-16 09:01 UTC |
 
 ## Notes for manual writing
 

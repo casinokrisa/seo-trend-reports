@@ -15,7 +15,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Search Central Live Deep Dive Europe 2026: Meet the community speakers](https://developers.google.com/search/blog/2026/09/scl-dd-europe-2026-community-speakers) | Google Search Central Blog | 210 | AI Search | 2026-09-16 00:00 UTC |
 | [Added documentation on adding a Search profile badge to your website](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Migration | 2026-09-16 00:00 UTC |
 | [Search Central Live India 2026: Bengaluru, We're Coming (For Real This Time)](https://developers.google.com/search/blog/2026/09/search-central-live-india-2026) | Google Search Central Blog | 195 | General | 2026-09-14 00:00 UTC |
-| [Google Search Profile Badge - How To Add It To Your Site](https://www.seroundtable.com/google-search-profile-badge-42106.html) | Search Engine Roundtable | 190 | General | 2026-09-16 18:59 UTC |
+| [Google Search Profile Badge - How To Add It To Your Site](https://www.seroundtable.com/google-search-profile-badge-42106.html) | Search Engine Roundtable | 170 | General | 2026-09-16 18:59 UTC |
 | [Google Search Profiles Article Design, Less Followers &amp; Easier Login](https://www.seroundtable.com/google-search-profiles-updates-42098.html) | Search Engine Roundtable | 170 | General | 2026-09-16 16:00 UTC |
 | [OpenAI Testing Sponsored Agents For ChatGPT Ads](https://www.seroundtable.com/openai-chatgpt-sponsored-agents-42104.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-16 15:03 UTC |
 | [Daily Search Forum Recap: September 16, 2026](https://www.seroundtable.com/recap-09-16-2026-42100.html) | Search Engine Roundtable | 170 | GSC | 2026-09-16 14:00 UTC |
@@ -30,7 +30,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Chrome User Experience Report (CrUX) With Ad Metrics](https://www.seroundtable.com/google-ad-metrics-crux-42093.html) | Search Engine Roundtable | 170 | General | 2026-09-15 16:49 UTC |
 | [Daily Search Forum Recap: September 15, 2026](https://www.seroundtable.com/recap-09-15-2026-42088.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-15 14:00 UTC |
 | [Google Search Ranking Volatility Heats Up This Morning - September 15th](https://www.seroundtable.com/google-update-42091.html) | Search Engine Roundtable | 170 | General | 2026-09-15 11:52 UTC |
-| [I edit 115+ articles per year. Here are the 5 ways I edit drafts.](https://www.semrush.com/blog/my-editing-approaches-framework/) | Semrush Blog | 150 | Content | 2026-09-17 13:34 UTC |
+| [I edit 115+ articles per year. Here are the 5 ways I edit drafts.](https://www.semrush.com/blog/my-editing-approaches-framework/) | Semrush Blog | 130 | Content | 2026-09-17 13:34 UTC |
 | [AI Overviews Cut CTR by 23.1% in France](https://ahrefs.com/blog/ai-overviews-france-impact/) | Ahrefs Blog | 120 | GSC | 2026-09-16 16:04 UTC |
 | [8 AI Marketing Trends I’ve Seen Firsthand in 2026 (Backed by Data)](https://ahrefs.com/blog/ai-marketing-trends/) | Ahrefs Blog | 120 | Links | 2026-09-16 09:01 UTC |
 | [What is zero-click marketing? How to execute and measure it](https://www.semrush.com/blog/zero-click-marketing/) | Semrush Blog | 95 | GSC | 2026-09-11 10:06 UTC |
