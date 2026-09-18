@@ -18,13 +18,14 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Daily Search Forum Recap: September 17, 2026](https://www.seroundtable.com/recap-09-17-2026-42108.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-17 14:00 UTC |
+| [What Ever Happened To Google Discover On Desktop](https://www.seroundtable.com/google-discover-on-desktop-not-found-42103.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-17 11:51 UTC |
+| [Google Ad Tech Monopoly Remedies: Behavioral Changes With Oversight](https://www.seroundtable.com/google-ad-tech-monopoly-remedies-42107.html) | Search Engine Roundtable | 190 | General | 2026-09-17 11:41 UTC |
+| [Google Local Knowledge Panel As An AI Overview](https://www.seroundtable.com/google-local-knowledge-panel-ai-overview-42105.html) | Search Engine Roundtable | 190 | Local SEO | 2026-09-17 11:31 UTC |
+| [Bing Product Carousels With Top Picks, Sale, Price Drop, Views &amp; More Labels](https://www.seroundtable.com/bing-product-carousel-labels-42092.html) | Search Engine Roundtable | 190 | General | 2026-09-17 11:21 UTC |
+| [Google Sponsored Places That Expand On Hover](https://www.seroundtable.com/expandable-google-sponsored-places-42081.html) | Search Engine Roundtable | 190 | General | 2026-09-17 11:11 UTC |
 | [Google Search Profile Badge - How To Add It To Your Site](https://www.seroundtable.com/google-search-profile-badge-42106.html) | Search Engine Roundtable | 170 | General | 2026-09-16 18:59 UTC |
-| [Google Search Profiles Article Design, Less Followers &amp; Easier Login](https://www.seroundtable.com/google-search-profiles-updates-42098.html) | Search Engine Roundtable | 170 | General | 2026-09-16 16:00 UTC |
-| [OpenAI Testing Sponsored Agents For ChatGPT Ads](https://www.seroundtable.com/openai-chatgpt-sponsored-agents-42104.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-16 15:03 UTC |
-| [Daily Search Forum Recap: September 16, 2026](https://www.seroundtable.com/recap-09-16-2026-42100.html) | Search Engine Roundtable | 170 | GSC | 2026-09-16 14:00 UTC |
-| [Google Merchant Center AI Reports Live, Easier UCP &amp; UCP Analytics](https://www.seroundtable.com/google-merchant-center-ai-updates-42095.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-16 14:00 UTC |
 | [I edit 115+ articles per year. Here are the 5 ways I edit drafts.](https://www.semrush.com/blog/my-editing-approaches-framework/) | Semrush Blog | 130 | Content | 2026-09-17 13:34 UTC |
-| [AI Overviews Cut CTR by 23.1% in France](https://ahrefs.com/blog/ai-overviews-france-impact/) | Ahrefs Blog | 120 | GSC | 2026-09-16 16:04 UTC |
 
 ## Notes for manual writing
 
