@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Moving a SAB to a private office](https://www.reddit.com/r/localseo/comments/1wjix56/moving_a_sab_to_a_private_office/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-18 06:57 UTC |
-| [Do not sleep on reviews. Get as many genuine reviews as you can on your Google Business Profile.](https://www.reddit.com/r/localseo/comments/1wizw5o/do_not_sleep_on_reviews_get_as_many_genuine/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-17 17:08 UTC |
-| [Looking to gain more clients as a personal trainer](https://www.reddit.com/r/localseo/comments/1wixkh7/looking_to_gain_more_clients_as_a_personal_trainer/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-09-17 15:43 UTC |
-| [Any advice on winning local SEO for an optical shop?](https://www.reddit.com/r/localseo/comments/1wix6tn/any_advice_on_winning_local_seo_for_an_optical/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-17 15:29 UTC |
-| [Is programmatic SEO worth it for AI search?](https://www.reddit.com/r/localseo/comments/1wiwa2w/is_programmatic_seo_worth_it_for_ai_search/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-09-17 14:55 UTC |
-| [How do you get a local home inspection company to show up in ChatGPT and Gemini?](https://www.reddit.com/r/localseo/comments/1wiw2ye/how_do_you_get_a_local_home_inspection_company_to/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-09-17 14:48 UTC |
-| [How to Scale Up and Set Up a Local SEO Agency?4 Months In, 8 Clients and Stuck](https://www.reddit.com/r/localseo/comments/1wivl6y/how_to_scale_up_and_set_up_a_local_seo_agency4/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-17 14:29 UTC |
-| [How do introverted/technical founders sell effectively? Looking for real angles that don’t require a “salesy” personality](https://www.reddit.com/r/localseo/comments/1wiv50r/how_do_introvertedtechnical_founders_sell/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Technical SEO | 2026-09-17 14:12 UTC |
-| [From 35% to 39% Growth in 2 Days — Almost 40% Up in Just 20 Days](https://www.reddit.com/r/localseo/comments/1wipwj0/from_35_to_39_growth_in_2_days_almost_40_up_in/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-17 10:10 UTC |
-| [These is my GSC Report traffic is decent but all are coming from brand searches my keywords are not getting traffic kindly guide!](https://www.reddit.com/r/localseo/comments/1winhoc/these_is_my_gsc_report_traffic_is_decent_but_all/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-09-17 07:49 UTC |
-| [What’s one SEO strategy that used to work for you but stopped bringing results after AI search became popular?](https://www.reddit.com/r/localseo/comments/1wimsus/whats_one_seo_strategy_that_used_to_work_for_you/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-09-17 07:08 UTC |
-| [Buying fake Google reviews](https://www.reddit.com/r/localseo/comments/1wimhwn/buying_fake_google_reviews/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-17 06:50 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
