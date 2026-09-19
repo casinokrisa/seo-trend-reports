@@ -29,7 +29,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Now Requires You Label Adult Products In Ecommerce Feeds](https://www.seroundtable.com/google-adult-products-labels-42116.html) | Search Engine Roundtable | 170 | Content | 2026-09-18 11:15 UTC |
 | [Google Search Drops Free Product Listings From European Economic Area](https://www.seroundtable.com/google-drops-free-product-listings-eea-42113.html) | Search Engine Roundtable | 170 | General | 2026-09-18 11:11 UTC |
 | [Google Supports Local Business Queries In Aggregator &amp; Supplier Search Units](https://www.seroundtable.com/google-local-business-query-units-42115.html) | Search Engine Roundtable | 170 | General | 2026-09-18 11:05 UTC |
-| [What is agentic SEO? 8 workflows run on a live site](https://www.semrush.com/blog/agentic-seo/) | Semrush Blog | 130 | AI Search | 2026-09-18 14:37 UTC |
+| [What is agentic SEO? 8 workflows run on a live site](https://www.semrush.com/blog/agentic-seo/) | Semrush Blog | 110 | AI Search | 2026-09-18 14:37 UTC |
 | [Semrush MCP use cases: 16 prompts for Claude or ChatGPT](https://www.semrush.com/blog/semrush-mcp-use-case/) | Semrush Blog | 110 | AI Search | 2026-09-18 14:17 UTC |
 | [Cloudflare's AI training block now spares Googlebot](https://www.semrush.com/blog/cloudfare-blocks-ai-training/) | Semrush Blog | 110 | Indexing | 2026-09-18 14:04 UTC |
 

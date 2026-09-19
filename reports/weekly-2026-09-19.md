@@ -30,11 +30,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [What Ever Happened To Google Discover On Desktop](https://www.seroundtable.com/google-discover-on-desktop-not-found-42103.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-17 11:51 UTC |
 | [Google Ad Tech Monopoly Remedies: Behavioral Changes With Oversight](https://www.seroundtable.com/google-ad-tech-monopoly-remedies-42107.html) | Search Engine Roundtable | 170 | General | 2026-09-17 11:41 UTC |
 | [Google Local Knowledge Panel As An AI Overview](https://www.seroundtable.com/google-local-knowledge-panel-ai-overview-42105.html) | Search Engine Roundtable | 170 | Local SEO | 2026-09-17 11:31 UTC |
-| [What is agentic SEO? 8 workflows run on a live site](https://www.semrush.com/blog/agentic-seo/) | Semrush Blog | 130 | AI Search | 2026-09-18 14:37 UTC |
-| [AI Overviews Cut CTR by 23.1% in France](https://ahrefs.com/blog/ai-overviews-france-impact/) | Ahrefs Blog | 120 | GSC | 2026-09-16 16:04 UTC |
+| [What is agentic SEO? 8 workflows run on a live site](https://www.semrush.com/blog/agentic-seo/) | Semrush Blog | 110 | AI Search | 2026-09-18 14:37 UTC |
 | [Semrush MCP use cases: 16 prompts for Claude or ChatGPT](https://www.semrush.com/blog/semrush-mcp-use-case/) | Semrush Blog | 110 | AI Search | 2026-09-18 14:17 UTC |
 | [Cloudflare's AI training block now spares Googlebot](https://www.semrush.com/blog/cloudfare-blocks-ai-training/) | Semrush Blog | 110 | Indexing | 2026-09-18 14:04 UTC |
 | [I edit 115+ articles per year. Here are the 5 ways I edit drafts.](https://www.semrush.com/blog/my-editing-approaches-framework/) | Semrush Blog | 110 | Content | 2026-09-17 13:34 UTC |
+| [AI Overviews Cut CTR by 23.1% in France](https://ahrefs.com/blog/ai-overviews-france-impact/) | Ahrefs Blog | 105 | GSC | 2026-09-16 16:04 UTC |
 | [8 AI Marketing Trends I’ve Seen Firsthand in 2026 (Backed by Data)](https://ahrefs.com/blog/ai-marketing-trends/) | Ahrefs Blog | 105 | Links | 2026-09-16 09:01 UTC |
 
 ## Notes
