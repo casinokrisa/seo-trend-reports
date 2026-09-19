@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Discover Tests Dive Deeper Feature](https://www.seroundtable.com/google-discover-dive-deeper-42119.html) | Search Engine Roundtable | 190 | Links | 2026-09-18 20:22 UTC |
+| [Google Discover Tests Dive Deeper Feature](https://www.seroundtable.com/google-discover-dive-deeper-42119.html) | Search Engine Roundtable | 170 | Links | 2026-09-18 20:22 UTC |
 | [Daily Search Forum Recap: September 18, 2026](https://www.seroundtable.com/recap-09-18-2026-42117.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-18 14:00 UTC |
 | [Search News Buzz Video Recap: Unusual Google Search Ranking Volatility, Ad Tech Monopoly Remedies, AI Contribution Publisher Payouts &amp; More](https://www.seroundtable.com/video-09-18-2026-42112.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-18 12:01 UTC |
 | [Google May Be More Successful In Blocking Scrapers &amp; Tracking Tools](https://www.seroundtable.com/google-blocking-scrapers-and-tracking-tools-42118.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-18 11:55 UTC |
