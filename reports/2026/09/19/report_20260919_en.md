@@ -6,13 +6,29 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Getting calls before my business is actually open. What should I do with my Google Business Profile?](https://www.reddit.com/r/localseo/comments/1wk6ada/getting_calls_before_my_business_is_actually_open/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-18 23:44 UTC |
+| [Googles SERPs are going haywire again - anyone else seeing wild ranking swings since Sept 15?](https://www.reddit.com/r/localseo/comments/1wk64fb/googles_serps_are_going_haywire_again_anyone_else/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-09-18 23:37 UTC |
+| [page 1 in 30 days](https://www.reddit.com/r/localseo/comments/1wk1hzt/page_1_in_30_days/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-18 20:29 UTC |
+| [GBP Searches data for august not showing in the performance section](https://www.reddit.com/r/localseo/comments/1wjtx09/gbp_searches_data_for_august_not_showing_in_the/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-18 15:49 UTC |
+| [My SEO doesn’t seem to be taking off…](https://www.reddit.com/r/localseo/comments/1wjthwb/my_seo_doesnt_seem_to_be_taking_off/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-18 15:34 UTC |
+| [Moving a SAB to a private office](https://www.reddit.com/r/localseo/comments/1wjix56/moving_a_sab_to_a_private_office/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-18 06:57 UTC |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
+| 1 | [Getting calls before my business is actually open. What should I do with my Google Business Profile?](https://www.reddit.com/r/localseo/comments/1wk6ada/getting_calls_before_my_business_is_actually_open/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-18 23:44 UTC |
+| 2 | [Googles SERPs are going haywire again - anyone else seeing wild ranking swings since Sept 15?](https://www.reddit.com/r/localseo/comments/1wk64fb/googles_serps_are_going_haywire_again_anyone_else/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-09-18 23:37 UTC |
+| 3 | [page 1 in 30 days](https://www.reddit.com/r/localseo/comments/1wk1hzt/page_1_in_30_days/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-18 20:29 UTC |
+| 4 | [GBP Searches data for august not showing in the performance section](https://www.reddit.com/r/localseo/comments/1wjtx09/gbp_searches_data_for_august_not_showing_in_the/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-18 15:49 UTC |
+| 5 | [My SEO doesn’t seem to be taking off…](https://www.reddit.com/r/localseo/comments/1wjthwb/my_seo_doesnt_seem_to_be_taking_off/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-18 15:34 UTC |
+| 6 | [Moving a SAB to a private office](https://www.reddit.com/r/localseo/comments/1wjix56/moving_a_sab_to_a_private_office/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-18 06:57 UTC |
+| 7 | [Looking to gain more clients as a personal trainer](https://www.reddit.com/r/localseo/comments/1wixkh7/looking_to_gain_more_clients_as_a_personal_trainer/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-09-17 15:43 UTC |
+| 8 | [Any advice on winning local SEO for an optical shop?](https://www.reddit.com/r/localseo/comments/1wix6tn/any_advice_on_winning_local_seo_for_an_optical/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-17 15:29 UTC |
+| 9 | [Is programmatic SEO worth it for AI search?](https://www.reddit.com/r/localseo/comments/1wiwa2w/is_programmatic_seo_worth_it_for_ai_search/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-09-17 14:55 UTC |
+| 10 | [How do you get a local home inspection company to show up in ChatGPT and Gemini?](https://www.reddit.com/r/localseo/comments/1wiw2ye/how_do_you_get_a_local_home_inspection_company_to/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-09-17 14:48 UTC |
+| 11 | [How to Scale Up and Set Up a Local SEO Agency?4 Months In, 8 Clients and Stuck](https://www.reddit.com/r/localseo/comments/1wivl6y/how_to_scale_up_and_set_up_a_local_seo_agency4/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-17 14:29 UTC |
+| 12 | [How do introverted/technical founders sell effectively? Looking for real angles that don’t require a “salesy” personality](https://www.reddit.com/r/localseo/comments/1wiv50r/how_do_introvertedtechnical_founders_sell/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Technical SEO | 2026-09-17 14:12 UTC |
 
 ## Notable items (Sites)
 
