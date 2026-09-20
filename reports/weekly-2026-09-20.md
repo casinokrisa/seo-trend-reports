@@ -12,11 +12,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Programming Note: Offline Monday For Yom Kippur 5787](https://www.seroundtable.com/yom-kippur-5787-42114.html) | Search Engine Roundtable | 210 | General | 2026-09-20 14:00 UTC |
-| [Google Web Guide Classic Search Button Doesn't Take You To Classic Search](https://www.seroundtable.com/google-web-guide-bug-42124.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-20 13:30 UTC |
 | [Added local business query support to the aggregator and supplier units](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Migration | 2026-09-18 00:00 UTC |
 | [Search Central Live Deep Dive Europe 2026: Meet the community speakers](https://developers.google.com/search/blog/2026/09/scl-dd-europe-2026-community-speakers) | Google Search Central Blog | 195 | AI Search | 2026-09-16 00:00 UTC |
 | [Search Central Live India 2026: Bengaluru, We're Coming (For Real This Time)](https://developers.google.com/search/blog/2026/09/search-central-live-india-2026) | Google Search Central Blog | 195 | General | 2026-09-14 00:00 UTC |
+| [Programming Note: Offline Monday For Yom Kippur 5787](https://www.seroundtable.com/yom-kippur-5787-42114.html) | Search Engine Roundtable | 190 | General | 2026-09-20 14:00 UTC |
+| [Google Web Guide Classic Search Button Doesn't Take You To Classic Search](https://www.seroundtable.com/google-web-guide-bug-42124.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-20 13:30 UTC |
 | [Google Search Console Crawl Stats Missing A Day Of Data: September 15th](https://www.seroundtable.com/google-search-console-crawl-stats-missing-42120.html) | Search Engine Roundtable | 190 | Indexing | 2026-09-20 11:55 UTC |
 | [Google Discover Tests Dive Deeper Feature](https://www.seroundtable.com/google-discover-dive-deeper-42119.html) | Search Engine Roundtable | 170 | Links | 2026-09-18 20:22 UTC |
 | [Daily Search Forum Recap: September 18, 2026](https://www.seroundtable.com/recap-09-18-2026-42117.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-18 14:00 UTC |
