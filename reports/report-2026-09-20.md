@@ -20,7 +20,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 |---|---|---:|---|---:|
 | [Programming Note: Offline Monday For Yom Kippur 5787](https://www.seroundtable.com/yom-kippur-5787-42114.html) | Search Engine Roundtable | 210 | General | 2026-09-20 14:00 UTC |
 | [Google Web Guide Classic Search Button Doesn't Take You To Classic Search](https://www.seroundtable.com/google-web-guide-bug-42124.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-20 13:30 UTC |
-| [Google Search Console Crawl Stats Missing A Day Of Data: September 15th](https://www.seroundtable.com/google-search-console-crawl-stats-missing-42120.html) | Search Engine Roundtable | 210 | Indexing | 2026-09-20 11:55 UTC |
+| [Google Search Console Crawl Stats Missing A Day Of Data: September 15th](https://www.seroundtable.com/google-search-console-crawl-stats-missing-42120.html) | Search Engine Roundtable | 190 | Indexing | 2026-09-20 11:55 UTC |
 
 ## Notes for manual writing
 
