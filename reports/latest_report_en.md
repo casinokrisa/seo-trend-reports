@@ -19,10 +19,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Google Discover Tests Dive Deeper Feature](https://www.seroundtable.com/google-discover-dive-deeper-42119.html) | Search Engine Roundtable | 170 | Links | 2026-09-18 20:22 UTC |
-| [Daily Search Forum Recap: September 18, 2026](https://www.seroundtable.com/recap-09-18-2026-42117.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-18 14:00 UTC |
-| [What is agentic SEO? 8 workflows run on a live site](https://www.semrush.com/blog/agentic-seo/) | Semrush Blog | 110 | AI Search | 2026-09-18 14:37 UTC |
-| [Semrush MCP use cases: 16 prompts for Claude or ChatGPT](https://www.semrush.com/blog/semrush-mcp-use-case/) | Semrush Blog | 110 | AI Search | 2026-09-18 14:17 UTC |
-| [Cloudflare's AI training block now spares Googlebot](https://www.semrush.com/blog/cloudfare-blocks-ai-training/) | Semrush Blog | 110 | Indexing | 2026-09-18 14:04 UTC |
 
 ## Notes for manual writing
 
