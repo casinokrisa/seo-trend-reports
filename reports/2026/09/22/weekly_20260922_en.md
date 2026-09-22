@@ -12,9 +12,10 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Merchant Center Auto Enables Native Checkout: Buy On AI Mode &amp; Gemini](https://www.seroundtable.com/google-native-checkout-emails-42140.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-22 15:20 UTC |
-| [Daily Search Forum Recap: September 22, 2026](https://www.seroundtable.com/recap-09-22-2026-42134.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-22 14:00 UTC |
+| [Google Page Experience Docs Adds CrUX Ad Metrics](https://www.seroundtable.com/google-page-experience-crux-ad-metrics-42141.html) | Search Engine Roundtable | 210 | General | 2026-09-22 19:15 UTC |
 | [Search Central Live Deep Dive Europe 2026: Meet the community speakers](https://developers.google.com/search/blog/2026/09/scl-dd-europe-2026-community-speakers) | Google Search Central Blog | 195 | AI Search | 2026-09-16 00:00 UTC |
+| [Google Merchant Center Auto Enables Native Checkout: Buy On AI Mode &amp; Gemini](https://www.seroundtable.com/google-native-checkout-emails-42140.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-22 15:20 UTC |
+| [Daily Search Forum Recap: September 22, 2026](https://www.seroundtable.com/recap-09-22-2026-42134.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-22 14:00 UTC |
 | [Gemini Notebook Pages Spamming Google Search](https://www.seroundtable.com/gemini-notebook-spam-google-search-42136.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-22 11:52 UTC |
 | [Google AI Overview Links Pushing You To AI Mode Over Web Pages](https://www.seroundtable.com/google-ai-overview-links-to-ai-mode-42132.html) | Search Engine Roundtable | 190 | Links | 2026-09-22 11:51 UTC |
 | [Google Merchant Center Updates Requirements For Google Store Ratings](https://www.seroundtable.com/google-merchant-center-google-store-ratings-42125.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-22 11:41 UTC |
@@ -28,7 +29,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Search Console Crawl Stats Missing A Day Of Data: September 15th](https://www.seroundtable.com/google-search-console-crawl-stats-missing-42120.html) | Search Engine Roundtable | 170 | Indexing | 2026-09-20 11:55 UTC |
 | [Google Discover Tests Dive Deeper Feature](https://www.seroundtable.com/google-discover-dive-deeper-42119.html) | Search Engine Roundtable | 155 | Links | 2026-09-18 20:22 UTC |
 | [Daily Search Forum Recap: September 18, 2026](https://www.seroundtable.com/recap-09-18-2026-42117.html) | Search Engine Roundtable | 155 | AI Search | 2026-09-18 14:00 UTC |
-| [Search News Buzz Video Recap: Unusual Google Search Ranking Volatility, Ad Tech Monopoly Remedies, AI Contribution Publisher Payouts &amp; More](https://www.seroundtable.com/video-09-18-2026-42112.html) | Search Engine Roundtable | 155 | AI Search | 2026-09-18 12:01 UTC |
 | [Google's AI contribution pilot pays publishers](https://www.semrush.com/blog/google-launches-ai-contribution-pilot/) | Semrush Blog | 130 | Links | 2026-09-22 10:22 UTC |
 | [AI citation outreach: a Semrush &amp; Claude workflow](https://www.semrush.com/blog/ai-citation-outreach/) | Semrush Blog | 110 | AI Search | 2026-09-21 09:49 UTC |
 | [AI Overviews Cut CTR by 23.1% in France](https://ahrefs.com/blog/ai-overviews-france-impact/) | Ahrefs Blog | 105 | GSC | 2026-09-16 16:04 UTC |
