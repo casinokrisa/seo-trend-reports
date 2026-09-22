@@ -12,6 +12,14 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Daily Search Forum Recap: September 22, 2026](https://www.seroundtable.com/recap-09-22-2026-42134.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-22 14:00 UTC |
+| [Gemini Notebook Pages Spamming Google Search](https://www.seroundtable.com/gemini-notebook-spam-google-search-42136.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-22 11:52 UTC |
+| [Google AI Overview Links Pushing You To AI Mode Over Web Pages](https://www.seroundtable.com/google-ai-overview-links-to-ai-mode-42132.html) | Search Engine Roundtable | 210 | Links | 2026-09-22 11:51 UTC |
+| [Google Merchant Center Updates Requirements For Google Store Ratings](https://www.seroundtable.com/google-merchant-center-google-store-ratings-42125.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-22 11:41 UTC |
+| [Google Business Profiles Permanently Closed Option Gone?](https://www.seroundtable.com/google-business-profiles-permanently-closed-42121.html) | Search Engine Roundtable | 210 | Local SEO | 2026-09-22 11:31 UTC |
+| [Google Business Profiles Email: Detected A Spike In Spam Reviews](https://www.seroundtable.com/google-business-profiles-spike-in-spam-reviews-42123.html) | Search Engine Roundtable | 210 | Local SEO | 2026-09-22 11:21 UTC |
+| [Google Sponsored Results Sitelinks Tests More From Advertiser Name Title](https://www.seroundtable.com/google-sponsored-results-sitelinks-titles-42122.html) | Search Engine Roundtable | 210 | Links | 2026-09-22 11:11 UTC |
+| [Google Ads To Run Gun Accessory 6-Month Pilot](https://www.seroundtable.com/google-ads-gun-accessories-42133.html) | Search Engine Roundtable | 210 | General | 2026-09-22 11:05 UTC |
 | [Search Central Live Deep Dive Europe 2026: Meet the community speakers](https://developers.google.com/search/blog/2026/09/scl-dd-europe-2026-community-speakers) | Google Search Central Blog | 195 | AI Search | 2026-09-16 00:00 UTC |
 | [Added local business query support to the aggregator and supplier units](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Migration | 2026-09-18 00:00 UTC |
 | [Programming Note: Offline Monday For Yom Kippur 5787](https://www.seroundtable.com/yom-kippur-5787-42114.html) | Search Engine Roundtable | 170 | General | 2026-09-20 14:00 UTC |
@@ -21,14 +29,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Daily Search Forum Recap: September 18, 2026](https://www.seroundtable.com/recap-09-18-2026-42117.html) | Search Engine Roundtable | 155 | AI Search | 2026-09-18 14:00 UTC |
 | [Search News Buzz Video Recap: Unusual Google Search Ranking Volatility, Ad Tech Monopoly Remedies, AI Contribution Publisher Payouts &amp; More](https://www.seroundtable.com/video-09-18-2026-42112.html) | Search Engine Roundtable | 155 | AI Search | 2026-09-18 12:01 UTC |
 | [Google May Be More Successful In Blocking Scrapers &amp; Tracking Tools](https://www.seroundtable.com/google-blocking-scrapers-and-tracking-tools-42118.html) | Search Engine Roundtable | 155 | AI Search | 2026-09-18 11:55 UTC |
-| [Google Search Bar Results Page Testing AI Mode Button](https://www.seroundtable.com/google-search-bar-testing-ai-mode-button-42110.html) | Search Engine Roundtable | 155 | AI Search | 2026-09-18 11:51 UTC |
-| [Bing Also Asking To Verify You Are Human Before Showing Search Results](https://www.seroundtable.com/bing-verify-you-are-human-42102.html) | Search Engine Roundtable | 155 | General | 2026-09-18 11:41 UTC |
-| [Google Ads Commerce Audience Sharing Help Document](https://www.seroundtable.com/google-ads-commerce-audience-sharing-42109.html) | Search Engine Roundtable | 155 | AI Search | 2026-09-18 11:31 UTC |
-| [Google Merchant Center API Now Supports Product Reviews](https://www.seroundtable.com/google-merchant-center-api-supports-product-reviews-42101.html) | Search Engine Roundtable | 155 | AI Search | 2026-09-18 11:21 UTC |
-| [Google Now Requires You Label Adult Products In Ecommerce Feeds](https://www.seroundtable.com/google-adult-products-labels-42116.html) | Search Engine Roundtable | 155 | Content | 2026-09-18 11:15 UTC |
-| [Google Search Drops Free Product Listings From European Economic Area](https://www.seroundtable.com/google-drops-free-product-listings-eea-42113.html) | Search Engine Roundtable | 155 | General | 2026-09-18 11:11 UTC |
-| [Google Supports Local Business Queries In Aggregator &amp; Supplier Search Units](https://www.seroundtable.com/google-local-business-query-units-42115.html) | Search Engine Roundtable | 155 | General | 2026-09-18 11:05 UTC |
-| [Daily Search Forum Recap: September 17, 2026](https://www.seroundtable.com/recap-09-17-2026-42108.html) | Search Engine Roundtable | 155 | AI Search | 2026-09-17 14:00 UTC |
+| [Google's AI contribution pilot pays publishers](https://www.semrush.com/blog/google-launches-ai-contribution-pilot/) | Semrush Blog | 150 | Links | 2026-09-22 10:22 UTC |
 | [AI citation outreach: a Semrush &amp; Claude workflow](https://www.semrush.com/blog/ai-citation-outreach/) | Semrush Blog | 110 | AI Search | 2026-09-21 09:49 UTC |
 | [AI Overviews Cut CTR by 23.1% in France](https://ahrefs.com/blog/ai-overviews-france-impact/) | Ahrefs Blog | 105 | GSC | 2026-09-16 16:04 UTC |
 | [8 AI Marketing Trends I’ve Seen Firsthand in 2026 (Backed by Data)](https://ahrefs.com/blog/ai-marketing-trends/) | Ahrefs Blog | 105 | Links | 2026-09-16 09:01 UTC |
