@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Sponsoring local sports teams as a Local SEO strategy?](https://www.reddit.com/r/localseo/comments/1wnxauy/sponsoring_local_sports_teams_as_a_local_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-23 05:40 UTC |
-| [25 Potential Local SEO Clients - I Need Advice](https://www.reddit.com/r/localseo/comments/1wnpc47/25_potential_local_seo_clients_i_need_advice/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-22 23:21 UTC |
-| [Looking for Business to scale through SEO](https://www.reddit.com/r/localseo/comments/1wnmwxq/looking_for_business_to_scale_through_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-22 21:40 UTC |
-| [I’m going to lose my first client, and honestly, I feel like I’m failing.](https://www.reddit.com/r/localseo/comments/1wnmw2t/im_going_to_lose_my_first_client_and_honestly_i/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-09-22 21:39 UTC |
-| [Is there any alternative of claude code or codex](https://www.reddit.com/r/localseo/comments/1wnmdiy/is_there_any_alternative_of_claude_code_or_codex/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-22 21:19 UTC |
-| [Perfil personal a perfil de negocio](https://www.reddit.com/r/localseo/comments/1wnj2iu/perfil_personal_a_perfil_de_negocio/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-22 19:19 UTC |
-| ['Dentist near me' --- PPC gets top slots -- SEO not so much!](https://www.reddit.com/r/localseo/comments/1wnhsen/dentist_near_me_ppc_gets_top_slots_seo_not_so_much/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-22 18:33 UTC |
-| [Why topical coverage may matter more than just targeting more keywords](https://www.reddit.com/r/localseo/comments/1wndwgr/why_topical_coverage_may_matter_more_than_just/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-09-22 16:14 UTC |
-| [Using one CPT for both service area pages and physical locations — good idea or bad idea?](https://www.reddit.com/r/localseo/comments/1wndqp3/using_one_cpt_for_both_service_area_pages_and/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-22 16:08 UTC |
-| [Brightlocal issues](https://www.reddit.com/r/localseo/comments/1wn66sr/brightlocal_issues/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-22 10:52 UTC |
-| [Need guidance on Digital Marketing](https://www.reddit.com/r/localseo/comments/1wn5zm9/need_guidance_on_digital_marketing/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-22 10:41 UTC |
-| [Possible SEO spam/schema injection on a Webflow site - Googlebot saw gambling schema and a fake AMP page. Could this be DNS/Cloudflare/hosting related?](https://www.reddit.com/r/localseo/comments/1wn5hsl/possible_seo_spamschema_injection_on_a_webflow/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Technical SEO | 2026-09-22 10:15 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
@@ -31,15 +20,16 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google AI Overview Links Pushing You To AI Mode Over Web Pages](https://www.seroundtable.com/google-ai-overview-links-to-ai-mode-42132.html) | Search Engine Roundtable | 190 | Links | 2026-09-22 11:51 UTC |
 | [Google Merchant Center Updates Requirements For Google Store Ratings](https://www.seroundtable.com/google-merchant-center-google-store-ratings-42125.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-22 11:41 UTC |
 | [Google Business Profiles Permanently Closed Option Gone?](https://www.seroundtable.com/google-business-profiles-permanently-closed-42121.html) | Search Engine Roundtable | 190 | Local SEO | 2026-09-22 11:31 UTC |
-| [Google Business Profiles Email: Detected A Spike In Spam Reviews](https://www.seroundtable.com/google-business-profiles-spike-in-spam-reviews-42123.html) | Search Engine Roundtable | 190 | Local SEO | 2026-09-22 11:21 UTC |
-| [Google Sponsored Results Sitelinks Tests More From Advertiser Name Title](https://www.seroundtable.com/google-sponsored-results-sitelinks-titles-42122.html) | Search Engine Roundtable | 190 | Links | 2026-09-22 11:11 UTC |
-| [Google Ads To Run Gun Accessory 6-Month Pilot](https://www.seroundtable.com/google-ads-gun-accessories-42133.html) | Search Engine Roundtable | 190 | General | 2026-09-22 11:05 UTC |
 | [Added local business query support to the aggregator and supplier units](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Migration | 2026-09-18 00:00 UTC |
+| [Google Business Profiles Email: Detected A Spike In Spam Reviews](https://www.seroundtable.com/google-business-profiles-spike-in-spam-reviews-42123.html) | Search Engine Roundtable | 170 | Local SEO | 2026-09-22 11:21 UTC |
+| [Google Sponsored Results Sitelinks Tests More From Advertiser Name Title](https://www.seroundtable.com/google-sponsored-results-sitelinks-titles-42122.html) | Search Engine Roundtable | 170 | Links | 2026-09-22 11:11 UTC |
+| [Google Ads To Run Gun Accessory 6-Month Pilot](https://www.seroundtable.com/google-ads-gun-accessories-42133.html) | Search Engine Roundtable | 170 | General | 2026-09-22 11:05 UTC |
 | [Programming Note: Offline Monday For Yom Kippur 5787](https://www.seroundtable.com/yom-kippur-5787-42114.html) | Search Engine Roundtable | 170 | General | 2026-09-20 14:00 UTC |
 | [Google Web Guide Classic Search Button Doesn't Take You To Classic Search](https://www.seroundtable.com/google-web-guide-bug-42124.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-20 13:30 UTC |
 | [Google Search Console Crawl Stats Missing A Day Of Data: September 15th](https://www.seroundtable.com/google-search-console-crawl-stats-missing-42120.html) | Search Engine Roundtable | 170 | Indexing | 2026-09-20 11:55 UTC |
 | [Google Discover Tests Dive Deeper Feature](https://www.seroundtable.com/google-discover-dive-deeper-42119.html) | Search Engine Roundtable | 155 | Links | 2026-09-18 20:22 UTC |
-| [Google's AI contribution pilot pays publishers](https://www.semrush.com/blog/google-launches-ai-contribution-pilot/) | Semrush Blog | 130 | Links | 2026-09-22 10:22 UTC |
+| [How to conduct an AI visibility audit with Semrush](https://www.semrush.com/blog/ai-visibility-audit-with-semrush-one/) | Semrush Blog | 150 | AI Search | 2026-09-23 08:39 UTC |
+| [Google's AI contribution pilot pays publishers](https://www.semrush.com/blog/google-launches-ai-contribution-pilot/) | Semrush Blog | 110 | Links | 2026-09-22 10:22 UTC |
 | [AI citation outreach: a Semrush &amp; Claude workflow](https://www.semrush.com/blog/ai-citation-outreach/) | Semrush Blog | 110 | AI Search | 2026-09-21 09:49 UTC |
 | [AI Overviews Cut CTR by 23.1% in France](https://ahrefs.com/blog/ai-overviews-france-impact/) | Ahrefs Blog | 105 | GSC | 2026-09-16 16:04 UTC |
 | [What is agentic SEO? 8 workflows run on a live site](https://www.semrush.com/blog/agentic-seo/) | Semrush Blog | 95 | AI Search | 2026-09-18 14:37 UTC |
