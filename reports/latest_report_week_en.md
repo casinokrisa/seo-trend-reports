@@ -6,12 +6,24 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Sponsoring local sports teams as a Local SEO strategy?](https://www.reddit.com/r/localseo/comments/1wnxauy/sponsoring_local_sports_teams_as_a_local_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-23 05:40 UTC |
+| [25 Potential Local SEO Clients - I Need Advice](https://www.reddit.com/r/localseo/comments/1wnpc47/25_potential_local_seo_clients_i_need_advice/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-22 23:21 UTC |
+| [Looking for Business to scale through SEO](https://www.reddit.com/r/localseo/comments/1wnmwxq/looking_for_business_to_scale_through_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-22 21:40 UTC |
+| [I’m going to lose my first client, and honestly, I feel like I’m failing.](https://www.reddit.com/r/localseo/comments/1wnmw2t/im_going_to_lose_my_first_client_and_honestly_i/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-09-22 21:39 UTC |
+| [Is there any alternative of claude code or codex](https://www.reddit.com/r/localseo/comments/1wnmdiy/is_there_any_alternative_of_claude_code_or_codex/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-22 21:19 UTC |
+| [Perfil personal a perfil de negocio](https://www.reddit.com/r/localseo/comments/1wnj2iu/perfil_personal_a_perfil_de_negocio/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-22 19:19 UTC |
+| ['Dentist near me' --- PPC gets top slots -- SEO not so much!](https://www.reddit.com/r/localseo/comments/1wnhsen/dentist_near_me_ppc_gets_top_slots_seo_not_so_much/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-22 18:33 UTC |
+| [Why topical coverage may matter more than just targeting more keywords](https://www.reddit.com/r/localseo/comments/1wndwgr/why_topical_coverage_may_matter_more_than_just/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-09-22 16:14 UTC |
+| [Using one CPT for both service area pages and physical locations — good idea or bad idea?](https://www.reddit.com/r/localseo/comments/1wndqp3/using_one_cpt_for_both_service_area_pages_and/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-22 16:08 UTC |
+| [Brightlocal issues](https://www.reddit.com/r/localseo/comments/1wn66sr/brightlocal_issues/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-22 10:52 UTC |
+| [Need guidance on Digital Marketing](https://www.reddit.com/r/localseo/comments/1wn5zm9/need_guidance_on_digital_marketing/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-22 10:41 UTC |
+| [Possible SEO spam/schema injection on a Webflow site - Googlebot saw gambling schema and a fake AMP page. Could this be DNS/Cloudflare/hosting related?](https://www.reddit.com/r/localseo/comments/1wn5hsl/possible_seo_spamschema_injection_on_a_webflow/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Technical SEO | 2026-09-22 10:15 UTC |
 
 ## Weekly notable items (Sites)
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google Ads New AI Max Reporting &amp; AI Brief Expands To More Countries](https://www.seroundtable.com/google-ads-ai-max-reporting-countries-42144.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-23 08:30 UTC |
 | [Google Page Experience Docs Adds CrUX Ad Metrics](https://www.seroundtable.com/google-page-experience-crux-ad-metrics-42141.html) | Search Engine Roundtable | 190 | General | 2026-09-22 19:15 UTC |
 | [Google Merchant Center Auto Enables Native Checkout: Buy On AI Mode &amp; Gemini](https://www.seroundtable.com/google-native-checkout-emails-42140.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-22 15:20 UTC |
 | [Daily Search Forum Recap: September 22, 2026](https://www.seroundtable.com/recap-09-22-2026-42134.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-22 14:00 UTC |
@@ -27,11 +39,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Web Guide Classic Search Button Doesn't Take You To Classic Search](https://www.seroundtable.com/google-web-guide-bug-42124.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-20 13:30 UTC |
 | [Google Search Console Crawl Stats Missing A Day Of Data: September 15th](https://www.seroundtable.com/google-search-console-crawl-stats-missing-42120.html) | Search Engine Roundtable | 170 | Indexing | 2026-09-20 11:55 UTC |
 | [Google Discover Tests Dive Deeper Feature](https://www.seroundtable.com/google-discover-dive-deeper-42119.html) | Search Engine Roundtable | 155 | Links | 2026-09-18 20:22 UTC |
-| [Daily Search Forum Recap: September 18, 2026](https://www.seroundtable.com/recap-09-18-2026-42117.html) | Search Engine Roundtable | 155 | AI Search | 2026-09-18 14:00 UTC |
 | [Google's AI contribution pilot pays publishers](https://www.semrush.com/blog/google-launches-ai-contribution-pilot/) | Semrush Blog | 130 | Links | 2026-09-22 10:22 UTC |
 | [AI citation outreach: a Semrush &amp; Claude workflow](https://www.semrush.com/blog/ai-citation-outreach/) | Semrush Blog | 110 | AI Search | 2026-09-21 09:49 UTC |
 | [AI Overviews Cut CTR by 23.1% in France](https://ahrefs.com/blog/ai-overviews-france-impact/) | Ahrefs Blog | 105 | GSC | 2026-09-16 16:04 UTC |
-| [8 AI Marketing Trends I’ve Seen Firsthand in 2026 (Backed by Data)](https://ahrefs.com/blog/ai-marketing-trends/) | Ahrefs Blog | 105 | Links | 2026-09-16 09:01 UTC |
 | [What is agentic SEO? 8 workflows run on a live site](https://www.semrush.com/blog/agentic-seo/) | Semrush Blog | 95 | AI Search | 2026-09-18 14:37 UTC |
 | [Semrush MCP use cases: 16 prompts for Claude or ChatGPT](https://www.semrush.com/blog/semrush-mcp-use-case/) | Semrush Blog | 95 | AI Search | 2026-09-18 14:17 UTC |
 | [Cloudflare's AI training block now spares Googlebot](https://www.semrush.com/blog/cloudfare-blocks-ai-training/) | Semrush Blog | 95 | Indexing | 2026-09-18 14:04 UTC |
