@@ -34,7 +34,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google AI Overview Links Pushing You To AI Mode Over Web Pages](https://www.seroundtable.com/google-ai-overview-links-to-ai-mode-42132.html) | Search Engine Roundtable | 170 | Links | 2026-09-22 11:51 UTC |
 | [Google Merchant Center Updates Requirements For Google Store Ratings](https://www.seroundtable.com/google-merchant-center-google-store-ratings-42125.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-22 11:41 UTC |
 | [How to conduct an AI visibility audit with Semrush](https://www.semrush.com/blog/ai-visibility-audit-with-semrush-one/) | Semrush Blog | 130 | AI Search | 2026-09-23 08:39 UTC |
-| [Google's AI contribution pilot pays publishers](https://www.semrush.com/blog/google-launches-ai-contribution-pilot/) | Semrush Blog | 110 | Links | 2026-09-22 10:22 UTC |
 
 ## Notes for manual writing
 
