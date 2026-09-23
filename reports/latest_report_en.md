@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Page Experience Docs Adds CrUX Ad Metrics](https://www.seroundtable.com/google-page-experience-crux-ad-metrics-42141.html) | Search Engine Roundtable | 210 | General | 2026-09-22 19:15 UTC |
+| [Google Page Experience Docs Adds CrUX Ad Metrics](https://www.seroundtable.com/google-page-experience-crux-ad-metrics-42141.html) | Search Engine Roundtable | 190 | General | 2026-09-22 19:15 UTC |
 | [Google Merchant Center Auto Enables Native Checkout: Buy On AI Mode &amp; Gemini](https://www.seroundtable.com/google-native-checkout-emails-42140.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-22 15:20 UTC |
 | [Daily Search Forum Recap: September 22, 2026](https://www.seroundtable.com/recap-09-22-2026-42134.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-22 14:00 UTC |
 | [Gemini Notebook Pages Spamming Google Search](https://www.seroundtable.com/gemini-notebook-spam-google-search-42136.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-22 11:52 UTC |
