@@ -21,8 +21,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Announcing web multimodal Search performance reporting in Search Console](https://developers.google.com/search/blog/2026/09/web-multimodal-in-sc) | Google Search Central Blog | 230 | GSC | 2026-09-24 00:00 UTC |
 | [Added creator property and updated interactionStatistic in VideoObject structured data](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 220 | Technical SEO | 2026-09-24 00:00 UTC |
 | [Google September 2026 Spam Update Has Been Unleashed](https://www.seroundtable.com/google-september-2026-spam-update-42163.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-24 16:27 UTC |
-| [Google Video Schema Gets Creator Property &amp; Updated interactionStatistic](https://www.seroundtable.com/google-video-structured-data-creator-update-42162.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-24 15:12 UTC |
-| [Daily Search Forum Recap: September 24, 2026](https://www.seroundtable.com/recap-09-24-2026-42158.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-24 14:00 UTC |
+| [Google Video Schema Gets Creator Property &amp; Updated interactionStatistic](https://www.seroundtable.com/google-video-structured-data-creator-update-42162.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-24 15:12 UTC |
+| [Daily Search Forum Recap: September 24, 2026](https://www.seroundtable.com/recap-09-24-2026-42158.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-24 14:00 UTC |
 | [Google Search Ranking Volatility Hits September 23rd &amp; 24th](https://www.seroundtable.com/google-search-ranking-volatility-42157.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-24 11:51 UTC |
 | [Google Business Profiles Tests Set Your Hours Automatically](https://www.seroundtable.com/google-business-profiles-set-your-hours-automatically-42151.html) | Search Engine Roundtable | 190 | Local SEO | 2026-09-24 11:41 UTC |
 | [Google Ads Budget Recommendation Change With Forecast](https://www.seroundtable.com/google-ads-budget-change-forecast-42147.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-24 11:31 UTC |
@@ -35,7 +35,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Daily Search Forum Recap: September 23, 2026](https://www.seroundtable.com/recap-09-23-2026-42145.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-23 14:00 UTC |
 | [CMA: Google Should Make It Easier To Choose Other Search Engine On Android &amp; Chrome](https://www.seroundtable.com/cma-android-chrome-search-engine-42148.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-23 11:55 UTC |
 | [Test Google Ads AI Max Against Dynamic Search Ads](https://www.seroundtable.com/google-ads-ai-max-vs-dynamic-search-ads-42142.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-23 11:51 UTC |
-| [How to conduct an AI visibility audit with Semrush](https://www.semrush.com/blog/ai-visibility-audit-with-semrush-one/) | Semrush Blog | 110 | AI Search | 2026-09-23 08:39 UTC |
 
 ## Notes for manual writing
 
