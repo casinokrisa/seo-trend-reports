@@ -32,7 +32,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Multimodal Search Type Filter In Google Search Console Performance Report](https://www.seroundtable.com/google-search-console-multimodal-search-type-filter-42156.html) | Search Engine Roundtable | 190 | GSC | 2026-09-24 11:09 UTC |
 | [Google Ads Investment Strategy New Holistic &amp; Growth Modes](https://www.seroundtable.com/google-ads-investment-strategy-holistic-growth-modes-42153.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-24 11:05 UTC |
 | [Google Ads API Version 25.2 Now Available](https://www.seroundtable.com/google-ads-api-version-25-2-42154.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-23 23:42 UTC |
-| [Daily Search Forum Recap: September 23, 2026](https://www.seroundtable.com/recap-09-23-2026-42145.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-23 14:00 UTC |
 
 ## Notes for manual writing
 
