@@ -6,13 +6,29 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Are we too focused on websites and Google Business Profiles when it comes to content distribution?](https://www.reddit.com/r/localseo/comments/1wpr9rd/are_we_too_focused_on_websites_and_google/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-25 08:56 UTC |
+| [Has anyone else noticed completely unrelated search queries showing up in GBP Insights?](https://www.reddit.com/r/localseo/comments/1wpp8u9/has_anyone_else_noticed_completely_unrelated/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-25 06:43 UTC |
+| [GBP impressions are going up, but actual leads aren’t — what would you check first?](https://www.reddit.com/r/localseo/comments/1wpo9jh/gbp_impressions_are_going_up_but_actual_leads/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-25 05:44 UTC |
+| [Need Help In Resolving GBP posts &quot;Pending&quot; status problem](https://www.reddit.com/r/localseo/comments/1wpn4t7/need_help_in_resolving_gbp_posts_pending_status/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-25 04:39 UTC |
+| [Best way to get website indexed by Google?](https://www.reddit.com/r/localseo/comments/1wplqqu/best_way_to_get_website_indexed_by_google/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Indexing | 2026-09-25 03:25 UTC |
+| [First paying SEO client…. Help a beginner start a business](https://www.reddit.com/r/localseo/comments/1wplgre/first_paying_seo_client_help_a_beginner_start_a/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-25 03:10 UTC |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
+| 1 | [Are we too focused on websites and Google Business Profiles when it comes to content distribution?](https://www.reddit.com/r/localseo/comments/1wpr9rd/are_we_too_focused_on_websites_and_google/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-25 08:56 UTC |
+| 2 | [Has anyone else noticed completely unrelated search queries showing up in GBP Insights?](https://www.reddit.com/r/localseo/comments/1wpp8u9/has_anyone_else_noticed_completely_unrelated/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-25 06:43 UTC |
+| 3 | [GBP impressions are going up, but actual leads aren’t — what would you check first?](https://www.reddit.com/r/localseo/comments/1wpo9jh/gbp_impressions_are_going_up_but_actual_leads/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-25 05:44 UTC |
+| 4 | [Need Help In Resolving GBP posts &quot;Pending&quot; status problem](https://www.reddit.com/r/localseo/comments/1wpn4t7/need_help_in_resolving_gbp_posts_pending_status/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-25 04:39 UTC |
+| 5 | [Best way to get website indexed by Google?](https://www.reddit.com/r/localseo/comments/1wplqqu/best_way_to_get_website_indexed_by_google/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Indexing | 2026-09-25 03:25 UTC |
+| 6 | [First paying SEO client…. Help a beginner start a business](https://www.reddit.com/r/localseo/comments/1wplgre/first_paying_seo_client_help_a_beginner_start_a/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-25 03:10 UTC |
+| 7 | [First time doing proper citation cleanups and the mess out there is wild](https://www.reddit.com/r/localseo/comments/1wpk4hu/first_time_doing_proper_citation_cleanups_and_the/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-09-25 02:03 UTC |
+| 8 | [How much do you think the GBP category really matters for rankings?](https://www.reddit.com/r/localseo/comments/1wpcbi7/how_much_do_you_think_the_gbp_category_really/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-24 20:14 UTC |
+| 9 | [Did a 4-month blog content push on a small e-commerce — what would you do next?](https://www.reddit.com/r/localseo/comments/1wpbeb1/did_a_4month_blog_content_push_on_a_small/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Content | 2026-09-24 19:38 UTC |
+| 10 | [Multiple location positioning](https://www.reddit.com/r/localseo/comments/1wp58se/multiple_location_positioning/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-24 15:47 UTC |
+| 11 | [GBP stuck even after optimization](https://www.reddit.com/r/localseo/comments/1wp3fte/gbp_stuck_even_after_optimization/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-24 14:39 UTC |
+| 12 | [Local Falcon Outage](https://www.reddit.com/r/localseo/comments/1wp3d4p/local_falcon_outage/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-24 14:36 UTC |
 
 ## Notable items (Sites)
 
