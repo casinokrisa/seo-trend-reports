@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: September 25, 2026](https://www.seroundtable.com/recap-09-25-2026-42166.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-25 14:00 UTC |
+| [Daily Search Forum Recap: September 25, 2026](https://www.seroundtable.com/recap-09-25-2026-42166.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-25 14:00 UTC |
 | [Search News Buzz Video Recap: Google September 2026 Spam Update Is Here, Goodbye Discover Traffic, Multimodal Search Reporting &amp; CrUX Ad Metrics In Page Experience](https://www.seroundtable.com/video-09-25-2026-42164.html) | Search Engine Roundtable | 190 | GSC | 2026-09-25 12:01 UTC |
 | [OpenAI Has Quality Raters, AI Trainers, &amp; They Cheated With AI](https://www.seroundtable.com/openai-quality-raters-ai-trainers-42149.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-25 11:51 UTC |
 | [Google LSAs Showing Google Business Profile Number, Not Google Ads Number](https://www.seroundtable.com/google-lsa-phone-number-42160.html) | Search Engine Roundtable | 190 | Local SEO | 2026-09-25 11:41 UTC |
@@ -33,8 +33,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Business Profiles Tests Set Your Hours Automatically](https://www.seroundtable.com/google-business-profiles-set-your-hours-automatically-42151.html) | Search Engine Roundtable | 170 | Local SEO | 2026-09-24 11:41 UTC |
 | [Google Ads Budget Recommendation Change With Forecast](https://www.seroundtable.com/google-ads-budget-change-forecast-42147.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-24 11:31 UTC |
 | [Bing Tests Another Expandable Sitelinks Interface](https://www.seroundtable.com/bing-expandable-sitelinks-interface-42111.html) | Search Engine Roundtable | 170 | Links | 2026-09-24 11:21 UTC |
-| [How to Optimize for AI Search: A Guide for You and Your AI Agent](https://ahrefs.com/blog/how-to-optimize-for-ai-search/) | Ahrefs Blog | 160 | Indexing | 2026-09-25 13:48 UTC |
-| [How to make the most of your 7-day Semrush free trial](https://www.semrush.com/blog/free-7-day-semrush-one-trial/) | Semrush Blog | 150 | AI Search | 2026-09-25 13:26 UTC |
+| [How to Optimize for AI Search: A Guide for You and Your AI Agent](https://ahrefs.com/blog/how-to-optimize-for-ai-search/) | Ahrefs Blog | 140 | Indexing | 2026-09-25 13:48 UTC |
+| [How to make the most of your 7-day Semrush free trial](https://www.semrush.com/blog/free-7-day-semrush-one-trial/) | Semrush Blog | 130 | AI Search | 2026-09-25 13:26 UTC |
 | [B2B answer engine optimization: How to show up in AI](https://www.semrush.com/blog/b2b-answer-engine-optimization/) | Semrush Blog | 130 | AI Search | 2026-09-25 09:06 UTC |
 
 ## Notes for manual writing
