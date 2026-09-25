@@ -6,48 +6,34 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Are we too focused on websites and Google Business Profiles when it comes to content distribution?](https://www.reddit.com/r/localseo/comments/1wpr9rd/are_we_too_focused_on_websites_and_google/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-25 08:56 UTC |
-| [Has anyone else noticed completely unrelated search queries showing up in GBP Insights?](https://www.reddit.com/r/localseo/comments/1wpp8u9/has_anyone_else_noticed_completely_unrelated/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-25 06:43 UTC |
-| [GBP impressions are going up, but actual leads aren’t — what would you check first?](https://www.reddit.com/r/localseo/comments/1wpo9jh/gbp_impressions_are_going_up_but_actual_leads/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-25 05:44 UTC |
-| [Need Help In Resolving GBP posts &quot;Pending&quot; status problem](https://www.reddit.com/r/localseo/comments/1wpn4t7/need_help_in_resolving_gbp_posts_pending_status/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-25 04:39 UTC |
-| [Best way to get website indexed by Google?](https://www.reddit.com/r/localseo/comments/1wplqqu/best_way_to_get_website_indexed_by_google/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Indexing | 2026-09-25 03:25 UTC |
-| [First paying SEO client…. Help a beginner start a business](https://www.reddit.com/r/localseo/comments/1wplgre/first_paying_seo_client_help_a_beginner_start_a/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-25 03:10 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-| 1 | [Are we too focused on websites and Google Business Profiles when it comes to content distribution?](https://www.reddit.com/r/localseo/comments/1wpr9rd/are_we_too_focused_on_websites_and_google/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-25 08:56 UTC |
-| 2 | [Has anyone else noticed completely unrelated search queries showing up in GBP Insights?](https://www.reddit.com/r/localseo/comments/1wpp8u9/has_anyone_else_noticed_completely_unrelated/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-25 06:43 UTC |
-| 3 | [GBP impressions are going up, but actual leads aren’t — what would you check first?](https://www.reddit.com/r/localseo/comments/1wpo9jh/gbp_impressions_are_going_up_but_actual_leads/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-25 05:44 UTC |
-| 4 | [Need Help In Resolving GBP posts &quot;Pending&quot; status problem](https://www.reddit.com/r/localseo/comments/1wpn4t7/need_help_in_resolving_gbp_posts_pending_status/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-25 04:39 UTC |
-| 5 | [Best way to get website indexed by Google?](https://www.reddit.com/r/localseo/comments/1wplqqu/best_way_to_get_website_indexed_by_google/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Indexing | 2026-09-25 03:25 UTC |
-| 6 | [First paying SEO client…. Help a beginner start a business](https://www.reddit.com/r/localseo/comments/1wplgre/first_paying_seo_client_help_a_beginner_start_a/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-25 03:10 UTC |
-| 7 | [First time doing proper citation cleanups and the mess out there is wild](https://www.reddit.com/r/localseo/comments/1wpk4hu/first_time_doing_proper_citation_cleanups_and_the/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-09-25 02:03 UTC |
-| 8 | [How much do you think the GBP category really matters for rankings?](https://www.reddit.com/r/localseo/comments/1wpcbi7/how_much_do_you_think_the_gbp_category_really/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-24 20:14 UTC |
-| 9 | [Did a 4-month blog content push on a small e-commerce — what would you do next?](https://www.reddit.com/r/localseo/comments/1wpbeb1/did_a_4month_blog_content_push_on_a_small/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Content | 2026-09-24 19:38 UTC |
-| 10 | [Multiple location positioning](https://www.reddit.com/r/localseo/comments/1wp58se/multiple_location_positioning/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-24 15:47 UTC |
-| 11 | [GBP stuck even after optimization](https://www.reddit.com/r/localseo/comments/1wp3fte/gbp_stuck_even_after_optimization/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-24 14:39 UTC |
-| 12 | [Local Falcon Outage](https://www.reddit.com/r/localseo/comments/1wp3d4p/local_falcon_outage/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-24 14:36 UTC |
+|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Notable items (Sites)
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Announcing web multimodal Search performance reporting in Search Console](https://developers.google.com/search/blog/2026/09/web-multimodal-in-sc) | Google Search Central Blog | 210 | GSC | 2026-09-24 00:00 UTC |
-| [Added creator property and updated interactionStatistic in VideoObject structured data](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Technical SEO | 2026-09-24 00:00 UTC |
+| [Search News Buzz Video Recap: Google September 2026 Spam Update Is Here, Goodbye Discover Traffic, Multimodal Search Reporting &amp; CrUX Ad Metrics In Page Experience](https://www.seroundtable.com/video-09-25-2026-42164.html) | Search Engine Roundtable | 210 | GSC | 2026-09-25 12:01 UTC |
+| [OpenAI Has Quality Raters, AI Trainers, &amp; They Cheated With AI](https://www.seroundtable.com/openai-quality-raters-ai-trainers-42149.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-25 11:51 UTC |
+| [Google LSAs Showing Google Business Profile Number, Not Google Ads Number](https://www.seroundtable.com/google-lsa-phone-number-42160.html) | Search Engine Roundtable | 210 | Local SEO | 2026-09-25 11:41 UTC |
+| [Bing Testing Editable Labels On Images](https://www.seroundtable.com/bing-images-editable-labels-42152.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-25 11:31 UTC |
+| [Google Ads Disables Editing Target ROAS While Promotion Mode Is Active](https://www.seroundtable.com/google-ads-target-roas-promotion-mode-42150.html) | Search Engine Roundtable | 210 | General | 2026-09-25 11:21 UTC |
+| [Google Posts Cracks Down On Unverified Contact Information](https://www.seroundtable.com/unverified-contact-information-google-posts-42159.html) | Search Engine Roundtable | 210 | General | 2026-09-25 11:11 UTC |
+| [Bing Tests Replacing Copilot With AI Mode In Search Tabs](https://www.seroundtable.com/bing-ai-mode-search-tabs-42165.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-25 11:05 UTC |
 | [Google September 2026 Spam Update Has Been Unleashed](https://www.seroundtable.com/google-september-2026-spam-update-42163.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-24 16:27 UTC |
 | [Google Video Schema Gets Creator Property &amp; Updated interactionStatistic](https://www.seroundtable.com/google-video-structured-data-creator-update-42162.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-24 15:12 UTC |
 | [Daily Search Forum Recap: September 24, 2026](https://www.seroundtable.com/recap-09-24-2026-42158.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-24 14:00 UTC |
-| [Google Search Ranking Volatility Hits September 23rd &amp; 24th](https://www.seroundtable.com/google-search-ranking-volatility-42157.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-24 11:51 UTC |
-| [Google Business Profiles Tests Set Your Hours Automatically](https://www.seroundtable.com/google-business-profiles-set-your-hours-automatically-42151.html) | Search Engine Roundtable | 190 | Local SEO | 2026-09-24 11:41 UTC |
-| [Google Ads Budget Recommendation Change With Forecast](https://www.seroundtable.com/google-ads-budget-change-forecast-42147.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-24 11:31 UTC |
-| [Bing Tests Another Expandable Sitelinks Interface](https://www.seroundtable.com/bing-expandable-sitelinks-interface-42111.html) | Search Engine Roundtable | 190 | Links | 2026-09-24 11:21 UTC |
-| [Google Tests Local Service Ads With Larger Image &amp; Highlight Box](https://www.seroundtable.com/google-local-service-ads-larger-image-highlight-box-42155.html) | Search Engine Roundtable | 190 | General | 2026-09-24 11:15 UTC |
-| [Google Tests AI Overviews On Hotel On Side Panel](https://www.seroundtable.com/google-hotel-ai-overviews-42146.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-24 11:11 UTC |
-| [Multimodal Search Type Filter In Google Search Console Performance Report](https://www.seroundtable.com/google-search-console-multimodal-search-type-filter-42156.html) | Search Engine Roundtable | 190 | GSC | 2026-09-24 11:09 UTC |
-| [Google Ads Investment Strategy New Holistic &amp; Growth Modes](https://www.seroundtable.com/google-ads-investment-strategy-holistic-growth-modes-42153.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-24 11:05 UTC |
-| [Google Ads API Version 25.2 Now Available](https://www.seroundtable.com/google-ads-api-version-25-2-42154.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-23 23:42 UTC |
+| [Google Search Ranking Volatility Hits September 23rd &amp; 24th](https://www.seroundtable.com/google-search-ranking-volatility-42157.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-24 11:51 UTC |
+| [Google Business Profiles Tests Set Your Hours Automatically](https://www.seroundtable.com/google-business-profiles-set-your-hours-automatically-42151.html) | Search Engine Roundtable | 170 | Local SEO | 2026-09-24 11:41 UTC |
+| [Google Ads Budget Recommendation Change With Forecast](https://www.seroundtable.com/google-ads-budget-change-forecast-42147.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-24 11:31 UTC |
+| [Bing Tests Another Expandable Sitelinks Interface](https://www.seroundtable.com/bing-expandable-sitelinks-interface-42111.html) | Search Engine Roundtable | 170 | Links | 2026-09-24 11:21 UTC |
+| [Google Tests Local Service Ads With Larger Image &amp; Highlight Box](https://www.seroundtable.com/google-local-service-ads-larger-image-highlight-box-42155.html) | Search Engine Roundtable | 170 | General | 2026-09-24 11:15 UTC |
+| [B2B answer engine optimization: How to show up in AI](https://www.semrush.com/blog/b2b-answer-engine-optimization/) | Semrush Blog | 150 | AI Search | 2026-09-25 09:06 UTC |
 
 ## Notes for manual writing
 
