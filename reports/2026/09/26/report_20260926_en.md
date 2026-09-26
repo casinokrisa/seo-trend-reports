@@ -26,9 +26,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Disables Editing Target ROAS While Promotion Mode Is Active](https://www.seroundtable.com/google-ads-target-roas-promotion-mode-42150.html) | Search Engine Roundtable | 190 | General | 2026-09-25 11:21 UTC |
 | [Google Posts Cracks Down On Unverified Contact Information](https://www.seroundtable.com/unverified-contact-information-google-posts-42159.html) | Search Engine Roundtable | 190 | General | 2026-09-25 11:11 UTC |
 | [Bing Tests Replacing Copilot With AI Mode In Search Tabs](https://www.seroundtable.com/bing-ai-mode-search-tabs-42165.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-25 11:05 UTC |
-| [Google September 2026 Spam Update Has Been Unleashed](https://www.seroundtable.com/google-september-2026-spam-update-42163.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-24 16:27 UTC |
-| [Google Video Schema Gets Creator Property &amp; Updated interactionStatistic](https://www.seroundtable.com/google-video-structured-data-creator-update-42162.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-24 15:12 UTC |
-| [Daily Search Forum Recap: September 24, 2026](https://www.seroundtable.com/recap-09-24-2026-42158.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-24 14:00 UTC |
 | [How to Optimize for AI Search: A Guide for You and Your AI Agent](https://ahrefs.com/blog/how-to-optimize-for-ai-search/) | Ahrefs Blog | 140 | Indexing | 2026-09-25 13:48 UTC |
 | [How to make the most of your 7-day Semrush free trial](https://www.semrush.com/blog/free-7-day-semrush-one-trial/) | Semrush Blog | 130 | AI Search | 2026-09-25 13:26 UTC |
 | [B2B answer engine optimization: How to show up in AI](https://www.semrush.com/blog/b2b-answer-engine-optimization/) | Semrush Blog | 130 | AI Search | 2026-09-25 09:06 UTC |
