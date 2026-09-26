@@ -28,7 +28,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Bing Tests Replacing Copilot With AI Mode In Search Tabs](https://www.seroundtable.com/bing-ai-mode-search-tabs-42165.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-25 11:05 UTC |
 | [How to Optimize for AI Search: A Guide for You and Your AI Agent](https://ahrefs.com/blog/how-to-optimize-for-ai-search/) | Ahrefs Blog | 120 | Indexing | 2026-09-25 13:48 UTC |
 | [How to make the most of your 7-day Semrush free trial](https://www.semrush.com/blog/free-7-day-semrush-one-trial/) | Semrush Blog | 110 | AI Search | 2026-09-25 13:26 UTC |
-| [B2B answer engine optimization: How to show up in AI](https://www.semrush.com/blog/b2b-answer-engine-optimization/) | Semrush Blog | 110 | AI Search | 2026-09-25 09:06 UTC |
 
 ## Notes for manual writing
 
