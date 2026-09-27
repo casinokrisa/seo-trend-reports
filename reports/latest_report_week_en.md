@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Agencies tracking rankings for multiple clients — what's actually annoying you about your current tool?](https://www.reddit.com/r/localseo/comments/1wr47gd/agencies_tracking_rankings_for_multiple_clients/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-26 23:01 UTC |
-| [Google's own pages say owners can't delete reviews they dislike. For those who've reported rule-breaking ones, how did it actually go?](https://www.reddit.com/r/localseo/comments/1wr46nu/googles_own_pages_say_owners_cant_delete_reviews/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-26 23:00 UTC |
-| [Rank and Rent Peeps In Canada?](https://www.reddit.com/r/localseo/comments/1wqy5y4/rank_and_rent_peeps_in_canada/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-26 18:43 UTC |
-| [GBP stopped showing in nearby towns: the order we check things in](https://www.reddit.com/r/localseo/comments/1wqugnw/gbp_stopped_showing_in_nearby_towns_the_order_we/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-26 16:14 UTC |
-| [Solo operators: I'll find the 3 things keeping you out of Google's top 3 (attorneys, chiros, med spas, roofers)](https://www.reddit.com/r/localseo/comments/1wqnvrd/solo_operators_ill_find_the_3_things_keeping_you/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-26 11:11 UTC |
-| [Rankings have tanked in a matter of days, why?](https://www.reddit.com/r/localseo/comments/1wqmhb4/rankings_have_tanked_in_a_matter_of_days_why/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-26 09:46 UTC |
-| [What AI-powered features would actually be useful for SEO agencies?](https://www.reddit.com/r/localseo/comments/1wqdwo0/what_aipowered_features_would_actually_be_useful/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-09-26 01:37 UTC |
-| [Location pages got messy way faster than I expected](https://www.reddit.com/r/localseo/comments/1wqbc2z/location_pages_got_messy_way_faster_than_i/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-25 23:33 UTC |
-| [This Week in Local Search: September Volatility, Maps Architecture, and Profiles That Still W](https://www.reddit.com/r/localseo/comments/1wq47cg/this_week_in_local_search_september_volatility/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-25 18:38 UTC |
-| [Google is testing a new “Related websites” feature in local search 👀](https://www.reddit.com/r/localseo/comments/1wq0mbm/google_is_testing_a_new_related_websites_feature/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-25 16:18 UTC |
-| [A lista de hoje não é muito diferente da de ontem: Responder clientes. Revisar conteúdos. Ajustar páginas. Acompanhar rankings. Planejar as próximas ações. Parece rotina. E é.](https://www.reddit.com/r/localseo/comments/1wpy78k/a_lista_de_hoje_n%C3%A3o_%C3%A9_muito_diferente_da_de_ontem/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-09-25 14:44 UTC |
-| [Local SEO guy here. Lost most of my clients after getting sick](https://www.reddit.com/r/localseo/comments/1wpxoak/local_seo_guy_here_lost_most_of_my_clients_after/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-09-25 14:22 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
@@ -36,10 +25,10 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google September 2026 Spam Update Has Been Unleashed](https://www.seroundtable.com/google-september-2026-spam-update-42163.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-24 16:27 UTC |
 | [Google Video Schema Gets Creator Property &amp; Updated interactionStatistic](https://www.seroundtable.com/google-video-structured-data-creator-update-42162.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-24 15:12 UTC |
 | [Daily Search Forum Recap: September 24, 2026](https://www.seroundtable.com/recap-09-24-2026-42158.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-24 14:00 UTC |
-| [Google Search Ranking Volatility Hits September 23rd &amp; 24th](https://www.seroundtable.com/google-search-ranking-volatility-42157.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-24 11:51 UTC |
-| [Google Business Profiles Tests Set Your Hours Automatically](https://www.seroundtable.com/google-business-profiles-set-your-hours-automatically-42151.html) | Search Engine Roundtable | 170 | Local SEO | 2026-09-24 11:41 UTC |
-| [Google Ads Budget Recommendation Change With Forecast](https://www.seroundtable.com/google-ads-budget-change-forecast-42147.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-24 11:31 UTC |
-| [Bing Tests Another Expandable Sitelinks Interface](https://www.seroundtable.com/bing-expandable-sitelinks-interface-42111.html) | Search Engine Roundtable | 170 | Links | 2026-09-24 11:21 UTC |
+| [Google Search Ranking Volatility Hits September 23rd &amp; 24th](https://www.seroundtable.com/google-search-ranking-volatility-42157.html) | Search Engine Roundtable | 155 | AI Search | 2026-09-24 11:51 UTC |
+| [Google Business Profiles Tests Set Your Hours Automatically](https://www.seroundtable.com/google-business-profiles-set-your-hours-automatically-42151.html) | Search Engine Roundtable | 155 | Local SEO | 2026-09-24 11:41 UTC |
+| [Google Ads Budget Recommendation Change With Forecast](https://www.seroundtable.com/google-ads-budget-change-forecast-42147.html) | Search Engine Roundtable | 155 | AI Search | 2026-09-24 11:31 UTC |
+| [Bing Tests Another Expandable Sitelinks Interface](https://www.seroundtable.com/bing-expandable-sitelinks-interface-42111.html) | Search Engine Roundtable | 155 | Links | 2026-09-24 11:21 UTC |
 | [How to Optimize for AI Search: A Guide for You and Your AI Agent](https://ahrefs.com/blog/how-to-optimize-for-ai-search/) | Ahrefs Blog | 120 | Indexing | 2026-09-25 13:48 UTC |
 | [How to make the most of your 7-day Semrush free trial](https://www.semrush.com/blog/free-7-day-semrush-one-trial/) | Semrush Blog | 110 | AI Search | 2026-09-25 13:26 UTC |
 | [B2B answer engine optimization: How to show up in AI](https://www.semrush.com/blog/b2b-answer-engine-optimization/) | Semrush Blog | 110 | AI Search | 2026-09-25 09:06 UTC |
