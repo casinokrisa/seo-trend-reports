@@ -18,9 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: September 25, 2026](https://www.seroundtable.com/recap-09-25-2026-42166.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-25 14:00 UTC |
-| [How to Optimize for AI Search: A Guide for You and Your AI Agent](https://ahrefs.com/blog/how-to-optimize-for-ai-search/) | Ahrefs Blog | 120 | Indexing | 2026-09-25 13:48 UTC |
-| [How to make the most of your 7-day Semrush free trial](https://www.semrush.com/blog/free-7-day-semrush-one-trial/) | Semrush Blog | 110 | AI Search | 2026-09-25 13:26 UTC |
+| _No site items in window_ |  |  |  |  |
 
 ## Notes for manual writing
 
