@@ -12,15 +12,15 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: September 28, 2026](https://www.seroundtable.com/recap-09-28-2026-42173.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-28 14:00 UTC |
-| [Google September 2026 Spam Update Has Big WeekendÂImpact](https://www.seroundtable.com/google-september-2026-spam-update-weekend-impact-42174.html) | Search Engine Roundtable | 210 | General | 2026-09-28 11:51 UTC |
-| [Google Web Search Service API Documentation Has Been Removed](https://www.seroundtable.com/google-web-search-service-api-documentation-removed-42168.html) | Search Engine Roundtable | 210 | General | 2026-09-28 11:41 UTC |
-| [Several Google Merchant Center Policy Documents Updated](https://www.seroundtable.com/google-merchant-center-policy-docs-updates-42167.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-28 11:31 UTC |
-| [Google Tests Replacing Show More Button On AI Overviews With Loading...](https://www.seroundtable.com/google-ai-overviews-loading-button-42170.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-28 11:21 UTC |
-| [Google Merchant Center API Help Document Vastly Updated](https://www.seroundtable.com/google-merchant-center-api-help-doc-update-42137.html) | Search Engine Roundtable | 210 | Content | 2026-09-28 11:11 UTC |
-| [Google Search Profiles Follow Button Removed From Desktop Search Results](https://www.seroundtable.com/google-search-profiles-follow-button-removed-42169.html) | Search Engine Roundtable | 210 | General | 2026-09-28 11:05 UTC |
-| [Google Tests More Sitelinks Designs](https://www.seroundtable.com/google-test-more-sitelinks-designs-42172.html) | Search Engine Roundtable | 210 | Links | 2026-09-28 09:45 UTC |
 | [Announcing web multimodal Search performance reporting in Search Console](https://developers.google.com/search/blog/2026/09/web-multimodal-in-sc) | Google Search Central Blog | 195 | GSC | 2026-09-24 00:00 UTC |
+| [Daily Search Forum Recap: September 28, 2026](https://www.seroundtable.com/recap-09-28-2026-42173.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-28 14:00 UTC |
+| [Google September 2026 Spam Update Has Big WeekendÂImpact](https://www.seroundtable.com/google-september-2026-spam-update-weekend-impact-42174.html) | Search Engine Roundtable | 190 | General | 2026-09-28 11:51 UTC |
+| [Google Web Search Service API Documentation Has Been Removed](https://www.seroundtable.com/google-web-search-service-api-documentation-removed-42168.html) | Search Engine Roundtable | 190 | General | 2026-09-28 11:41 UTC |
+| [Several Google Merchant Center Policy Documents Updated](https://www.seroundtable.com/google-merchant-center-policy-docs-updates-42167.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-28 11:31 UTC |
+| [Google Tests Replacing Show More Button On AI Overviews With Loading...](https://www.seroundtable.com/google-ai-overviews-loading-button-42170.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-28 11:21 UTC |
+| [Google Merchant Center API Help Document Vastly Updated](https://www.seroundtable.com/google-merchant-center-api-help-doc-update-42137.html) | Search Engine Roundtable | 190 | Content | 2026-09-28 11:11 UTC |
+| [Google Search Profiles Follow Button Removed From Desktop Search Results](https://www.seroundtable.com/google-search-profiles-follow-button-removed-42169.html) | Search Engine Roundtable | 190 | General | 2026-09-28 11:05 UTC |
+| [Google Tests More Sitelinks Designs](https://www.seroundtable.com/google-test-more-sitelinks-designs-42172.html) | Search Engine Roundtable | 190 | Links | 2026-09-28 09:45 UTC |
 | [Google's 28th Birthday Doodle Takes You To Google AI Mode Quiz](https://www.seroundtable.com/googles-28th-birthday-doodle-42171.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-28 00:17 UTC |
 | [Added creator property and updated interactionStatistic in VideoObject structured data](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Technical SEO | 2026-09-24 00:00 UTC |
 | [Daily Search Forum Recap: September 25, 2026](https://www.seroundtable.com/recap-09-25-2026-42166.html) | Search Engine Roundtable | 155 | AI Search | 2026-09-25 14:00 UTC |
@@ -29,6 +29,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google LSAs Showing Google Business Profile Number, Not Google Ads Number](https://www.seroundtable.com/google-lsa-phone-number-42160.html) | Search Engine Roundtable | 155 | Local SEO | 2026-09-25 11:41 UTC |
 | [Bing Testing Editable Labels On Images](https://www.seroundtable.com/bing-images-editable-labels-42152.html) | Search Engine Roundtable | 155 | AI Search | 2026-09-25 11:31 UTC |
 | [Google Ads Disables Editing Target ROAS While Promotion Mode Is Active](https://www.seroundtable.com/google-ads-target-roas-promotion-mode-42150.html) | Search Engine Roundtable | 155 | General | 2026-09-25 11:21 UTC |
+| [What is llms.txt &amp; should you use it?](https://www.semrush.com/blog/llms-txt/) | Semrush Blog | 150 | AI Search | 2026-09-28 16:15 UTC |
 | [10 SEO best practices for Google and AI search](https://www.semrush.com/blog/seo-best-practices/) | Semrush Blog | 130 | AI Search | 2026-09-28 09:18 UTC |
 | [How to Optimize for AI Search: A Guide for You and Your AI Agent](https://ahrefs.com/blog/how-to-optimize-for-ai-search/) | Ahrefs Blog | 105 | Indexing | 2026-09-25 13:48 UTC |
 | [How to make the most of your 7-day Semrush free trial](https://www.semrush.com/blog/free-7-day-semrush-one-trial/) | Semrush Blog | 95 | AI Search | 2026-09-25 13:26 UTC |
