@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| _No site items in window_ |  |  |  |  |
+| [Google's 28th Birthday Doodle Takes You To Google AI Mode Quiz](https://www.seroundtable.com/googles-28th-birthday-doodle-42171.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-28 00:17 UTC |
 
 ## Notes for manual writing
 
