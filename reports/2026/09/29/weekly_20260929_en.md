@@ -12,8 +12,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Globally Rolls Out Monitoring Capabilities In AI Mode](https://www.seroundtable.com/google-ai-mode-monitoring-capabilities-42179.html) | Search Engine Roundtable | 210 | AI Search | 2026-09-28 23:59 UTC |
 | [Announcing web multimodal Search performance reporting in Search Console](https://developers.google.com/search/blog/2026/09/web-multimodal-in-sc) | Google Search Central Blog | 195 | GSC | 2026-09-24 00:00 UTC |
+| [Google Globally Rolls Out Monitoring Capabilities In AI Mode](https://www.seroundtable.com/google-ai-mode-monitoring-capabilities-42179.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-28 23:59 UTC |
 | [Daily Search Forum Recap: September 28, 2026](https://www.seroundtable.com/recap-09-28-2026-42173.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-28 14:00 UTC |
 | [Google September 2026 Spam Update Has Big WeekendÂImpact](https://www.seroundtable.com/google-september-2026-spam-update-weekend-impact-42174.html) | Search Engine Roundtable | 190 | General | 2026-09-28 11:51 UTC |
 | [Google Web Search Service API Documentation Has Been Removed](https://www.seroundtable.com/google-web-search-service-api-documentation-removed-42168.html) | Search Engine Roundtable | 190 | General | 2026-09-28 11:41 UTC |
