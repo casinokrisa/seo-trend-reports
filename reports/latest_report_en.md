@@ -18,6 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google Working To Restore Google Analytics](https://www.seroundtable.com/google-analytics-fix-42187.html) | Search Engine Roundtable | 210 | General | 2026-09-30 01:17 UTC |
 | [Daily Search Forum Recap: September 29, 2026](https://www.seroundtable.com/recap-09-29-2026-42182.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-29 14:00 UTC |
 | [Google's Nick Fox Feels Sad &amp; Terrible For European Searchers After DMA](https://www.seroundtable.com/nick-fox-google-dma-42178.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-29 11:51 UTC |
 | [Google Local Panel With Two Rows Of Buttons On Mobile](https://www.seroundtable.com/google-local-panel-two-rows-of-buttons-42176.html) | Search Engine Roundtable | 190 | General | 2026-09-29 11:41 UTC |
@@ -26,10 +27,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Business Profiles Policies Adds Misuse Of Support Channels](https://www.seroundtable.com/google-business-profiles-misuse-of-support-channels-42175.html) | Search Engine Roundtable | 190 | Local SEO | 2026-09-29 11:11 UTC |
 | [Google Appeals Europe's DMA Mandate To Share Search History Data](https://www.seroundtable.com/google-appeals-eu-dma-search-history-data-42180.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-29 11:05 UTC |
 | [Google Globally Rolls Out Monitoring Capabilities In AI Mode](https://www.seroundtable.com/google-ai-mode-monitoring-capabilities-42179.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-28 23:59 UTC |
-| [Daily Search Forum Recap: September 28, 2026](https://www.seroundtable.com/recap-09-28-2026-42173.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-28 14:00 UTC |
 | [The LLM positioning lag: What it is and how to avoid it](https://www.semrush.com/blog/llm-positioning-lag/) | Semrush Blog | 130 | AI Search | 2026-09-29 14:50 UTC |
 | [Google releases September 2026 spam update](https://www.semrush.com/blog/google-spam-update-september-2026/) | Semrush Blog | 130 | General | 2026-09-29 08:26 UTC |
-| [What is llms.txt &amp; should you use it?](https://www.semrush.com/blog/llms-txt/) | Semrush Blog | 110 | AI Search | 2026-09-28 16:15 UTC |
 
 ## Notes for manual writing
 

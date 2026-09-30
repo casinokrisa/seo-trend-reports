@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google Working To Restore Google Analytics](https://www.seroundtable.com/google-analytics-fix-42187.html) | Search Engine Roundtable | 210 | General | 2026-09-30 01:17 UTC |
 | [Announcing web multimodal Search performance reporting in Search Console](https://developers.google.com/search/blog/2026/09/web-multimodal-in-sc) | Google Search Central Blog | 195 | GSC | 2026-09-24 00:00 UTC |
 | [Daily Search Forum Recap: September 29, 2026](https://www.seroundtable.com/recap-09-29-2026-42182.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-29 14:00 UTC |
 | [Google's Nick Fox Feels Sad &amp; Terrible For European Searchers After DMA](https://www.seroundtable.com/nick-fox-google-dma-42178.html) | Search Engine Roundtable | 190 | AI Search | 2026-09-29 11:51 UTC |
@@ -28,7 +29,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Several Google Merchant Center Policy Documents Updated](https://www.seroundtable.com/google-merchant-center-policy-docs-updates-42167.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-28 11:31 UTC |
 | [Google Tests Replacing Show More Button On AI Overviews With Loading...](https://www.seroundtable.com/google-ai-overviews-loading-button-42170.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-28 11:21 UTC |
 | [Google Merchant Center API Help Document Vastly Updated](https://www.seroundtable.com/google-merchant-center-api-help-doc-update-42137.html) | Search Engine Roundtable | 170 | Content | 2026-09-28 11:11 UTC |
-| [Google Search Profiles Follow Button Removed From Desktop Search Results](https://www.seroundtable.com/google-search-profiles-follow-button-removed-42169.html) | Search Engine Roundtable | 170 | General | 2026-09-28 11:05 UTC |
 | [The LLM positioning lag: What it is and how to avoid it](https://www.semrush.com/blog/llm-positioning-lag/) | Semrush Blog | 130 | AI Search | 2026-09-29 14:50 UTC |
 | [Google releases September 2026 spam update](https://www.semrush.com/blog/google-spam-update-september-2026/) | Semrush Blog | 130 | General | 2026-09-29 08:26 UTC |
 | [What is llms.txt &amp; should you use it?](https://www.semrush.com/blog/llms-txt/) | Semrush Blog | 110 | AI Search | 2026-09-28 16:15 UTC |
