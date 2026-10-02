@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google: Manually Factcheck &amp; Review AI-Generated Content For Accuracy](https://www.seroundtable.com/google-updates-ai-content-guidelines-factcheck-review-42217.html) | Search Engine Roundtable | 210 | AI Search | 2026-10-02 00:10 UTC |
+| [Google: Manually Factcheck &amp; Review AI-Generated Content For Accuracy](https://www.seroundtable.com/google-updates-ai-content-guidelines-factcheck-review-42217.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-02 00:10 UTC |
 | [ChatGPT Adds Virtually Try On Clothing &amp; Accessories](https://www.seroundtable.com/chatgpt-virtually-try-on-42215.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-01 19:32 UTC |
 | [Google AI Overview Lawsuit Dismissed Over No Agreement With Publishers](https://www.seroundtable.com/google-ai-overview-lawsuit-dismissed-42211.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-01 15:31 UTC |
 | [Phase Two Of The Google September 2026 Spam Update Hits On 9/30](https://www.seroundtable.com/google-september-2026-spam-update-two-42209.html) | Search Engine Roundtable | 190 | General | 2026-10-01 14:30 UTC |
@@ -30,13 +30,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Tests Dropping I'm Feeling Lucky Button From Search Bar](https://www.seroundtable.com/google-search-im-feeling-lucky-button-42190.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-01 11:21 UTC |
 | [Google Search Tests 3 Products In Grid That Expands To More](https://www.seroundtable.com/google-search-more-products-test-42191.html) | Search Engine Roundtable | 190 | General | 2026-10-01 11:11 UTC |
 | [Google Ads: Have At Least One Asset Group To Avoid Invalid Final URL Error](https://www.seroundtable.com/google-ads-asset-groupinvalid-final-url-42204.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-01 11:05 UTC |
-| [Google AI Overviews Return For Many Large Brand Names](https://www.seroundtable.com/google-ai-overviews-large-brand-names-42195.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-30 16:12 UTC |
-| [OpenAI ChatGPT Ads Gains Bulk Product Creation, Product Review Status &amp; More](https://www.seroundtable.com/openai-chatgpt-ads-updates-42194.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-30 15:33 UTC |
 | [SEO for Static Sites: 8 Problems to Watch For](https://ahrefs.com/blog/seo-for-static-sites/) | Ahrefs Blog | 140 | Local SEO | 2026-10-01 14:57 UTC |
-| [Ultimate SEO checklist: 43 tips to optimize your website](https://www.semrush.com/blog/seo-checklist/) | Semrush Blog | 130 | AI Search | 2026-10-01 08:25 UTC |
-| [69% of Marketers Are Publishing More AI Content Than Last Year (New Research Report)](https://ahrefs.com/blog/marketers-ai-content-creation/) | Ahrefs Blog | 120 | AI Search | 2026-09-30 15:56 UTC |
-| [AI Visibility Data Paralysis: How to Get Unstuck](https://ahrefs.com/blog/ai-visibility-workflow/) | Ahrefs Blog | 120 | AI Search | 2026-09-30 15:42 UTC |
-| [Claude Code for SEO: 35 Use Cases](https://ahrefs.com/blog/claude-code-for-seo/) | Ahrefs Blog | 120 | Links | 2026-09-30 15:35 UTC |
+| [Ultimate SEO checklist: 43 tips to optimize your website](https://www.semrush.com/blog/seo-checklist/) | Semrush Blog | 110 | AI Search | 2026-10-01 08:25 UTC |
 
 ## Notes for manual writing
 

@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google: Manually Factcheck &amp; Review AI-Generated Content For Accuracy](https://www.seroundtable.com/google-updates-ai-content-guidelines-factcheck-review-42217.html) | Search Engine Roundtable | 210 | AI Search | 2026-10-02 00:10 UTC |
+| [Google: Manually Factcheck &amp; Review AI-Generated Content For Accuracy](https://www.seroundtable.com/google-updates-ai-content-guidelines-factcheck-review-42217.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-02 00:10 UTC |
 | [ChatGPT Adds Virtually Try On Clothing &amp; Accessories](https://www.seroundtable.com/chatgpt-virtually-try-on-42215.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-01 19:32 UTC |
 | [Google AI Overview Lawsuit Dismissed Over No Agreement With Publishers](https://www.seroundtable.com/google-ai-overview-lawsuit-dismissed-42211.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-01 15:31 UTC |
 | [Phase Two Of The Google September 2026 Spam Update Hits On 9/30](https://www.seroundtable.com/google-september-2026-spam-update-two-42209.html) | Search Engine Roundtable | 190 | General | 2026-10-01 14:30 UTC |
@@ -28,14 +28,14 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [OpenAI ChatGPT Ads Gains Bulk Product Creation, Product Review Status &amp; More](https://www.seroundtable.com/openai-chatgpt-ads-updates-42194.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-30 15:33 UTC |
 | [Daily Search Forum Recap: September 30, 2026](https://www.seroundtable.com/recap-09-30-2026-42189.html) | Search Engine Roundtable | 170 | AI Search | 2026-09-30 14:00 UTC |
 | [SEO for Static Sites: 8 Problems to Watch For](https://ahrefs.com/blog/seo-for-static-sites/) | Ahrefs Blog | 140 | Local SEO | 2026-10-01 14:57 UTC |
-| [Ultimate SEO checklist: 43 tips to optimize your website](https://www.semrush.com/blog/seo-checklist/) | Semrush Blog | 130 | AI Search | 2026-10-01 08:25 UTC |
 | [69% of Marketers Are Publishing More AI Content Than Last Year (New Research Report)](https://ahrefs.com/blog/marketers-ai-content-creation/) | Ahrefs Blog | 120 | AI Search | 2026-09-30 15:56 UTC |
 | [AI Visibility Data Paralysis: How to Get Unstuck](https://ahrefs.com/blog/ai-visibility-workflow/) | Ahrefs Blog | 120 | AI Search | 2026-09-30 15:42 UTC |
 | [Claude Code for SEO: 35 Use Cases](https://ahrefs.com/blog/claude-code-for-seo/) | Ahrefs Blog | 120 | Links | 2026-09-30 15:35 UTC |
+| [Ultimate SEO checklist: 43 tips to optimize your website](https://www.semrush.com/blog/seo-checklist/) | Semrush Blog | 110 | AI Search | 2026-10-01 08:25 UTC |
 | [AEO vs SEO: core differences &amp; how to win visibility in both](https://www.semrush.com/blog/aeo-vs-seo/) | Semrush Blog | 110 | AI Search | 2026-09-30 08:36 UTC |
 | [The LLM positioning lag: What it is and how to avoid it](https://www.semrush.com/blog/llm-positioning-lag/) | Semrush Blog | 110 | AI Search | 2026-09-29 14:50 UTC |
-| [Google releases September 2026 spam update](https://www.semrush.com/blog/google-spam-update-september-2026/) | Semrush Blog | 110 | General | 2026-09-29 08:26 UTC |
 | [How to Optimize for AI Search: A Guide for You and Your AI Agent](https://ahrefs.com/blog/how-to-optimize-for-ai-search/) | Ahrefs Blog | 105 | Indexing | 2026-09-25 13:48 UTC |
+| [Google releases September 2026 spam update](https://www.semrush.com/blog/google-spam-update-september-2026/) | Semrush Blog | 95 | General | 2026-09-29 08:26 UTC |
 | [What is llms.txt &amp; should you use it?](https://www.semrush.com/blog/llms-txt/) | Semrush Blog | 95 | AI Search | 2026-09-28 16:15 UTC |
 | [10 SEO best practices for Google and AI search](https://www.semrush.com/blog/seo-best-practices/) | Semrush Blog | 95 | AI Search | 2026-09-28 09:18 UTC |
 | [How to make the most of your 7-day Semrush free trial](https://www.semrush.com/blog/free-7-day-semrush-one-trial/) | Semrush Blog | 95 | AI Search | 2026-09-25 13:26 UTC |
