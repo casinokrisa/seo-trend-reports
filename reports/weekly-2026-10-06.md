@@ -37,7 +37,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Ultimate SEO checklist: 43 tips to optimize your website](https://www.semrush.com/blog/seo-checklist/) | Semrush Blog | 95 | AI Search | 2026-10-01 08:25 UTC |
 | [AEO vs SEO: core differences &amp; how to win visibility in both](https://www.semrush.com/blog/aeo-vs-seo/) | Semrush Blog | 95 | AI Search | 2026-09-30 08:36 UTC |
 | [The LLM positioning lag: What it is and how to avoid it](https://www.semrush.com/blog/llm-positioning-lag/) | Semrush Blog | 95 | AI Search | 2026-09-29 14:50 UTC |
-| [Google releases September 2026 spam update](https://www.semrush.com/blog/google-spam-update-september-2026/) | Semrush Blog | 95 | General | 2026-09-29 08:26 UTC |
 
 ## Notes
 
