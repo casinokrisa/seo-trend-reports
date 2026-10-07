@@ -32,7 +32,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google On Large Product Aggregator Websites](https://www.seroundtable.com/google-seo-large-product-aggregator-42232.html) | Search Engine Roundtable | 190 | Indexing | 2026-10-06 11:21 UTC |
 | [Google Warns Against Deceptive Authorship Information Within Content](https://www.seroundtable.com/google-warns-against-deceptive-authorship-information-42238.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-06 11:11 UTC |
 | [OpenAI Tests New Product Labels On ChatGPT Results](https://www.seroundtable.com/product-labels-on-chatgpt-results-42237.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-06 10:02 UTC |
-| [Daily Search Forum Recap: October 5, 2026](https://www.seroundtable.com/recap-10-05-2026-42227.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-05 14:00 UTC |
 | [How to Measure AI Search Visibility When Attribution Falls Short](https://ahrefs.com/blog/how-to-measure-ai-search-visibility/) | Ahrefs Blog | 140 | AI Search | 2026-10-06 16:00 UTC |
 | [AI Search ROI Is Messy. Here’s How to Measure It Anyway](https://ahrefs.com/blog/ai-search-roi/) | Ahrefs Blog | 140 | AI Search | 2026-10-06 15:51 UTC |
 | [Google AI Overviews now appear for most major brands](https://www.semrush.com/blog/ai-overviews-appearing-for-major-brands/) | Semrush Blog | 130 | AI Search | 2026-10-06 09:06 UTC |
