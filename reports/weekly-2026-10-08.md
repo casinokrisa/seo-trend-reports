@@ -36,7 +36,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Local SEO: What is it &amp; how to do it](https://www.semrush.com/blog/what-is-local-seo/) | Semrush Blog | 110 | Local SEO | 2026-10-05 12:51 UTC |
 | [AI Overviews Currently Appear for 83% of Branded Searches](https://ahrefs.com/blog/ai-overviews-on-branded-searches/) | Ahrefs Blog | 105 | GSC | 2026-10-02 11:33 UTC |
 | [SEO for Static Sites: 8 Problems to Watch For](https://ahrefs.com/blog/seo-for-static-sites/) | Ahrefs Blog | 105 | Local SEO | 2026-10-01 14:57 UTC |
-| [Ultimate SEO checklist: 43 tips to optimize your website](https://www.semrush.com/blog/seo-checklist/) | Semrush Blog | 95 | AI Search | 2026-10-01 08:25 UTC |
 
 ## Notes
 

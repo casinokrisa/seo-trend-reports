@@ -25,15 +25,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Merchant Center New UCP Integration Hub](https://www.seroundtable.com/google-merchant-center-ucp-integration-hub-42243.html) | Search Engine Roundtable | 190 | General | 2026-10-07 11:21 UTC |
 | [Google Local Panel Gains WhatsApp Button](https://www.seroundtable.com/google-local-panel-whatsapp-button-42230.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-07 11:11 UTC |
 | [This Is My 50,000 Published Story On Search](https://www.seroundtable.com/barry-schwartz-50000-stories-42234.html) | Search Engine Roundtable | 190 | General | 2026-10-07 10:04 UTC |
-| [Google Search Crawl Rate Doc Adds Retry-After HTTP &amp; More](https://www.seroundtable.com/google-crawl-rate-documentation-update-42247.html) | Search Engine Roundtable | 170 | Indexing | 2026-10-06 18:59 UTC |
-| [Nano Banana 2.1 In Google AI Mode In Search](https://www.seroundtable.com/nano-banana-21-google-ai-mode-42246.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-06 17:10 UTC |
-| [Google Search Profiles Expand To India &amp; Canada With Brazil Coming Soon](https://www.seroundtable.com/google-search-profiles-india-canada-brazil-42245.html) | Search Engine Roundtable | 170 | General | 2026-10-06 16:36 UTC |
-| [Google Email Shares Number Of Preferred Source Subscribers](https://www.seroundtable.com/google-preferred-source-subscribers-email-42244.html) | Search Engine Roundtable | 170 | GSC | 2026-10-06 16:15 UTC |
-| [Daily Search Forum Recap: October 6, 2026](https://www.seroundtable.com/recap-10-06-2026-42240.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-06 14:00 UTC |
 | [How to track your AI citations and sources with Semrush](https://www.semrush.com/blog/track-ai-citation-sources-semrush/) | Semrush Blog | 130 | AI Search | 2026-10-07 12:01 UTC |
 | [Multi-location SEO: How to build a scalable strategy](https://www.semrush.com/blog/multi-location-seo/) | Semrush Blog | 130 | Local SEO | 2026-10-07 09:39 UTC |
-| [How to Measure AI Search Visibility When Attribution Falls Short](https://ahrefs.com/blog/how-to-measure-ai-search-visibility/) | Ahrefs Blog | 120 | AI Search | 2026-10-06 16:00 UTC |
-| [AI Search ROI Is Messy. Here’s How to Measure It Anyway](https://ahrefs.com/blog/ai-search-roi/) | Ahrefs Blog | 120 | AI Search | 2026-10-06 15:51 UTC |
 
 ## Notes for manual writing
 
