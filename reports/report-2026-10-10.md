@@ -6,41 +6,25 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [LSA migration to Google Ads](https://www.reddit.com/r/localseo/comments/1x1w6dw/lsa_migration_to_google_ads/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Migration | 2026-10-09 20:31 UTC |
-| [how can i distance my Google business profile from search terms that I dont want to be associated with?](https://www.reddit.com/r/localseo/comments/1x1u713/how_can_i_distance_my_google_business_profile/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-10-09 19:13 UTC |
-| [Anyone else see a major ranking drop exactly when the September 2026 spam update started, despite having a normal non-spam site?](https://www.reddit.com/r/localseo/comments/1x1tjm1/anyone_else_see_a_major_ranking_drop_exactly_when/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-10-09 18:48 UTC |
-| [Ways to get more clients?](https://www.reddit.com/r/localseo/comments/1x1r090/ways_to_get_more_clients/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-10-09 17:10 UTC |
-| [Local SEO Guide for Small Businesses](https://www.reddit.com/r/localseo/comments/1x1kzdo/local_seo_guide_for_small_businesses/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-10-09 13:11 UTC |
-| [Local SEO Guide for Small Businesses in Hindi \| Rank on Google Maps](https://www.reddit.com/r/localseo/comments/1x1ktlj/local_seo_guide_for_small_businesses_in_hindi/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-10-09 13:03 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-| 1 | [LSA migration to Google Ads](https://www.reddit.com/r/localseo/comments/1x1w6dw/lsa_migration_to_google_ads/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Migration | 2026-10-09 20:31 UTC |
-| 2 | [how can i distance my Google business profile from search terms that I dont want to be associated with?](https://www.reddit.com/r/localseo/comments/1x1u713/how_can_i_distance_my_google_business_profile/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-10-09 19:13 UTC |
-| 3 | [Anyone else see a major ranking drop exactly when the September 2026 spam update started, despite having a normal non-spam site?](https://www.reddit.com/r/localseo/comments/1x1tjm1/anyone_else_see_a_major_ranking_drop_exactly_when/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-10-09 18:48 UTC |
-| 4 | [Ways to get more clients?](https://www.reddit.com/r/localseo/comments/1x1r090/ways_to_get_more_clients/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-10-09 17:10 UTC |
-| 5 | [Local SEO Guide for Small Businesses](https://www.reddit.com/r/localseo/comments/1x1kzdo/local_seo_guide_for_small_businesses/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-10-09 13:11 UTC |
-| 6 | [Local SEO Guide for Small Businesses in Hindi \| Rank on Google Maps](https://www.reddit.com/r/localseo/comments/1x1ktlj/local_seo_guide_for_small_businesses_in_hindi/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-10-09 13:03 UTC |
-| 7 | [Google Search results:](https://www.reddit.com/r/localseo/comments/1x1k2c4/google_search_results/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-10-09 12:28 UTC |
-| 8 | [Local citation building in 2026 what’s actually worth doing?](https://www.reddit.com/r/localseo/comments/1x1k172/local_citation_building_in_2026_whats_actually/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-10-09 12:26 UTC |
-| 9 | [How to handle the question?](https://www.reddit.com/r/localseo/comments/1x1f0vz/how_to_handle_the_question/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-10-09 07:30 UTC |
-| 10 | [Does your Google Business Profile get you into AI answers? 30 days of data for one local search (&quot;best electrician in Burnaby BC&quot;)](https://www.reddit.com/r/localseo/comments/1x1dpom/does_your_google_business_profile_get_you_into_ai/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-10-09 06:08 UTC |
-| 11 | [Lost 70%+ organic traffic after December Core Update](https://www.reddit.com/r/localseo/comments/1x1aru0/lost_70_organic_traffic_after_december_core_update/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-10-09 03:21 UTC |
-| 12 | [How do you make location pages genuinely useful without repeating the same content?](https://www.reddit.com/r/localseo/comments/1x1a3ct/how_do_you_make_location_pages_genuinely_useful/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Content | 2026-10-09 02:46 UTC |
+|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Notable items (Sites)
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
 | [Daily Search Forum Recap: October 9, 2026](https://www.seroundtable.com/recap-10-09-2026-42266.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-09 14:00 UTC |
-| [Search News Buzz Video Recap: Google Spam Update Done, Penalties Rise, Factcheck AI, Content Quality, Fake Authors, Ads &amp; So Much More](https://www.seroundtable.com/video-10-09-2026-42263.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-09 12:01 UTC |
-| [Google Ads Enables Text Customization Asset Previews](https://www.seroundtable.com/google-ads-text-customization-asset-previews-42264.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-09 11:51 UTC |
-| [Bing Testing Local Pack Without Borders](https://www.seroundtable.com/bing-local-pack-without-borders-42257.html) | Search Engine Roundtable | 190 | General | 2026-10-09 11:41 UTC |
-| [Google Updates Reader Revenue Manager Home Page](https://www.seroundtable.com/google-updates-reader-revenue-manager-42261.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-09 11:31 UTC |
-| [Bing Tests Faded Stylish Line Separators](https://www.seroundtable.com/bing-faded-line-separators-42192.html) | Search Engine Roundtable | 190 | General | 2026-10-09 11:21 UTC |
-| [Bing Tests Removing Favicons From Search Result Snippets](https://www.seroundtable.com/bing-no-favicons-snippets-42262.html) | Search Engine Roundtable | 190 | General | 2026-10-09 11:11 UTC |
+| [Search News Buzz Video Recap: Google Spam Update Done, Penalties Rise, Factcheck AI, Content Quality, Fake Authors, Ads &amp; So Much More](https://www.seroundtable.com/video-10-09-2026-42263.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-09 12:01 UTC |
+| [Google Ads Enables Text Customization Asset Previews](https://www.seroundtable.com/google-ads-text-customization-asset-previews-42264.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-09 11:51 UTC |
+| [Bing Testing Local Pack Without Borders](https://www.seroundtable.com/bing-local-pack-without-borders-42257.html) | Search Engine Roundtable | 170 | General | 2026-10-09 11:41 UTC |
+| [Google Updates Reader Revenue Manager Home Page](https://www.seroundtable.com/google-updates-reader-revenue-manager-42261.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-09 11:31 UTC |
+| [Bing Tests Faded Stylish Line Separators](https://www.seroundtable.com/bing-faded-line-separators-42192.html) | Search Engine Roundtable | 170 | General | 2026-10-09 11:21 UTC |
+| [Bing Tests Removing Favicons From Search Result Snippets](https://www.seroundtable.com/bing-no-favicons-snippets-42262.html) | Search Engine Roundtable | 170 | General | 2026-10-09 11:11 UTC |
 | [4 types of keywords in SEO (+ examples)](https://www.semrush.com/blog/types-of-keywords-commercial-informational-navigational-transactional/) | Semrush Blog | 110 | Content | 2026-10-09 09:10 UTC |
 
 ## Notes for manual writing
