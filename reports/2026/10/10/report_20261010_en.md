@@ -25,7 +25,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Updates Reader Revenue Manager Home Page](https://www.seroundtable.com/google-updates-reader-revenue-manager-42261.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-09 11:31 UTC |
 | [Bing Tests Faded Stylish Line Separators](https://www.seroundtable.com/bing-faded-line-separators-42192.html) | Search Engine Roundtable | 170 | General | 2026-10-09 11:21 UTC |
 | [Bing Tests Removing Favicons From Search Result Snippets](https://www.seroundtable.com/bing-no-favicons-snippets-42262.html) | Search Engine Roundtable | 170 | General | 2026-10-09 11:11 UTC |
-| [4 types of keywords in SEO (+ examples)](https://www.semrush.com/blog/types-of-keywords-commercial-informational-navigational-transactional/) | Semrush Blog | 110 | Content | 2026-10-09 09:10 UTC |
 
 ## Notes for manual writing
 
