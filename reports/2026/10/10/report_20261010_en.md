@@ -25,8 +25,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Updates Reader Revenue Manager Home Page](https://www.seroundtable.com/google-updates-reader-revenue-manager-42261.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-09 11:31 UTC |
 | [Bing Tests Faded Stylish Line Separators](https://www.seroundtable.com/bing-faded-line-separators-42192.html) | Search Engine Roundtable | 190 | General | 2026-10-09 11:21 UTC |
 | [Bing Tests Removing Favicons From Search Result Snippets](https://www.seroundtable.com/bing-no-favicons-snippets-42262.html) | Search Engine Roundtable | 190 | General | 2026-10-09 11:11 UTC |
-| [Google Reveals The UGC Fresh Data Program](https://www.seroundtable.com/google-ugc-fresh-data-program-42265.html) | Search Engine Roundtable | 170 | Content | 2026-10-08 15:15 UTC |
-| [Daily Search Forum Recap: October 8, 2026](https://www.seroundtable.com/recap-10-08-2026-42260.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-08 14:00 UTC |
 | [4 types of keywords in SEO (+ examples)](https://www.semrush.com/blog/types-of-keywords-commercial-informational-navigational-transactional/) | Semrush Blog | 130 | Content | 2026-10-09 09:10 UTC |
 
 ## Notes for manual writing
