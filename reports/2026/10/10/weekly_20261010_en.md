@@ -14,7 +14,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 |---|---|---:|---|---:|
 | [Added documentation on the UGC Fresh Data Program](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | AI Search | 2026-10-08 00:00 UTC |
 | [New learning paths: curated YouTube playlists for Search fundamentals and Technical SEO](https://developers.google.com/search/blog/2026/10/seo-learning-paths) | Google Search Central Blog | 195 | GSC | 2026-10-06 00:00 UTC |
-| [Daily Search Forum Recap: October 9, 2026](https://www.seroundtable.com/recap-10-09-2026-42266.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-09 14:00 UTC |
+| [Daily Search Forum Recap: October 9, 2026](https://www.seroundtable.com/recap-10-09-2026-42266.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-09 14:00 UTC |
 | [Search News Buzz Video Recap: Google Spam Update Done, Penalties Rise, Factcheck AI, Content Quality, Fake Authors, Ads &amp; So Much More](https://www.seroundtable.com/video-10-09-2026-42263.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-09 12:01 UTC |
 | [Google Ads Enables Text Customization Asset Previews](https://www.seroundtable.com/google-ads-text-customization-asset-previews-42264.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-09 11:51 UTC |
 | [Bing Testing Local Pack Without Borders](https://www.seroundtable.com/bing-local-pack-without-borders-42257.html) | Search Engine Roundtable | 170 | General | 2026-10-09 11:41 UTC |

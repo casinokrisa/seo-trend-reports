@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: October 9, 2026](https://www.seroundtable.com/recap-10-09-2026-42266.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-09 14:00 UTC |
+| [Daily Search Forum Recap: October 9, 2026](https://www.seroundtable.com/recap-10-09-2026-42266.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-09 14:00 UTC |
 | [Search News Buzz Video Recap: Google Spam Update Done, Penalties Rise, Factcheck AI, Content Quality, Fake Authors, Ads &amp; So Much More](https://www.seroundtable.com/video-10-09-2026-42263.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-09 12:01 UTC |
 | [Google Ads Enables Text Customization Asset Previews](https://www.seroundtable.com/google-ads-text-customization-asset-previews-42264.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-09 11:51 UTC |
 | [Bing Testing Local Pack Without Borders](https://www.seroundtable.com/bing-local-pack-without-borders-42257.html) | Search Engine Roundtable | 170 | General | 2026-10-09 11:41 UTC |
