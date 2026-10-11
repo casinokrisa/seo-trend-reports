@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: October 9, 2026](https://www.seroundtable.com/recap-10-09-2026-42266.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-09 14:00 UTC |
+| _No site items in window_ |  |  |  |  |
 
 ## Notes for manual writing
 
