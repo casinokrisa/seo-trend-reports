@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Search Console Performance Report Extremely Delayed](https://www.seroundtable.com/google-search-console-performance-report-delayed-42271.html) | Search Engine Roundtable | 210 | GSC | 2026-10-11 11:15 UTC |
+| [Google Search Console Performance Report Extremely Delayed](https://www.seroundtable.com/google-search-console-performance-report-delayed-42271.html) | Search Engine Roundtable | 190 | GSC | 2026-10-11 11:15 UTC |
 
 ## Notes for manual writing
 

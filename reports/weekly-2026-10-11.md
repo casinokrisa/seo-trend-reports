@@ -12,8 +12,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Search Console Performance Report Extremely Delayed](https://www.seroundtable.com/google-search-console-performance-report-delayed-42271.html) | Search Engine Roundtable | 210 | GSC | 2026-10-11 11:15 UTC |
 | [New learning paths: curated YouTube playlists for Search fundamentals and Technical SEO](https://developers.google.com/search/blog/2026/10/seo-learning-paths) | Google Search Central Blog | 195 | GSC | 2026-10-06 00:00 UTC |
+| [Google Search Console Performance Report Extremely Delayed](https://www.seroundtable.com/google-search-console-performance-report-delayed-42271.html) | Search Engine Roundtable | 190 | GSC | 2026-10-11 11:15 UTC |
 | [Added documentation on the UGC Fresh Data Program](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | AI Search | 2026-10-08 00:00 UTC |
 | [Daily Search Forum Recap: October 9, 2026](https://www.seroundtable.com/recap-10-09-2026-42266.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-09 14:00 UTC |
 | [Search News Buzz Video Recap: Google Spam Update Done, Penalties Rise, Factcheck AI, Content Quality, Fake Authors, Ads &amp; So Much More](https://www.seroundtable.com/video-10-09-2026-42263.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-09 12:01 UTC |
