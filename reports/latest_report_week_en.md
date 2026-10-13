@@ -1,4 +1,4 @@
-# SEO Weekly Trend Report - 2026-10-12
+# SEO Weekly Trend Report - 2026-10-13
 
 ## Weekly trending posts
 
@@ -12,9 +12,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: October 12, 2026](https://www.seroundtable.com/recap-10-12-2026-42274.html) | Search Engine Roundtable | 210 | AI Search | 2026-10-12 14:00 UTC |
-| [Third-Party Google Rank Tracking Struggling Now](https://www.seroundtable.com/third-party-google-rank-tracking-broken-42272.html) | Search Engine Roundtable | 210 | General | 2026-10-12 11:51 UTC |
-| [New learning paths: curated YouTube playlists for Search fundamentals and Technical SEO](https://developers.google.com/search/blog/2026/10/seo-learning-paths) | Google Search Central Blog | 195 | GSC | 2026-10-06 00:00 UTC |
+| [The Industry Mourns The Loss Of Nick Wilsdon - Loved By Industry](https://www.seroundtable.com/rip-nick-wilsdon-42280.html) | Search Engine Roundtable | 190 | General | 2026-10-12 18:00 UTC |
+| [Daily Search Forum Recap: October 12, 2026](https://www.seroundtable.com/recap-10-12-2026-42274.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-12 14:00 UTC |
+| [Third-Party Google Rank Tracking Struggling Now](https://www.seroundtable.com/third-party-google-rank-tracking-broken-42272.html) | Search Engine Roundtable | 190 | General | 2026-10-12 11:51 UTC |
 | [Google Ads Tests Using Google AI For Goals &amp; Assets](https://www.seroundtable.com/google-ai-ads-goals-and-assets-42269.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-12 11:41 UTC |
 | [Bing &amp; Copilot Experimenting With Microsoft-Decision-1](https://www.seroundtable.com/bing-microsoft-decision-1-42270.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-12 11:31 UTC |
 | [Google AI Overviews For Typos &amp; No Search Results](https://www.seroundtable.com/google-ai-overviews-no-results-42275.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-12 11:21 UTC |
@@ -28,7 +28,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Updates Reader Revenue Manager Home Page](https://www.seroundtable.com/google-updates-reader-revenue-manager-42261.html) | Search Engine Roundtable | 155 | AI Search | 2026-10-09 11:31 UTC |
 | [Bing Tests Faded Stylish Line Separators](https://www.seroundtable.com/bing-faded-line-separators-42192.html) | Search Engine Roundtable | 155 | General | 2026-10-09 11:21 UTC |
 | [Bing Tests Removing Favicons From Search Result Snippets](https://www.seroundtable.com/bing-no-favicons-snippets-42262.html) | Search Engine Roundtable | 155 | General | 2026-10-09 11:11 UTC |
-| [Google Reveals The UGC Fresh Data Program](https://www.seroundtable.com/google-ugc-fresh-data-program-42265.html) | Search Engine Roundtable | 155 | Content | 2026-10-08 15:15 UTC |
 | [How ChatGPT Does Query Fan-Out (15 Million Queries Studied)](https://ahrefs.com/blog/query-fan-out-chatgpt/) | Ahrefs Blog | 140 | AI Search | 2026-10-12 08:55 UTC |
 | [How to build an AI visibility dashboard with Semrush](https://www.semrush.com/blog/how-to-build-an-ai-visibility-dashboard-semrush/) | Semrush Blog | 130 | GSC | 2026-10-12 09:45 UTC |
 | [How to Measure AI Search Visibility When Attribution Falls Short](https://ahrefs.com/blog/how-to-measure-ai-search-visibility/) | Ahrefs Blog | 105 | AI Search | 2026-10-06 16:00 UTC |
