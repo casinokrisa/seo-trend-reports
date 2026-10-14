@@ -12,8 +12,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [New Google Ads Controls: Channel Prioritization &amp; Budget Allocation](https://www.seroundtable.com/google-ads-channel-prioritization-budget-allocation-42297.html) | Search Engine Roundtable | 210 | General | 2026-10-14 15:00 UTC |
-| [Google Search On URLs: Ranking Factor, Hyphens vs Underscores &amp; Emojis](https://www.seroundtable.com/google-search-urls-42305.html) | Search Engine Roundtable | 210 | Migration | 2026-10-14 14:57 UTC |
+| [New Google Ads Controls: Channel Prioritization &amp; Budget Allocation](https://www.seroundtable.com/google-ads-channel-prioritization-budget-allocation-42297.html) | Search Engine Roundtable | 190 | General | 2026-10-14 15:00 UTC |
+| [Google Search On URLs: Ranking Factor, Hyphens vs Underscores &amp; Emojis](https://www.seroundtable.com/google-search-urls-42305.html) | Search Engine Roundtable | 190 | Migration | 2026-10-14 14:57 UTC |
 | [Daily Search Forum Recap: October 14, 2026](https://www.seroundtable.com/recap-10-14-2026-42300.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-14 14:00 UTC |
 | [Google Ads Search Terms &amp; Ad Combinations As One Report](https://www.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-42287.html) | Search Engine Roundtable | 190 | General | 2026-10-14 11:51 UTC |
 | [Google Tests AI Mode Left Sidebar On Main Google Search Results Page](https://www.seroundtable.com/google-ai-mode-left-sidebar-42298.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-14 11:41 UTC |
