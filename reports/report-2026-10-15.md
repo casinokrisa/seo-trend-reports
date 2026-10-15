@@ -18,9 +18,9 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Updates Links In AI Mode &amp; AI Overviews Again, Won't Show Click Data](https://www.seroundtable.com/google-updates-links-in-ai-mode-and-ai-overviews-again-42308.html) | Search Engine Roundtable | 210 | Links | 2026-10-15 16:00 UTC |
-| [Daily Search Forum Recap: October 15, 2026](https://www.seroundtable.com/recap-10-15-2026-42309.html) | Search Engine Roundtable | 210 | AI Search | 2026-10-15 14:00 UTC |
-| [Universal Cart Launches In Google Search (U.S.)](https://www.seroundtable.com/universal-cart-google-search-42312.html) | Search Engine Roundtable | 210 | AI Search | 2026-10-15 13:40 UTC |
+| [Google Updates Links In AI Mode &amp; AI Overviews Again, Won't Show Click Data](https://www.seroundtable.com/google-updates-links-in-ai-mode-and-ai-overviews-again-42308.html) | Search Engine Roundtable | 190 | Links | 2026-10-15 16:00 UTC |
+| [Daily Search Forum Recap: October 15, 2026](https://www.seroundtable.com/recap-10-15-2026-42309.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-15 14:00 UTC |
+| [Universal Cart Launches In Google Search (U.S.)](https://www.seroundtable.com/universal-cart-google-search-42312.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-15 13:40 UTC |
 | [Google Automotive Model Feeds On Search Ads (Vehicle Top Ads)](https://www.seroundtable.com/google-vehicle-top-ads-42301.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-15 11:51 UTC |
 | [Google Tests New Search Bar In Google App](https://www.seroundtable.com/google-app-new-search-bar-42267.html) | Search Engine Roundtable | 190 | General | 2026-10-15 11:41 UTC |
 | [Google Ads API Version 26 Now Out Available](https://www.seroundtable.com/google-ads-api-version-26-42307.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-15 11:31 UTC |
