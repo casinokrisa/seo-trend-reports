@@ -1,4 +1,4 @@
-# SEO Weekly Trend Report - 2026-10-14
+# SEO Weekly Trend Report - 2026-10-15
 
 ## Weekly trending posts
 
@@ -21,7 +21,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [OpenAI ChatGPT Ads Account Manager Representatives](https://www.seroundtable.com/openai-chatgpt-ads-account-manager-42278.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-14 11:21 UTC |
 | [Google Ads Policies Adds Prediction Markets Section](https://www.seroundtable.com/google-ads-policies-prediction-markets-section-42268.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-14 11:11 UTC |
 | [OpenAI Drops UTM Parameters From ChatGPT Results (GPT-6)](https://www.seroundtable.com/utm-parameters-missing-chatgpt-42299.html) | Search Engine Roundtable | 190 | Links | 2026-10-14 11:05 UTC |
-| [Added documentation on the UGC Fresh Data Program](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | AI Search | 2026-10-08 00:00 UTC |
 | [Google Search On PDFs: Conversion, Links, HTML, Ranking, Limits, Crawling...](https://www.seroundtable.com/google-search-on-pdfs-42291.html) | Search Engine Roundtable | 170 | Indexing | 2026-10-13 19:27 UTC |
 | [Gemini 4 Argon In Google Search Via AI Mode](https://www.seroundtable.com/google-ai-mode-gemini-4-argon-42289.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-13 16:13 UTC |
 | [Topics Portfolio In Bing Webmaster Tools AI Reports](https://www.seroundtable.com/topics-portfolio-bing-webmaster-tools-42288.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-13 15:59 UTC |
