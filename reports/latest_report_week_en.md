@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google Dataset Search Currently Not Returning Search Results](https://www.seroundtable.com/google-dataset-search-broken-42315.html) | Search Engine Roundtable | 210 | General | 2026-10-16 01:37 UTC |
 | [Google Updates Links In AI Mode &amp; AI Overviews Again, Won't Show Click Data](https://www.seroundtable.com/google-updates-links-in-ai-mode-and-ai-overviews-again-42308.html) | Search Engine Roundtable | 190 | Links | 2026-10-15 16:00 UTC |
 | [Daily Search Forum Recap: October 15, 2026](https://www.seroundtable.com/recap-10-15-2026-42309.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-15 14:00 UTC |
 | [Universal Cart Launches In Google Search (U.S.)](https://www.seroundtable.com/universal-cart-google-search-42312.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-15 13:40 UTC |
@@ -26,7 +27,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Search Terms &amp; Ad Combinations As One Report](https://www.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-42287.html) | Search Engine Roundtable | 170 | General | 2026-10-14 11:51 UTC |
 | [Google Tests AI Mode Left Sidebar On Main Google Search Results Page](https://www.seroundtable.com/google-ai-mode-left-sidebar-42298.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-14 11:41 UTC |
 | [Bing Tests Large Single Sponsored Ad Unit At Top Of Search Results](https://www.seroundtable.com/bing-large-single-sponsored-ad-42283.html) | Search Engine Roundtable | 170 | General | 2026-10-14 11:31 UTC |
-| [OpenAI ChatGPT Ads Account Manager Representatives](https://www.seroundtable.com/openai-chatgpt-ads-account-manager-42278.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-14 11:21 UTC |
 | [Introducing Topics Portfolio (Beta) in AI Performance](https://blogs.bing.com/webmaster/2026/10/introducing-topics-portfolio-beta-in-ai-performance/) | Bing Webmaster Blog | 160 | AI Search | 2026-10-13 15:16 UTC |
 | [How to do an SEO audit with Claude &amp; the Semrush MCP](https://www.semrush.com/blog/semrush-seo-audit-with-claude/) | Semrush Blog | 130 | General | 2026-10-15 12:32 UTC |
 | [How ChatGPT Does Query Fan-Out (15 Million Queries Studied)](https://ahrefs.com/blog/query-fan-out-chatgpt/) | Ahrefs Blog | 105 | AI Search | 2026-10-12 08:55 UTC |
