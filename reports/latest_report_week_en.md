@@ -23,7 +23,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads API Releases Twice Per Month Going Forward](https://www.seroundtable.com/google-ads-api-twice-a-month-42303.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-16 11:11 UTC |
 | [Google Updated Indexing API Quota Details &amp; More](https://www.seroundtable.com/google-updates-indexing-api-quota-information-42316.html) | Search Engine Roundtable | 170 | Indexing | 2026-10-16 10:05 UTC |
 | [Google Dataset Search Currently Not Returning Search Results](https://www.seroundtable.com/google-dataset-search-broken-42315.html) | Search Engine Roundtable | 170 | General | 2026-10-16 01:37 UTC |
-| [Google Updates Links In AI Mode &amp; AI Overviews Again, Won't Show Click Data](https://www.seroundtable.com/google-updates-links-in-ai-mode-and-ai-overviews-again-42308.html) | Search Engine Roundtable | 170 | Links | 2026-10-15 16:00 UTC |
+| [Google Updates Links In AI Mode &amp; AI Overviews Again, Won't Show Click Data](https://www.seroundtable.com/google-updates-links-in-ai-mode-and-ai-overviews-again-42308.html) | Search Engine Roundtable | 155 | Links | 2026-10-15 16:00 UTC |
 | [Daily Search Forum Recap: October 15, 2026](https://www.seroundtable.com/recap-10-15-2026-42309.html) | Search Engine Roundtable | 155 | AI Search | 2026-10-15 14:00 UTC |
 | [Universal Cart Launches In Google Search (U.S.)](https://www.seroundtable.com/universal-cart-google-search-42312.html) | Search Engine Roundtable | 155 | AI Search | 2026-10-15 13:40 UTC |
 | [Google Automotive Model Feeds On Search Ads (Vehicle Top Ads)](https://www.seroundtable.com/google-vehicle-top-ads-42301.html) | Search Engine Roundtable | 155 | AI Search | 2026-10-15 11:51 UTC |
