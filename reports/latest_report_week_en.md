@@ -1,4 +1,4 @@
-# SEO Weekly Trend Report - 2026-10-18
+# SEO Weekly Trend Report - 2026-10-19
 
 ## Weekly trending posts
 
@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Updating the Indexing API quota page](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Indexing | 2026-10-16 00:00 UTC |
+| [Updating the Indexing API quota page](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Indexing | 2026-10-16 00:00 UTC |
 | [Daily Search Forum Recap: October 16, 2026](https://www.seroundtable.com/recap-10-16-2026-42318.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-16 14:00 UTC |
 | [Search News Buzz Video Recap: Google Poisoning Tracking Tools, Google AI Results Updates, Discover To Change, Google Ads, ChatGPT &amp; SEO](https://www.seroundtable.com/video-09-16-2026-42313.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-16 12:01 UTC |
 | [Google Search Ranking Volatility &amp; Chatter Spike Today](https://www.seroundtable.com/google-search-ranking-volatility-chatter-42317.html) | Search Engine Roundtable | 170 | General | 2026-10-16 11:55 UTC |
