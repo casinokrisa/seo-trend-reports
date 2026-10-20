@@ -1,4 +1,4 @@
-# SEO Weekly Trend Report - 2026-10-19
+# SEO Weekly Trend Report - 2026-10-20
 
 ## Weekly trending posts
 
@@ -28,7 +28,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Lead Form Adds Lead Scoring For Lead Qualification](https://www.seroundtable.com/google-ads-lead-form-scoring-42310.html) | Search Engine Roundtable | 155 | General | 2026-10-16 11:31 UTC |
 | [Bing Search Testing Popular Links On Snippets](https://www.seroundtable.com/bing-testing-popular-links-42304.html) | Search Engine Roundtable | 155 | Links | 2026-10-16 11:21 UTC |
 | [Google Ads API Releases Twice Per Month Going Forward](https://www.seroundtable.com/google-ads-api-twice-a-month-42303.html) | Search Engine Roundtable | 155 | AI Search | 2026-10-16 11:11 UTC |
-| [Introducing Topics Portfolio (Beta) in AI Performance](https://blogs.bing.com/webmaster/2026/10/introducing-topics-portfolio-beta-in-ai-performance/) | Bing Webmaster Blog | 145 | AI Search | 2026-10-13 15:16 UTC |
 | [How to Automate Content Creation: A Follow-Along Guide](https://ahrefs.com/blog/automated-content-creation/) | Ahrefs Blog | 105 | Content | 2026-10-16 09:21 UTC |
 | [How to do an SEO audit with Claude &amp; the Semrush MCP](https://www.semrush.com/blog/semrush-seo-audit-with-claude/) | Semrush Blog | 95 | General | 2026-10-15 12:32 UTC |
 
