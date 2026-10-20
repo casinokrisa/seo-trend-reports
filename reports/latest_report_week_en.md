@@ -6,7 +6,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [What has been the biggest change to local SEO you noticed in 2026?](https://www.reddit.com/r/localseo/comments/1xama3r/what_has_been_the_biggest_change_to_local_seo_you/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-10-20 08:08 UTC |
+| [Those Who are Using Pleper SEO Extension Tool, Please Check If It's Still Working](https://www.reddit.com/r/localseo/comments/1xaletx/those_who_are_using_pleper_seo_extension_tool/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-10-20 07:10 UTC |
+| [I just need a partner](https://www.reddit.com/r/localseo/comments/1xae3uq/i_just_need_a_partner/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-10-20 00:41 UTC |
+| [I'm creating Google Maps; does anyone need help](https://www.reddit.com/r/localseo/comments/1xadguw/im_creating_google_maps_does_anyone_need_help/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-10-20 00:11 UTC |
+| [GBP linking to a location page or home page](https://www.reddit.com/r/localseo/comments/1xabzen/gbp_linking_to_a_location_page_or_home_page/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-10-19 23:04 UTC |
+| [I'm hopeless](https://www.reddit.com/r/localseo/comments/1xa6cne/im_hopeless/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-10-19 19:23 UTC |
+| [Do scrolling homepage videos affect SEO?](https://www.reddit.com/r/localseo/comments/1x98wps/do_scrolling_homepage_videos_affect_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-10-18 17:26 UTC |
+| [Angie's list and Google 3 pac (GMB) don't exist on page 1 --- Why not?](https://www.reddit.com/r/localseo/comments/1x95dwx/angies_list_and_google_3_pac_gmb_dont_exist_on/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-10-18 15:02 UTC |
+| [Local SEO still viable?](https://www.reddit.com/r/localseo/comments/1x8w6fl/local_seo_still_viable/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-10-18 06:35 UTC |
+| [Help with Local SEO](https://www.reddit.com/r/localseo/comments/1x8phm6/help_with_local_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-10-18 00:24 UTC |
+| [Advice for therapist with two websites in two different states?](https://www.reddit.com/r/localseo/comments/1x8pfnp/advice_for_therapist_with_two_websites_in_two/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-10-18 00:21 UTC |
+| [Google AI Overviews Are Recommending My Local SEO Client](https://www.reddit.com/r/localseo/comments/1x8pewk/google_ai_overviews_are_recommending_my_local_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-10-18 00:20 UTC |
 
 ## Weekly notable items (Sites)
 
@@ -28,6 +39,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Lead Form Adds Lead Scoring For Lead Qualification](https://www.seroundtable.com/google-ads-lead-form-scoring-42310.html) | Search Engine Roundtable | 155 | General | 2026-10-16 11:31 UTC |
 | [Bing Search Testing Popular Links On Snippets](https://www.seroundtable.com/bing-testing-popular-links-42304.html) | Search Engine Roundtable | 155 | Links | 2026-10-16 11:21 UTC |
 | [Google Ads API Releases Twice Per Month Going Forward](https://www.seroundtable.com/google-ads-api-twice-a-month-42303.html) | Search Engine Roundtable | 155 | AI Search | 2026-10-16 11:11 UTC |
+| [Introducing Topics Portfolio (Beta) in AI Performance](https://blogs.bing.com/webmaster/2026/10/introducing-topics-portfolio-beta-in-ai-performance/) | Bing Webmaster Blog | 145 | AI Search | 2026-10-13 15:16 UTC |
 | [How to Automate Content Creation: A Follow-Along Guide](https://ahrefs.com/blog/automated-content-creation/) | Ahrefs Blog | 105 | Content | 2026-10-16 09:21 UTC |
 | [How to do an SEO audit with Claude &amp; the Semrush MCP](https://www.semrush.com/blog/semrush-seo-audit-with-claude/) | Semrush Blog | 95 | General | 2026-10-15 12:32 UTC |
 
