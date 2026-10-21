@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [OpenAI Auto Enabling Creative Enhancements In ChatGPT Ads](https://www.seroundtable.com/openai-chatgpt-ads-enabling-creative-enhancements-42344.html) | Search Engine Roundtable | 210 | AI Search | 2026-10-20 19:35 UTC |
+| [OpenAI Auto Enabling Creative Enhancements In ChatGPT Ads](https://www.seroundtable.com/openai-chatgpt-ads-enabling-creative-enhancements-42344.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-20 19:35 UTC |
 | [Google Ads Expands Financial Services Verification To US &amp; Canada](https://www.seroundtable.com/google-ads-financial-services-verification-expand-42338.html) | Search Engine Roundtable | 190 | General | 2026-10-20 15:20 UTC |
 | [Daily Search Forum Recap: October 20, 2026](https://www.seroundtable.com/recap-10-20-2026-42334.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-20 14:00 UTC |
 | [Google Removes AI Overviews Labels On Some AI Overviews](https://www.seroundtable.com/google-ai-overviews-label-missing-42337.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-20 13:03 UTC |
