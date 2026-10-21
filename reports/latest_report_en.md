@@ -1,4 +1,4 @@
-# Reddit SEO Trend Report - 2026-10-20
+# Reddit SEO Trend Report - 2026-10-21
 
 ## Today's Trending Posts
 
@@ -29,10 +29,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Business Profiles Review Appeals Are Delayed Again](https://www.seroundtable.com/google-business-profiles-review-appeals-delays-42331.html) | Search Engine Roundtable | 190 | Local SEO | 2026-10-20 11:11 UTC |
 | [Google Search Tests Removing Horizontal Rule Line Under Tabs](https://www.seroundtable.com/google-search-horizontal-rule-line-removed-42333.html) | Search Engine Roundtable | 190 | General | 2026-10-20 11:05 UTC |
 | [Daily Search Forum Recap: October 19, 2026](https://www.seroundtable.com/recap-10-19-2026-42326.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-19 14:00 UTC |
-| [Is It New? AI Scan Tool](https://www.seroundtable.com/is-it-new-ai-scan-tool-42322.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-19 11:51 UTC |
-| [Google Moves Google Posts Higher Up On Local Panel](https://www.seroundtable.com/google-posts-higher-42319.html) | Search Engine Roundtable | 170 | General | 2026-10-19 11:41 UTC |
-| [Google Ads Now In AI Mode With Personal Intelligence](https://www.seroundtable.com/google-ads-ai-mode-personal-intelligence-42320.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-19 11:31 UTC |
-| [Google AI Mode Citations With Preferred Source Preferences](https://www.seroundtable.com/google-ai-mode-citations-preferred-sources-42323.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-19 11:21 UTC |
 
 ## Notes for manual writing
 
