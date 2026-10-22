@@ -6,13 +6,29 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [[ Removed by Reddit ]](https://www.reddit.com/r/localseo/comments/1xce1xd/removed_by_reddit/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-10-22 09:39 UTC |
+| [Looking for a cheap tool to automate replying to Google reviews](https://www.reddit.com/r/localseo/comments/1xcceo1/looking_for_a_cheap_tool_to_automate_replying_to/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-10-22 07:53 UTC |
+| [Toxic Links](https://www.reddit.com/r/localseo/comments/1xc9yrg/toxic_links/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-10-22 05:24 UTC |
+| [Local SEO &amp; Google Ads for Small Business \| WorldDigital.ai— Digital Marketing Strategist](https://www.reddit.com/r/localseo/comments/1xc8d1k/local_seo_google_ads_for_small_business/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-10-22 03:57 UTC |
+| [Anyone here doing Digital PR? Does it actually help with AI search?](https://www.reddit.com/r/localseo/comments/1xc77jn/anyone_here_doing_digital_pr_does_it_actually/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-10-22 02:57 UTC |
+| [Even for a normal search, Google is poisoning results. This is so frustrating. Do you also notice them?](https://www.reddit.com/r/localseo/comments/1xc6hbn/even_for_a_normal_search_google_is_poisoning/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-10-22 02:21 UTC |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
+| 1 | [[ Removed by Reddit ]](https://www.reddit.com/r/localseo/comments/1xce1xd/removed_by_reddit/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-10-22 09:39 UTC |
+| 2 | [Looking for a cheap tool to automate replying to Google reviews](https://www.reddit.com/r/localseo/comments/1xcceo1/looking_for_a_cheap_tool_to_automate_replying_to/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-10-22 07:53 UTC |
+| 3 | [Toxic Links](https://www.reddit.com/r/localseo/comments/1xc9yrg/toxic_links/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-10-22 05:24 UTC |
+| 4 | [Local SEO &amp; Google Ads for Small Business \| WorldDigital.ai— Digital Marketing Strategist](https://www.reddit.com/r/localseo/comments/1xc8d1k/local_seo_google_ads_for_small_business/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-10-22 03:57 UTC |
+| 5 | [Anyone here doing Digital PR? Does it actually help with AI search?](https://www.reddit.com/r/localseo/comments/1xc77jn/anyone_here_doing_digital_pr_does_it_actually/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-10-22 02:57 UTC |
+| 6 | [Even for a normal search, Google is poisoning results. This is so frustrating. Do you also notice them?](https://www.reddit.com/r/localseo/comments/1xc6hbn/even_for_a_normal_search_google_is_poisoning/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-10-22 02:21 UTC |
+| 7 | [AI Search cited a completely made-up concept. So how much can we trust AI citations?](https://www.reddit.com/r/localseo/comments/1xc67uk/ai_search_cited_a_completely_madeup_concept_so/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-10-22 02:09 UTC |
+| 8 | [Google Gemini no Android Auto: sua empresa está preparada para ser encontrada por inteligência artificial durante o trajeto?](https://www.reddit.com/r/localseo/comments/1xc2iue/google_gemini_no_android_auto_sua_empresa_est%C3%A1/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-10-21 23:14 UTC |
+| 9 | [For a roofing company serving several ZIP codes…. are separate location pages worth the effort?](https://www.reddit.com/r/localseo/comments/1xbzhdp/for_a_roofing_company_serving_several_zip_codes/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-10-21 21:07 UTC |
+| 10 | [Changing keywords in GBP business names — how do you handle the suspension risk?](https://www.reddit.com/r/localseo/comments/1xbuz7r/changing_keywords_in_gbp_business_names_how_do/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-10-21 18:19 UTC |
+| 11 | [Any experiences with Ippei Kanehara's Rank and Rent?](https://www.reddit.com/r/localseo/comments/1xbp7hz/any_experiences_with_ippei_kaneharas_rank_and_rent/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-10-21 14:48 UTC |
+| 12 | [What’s the one local SEO change that gave you the fastest results this year?](https://www.reddit.com/r/localseo/comments/1xbljf3/whats_the_one_local_seo_change_that_gave_you_the/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-10-21 12:15 UTC |
 
 ## Notable items (Sites)
 
@@ -28,7 +44,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Updates Smart Bidding Learning Doc With 7-Day Limit &amp; Best Practices](https://www.seroundtable.com/google-ads-updates-smart-bidding-learning-doc-42345.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-21 11:31 UTC |
 | [Google Merchant Center Specifies Fast Shipping Days By Country](https://www.seroundtable.com/google-merchant-center-fast-shipping-days-per-country-42335.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-21 11:21 UTC |
 | [Google Updated Its URL Structure Best Practices For Hyphens In URLs](https://www.seroundtable.com/google-hyphens-in-urls-doc-42346.html) | Search Engine Roundtable | 190 | General | 2026-10-21 11:11 UTC |
-| [OpenAI Auto Enabling Creative Enhancements In ChatGPT Ads](https://www.seroundtable.com/openai-chatgpt-ads-enabling-creative-enhancements-42344.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-20 19:35 UTC |
+| [Headless Content Marketing: A New (Old) Strategy for Search](https://ahrefs.com/blog/headless-content-marketing/) | Ahrefs Blog | 160 | AI Search | 2026-10-22 09:29 UTC |
+| [AI Share of Voice: What It Is, How to Measure It, and What It Actually Tells You](https://ahrefs.com/blog/ai-share-of-voice/) | Ahrefs Blog | 160 | AI Search | 2026-10-22 09:14 UTC |
 | [Semrush Starter vs. Pro+: Which plan is right for you?](https://www.semrush.com/blog/starter-vs-pro-plus-plan-comparison/) | Semrush Blog | 130 | AI Search | 2026-10-21 19:33 UTC |
 | [Semrush vs. Moz: Which is better in 2026?](https://www.semrush.com/blog/semrush-vs-moz/) | Semrush Blog | 130 | AI Search | 2026-10-21 19:15 UTC |
 | [How Feature Upvote fixed Google’s wrong AI Overview answer](https://www.semrush.com/blog/how-feature-upvote-fixed-its-google-ai-overview-answer/) | Semrush Blog | 130 | AI Search | 2026-10-21 15:43 UTC |
