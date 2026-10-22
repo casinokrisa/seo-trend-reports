@@ -28,7 +28,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Removes AI Overviews Labels On Some AI Overviews](https://www.seroundtable.com/google-ai-overviews-label-missing-42337.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-20 13:03 UTC |
 | [Google Business Profiles Verification With Government ID](https://www.seroundtable.com/google-business-profiles-verification-government-id-42329.html) | Search Engine Roundtable | 170 | Local SEO | 2026-10-20 11:51 UTC |
 | [Google Hotel Ads Legacy Length Of Booking Bid Adjustment Doc](https://www.seroundtable.com/google-hotel-ads-length-of-booking-bid-legacy-42330.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-20 11:41 UTC |
-| [Semrush Starter vs. Pro+: Which plan is right for you?](https://www.semrush.com/blog/starter-vs-pro-plus-plan-comparison/) | Semrush Blog | 150 | AI Search | 2026-10-21 19:33 UTC |
+| [Semrush Starter vs. Pro+: Which plan is right for you?](https://www.semrush.com/blog/starter-vs-pro-plus-plan-comparison/) | Semrush Blog | 130 | AI Search | 2026-10-21 19:33 UTC |
 | [Semrush vs. Moz: Which is better in 2026?](https://www.semrush.com/blog/semrush-vs-moz/) | Semrush Blog | 130 | AI Search | 2026-10-21 19:15 UTC |
 | [How Feature Upvote fixed Google’s wrong AI Overview answer](https://www.semrush.com/blog/how-feature-upvote-fixed-its-google-ai-overview-answer/) | Semrush Blog | 130 | AI Search | 2026-10-21 15:43 UTC |
 | [AI Overviews have nearly doubled across five commercial search modifiers](https://www.semrush.com/blog/ai-overviews-commercial-modifiers-study/) | Semrush Blog | 130 | GSC | 2026-10-21 12:32 UTC |

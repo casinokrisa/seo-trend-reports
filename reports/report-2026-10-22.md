@@ -29,9 +29,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Merchant Center Specifies Fast Shipping Days By Country](https://www.seroundtable.com/google-merchant-center-fast-shipping-days-per-country-42335.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-21 11:21 UTC |
 | [Google Updated Its URL Structure Best Practices For Hyphens In URLs](https://www.seroundtable.com/google-hyphens-in-urls-doc-42346.html) | Search Engine Roundtable | 190 | General | 2026-10-21 11:11 UTC |
 | [OpenAI Auto Enabling Creative Enhancements In ChatGPT Ads](https://www.seroundtable.com/openai-chatgpt-ads-enabling-creative-enhancements-42344.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-20 19:35 UTC |
-| [Google Ads Expands Financial Services Verification To US &amp; Canada](https://www.seroundtable.com/google-ads-financial-services-verification-expand-42338.html) | Search Engine Roundtable | 170 | General | 2026-10-20 15:20 UTC |
-| [Daily Search Forum Recap: October 20, 2026](https://www.seroundtable.com/recap-10-20-2026-42334.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-20 14:00 UTC |
-| [Semrush Starter vs. Pro+: Which plan is right for you?](https://www.semrush.com/blog/starter-vs-pro-plus-plan-comparison/) | Semrush Blog | 150 | AI Search | 2026-10-21 19:33 UTC |
+| [Semrush Starter vs. Pro+: Which plan is right for you?](https://www.semrush.com/blog/starter-vs-pro-plus-plan-comparison/) | Semrush Blog | 130 | AI Search | 2026-10-21 19:33 UTC |
 | [Semrush vs. Moz: Which is better in 2026?](https://www.semrush.com/blog/semrush-vs-moz/) | Semrush Blog | 130 | AI Search | 2026-10-21 19:15 UTC |
 | [How Feature Upvote fixed Google’s wrong AI Overview answer](https://www.semrush.com/blog/how-feature-upvote-fixed-its-google-ai-overview-answer/) | Semrush Blog | 130 | AI Search | 2026-10-21 15:43 UTC |
 | [AI Overviews have nearly doubled across five commercial search modifiers](https://www.semrush.com/blog/ai-overviews-commercial-modifiers-study/) | Semrush Blog | 130 | GSC | 2026-10-21 12:32 UTC |
