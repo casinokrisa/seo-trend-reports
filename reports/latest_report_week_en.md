@@ -1,4 +1,4 @@
-# SEO Weekly Trend Report - 2026-10-22
+# SEO Weekly Trend Report - 2026-10-23
 
 ## Weekly trending posts
 
@@ -28,7 +28,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Search Ranking Volatility &amp; Chatter Heats Up October 20 &amp; 21](https://www.seroundtable.com/google-search-ranking-volatility-42347.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-21 11:51 UTC |
 | [Google Ads New: Save &amp; Test Asset Group Changes](https://www.seroundtable.com/google-ads-save-test-asset-group-changes-42336.html) | Search Engine Roundtable | 170 | General | 2026-10-21 11:41 UTC |
 | [Google Ads Updates Smart Bidding Learning Doc With 7-Day Limit &amp; Best Practices](https://www.seroundtable.com/google-ads-updates-smart-bidding-learning-doc-42345.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-21 11:31 UTC |
-| [Affiliate Marketing: What It Is &#038; How to Start in 2026](https://ahrefs.com/blog/affiliate-marketing/) | Ahrefs Blog | 160 | Links | 2026-10-22 17:06 UTC |
+| [Affiliate Marketing: What It Is &#038; How to Start in 2026](https://ahrefs.com/blog/affiliate-marketing/) | Ahrefs Blog | 140 | Links | 2026-10-22 17:06 UTC |
 | [Headless Content Marketing: A New (Old) Strategy for Search](https://ahrefs.com/blog/headless-content-marketing/) | Ahrefs Blog | 140 | AI Search | 2026-10-22 09:29 UTC |
 | [AI Share of Voice: What It Is, How to Measure It, and What It Actually Tells You](https://ahrefs.com/blog/ai-share-of-voice/) | Ahrefs Blog | 140 | AI Search | 2026-10-22 09:14 UTC |
 | [SEO at scale: How to manage SEO on a large website](https://www.semrush.com/blog/seo-at-scale/) | Semrush Blog | 130 | General | 2026-10-22 10:11 UTC |
