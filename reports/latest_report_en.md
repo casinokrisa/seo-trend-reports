@@ -28,11 +28,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google AdSense Videos Placement &amp; Sticky Requirements Removed](https://www.seroundtable.com/google-adsense-videos-policy-update-42366.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-23 11:15 UTC |
 | [Google Ads Tests Scrolling Marquee Style For Ratings/Reviews &amp; Underlines](https://www.seroundtable.com/google-ads-tests-scrolling-marquee-ratings-reviews-and-underlines-on-sponsored-results-42364.html) | Search Engine Roundtable | 190 | Links | 2026-10-23 11:11 UTC |
 | [Google Ads Asset Optimization Sourced Videos On/Off Toggle](https://www.seroundtable.com/google-ads-sourced-videos-42365.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-23 11:05 UTC |
-| [Google Business Home - New Google Business Profiles Home](https://www.seroundtable.com/google-business-home-42363.html) | Search Engine Roundtable | 170 | Local SEO | 2026-10-22 14:42 UTC |
-| [Daily Search Forum Recap: October 22, 2026](https://www.seroundtable.com/recap-10-22-2026-42360.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-22 14:00 UTC |
 | [AI search strategy: 4 layers of brand visibility](https://www.semrush.com/blog/ai-search-strategy/) | Semrush Blog | 130 | AI Search | 2026-10-23 10:58 UTC |
 | [Google Search expands agentic capabilities with information agents and Universal Cart](https://www.semrush.com/blog/google-adds-information-agents-and-universal-cart/) | Semrush Blog | 130 | General | 2026-10-23 10:35 UTC |
-| [Affiliate Marketing: What It Is &#038; How to Start in 2026](https://ahrefs.com/blog/affiliate-marketing/) | Ahrefs Blog | 120 | Links | 2026-10-22 17:06 UTC |
 
 ## Notes for manual writing
 
