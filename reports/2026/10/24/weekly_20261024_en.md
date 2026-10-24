@@ -36,7 +36,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [SEO at scale: How to manage SEO on a large website](https://www.semrush.com/blog/seo-at-scale/) | Semrush Blog | 110 | General | 2026-10-22 10:11 UTC |
 | [Semrush Starter vs. Pro+: Which plan is right for you?](https://www.semrush.com/blog/starter-vs-pro-plus-plan-comparison/) | Semrush Blog | 110 | AI Search | 2026-10-21 19:33 UTC |
 | [Semrush vs. Moz: Which is better in 2026?](https://www.semrush.com/blog/semrush-vs-moz/) | Semrush Blog | 110 | AI Search | 2026-10-21 19:15 UTC |
-| [How Feature Upvote fixed Google’s wrong AI Overview answer](https://www.semrush.com/blog/how-feature-upvote-fixed-its-google-ai-overview-answer/) | Semrush Blog | 110 | AI Search | 2026-10-21 15:43 UTC |
+| [How Feature Upvote fixed Google’s wrong AI Overview answer](https://www.semrush.com/blog/how-feature-upvote-fixed-its-google-ai-overview-answer/) | Semrush Blog | 95 | AI Search | 2026-10-21 15:43 UTC |
 | [AI Overviews have nearly doubled across five commercial search modifiers](https://www.semrush.com/blog/ai-overviews-commercial-modifiers-study/) | Semrush Blog | 95 | GSC | 2026-10-21 12:32 UTC |
 
 ## Notes
