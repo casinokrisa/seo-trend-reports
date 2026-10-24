@@ -1,4 +1,4 @@
-# SEO Weekly Trend Report - 2026-10-23
+# SEO Weekly Trend Report - 2026-10-24
 
 ## Weekly trending posts
 
@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Updated guidance on crawlable URL structures](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 220 | Indexing | 2026-10-23 00:00 UTC |
+| [Updated guidance on crawlable URL structures](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Indexing | 2026-10-23 00:00 UTC |
 | [Daily Search Forum Recap: October 23, 2026](https://www.seroundtable.com/recap-10-23-2026-42368.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-23 14:00 UTC |
 | [Search News Buzz Video Recap: Google Search Chatter, PHP Exploit, AI SEO Worthwhile, Google Local, Google Ads, ChatGPT Ads &amp; More](https://www.seroundtable.com/video-10-23-2026-42362.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-23 12:01 UTC |
 | [Google AI Overview Citation Cards With AI-Generated Summary Snippets](https://www.seroundtable.com/google-ai-overview-citation-ai-summaries-42361.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-23 11:51 UTC |
