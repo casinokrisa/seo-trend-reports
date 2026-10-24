@@ -26,9 +26,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Universal Cart In Search Is Live, Yep](https://www.seroundtable.com/google-universal-cart-in-search-is-live-42349.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-23 11:21 UTC |
 | [Google AdSense Videos Placement &amp; Sticky Requirements Removed](https://www.seroundtable.com/google-adsense-videos-policy-update-42366.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-23 11:15 UTC |
 | [Google Ads Tests Scrolling Marquee Style For Ratings/Reviews &amp; Underlines](https://www.seroundtable.com/google-ads-tests-scrolling-marquee-ratings-reviews-and-underlines-on-sponsored-results-42364.html) | Search Engine Roundtable | 170 | Links | 2026-10-23 11:11 UTC |
-| [Google Ads Asset Optimization Sourced Videos On/Off Toggle](https://www.seroundtable.com/google-ads-sourced-videos-42365.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-23 11:05 UTC |
-| [AI search strategy: 4 layers of brand visibility](https://www.semrush.com/blog/ai-search-strategy/) | Semrush Blog | 110 | AI Search | 2026-10-23 10:58 UTC |
-| [Google Search expands agentic capabilities with information agents and Universal Cart](https://www.semrush.com/blog/google-adds-information-agents-and-universal-cart/) | Semrush Blog | 110 | General | 2026-10-23 10:35 UTC |
 
 ## Notes for manual writing
 
