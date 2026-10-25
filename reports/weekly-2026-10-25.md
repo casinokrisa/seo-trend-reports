@@ -22,12 +22,12 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google AdSense Videos Placement &amp; Sticky Requirements Removed](https://www.seroundtable.com/google-adsense-videos-policy-update-42366.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-23 11:15 UTC |
 | [Google Ads Tests Scrolling Marquee Style For Ratings/Reviews &amp; Underlines](https://www.seroundtable.com/google-ads-tests-scrolling-marquee-ratings-reviews-and-underlines-on-sponsored-results-42364.html) | Search Engine Roundtable | 170 | Links | 2026-10-23 11:11 UTC |
 | [Google Ads Asset Optimization Sourced Videos On/Off Toggle](https://www.seroundtable.com/google-ads-sourced-videos-42365.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-23 11:05 UTC |
-| [Google Business Home - New Google Business Profiles Home](https://www.seroundtable.com/google-business-home-42363.html) | Search Engine Roundtable | 170 | Local SEO | 2026-10-22 14:42 UTC |
-| [Daily Search Forum Recap: October 22, 2026](https://www.seroundtable.com/recap-10-22-2026-42360.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-22 14:00 UTC |
-| [Google Search Tests Layout Change For Local Knowledge Panel](https://www.seroundtable.com/google-local-panel-layout-42356.html) | Search Engine Roundtable | 170 | General | 2026-10-22 11:51 UTC |
-| [Google Ads New Translation Tool](https://www.seroundtable.com/google-ads-translation-tool-42351.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-22 11:41 UTC |
-| [Google Ads Customer Lifecycle Goals: Value Mode, Retention Goals &amp; Percentage Multipliers](https://www.seroundtable.com/google-ads-customer-lifecycle-goals-update-42358.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-22 11:30 UTC |
-| [3 New Studies Suggest AI Visibility &amp; Search Not Worth Investing In](https://www.seroundtable.com/ai-search-studies-42359.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-22 11:21 UTC |
+| [Google Business Home - New Google Business Profiles Home](https://www.seroundtable.com/google-business-home-42363.html) | Search Engine Roundtable | 155 | Local SEO | 2026-10-22 14:42 UTC |
+| [Daily Search Forum Recap: October 22, 2026](https://www.seroundtable.com/recap-10-22-2026-42360.html) | Search Engine Roundtable | 155 | AI Search | 2026-10-22 14:00 UTC |
+| [Google Search Tests Layout Change For Local Knowledge Panel](https://www.seroundtable.com/google-local-panel-layout-42356.html) | Search Engine Roundtable | 155 | General | 2026-10-22 11:51 UTC |
+| [Google Ads New Translation Tool](https://www.seroundtable.com/google-ads-translation-tool-42351.html) | Search Engine Roundtable | 155 | AI Search | 2026-10-22 11:41 UTC |
+| [Google Ads Customer Lifecycle Goals: Value Mode, Retention Goals &amp; Percentage Multipliers](https://www.seroundtable.com/google-ads-customer-lifecycle-goals-update-42358.html) | Search Engine Roundtable | 155 | AI Search | 2026-10-22 11:30 UTC |
+| [3 New Studies Suggest AI Visibility &amp; Search Not Worth Investing In](https://www.seroundtable.com/ai-search-studies-42359.html) | Search Engine Roundtable | 155 | AI Search | 2026-10-22 11:21 UTC |
 | [Affiliate Marketing: What It Is &#038; How to Start in 2026](https://ahrefs.com/blog/affiliate-marketing/) | Ahrefs Blog | 120 | Links | 2026-10-22 17:06 UTC |
 | [AI search strategy: 4 layers of brand visibility](https://www.semrush.com/blog/ai-search-strategy/) | Semrush Blog | 110 | AI Search | 2026-10-23 10:58 UTC |
 | [Google Search expands agentic capabilities with information agents and Universal Cart](https://www.semrush.com/blog/google-adds-information-agents-and-universal-cart/) | Semrush Blog | 110 | General | 2026-10-23 10:35 UTC |
