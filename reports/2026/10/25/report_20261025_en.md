@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Search Ranking Volatility Gets Heated October 24th](https://www.seroundtable.com/google-search-ranking-volatility-heated-42373.html) | Search Engine Roundtable | 210 | General | 2026-10-25 14:07 UTC |
+| [Google Search Ranking Volatility Gets Heated October 24th](https://www.seroundtable.com/google-search-ranking-volatility-heated-42373.html) | Search Engine Roundtable | 190 | General | 2026-10-25 14:07 UTC |
 
 ## Notes for manual writing
 
