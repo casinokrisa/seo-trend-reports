@@ -12,6 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google Search Ranking Volatility Gets Heated October 24th](https://www.seroundtable.com/google-search-ranking-volatility-heated-42373.html) | Search Engine Roundtable | 210 | General | 2026-10-25 14:07 UTC |
 | [Updated guidance on crawlable URL structures](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Indexing | 2026-10-23 00:00 UTC |
 | [Daily Search Forum Recap: October 23, 2026](https://www.seroundtable.com/recap-10-23-2026-42368.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-23 14:00 UTC |
 | [Search News Buzz Video Recap: Google Search Chatter, PHP Exploit, AI SEO Worthwhile, Google Local, Google Ads, ChatGPT Ads &amp; More](https://www.seroundtable.com/video-10-23-2026-42362.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-23 12:01 UTC |
@@ -27,10 +28,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Search Tests Layout Change For Local Knowledge Panel](https://www.seroundtable.com/google-local-panel-layout-42356.html) | Search Engine Roundtable | 155 | General | 2026-10-22 11:51 UTC |
 | [Google Ads New Translation Tool](https://www.seroundtable.com/google-ads-translation-tool-42351.html) | Search Engine Roundtable | 155 | AI Search | 2026-10-22 11:41 UTC |
 | [Google Ads Customer Lifecycle Goals: Value Mode, Retention Goals &amp; Percentage Multipliers](https://www.seroundtable.com/google-ads-customer-lifecycle-goals-update-42358.html) | Search Engine Roundtable | 155 | AI Search | 2026-10-22 11:30 UTC |
-| [3 New Studies Suggest AI Visibility &amp; Search Not Worth Investing In](https://www.seroundtable.com/ai-search-studies-42359.html) | Search Engine Roundtable | 155 | AI Search | 2026-10-22 11:21 UTC |
-| [Affiliate Marketing: What It Is &#038; How to Start in 2026](https://ahrefs.com/blog/affiliate-marketing/) | Ahrefs Blog | 120 | Links | 2026-10-22 17:06 UTC |
 | [AI search strategy: 4 layers of brand visibility](https://www.semrush.com/blog/ai-search-strategy/) | Semrush Blog | 110 | AI Search | 2026-10-23 10:58 UTC |
 | [Google Search expands agentic capabilities with information agents and Universal Cart](https://www.semrush.com/blog/google-adds-information-agents-and-universal-cart/) | Semrush Blog | 110 | General | 2026-10-23 10:35 UTC |
+| [Affiliate Marketing: What It Is &#038; How to Start in 2026](https://ahrefs.com/blog/affiliate-marketing/) | Ahrefs Blog | 105 | Links | 2026-10-22 17:06 UTC |
 | [Headless Content Marketing: A New (Old) Strategy for Search](https://ahrefs.com/blog/headless-content-marketing/) | Ahrefs Blog | 105 | AI Search | 2026-10-22 09:29 UTC |
 | [AI Share of Voice: What It Is, How to Measure It, and What It Actually Tells You](https://ahrefs.com/blog/ai-share-of-voice/) | Ahrefs Blog | 105 | AI Search | 2026-10-22 09:14 UTC |
 | [SEO at scale: How to manage SEO on a large website](https://www.semrush.com/blog/seo-at-scale/) | Semrush Blog | 95 | General | 2026-10-22 10:11 UTC |
