@@ -18,7 +18,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: October 26, 2026](https://www.seroundtable.com/recap-10-26-2026-42374.html) | Search Engine Roundtable | 210 | AI Search | 2026-10-26 14:00 UTC |
+| [Google Warns Tools On User-Generated Spam Guidance &amp; More](https://www.seroundtable.com/google-user-generated-spam-guidance-tools-42378.html) | Search Engine Roundtable | 210 | Content | 2026-10-26 19:15 UTC |
+| [Daily Search Forum Recap: October 26, 2026](https://www.seroundtable.com/recap-10-26-2026-42374.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-26 14:00 UTC |
 | [Over 80% Of Google Searches Have AI Overviews &amp; Growing](https://www.seroundtable.com/over-80-of-google-searches-have-ai-overviews-42372.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-26 11:51 UTC |
 | [Google Ads AI-Generated Review Summaries Help Doc](https://www.seroundtable.com/google-ads-ai-review-summaries-doc-42370.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-26 11:41 UTC |
 | [ChatGPT Ads With Learn More Arrow Link; Some Served Through Amazon DSP](https://www.seroundtable.com/chatgpt-ads-learn-more-amazon-dsp-42371.html) | Search Engine Roundtable | 190 | Links | 2026-10-26 11:31 UTC |

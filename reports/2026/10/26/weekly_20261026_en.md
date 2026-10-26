@@ -12,7 +12,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: October 26, 2026](https://www.seroundtable.com/recap-10-26-2026-42374.html) | Search Engine Roundtable | 210 | AI Search | 2026-10-26 14:00 UTC |
+| [Google Warns Tools On User-Generated Spam Guidance &amp; More](https://www.seroundtable.com/google-user-generated-spam-guidance-tools-42378.html) | Search Engine Roundtable | 210 | Content | 2026-10-26 19:15 UTC |
+| [Daily Search Forum Recap: October 26, 2026](https://www.seroundtable.com/recap-10-26-2026-42374.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-26 14:00 UTC |
 | [Over 80% Of Google Searches Have AI Overviews &amp; Growing](https://www.seroundtable.com/over-80-of-google-searches-have-ai-overviews-42372.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-26 11:51 UTC |
 | [Google Ads AI-Generated Review Summaries Help Doc](https://www.seroundtable.com/google-ads-ai-review-summaries-doc-42370.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-26 11:41 UTC |
 | [ChatGPT Ads With Learn More Arrow Link; Some Served Through Amazon DSP](https://www.seroundtable.com/chatgpt-ads-learn-more-amazon-dsp-42371.html) | Search Engine Roundtable | 190 | Links | 2026-10-26 11:31 UTC |
@@ -27,7 +28,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Business Profiles Tests New Advanced Performance Reports](https://www.seroundtable.com/google-business-profiles-new-performance-reports-42367.html) | Search Engine Roundtable | 155 | Local SEO | 2026-10-23 11:31 UTC |
 | [Google Universal Cart In Search Is Live, Yep](https://www.seroundtable.com/google-universal-cart-in-search-is-live-42349.html) | Search Engine Roundtable | 155 | AI Search | 2026-10-23 11:21 UTC |
 | [Google AdSense Videos Placement &amp; Sticky Requirements Removed](https://www.seroundtable.com/google-adsense-videos-policy-update-42366.html) | Search Engine Roundtable | 155 | AI Search | 2026-10-23 11:15 UTC |
-| [Google Ads Tests Scrolling Marquee Style For Ratings/Reviews &amp; Underlines](https://www.seroundtable.com/google-ads-tests-scrolling-marquee-ratings-reviews-and-underlines-on-sponsored-results-42364.html) | Search Engine Roundtable | 155 | Links | 2026-10-23 11:11 UTC |
 | [Google My Business: A guide to Google Business Profile](https://www.semrush.com/blog/google-my-business/) | Semrush Blog | 130 | Local SEO | 2026-10-26 11:37 UTC |
 | [Affiliate Marketing: What It Is &#038; How to Start in 2026](https://ahrefs.com/blog/affiliate-marketing/) | Ahrefs Blog | 105 | Links | 2026-10-22 17:06 UTC |
 | [Headless Content Marketing: A New (Old) Strategy for Search](https://ahrefs.com/blog/headless-content-marketing/) | Ahrefs Blog | 105 | AI Search | 2026-10-22 09:29 UTC |
