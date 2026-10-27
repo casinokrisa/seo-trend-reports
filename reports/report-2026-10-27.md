@@ -18,13 +18,14 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: October 27, 2026](https://www.seroundtable.com/recap-10-27-2026-42380.html) | Search Engine Roundtable | 210 | AI Search | 2026-10-27 14:00 UTC |
-| [Unconfirmed Google Search Ranking Update: Volatility &amp; Chatter Spike](https://www.seroundtable.com/google-search-ranking-volatility-42379.html) | Search Engine Roundtable | 210 | General | 2026-10-27 11:51 UTC |
-| [Google Downplays The Importance Of Fresh Index Reporting](https://www.seroundtable.com/google-downplays-importance-of-fresh-index-reporting-42381.html) | Search Engine Roundtable | 210 | Indexing | 2026-10-27 11:41 UTC |
-| [Advertisers Can't Figure Out If An Ad Is A Google Local Service Ad Or Not](https://www.seroundtable.com/google-local-service-ad-confusion-42328.html) | Search Engine Roundtable | 210 | General | 2026-10-27 11:31 UTC |
-| [Google Ads Tests Dotted Underlined Links In Sponsored Results](https://www.seroundtable.com/google-ads-dotted-underlined-links-42290.html) | Search Engine Roundtable | 210 | Links | 2026-10-27 11:21 UTC |
-| [Google Ads To Update Child Sexual Abuse and Exploitation (CSAE) Policy](https://www.seroundtable.com/google-ads-csae-ads-policy-42375.html) | Search Engine Roundtable | 210 | AI Search | 2026-10-27 11:11 UTC |
-| [Google Warns Tools On User-Generated Spam Guidance &amp; More](https://www.seroundtable.com/google-user-generated-spam-guidance-tools-42378.html) | Search Engine Roundtable | 190 | Content | 2026-10-26 19:15 UTC |
+| [Googlebot Must Follow Redirects From Homepage To Favicon, Updated Doc Say](https://www.seroundtable.com/googlebot-redirects-from-homepage-to-favicon-42396.html) | Search Engine Roundtable | 210 | Indexing | 2026-10-27 19:05 UTC |
+| [Daily Search Forum Recap: October 27, 2026](https://www.seroundtable.com/recap-10-27-2026-42380.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-27 14:00 UTC |
+| [Unconfirmed Google Search Ranking Update: Volatility &amp; Chatter Spike](https://www.seroundtable.com/google-search-ranking-volatility-42379.html) | Search Engine Roundtable | 190 | General | 2026-10-27 11:51 UTC |
+| [Google Downplays The Importance Of Fresh Index Reporting](https://www.seroundtable.com/google-downplays-importance-of-fresh-index-reporting-42381.html) | Search Engine Roundtable | 190 | Indexing | 2026-10-27 11:41 UTC |
+| [Advertisers Can't Figure Out If An Ad Is A Google Local Service Ad Or Not](https://www.seroundtable.com/google-local-service-ad-confusion-42328.html) | Search Engine Roundtable | 190 | General | 2026-10-27 11:31 UTC |
+| [Google Ads Tests Dotted Underlined Links In Sponsored Results](https://www.seroundtable.com/google-ads-dotted-underlined-links-42290.html) | Search Engine Roundtable | 190 | Links | 2026-10-27 11:21 UTC |
+| [Google Ads To Update Child Sexual Abuse and Exploitation (CSAE) Policy](https://www.seroundtable.com/google-ads-csae-ads-policy-42375.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-27 11:11 UTC |
+| [Google Warns Tools On User-Generated Spam Guidance &amp; More](https://www.seroundtable.com/google-user-generated-spam-guidance-tools-42378.html) | Search Engine Roundtable | 170 | Content | 2026-10-26 19:15 UTC |
 | [Daily Search Forum Recap: October 26, 2026](https://www.seroundtable.com/recap-10-26-2026-42374.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-26 14:00 UTC |
 | [Over 80% Of Google Searches Have AI Overviews &amp; Growing](https://www.seroundtable.com/over-80-of-google-searches-have-ai-overviews-42372.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-26 11:51 UTC |
 | [Google Ads AI-Generated Review Summaries Help Doc](https://www.seroundtable.com/google-ads-ai-review-summaries-doc-42370.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-26 11:41 UTC |
