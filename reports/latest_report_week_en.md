@@ -6,18 +6,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [Increase organic traffic](https://www.reddit.com/r/localseo/comments/1xgoagb/increase_organic_traffic/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-10-27 09:54 UTC |
-| [Do blog posts still move the needle for local rankings, or is it all GBP and reviews now?](https://www.reddit.com/r/localseo/comments/1xgo3be/do_blog_posts_still_move_the_needle_for_local/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-10-27 09:42 UTC |
-| [Looking for a freelance SEO specialist who can work as part of our team on contract basis](https://www.reddit.com/r/localseo/comments/1xgkc2s/looking_for_a_freelance_seo_specialist_who_can/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-10-27 05:40 UTC |
-| [Is Google AI search experience really causing organic traffic drop ?](https://www.reddit.com/r/localseo/comments/1xgk1j6/is_google_ai_search_experience_really_causing/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-10-27 05:22 UTC |
-| [Why I ask about business capacity before recommending more visibility](https://www.reddit.com/r/localseo/comments/1xghcss/why_i_ask_about_business_capacity_before/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-10-27 02:59 UTC |
-| [Local SEO results for a dental clinic (May–September 2026)](https://www.reddit.com/r/localseo/comments/1xggry6/local_seo_results_for_a_dental_clinic/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-10-27 02:31 UTC |
-| [What's a technical SEO issue you wouldn't have caught with a standard site audit?](https://www.reddit.com/r/localseo/comments/1xggerp/whats_a_technical_seo_issue_you_wouldnt_have/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Technical SEO | 2026-10-27 02:14 UTC |
-| [What's the most overlooked technical SEO issue you've found on a website that looked perfectly healthy?](https://www.reddit.com/r/localseo/comments/1xggdvi/whats_the_most_overlooked_technical_seo_issue/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Technical SEO | 2026-10-27 02:13 UTC |
-| [Google Business Home could change how we manage Local SEO](https://www.reddit.com/r/localseo/comments/1xg6gl0/google_business_home_could_change_how_we_manage/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-10-26 19:22 UTC |
-| [Is the local map pack &quot;dead&quot;? (From an update or a test, idk)](https://www.reddit.com/r/localseo/comments/1xg6duq/is_the_local_map_pack_dead_from_an_update_or_a/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-10-26 19:19 UTC |
-| [Local SEO for Auto Parts Stores (Detroit Case Study)](https://www.reddit.com/r/localseo/comments/1xg4req/local_seo_for_auto_parts_stores_detroit_case_study/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-10-26 18:19 UTC |
-| [Orthodontist local SEO case study: Google Maps top-3 visibility went from 68% → 85% and 53% → 81% at two offices in 3 months](https://www.reddit.com/r/localseo/comments/1xg0mxw/orthodontist_local_seo_case_study_google_maps/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-10-26 15:51 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
@@ -39,6 +28,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Business Profiles Tests New Advanced Performance Reports](https://www.seroundtable.com/google-business-profiles-new-performance-reports-42367.html) | Search Engine Roundtable | 155 | Local SEO | 2026-10-23 11:31 UTC |
 | [Google Universal Cart In Search Is Live, Yep](https://www.seroundtable.com/google-universal-cart-in-search-is-live-42349.html) | Search Engine Roundtable | 155 | AI Search | 2026-10-23 11:21 UTC |
 | [Google AdSense Videos Placement &amp; Sticky Requirements Removed](https://www.seroundtable.com/google-adsense-videos-policy-update-42366.html) | Search Engine Roundtable | 155 | AI Search | 2026-10-23 11:15 UTC |
+| [7 free SEO tools to boost visibility &amp; traffic](https://www.semrush.com/blog/free-seo-tools/) | Semrush Blog | 150 | Migration | 2026-10-27 09:05 UTC |
+| [Poisoned SERPs: An update on Google ranking data in Semrush](https://www.semrush.com/blog/poisoned-serps/) | Semrush Blog | 150 | General | 2026-10-27 08:17 UTC |
 | [Google My Business: A guide to Google Business Profile](https://www.semrush.com/blog/google-my-business/) | Semrush Blog | 130 | Local SEO | 2026-10-26 11:37 UTC |
 | [Affiliate Marketing: What It Is &#038; How to Start in 2026](https://ahrefs.com/blog/affiliate-marketing/) | Ahrefs Blog | 105 | Links | 2026-10-22 17:06 UTC |
 | [Headless Content Marketing: A New (Old) Strategy for Search](https://ahrefs.com/blog/headless-content-marketing/) | Ahrefs Blog | 105 | AI Search | 2026-10-22 09:29 UTC |
