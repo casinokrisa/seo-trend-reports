@@ -12,25 +12,25 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Daily Search Forum Recap: October 27, 2026](https://www.seroundtable.com/recap-10-27-2026-42380.html) | Search Engine Roundtable | 210 | AI Search | 2026-10-27 14:00 UTC |
+| [Unconfirmed Google Search Ranking Update: Volatility &amp; Chatter Spike](https://www.seroundtable.com/google-search-ranking-volatility-42379.html) | Search Engine Roundtable | 210 | General | 2026-10-27 11:51 UTC |
+| [Google Downplays The Importance Of Fresh Index Reporting](https://www.seroundtable.com/google-downplays-importance-of-fresh-index-reporting-42381.html) | Search Engine Roundtable | 210 | Indexing | 2026-10-27 11:41 UTC |
+| [Advertisers Can't Figure Out If An Ad Is A Google Local Service Ad Or Not](https://www.seroundtable.com/google-local-service-ad-confusion-42328.html) | Search Engine Roundtable | 210 | General | 2026-10-27 11:31 UTC |
+| [Google Ads Tests Dotted Underlined Links In Sponsored Results](https://www.seroundtable.com/google-ads-dotted-underlined-links-42290.html) | Search Engine Roundtable | 210 | Links | 2026-10-27 11:21 UTC |
+| [Google Ads To Update Child Sexual Abuse and Exploitation (CSAE) Policy](https://www.seroundtable.com/google-ads-csae-ads-policy-42375.html) | Search Engine Roundtable | 210 | AI Search | 2026-10-27 11:11 UTC |
+| [Updated guidance on preventing user-generated spam](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Indexing | 2026-10-26 00:00 UTC |
 | [Google Warns Tools On User-Generated Spam Guidance &amp; More](https://www.seroundtable.com/google-user-generated-spam-guidance-tools-42378.html) | Search Engine Roundtable | 190 | Content | 2026-10-26 19:15 UTC |
-| [Daily Search Forum Recap: October 26, 2026](https://www.seroundtable.com/recap-10-26-2026-42374.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-26 14:00 UTC |
-| [Over 80% Of Google Searches Have AI Overviews &amp; Growing](https://www.seroundtable.com/over-80-of-google-searches-have-ai-overviews-42372.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-26 11:51 UTC |
-| [Google Ads AI-Generated Review Summaries Help Doc](https://www.seroundtable.com/google-ads-ai-review-summaries-doc-42370.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-26 11:41 UTC |
-| [ChatGPT Ads With Learn More Arrow Link; Some Served Through Amazon DSP](https://www.seroundtable.com/chatgpt-ads-learn-more-amazon-dsp-42371.html) | Search Engine Roundtable | 190 | Links | 2026-10-26 11:31 UTC |
-| [Google Discover Tests Disabling Clicks In Sources Section](https://www.seroundtable.com/google-discover-disabling-clicks-42369.html) | Search Engine Roundtable | 190 | Links | 2026-10-26 11:21 UTC |
-| [Google Ads 1-Click AI Max Experiment Recommendation](https://www.seroundtable.com/google-ads-1-click-ai-max-experiment-42324.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-26 11:11 UTC |
-| [Updated guidance on crawlable URL structures](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Indexing | 2026-10-23 00:00 UTC |
+| [Daily Search Forum Recap: October 26, 2026](https://www.seroundtable.com/recap-10-26-2026-42374.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-26 14:00 UTC |
+| [Over 80% Of Google Searches Have AI Overviews &amp; Growing](https://www.seroundtable.com/over-80-of-google-searches-have-ai-overviews-42372.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-26 11:51 UTC |
+| [Google Ads AI-Generated Review Summaries Help Doc](https://www.seroundtable.com/google-ads-ai-review-summaries-doc-42370.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-26 11:41 UTC |
+| [ChatGPT Ads With Learn More Arrow Link; Some Served Through Amazon DSP](https://www.seroundtable.com/chatgpt-ads-learn-more-amazon-dsp-42371.html) | Search Engine Roundtable | 170 | Links | 2026-10-26 11:31 UTC |
+| [Google Discover Tests Disabling Clicks In Sources Section](https://www.seroundtable.com/google-discover-disabling-clicks-42369.html) | Search Engine Roundtable | 170 | Links | 2026-10-26 11:21 UTC |
+| [Google Ads 1-Click AI Max Experiment Recommendation](https://www.seroundtable.com/google-ads-1-click-ai-max-experiment-42324.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-26 11:11 UTC |
 | [Google Search Ranking Volatility Gets Heated October 24th](https://www.seroundtable.com/google-search-ranking-volatility-heated-42373.html) | Search Engine Roundtable | 170 | General | 2026-10-25 14:07 UTC |
 | [Daily Search Forum Recap: October 23, 2026](https://www.seroundtable.com/recap-10-23-2026-42368.html) | Search Engine Roundtable | 155 | AI Search | 2026-10-23 14:00 UTC |
-| [Search News Buzz Video Recap: Google Search Chatter, PHP Exploit, AI SEO Worthwhile, Google Local, Google Ads, ChatGPT Ads &amp; More](https://www.seroundtable.com/video-10-23-2026-42362.html) | Search Engine Roundtable | 155 | AI Search | 2026-10-23 12:01 UTC |
-| [Google AI Overview Citation Cards With AI-Generated Summary Snippets](https://www.seroundtable.com/google-ai-overview-citation-ai-summaries-42361.html) | Search Engine Roundtable | 155 | AI Search | 2026-10-23 11:51 UTC |
-| [JPEG XL Image Format Not Supported By Google Images &amp; Google Discover](https://www.seroundtable.com/google-jpeg-xl-42352.html) | Search Engine Roundtable | 155 | AI Search | 2026-10-23 11:41 UTC |
-| [Google Business Profiles Tests New Advanced Performance Reports](https://www.seroundtable.com/google-business-profiles-new-performance-reports-42367.html) | Search Engine Roundtable | 155 | Local SEO | 2026-10-23 11:31 UTC |
-| [Google Universal Cart In Search Is Live, Yep](https://www.seroundtable.com/google-universal-cart-in-search-is-live-42349.html) | Search Engine Roundtable | 155 | AI Search | 2026-10-23 11:21 UTC |
-| [Google AdSense Videos Placement &amp; Sticky Requirements Removed](https://www.seroundtable.com/google-adsense-videos-policy-update-42366.html) | Search Engine Roundtable | 155 | AI Search | 2026-10-23 11:15 UTC |
-| [7 free SEO tools to boost visibility &amp; traffic](https://www.semrush.com/blog/free-seo-tools/) | Semrush Blog | 150 | Migration | 2026-10-27 09:05 UTC |
-| [Poisoned SERPs: An update on Google ranking data in Semrush](https://www.semrush.com/blog/poisoned-serps/) | Semrush Blog | 150 | General | 2026-10-27 08:17 UTC |
-| [Google My Business: A guide to Google Business Profile](https://www.semrush.com/blog/google-my-business/) | Semrush Blog | 130 | Local SEO | 2026-10-26 11:37 UTC |
+| [7 free SEO tools to boost visibility &amp; traffic](https://www.semrush.com/blog/free-seo-tools/) | Semrush Blog | 130 | Migration | 2026-10-27 09:05 UTC |
+| [Poisoned SERPs: An update on Google ranking data in Semrush](https://www.semrush.com/blog/poisoned-serps/) | Semrush Blog | 130 | General | 2026-10-27 08:17 UTC |
+| [Google My Business: A guide to Google Business Profile](https://www.semrush.com/blog/google-my-business/) | Semrush Blog | 110 | Local SEO | 2026-10-26 11:37 UTC |
 | [Affiliate Marketing: What It Is &#038; How to Start in 2026](https://ahrefs.com/blog/affiliate-marketing/) | Ahrefs Blog | 105 | Links | 2026-10-22 17:06 UTC |
 | [Headless Content Marketing: A New (Old) Strategy for Search](https://ahrefs.com/blog/headless-content-marketing/) | Ahrefs Blog | 105 | AI Search | 2026-10-22 09:29 UTC |
 | [AI Share of Voice: What It Is, How to Measure It, and What It Actually Tells You](https://ahrefs.com/blog/ai-share-of-voice/) | Ahrefs Blog | 105 | AI Search | 2026-10-22 09:14 UTC |
