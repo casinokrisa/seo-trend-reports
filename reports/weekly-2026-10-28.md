@@ -29,7 +29,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Ads 1-Click AI Max Experiment Recommendation](https://www.seroundtable.com/google-ads-1-click-ai-max-experiment-42324.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-26 11:11 UTC |
 | [Google Search Ranking Volatility Gets Heated October 24th](https://www.seroundtable.com/google-search-ranking-volatility-heated-42373.html) | Search Engine Roundtable | 170 | General | 2026-10-25 14:07 UTC |
 | [7 free SEO tools to boost visibility &amp; traffic](https://www.semrush.com/blog/free-seo-tools/) | Semrush Blog | 130 | Migration | 2026-10-27 09:05 UTC |
-| [Poisoned SERPs: An update on Google ranking data in Semrush](https://www.semrush.com/blog/poisoned-serps/) | Semrush Blog | 130 | General | 2026-10-27 08:17 UTC |
+| [Poisoned SERPs: An update on Google ranking data in Semrush](https://www.semrush.com/blog/poisoned-serps/) | Semrush Blog | 110 | General | 2026-10-27 08:17 UTC |
 | [Google My Business: A guide to Google Business Profile](https://www.semrush.com/blog/google-my-business/) | Semrush Blog | 110 | Local SEO | 2026-10-26 11:37 UTC |
 | [Affiliate Marketing: What It Is &#038; How to Start in 2026](https://ahrefs.com/blog/affiliate-marketing/) | Ahrefs Blog | 105 | Links | 2026-10-22 17:06 UTC |
 | [Headless Content Marketing: A New (Old) Strategy for Search](https://ahrefs.com/blog/headless-content-marketing/) | Ahrefs Blog | 105 | AI Search | 2026-10-22 09:29 UTC |

@@ -25,10 +25,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Advertisers Can't Figure Out If An Ad Is A Google Local Service Ad Or Not](https://www.seroundtable.com/google-local-service-ad-confusion-42328.html) | Search Engine Roundtable | 190 | General | 2026-10-27 11:31 UTC |
 | [Google Ads Tests Dotted Underlined Links In Sponsored Results](https://www.seroundtable.com/google-ads-dotted-underlined-links-42290.html) | Search Engine Roundtable | 190 | Links | 2026-10-27 11:21 UTC |
 | [Google Ads To Update Child Sexual Abuse and Exploitation (CSAE) Policy](https://www.seroundtable.com/google-ads-csae-ads-policy-42375.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-27 11:11 UTC |
-| [Google Warns Tools On User-Generated Spam Guidance &amp; More](https://www.seroundtable.com/google-user-generated-spam-guidance-tools-42378.html) | Search Engine Roundtable | 170 | Content | 2026-10-26 19:15 UTC |
-| [Daily Search Forum Recap: October 26, 2026](https://www.seroundtable.com/recap-10-26-2026-42374.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-26 14:00 UTC |
 | [7 free SEO tools to boost visibility &amp; traffic](https://www.semrush.com/blog/free-seo-tools/) | Semrush Blog | 130 | Migration | 2026-10-27 09:05 UTC |
-| [Poisoned SERPs: An update on Google ranking data in Semrush](https://www.semrush.com/blog/poisoned-serps/) | Semrush Blog | 130 | General | 2026-10-27 08:17 UTC |
+| [Poisoned SERPs: An update on Google ranking data in Semrush](https://www.semrush.com/blog/poisoned-serps/) | Semrush Blog | 110 | General | 2026-10-27 08:17 UTC |
 
 ## Notes for manual writing
 
