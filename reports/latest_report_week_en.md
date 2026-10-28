@@ -1,4 +1,4 @@
-# SEO Weekly Trend Report - 2026-10-27
+# SEO Weekly Trend Report - 2026-10-28
 
 ## Weekly trending posts
 
@@ -12,8 +12,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Googlebot Must Follow Redirects From Homepage To Favicon, Updated Doc Say](https://www.seroundtable.com/googlebot-redirects-from-homepage-to-favicon-42396.html) | Search Engine Roundtable | 210 | Indexing | 2026-10-27 19:05 UTC |
 | [Updated guidance on preventing user-generated spam](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Indexing | 2026-10-26 00:00 UTC |
+| [Googlebot Must Follow Redirects From Homepage To Favicon, Updated Doc Say](https://www.seroundtable.com/googlebot-redirects-from-homepage-to-favicon-42396.html) | Search Engine Roundtable | 190 | Indexing | 2026-10-27 19:05 UTC |
 | [Daily Search Forum Recap: October 27, 2026](https://www.seroundtable.com/recap-10-27-2026-42380.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-27 14:00 UTC |
 | [Unconfirmed Google Search Ranking Update: Volatility &amp; Chatter Spike](https://www.seroundtable.com/google-search-ranking-volatility-42379.html) | Search Engine Roundtable | 190 | General | 2026-10-27 11:51 UTC |
 | [Google Downplays The Importance Of Fresh Index Reporting](https://www.seroundtable.com/google-downplays-importance-of-fresh-index-reporting-42381.html) | Search Engine Roundtable | 190 | Indexing | 2026-10-27 11:41 UTC |
