@@ -18,11 +18,11 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Business Profiles Finally Adds Third-Party Ordering Controls](https://www.seroundtable.com/google-business-profiles-ordering-controls-42411.html) | Search Engine Roundtable | 210 | Local SEO | 2026-10-28 22:32 UTC |
-| [Google Expands Ads In AI Mode To More Countries &amp; Multiturn Ads In U.S.](https://www.seroundtable.com/google-expands-ads-ai-mode-42412.html) | Search Engine Roundtable | 210 | AI Search | 2026-10-28 22:30 UTC |
-| [Bing Ads Revenue Up 12% With Overall Revenue Up 19%](https://www.seroundtable.com/microsoft-earnings-q127-42404.html) | Search Engine Roundtable | 210 | General | 2026-10-28 20:15 UTC |
-| [Google Ad Revenue Up 10.5% With Overall Revenue Up 25%](https://www.seroundtable.com/google-earnings-q326-42403.html) | Search Engine Roundtable | 210 | General | 2026-10-28 20:10 UTC |
-| [Google Ads API Version 26.1 Now Out Available](https://www.seroundtable.com/google-ads-api-version-261-42409.html) | Search Engine Roundtable | 210 | AI Search | 2026-10-28 19:08 UTC |
+| [Google Business Profiles Finally Adds Third-Party Ordering Controls](https://www.seroundtable.com/google-business-profiles-ordering-controls-42411.html) | Search Engine Roundtable | 190 | Local SEO | 2026-10-28 22:32 UTC |
+| [Google Expands Ads In AI Mode To More Countries &amp; Multiturn Ads In U.S.](https://www.seroundtable.com/google-expands-ads-ai-mode-42412.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-28 22:30 UTC |
+| [Bing Ads Revenue Up 12% With Overall Revenue Up 19%](https://www.seroundtable.com/microsoft-earnings-q127-42404.html) | Search Engine Roundtable | 190 | General | 2026-10-28 20:15 UTC |
+| [Google Ad Revenue Up 10.5% With Overall Revenue Up 25%](https://www.seroundtable.com/google-earnings-q326-42403.html) | Search Engine Roundtable | 190 | General | 2026-10-28 20:10 UTC |
+| [Google Ads API Version 26.1 Now Out Available](https://www.seroundtable.com/google-ads-api-version-261-42409.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-28 19:08 UTC |
 | [You Can Now Build Apps For Google Search: Connected Apps Platform](https://www.seroundtable.com/google-connected-apps-platform-42408.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-28 18:35 UTC |
 | [Google Explains Why 404 Errors Aren't Scary &#128123;](https://www.seroundtable.com/google-404-errors-42405.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-28 15:16 UTC |
 | [Daily Search Forum Recap: October 28, 2026](https://www.seroundtable.com/recap-10-28-2026-42398.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-28 14:00 UTC |
