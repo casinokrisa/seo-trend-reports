@@ -1,4 +1,4 @@
-# SEO Weekly Trend Report - 2026-10-30
+# SEO Weekly Trend Report - 2026-10-31
 
 ## Weekly trending posts
 
@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Supporting a shared AI training control for websites](https://developers.google.com/search/blog/2026/10/ai-training-control) | Google Search Central Blog | 230 | Indexing | 2026-10-30 00:00 UTC |
+| [Supporting a shared AI training control for websites](https://developers.google.com/search/blog/2026/10/ai-training-control) | Google Search Central Blog | 210 | Indexing | 2026-10-30 00:00 UTC |
 | [Google Adopts New AI Training Control](https://www.seroundtable.com/google-ai-training-control-42430.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-30 16:50 UTC |
 | [Microsoft Bing New AI New Controls With AI Training From AI Search Grounding](https://www.seroundtable.com/microsoft-bing-ai-controls-42429.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-30 16:15 UTC |
 | [ChatGPT Gets Wider Ads, Multi-Image Ads Expands, Expansion &amp; More](https://www.seroundtable.com/chatgpt-ads-update-42427.html) | Search Engine Roundtable | 190 | AI Search | 2026-10-30 15:17 UTC |
