@@ -27,8 +27,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Bing Showing Ads Within AI Overviews](https://www.seroundtable.com/bing-ads-copilot-ai-overviews-42416.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-30 11:41 UTC |
 | [Google &amp; Bing Halloween Search Easter (Pumpkin) Eggs](https://www.seroundtable.com/google-bing-halloween-search-easter-eggs-42415.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-30 11:31 UTC |
 | [Google's Gary Illyes: AI Made Bot Impersonation Worse](https://www.seroundtable.com/google-ai-made-bot-impersonation-worse-42422.html) | Search Engine Roundtable | 170 | Indexing | 2026-10-30 11:21 UTC |
-| [Google Gemini Stopped Attaching UTM Parameters To Cited URLs](https://www.seroundtable.com/gemini-utm-parameters-42399.html) | Search Engine Roundtable | 170 | Links | 2026-10-30 11:11 UTC |
-| [Google Search May Be Bringing Back 100 Search Results Parameter](https://www.seroundtable.com/google-search-100-search-results-parameter-back-42423.html) | Search Engine Roundtable | 170 | Indexing | 2026-10-30 09:40 UTC |
 | [What Is BLUF? How to Write Bottom Line Up Front (+ Free Rewriter Tool)](https://ahrefs.com/blog/bluf/) | Ahrefs Blog | 120 | AI Search | 2026-10-30 16:27 UTC |
 
 ## Notes for manual writing
