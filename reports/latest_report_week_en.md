@@ -32,7 +32,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [What Is BLUF? How to Write Bottom Line Up Front (+ Free Rewriter Tool)](https://ahrefs.com/blog/bluf/) | Ahrefs Blog | 140 | AI Search | 2026-10-30 16:27 UTC |
 | [How Stable Are AI Citations? 10 Things We Learned Tracking 37,500 Citations](https://ahrefs.com/blog/how-stable-are-ai-citations/) | Ahrefs Blog | 120 | AI Search | 2026-10-29 13:25 UTC |
 | [Google AI Mode: All You Need to Know](https://ahrefs.com/blog/google-ai-mode/) | Ahrefs Blog | 120 | AI Search | 2026-10-28 10:41 UTC |
-| [AI Discoverability, Page types, and more (September 2026)](https://ahrefs.com/blog/new-features-september-2026/) | Ahrefs Blog | 120 | AI Search | 2026-10-28 08:34 UTC |
+| [AI Discoverability, Page types, and more (September 2026)](https://ahrefs.com/blog/new-features-september-2026/) | Ahrefs Blog | 105 | AI Search | 2026-10-28 08:34 UTC |
 | [7 free SEO tools to boost visibility &amp; traffic](https://www.semrush.com/blog/free-seo-tools/) | Semrush Blog | 95 | Migration | 2026-10-27 09:05 UTC |
 | [Poisoned SERPs: An update on Google ranking data in Semrush](https://www.semrush.com/blog/poisoned-serps/) | Semrush Blog | 95 | General | 2026-10-27 08:17 UTC |
 | [Google My Business: A guide to Google Business Profile](https://www.semrush.com/blog/google-my-business/) | Semrush Blog | 95 | Local SEO | 2026-10-26 11:37 UTC |
