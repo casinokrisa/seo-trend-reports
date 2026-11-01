@@ -1,4 +1,4 @@
-# Reddit SEO Trend Report - 2026-10-31
+# Reddit SEO Trend Report - 2026-11-01
 
 ## Today's Trending Posts
 
@@ -18,16 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Adopts New AI Training Control](https://www.seroundtable.com/google-ai-training-control-42430.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-30 16:50 UTC |
-| [Microsoft Bing New AI New Controls With AI Training From AI Search Grounding](https://www.seroundtable.com/microsoft-bing-ai-controls-42429.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-30 16:15 UTC |
-| [ChatGPT Gets Wider Ads, Multi-Image Ads Expands, Expansion &amp; More](https://www.seroundtable.com/chatgpt-ads-update-42427.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-30 15:17 UTC |
-| [Daily Search Forum Recap: October 30, 2026](https://www.seroundtable.com/recap-10-30-2026-42424.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-30 14:00 UTC |
-| [Search News Buzz Video Recap: Google Volatility X2, Spam Updates, AI Overviews Everywhere, Blending Ads &amp; Organic, Google &amp; Microsoft Earnings](https://www.seroundtable.com/video-10-30-2026-42418.html) | Search Engine Roundtable | 170 | Indexing | 2026-10-30 12:01 UTC |
-| [Google AI Overviews &amp; AI Mode 0.9% Click-Through Rate, Opt Out Study Says](https://www.seroundtable.com/google-ai-overviews-mode-ctr-42421.html) | Search Engine Roundtable | 170 | GSC | 2026-10-30 11:51 UTC |
-| [Bing Showing Ads Within AI Overviews](https://www.seroundtable.com/bing-ads-copilot-ai-overviews-42416.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-30 11:41 UTC |
-| [Google &amp; Bing Halloween Search Easter (Pumpkin) Eggs](https://www.seroundtable.com/google-bing-halloween-search-easter-eggs-42415.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-30 11:31 UTC |
-| [Google's Gary Illyes: AI Made Bot Impersonation Worse](https://www.seroundtable.com/google-ai-made-bot-impersonation-worse-42422.html) | Search Engine Roundtable | 170 | Indexing | 2026-10-30 11:21 UTC |
-| [What Is BLUF? How to Write Bottom Line Up Front (+ Free Rewriter Tool)](https://ahrefs.com/blog/bluf/) | Ahrefs Blog | 120 | AI Search | 2026-10-30 16:27 UTC |
+| _No site items in window_ |  |  |  |  |
 
 ## Notes for manual writing
 
