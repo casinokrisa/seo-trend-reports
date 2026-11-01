@@ -25,12 +25,12 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google's Gary Illyes: AI Made Bot Impersonation Worse](https://www.seroundtable.com/google-ai-made-bot-impersonation-worse-42422.html) | Search Engine Roundtable | 170 | Indexing | 2026-10-30 11:21 UTC |
 | [Google Gemini Stopped Attaching UTM Parameters To Cited URLs](https://www.seroundtable.com/gemini-utm-parameters-42399.html) | Search Engine Roundtable | 170 | Links | 2026-10-30 11:11 UTC |
 | [Google Search May Be Bringing Back 100 Search Results Parameter](https://www.seroundtable.com/google-search-100-search-results-parameter-back-42423.html) | Search Engine Roundtable | 170 | Indexing | 2026-10-30 09:40 UTC |
-| [Google's John Mueller: Eventually Systems Will Catch The AI Spam &amp; Tricks](https://www.seroundtable.com/john-mueller-google-systems-ai-spam-42420.html) | Search Engine Roundtable | 170 | Indexing | 2026-10-29 17:25 UTC |
-| [Google Business Profiles AI-Powered Messaging Expands](https://www.seroundtable.com/google-business-profiles-ai-powered-messaging-42419.html) | Search Engine Roundtable | 170 | Local SEO | 2026-10-29 16:55 UTC |
-| [Google: Ads In AI Mode Earning Less Than Traditional Search Ads](https://www.seroundtable.com/google-ai-mode-ads-earn-less-42417.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-29 14:15 UTC |
-| [Daily Search Forum Recap: October 29, 2026](https://www.seroundtable.com/recap-10-29-2026-42414.html) | Search Engine Roundtable | 170 | AI Search | 2026-10-29 14:00 UTC |
+| [Google's John Mueller: Eventually Systems Will Catch The AI Spam &amp; Tricks](https://www.seroundtable.com/john-mueller-google-systems-ai-spam-42420.html) | Search Engine Roundtable | 155 | Indexing | 2026-10-29 17:25 UTC |
+| [Google Business Profiles AI-Powered Messaging Expands](https://www.seroundtable.com/google-business-profiles-ai-powered-messaging-42419.html) | Search Engine Roundtable | 155 | Local SEO | 2026-10-29 16:55 UTC |
+| [Google: Ads In AI Mode Earning Less Than Traditional Search Ads](https://www.seroundtable.com/google-ai-mode-ads-earn-less-42417.html) | Search Engine Roundtable | 155 | AI Search | 2026-10-29 14:15 UTC |
+| [Daily Search Forum Recap: October 29, 2026](https://www.seroundtable.com/recap-10-29-2026-42414.html) | Search Engine Roundtable | 155 | AI Search | 2026-10-29 14:00 UTC |
 | [What Is BLUF? How to Write Bottom Line Up Front (+ Free Rewriter Tool)](https://ahrefs.com/blog/bluf/) | Ahrefs Blog | 120 | AI Search | 2026-10-30 16:27 UTC |
-| [How Stable Are AI Citations? 10 Things We Learned Tracking 37,500 Citations](https://ahrefs.com/blog/how-stable-are-ai-citations/) | Ahrefs Blog | 120 | AI Search | 2026-10-29 13:25 UTC |
+| [How Stable Are AI Citations? 10 Things We Learned Tracking 37,500 Citations](https://ahrefs.com/blog/how-stable-are-ai-citations/) | Ahrefs Blog | 105 | AI Search | 2026-10-29 13:25 UTC |
 | [Google AI Mode: All You Need to Know](https://ahrefs.com/blog/google-ai-mode/) | Ahrefs Blog | 105 | AI Search | 2026-10-28 10:41 UTC |
 | [AI Discoverability, Page types, and more (September 2026)](https://ahrefs.com/blog/new-features-september-2026/) | Ahrefs Blog | 105 | AI Search | 2026-10-28 08:34 UTC |
 | [7 free SEO tools to boost visibility &amp; traffic](https://www.semrush.com/blog/free-seo-tools/) | Semrush Blog | 95 | Migration | 2026-10-27 09:05 UTC |
