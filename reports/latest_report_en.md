@@ -1,4 +1,4 @@
-# Reddit SEO Trend Report - 2026-11-02
+# Reddit SEO Trend Report - 2026-11-03
 
 ## Today's Trending Posts
 
@@ -18,8 +18,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google AI Overviews For Brands Moved To Right Column](https://www.seroundtable.com/google-ai-overviews-brands-right-42440.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-02 17:15 UTC |
-| [Daily Search Forum Recap: November 2, 2026](https://www.seroundtable.com/recap-11-02-2026-42434.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-02 15:00 UTC |
+| [Google AI Overviews For Brands Moved To Right Column](https://www.seroundtable.com/google-ai-overviews-brands-right-42440.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-02 17:15 UTC |
+| [Daily Search Forum Recap: November 2, 2026](https://www.seroundtable.com/recap-11-02-2026-42434.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-02 15:00 UTC |
 | [November 2026 Google Webmaster Report](https://www.seroundtable.com/november-2026-google-webmaster-report-42431.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-02 12:51 UTC |
 | [Gary Illyes Implies Click Data Not Coming To Google Search Console AI Reporting](https://www.seroundtable.com/click-data-search-console-ai-reporting-42437.html) | Search Engine Roundtable | 190 | GSC | 2026-11-02 12:41 UTC |
 | [Google Ads Strategists Using AI-Generated Fake Names &amp; Profile Photos](https://www.seroundtable.com/google-ads-strategist-ai-fake-names-photos-42426.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-02 12:31 UTC |
