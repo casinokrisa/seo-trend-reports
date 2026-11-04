@@ -1,4 +1,4 @@
-# SEO Weekly Trend Report - 2026-11-03
+# SEO Weekly Trend Report - 2026-11-04
 
 ## Weekly trending posts
 
@@ -12,8 +12,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Updates Crawled - Currently Not Indexed Details](https://www.seroundtable.com/google-updates-crawled-currently-not-indexed-42450.html) | Search Engine Roundtable | 210 | Indexing | 2026-11-03 21:15 UTC |
 | [Supporting a shared AI training control for websites](https://developers.google.com/search/blog/2026/10/ai-training-control) | Google Search Central Blog | 195 | Indexing | 2026-10-30 00:00 UTC |
+| [Google Updates Crawled - Currently Not Indexed Details](https://www.seroundtable.com/google-updates-crawled-currently-not-indexed-42450.html) | Search Engine Roundtable | 190 | Indexing | 2026-11-03 21:15 UTC |
 | [Google Performance Reports Showing Weird Spike In Clicks For Some Sites](https://www.seroundtable.com/google-performance-reports-spike-clicks-42448.html) | Search Engine Roundtable | 190 | GSC | 2026-11-03 15:54 UTC |
 | [Daily Search Forum Recap: November 3, 2026](https://www.seroundtable.com/recap-11-03-2026-42442.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-03 15:00 UTC |
 | [Google Will Turn Off Google Search For K-12 Schools &amp; Testing Learning Beta](https://www.seroundtable.com/google-search-off-k-12-schools-42447.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-03 14:44 UTC |
