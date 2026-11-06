@@ -1,4 +1,4 @@
-# SEO Weekly Trend Report - 2026-11-05
+# SEO Weekly Trend Report - 2026-11-06
 
 ## Weekly trending posts
 
@@ -12,23 +12,22 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Daily Search Forum Recap: November 5, 2026](https://www.seroundtable.com/recap-11-05-2026-42466.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-05 15:00 UTC |
-| [Facebook Answers AI-Generated 6 Million Pages Is Google Scaled Content Abuse](https://www.seroundtable.com/facebook-answers-google-42467.html) | Search Engine Roundtable | 210 | Indexing | 2026-11-05 13:01 UTC |
-| [Google Ads Expands AI Content Disclosure Label To More Regions](https://www.seroundtable.com/google-ads-expands-ai-content-label-disclosure-42461.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-05 12:51 UTC |
-| [Google Ads PMax Channel Report Definitions Coming To Search &amp; Shopping](https://www.seroundtable.com/google-ads-pmax-channel-report-search-42454.html) | Search Engine Roundtable | 210 | General | 2026-11-05 12:41 UTC |
+| [OpenAI Updates ChatGPT Ads Bidding Options For Max Bid or Max CPC](https://www.seroundtable.com/openai-updates-chatgpt-ads-bidding-options-42470.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-05 18:29 UTC |
 | [Search Central Live in Zurich is back!](https://developers.google.com/search/blog/2026/11/search-central-live-zurich-2026) | Google Search Central Blog | 210 | General | 2026-11-04 00:00 UTC |
-| [Supporting a shared AI training control for websites](https://developers.google.com/search/blog/2026/10/ai-training-control) | Google Search Central Blog | 195 | Indexing | 2026-10-30 00:00 UTC |
+| [Daily Search Forum Recap: November 5, 2026](https://www.seroundtable.com/recap-11-05-2026-42466.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-05 15:00 UTC |
+| [Facebook Answers AI-Generated 6 Million Pages Is Google Scaled Content Abuse](https://www.seroundtable.com/facebook-answers-google-42467.html) | Search Engine Roundtable | 190 | Indexing | 2026-11-05 13:01 UTC |
+| [Google Ads Expands AI Content Disclosure Label To More Regions](https://www.seroundtable.com/google-ads-expands-ai-content-label-disclosure-42461.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-05 12:51 UTC |
+| [Google Ads PMax Channel Report Definitions Coming To Search &amp; Shopping](https://www.seroundtable.com/google-ads-pmax-channel-report-search-42454.html) | Search Engine Roundtable | 190 | General | 2026-11-05 12:41 UTC |
 | [Google AI Mode Integrates With Home Services Booking](https://www.seroundtable.com/google-ai-mode-home-services-booking-42459.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-05 12:31 UTC |
 | [Google Can Temporarily Protect Important URLs From Being Deindexed](https://www.seroundtable.com/google-protected-important-urls-index-42464.html) | Search Engine Roundtable | 190 | Indexing | 2026-11-05 12:21 UTC |
 | [Google Business Profiles Car Dealership Inventory Limited Pilot](https://www.seroundtable.com/google-business-profiles-car-dealership-inventory-42465.html) | Search Engine Roundtable | 190 | Local SEO | 2026-11-05 12:15 UTC |
 | [Google Search Profiles Spotted Adding LinkedIn](https://www.seroundtable.com/google-search-profiles-adds-linkedin-42458.html) | Search Engine Roundtable | 190 | Links | 2026-11-05 12:11 UTC |
 | [Google Ads Gains A New Telemedicine Certification Option](https://www.seroundtable.com/google-ads-telemedicine-certification-42460.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-05 12:05 UTC |
-| [Google Ads Explains Difference With Search Terms Match Type (Keywords)](https://www.seroundtable.com/google-ads-search-terms-match-type-keywords-42463.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-04 22:45 UTC |
-| [Google Emails: Site Reputation Policy Manual Actions No Longer Impact EEA](https://www.seroundtable.com/google-email-site-reputation-policy-eea-42462.html) | Search Engine Roundtable | 190 | GSC | 2026-11-04 21:19 UTC |
+| [Google Ads Explains Difference With Search Terms Match Type (Keywords)](https://www.seroundtable.com/google-ads-search-terms-match-type-keywords-42463.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-04 22:45 UTC |
+| [Google Emails: Site Reputation Policy Manual Actions No Longer Impact EEA](https://www.seroundtable.com/google-email-site-reputation-policy-eea-42462.html) | Search Engine Roundtable | 170 | GSC | 2026-11-04 21:19 UTC |
 | [Google Search Console Performance Report Multi-Select Device Filters](https://www.seroundtable.com/google-performance-report-multi-select-device-filters-42457.html) | Search Engine Roundtable | 170 | GSC | 2026-11-04 15:01 UTC |
 | [Daily Search Forum Recap: November 4, 2026](https://www.seroundtable.com/recap-11-04-2026-42452.html) | Search Engine Roundtable | 170 | GSC | 2026-11-04 15:00 UTC |
 | [Microsoft Clarity With New Agentic Analytics &amp; Ask Clarity](https://www.seroundtable.com/microsoft-clarity-gains-agentic-analytics-and-ask-clarity-42449.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-04 14:00 UTC |
-| [Google Ads New Help Document For Promotion Mode](https://www.seroundtable.com/google-ads-promotion-mode-help-document-42446.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-04 12:51 UTC |
 | [How to use Google Keyword Planner](https://www.semrush.com/blog/google-keyword-planner/) | Semrush Blog | 130 | Migration | 2026-11-05 10:43 UTC |
 | [Every OpenAI Publisher Partnership, and How Often ChatGPT Cites Them](https://ahrefs.com/blog/openai-publisher-partnerships/) | Ahrefs Blog | 120 | Links | 2026-11-03 17:03 UTC |
 | [The 25 Best AEO/GEO Experts to Follow in 2026](https://ahrefs.com/blog/aeo-geo-experts/) | Ahrefs Blog | 120 | AI Search | 2026-11-03 15:19 UTC |
