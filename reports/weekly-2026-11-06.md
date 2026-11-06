@@ -12,8 +12,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [OpenAI Updates ChatGPT Ads Bidding Options For Max Bid or Max CPC](https://www.seroundtable.com/openai-updates-chatgpt-ads-bidding-options-42470.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-05 18:29 UTC |
 | [Search Central Live in Zurich is back!](https://developers.google.com/search/blog/2026/11/search-central-live-zurich-2026) | Google Search Central Blog | 210 | General | 2026-11-04 00:00 UTC |
+| [OpenAI Updates ChatGPT Ads Bidding Options For Max Bid or Max CPC](https://www.seroundtable.com/openai-updates-chatgpt-ads-bidding-options-42470.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-05 18:29 UTC |
 | [Daily Search Forum Recap: November 5, 2026](https://www.seroundtable.com/recap-11-05-2026-42466.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-05 15:00 UTC |
 | [Facebook Answers AI-Generated 6 Million Pages Is Google Scaled Content Abuse](https://www.seroundtable.com/facebook-answers-google-42467.html) | Search Engine Roundtable | 190 | Indexing | 2026-11-05 13:01 UTC |
 | [Google Ads Expands AI Content Disclosure Label To More Regions](https://www.seroundtable.com/google-ads-expands-ai-content-label-disclosure-42461.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-05 12:51 UTC |

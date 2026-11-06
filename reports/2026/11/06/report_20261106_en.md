@@ -18,7 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [OpenAI Updates ChatGPT Ads Bidding Options For Max Bid or Max CPC](https://www.seroundtable.com/openai-updates-chatgpt-ads-bidding-options-42470.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-05 18:29 UTC |
+| [OpenAI Updates ChatGPT Ads Bidding Options For Max Bid or Max CPC](https://www.seroundtable.com/openai-updates-chatgpt-ads-bidding-options-42470.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-05 18:29 UTC |
 | [Daily Search Forum Recap: November 5, 2026](https://www.seroundtable.com/recap-11-05-2026-42466.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-05 15:00 UTC |
 | [Facebook Answers AI-Generated 6 Million Pages Is Google Scaled Content Abuse](https://www.seroundtable.com/facebook-answers-google-42467.html) | Search Engine Roundtable | 190 | Indexing | 2026-11-05 13:01 UTC |
 | [Google Ads Expands AI Content Disclosure Label To More Regions](https://www.seroundtable.com/google-ads-expands-ai-content-label-disclosure-42461.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-05 12:51 UTC |
@@ -30,11 +30,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Gains A New Telemedicine Certification Option](https://www.seroundtable.com/google-ads-telemedicine-certification-42460.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-05 12:05 UTC |
 | [Google Ads Explains Difference With Search Terms Match Type (Keywords)](https://www.seroundtable.com/google-ads-search-terms-match-type-keywords-42463.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-04 22:45 UTC |
 | [Google Emails: Site Reputation Policy Manual Actions No Longer Impact EEA](https://www.seroundtable.com/google-email-site-reputation-policy-eea-42462.html) | Search Engine Roundtable | 170 | GSC | 2026-11-04 21:19 UTC |
-| [Google Search Console Performance Report Multi-Select Device Filters](https://www.seroundtable.com/google-performance-report-multi-select-device-filters-42457.html) | Search Engine Roundtable | 170 | GSC | 2026-11-04 15:01 UTC |
-| [Daily Search Forum Recap: November 4, 2026](https://www.seroundtable.com/recap-11-04-2026-42452.html) | Search Engine Roundtable | 170 | GSC | 2026-11-04 15:00 UTC |
-| [Microsoft Clarity With New Agentic Analytics &amp; Ask Clarity](https://www.seroundtable.com/microsoft-clarity-gains-agentic-analytics-and-ask-clarity-42449.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-04 14:00 UTC |
 | [How to use Google Keyword Planner](https://www.semrush.com/blog/google-keyword-planner/) | Semrush Blog | 130 | Migration | 2026-11-05 10:43 UTC |
-| [How to track ChatGPT visibility: a practical guide](https://www.semrush.com/blog/how-to-track-your-chatgpt-visibility/) | Semrush Blog | 110 | AI Search | 2026-11-04 16:14 UTC |
 
 ## Notes for manual writing
 
