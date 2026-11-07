@@ -28,9 +28,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Bing Search AI Visual Summary Snippet](https://www.seroundtable.com/bing-search-ai-visual-summary-42455.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-06 12:21 UTC |
 | [Google Confirms Issues With Merchant Center, API &amp; Feeds](https://www.seroundtable.com/google-confirms-issues-with-merchant-center-42473.html) | Search Engine Roundtable | 190 | General | 2026-11-06 12:16 UTC |
 | [Google Expands Business Messaging To Google Maps On iOS &amp; Android](https://www.seroundtable.com/google-maps-messaging-android-ios-42472.html) | Search Engine Roundtable | 190 | Local SEO | 2026-11-06 12:11 UTC |
-| [OpenAI Updates ChatGPT Ads Bidding Options For Max Bid or Max CPC](https://www.seroundtable.com/openai-updates-chatgpt-ads-bidding-options-42470.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-05 18:29 UTC |
-| [Daily Search Forum Recap: November 5, 2026](https://www.seroundtable.com/recap-11-05-2026-42466.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-05 15:00 UTC |
-| [Facebook Answers AI-Generated 6 Million Pages Is Google Scaled Content Abuse](https://www.seroundtable.com/facebook-answers-google-42467.html) | Search Engine Roundtable | 170 | Indexing | 2026-11-05 13:01 UTC |
 
 ## Notes for manual writing
 
