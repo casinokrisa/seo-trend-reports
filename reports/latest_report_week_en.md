@@ -1,4 +1,4 @@
-# SEO Weekly Trend Report - 2026-11-06
+# SEO Weekly Trend Report - 2026-11-07
 
 ## Weekly trending posts
 
@@ -12,9 +12,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [OpenAI Working On ChatGPT Tools For Business For Analytics &amp; Citations](https://www.seroundtable.com/chatgpt-tools-for-business-42476.html) | Search Engine Roundtable | 210 | GSC | 2026-11-06 15:32 UTC |
-| [Daily Search Forum Recap: November 6, 2026](https://www.seroundtable.com/recap-11-06-2026-42474.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-06 15:00 UTC |
-| [Search Central Live in Zurich is back!](https://developers.google.com/search/blog/2026/11/search-central-live-zurich-2026) | Google Search Central Blog | 210 | General | 2026-11-04 00:00 UTC |
+| [Search Central Live in Zurich is back!](https://developers.google.com/search/blog/2026/11/search-central-live-zurich-2026) | Google Search Central Blog | 195 | General | 2026-11-04 00:00 UTC |
+| [OpenAI Working On ChatGPT Tools For Business For Analytics &amp; Citations](https://www.seroundtable.com/chatgpt-tools-for-business-42476.html) | Search Engine Roundtable | 190 | GSC | 2026-11-06 15:32 UTC |
+| [Daily Search Forum Recap: November 6, 2026](https://www.seroundtable.com/recap-11-06-2026-42474.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-06 15:00 UTC |
 | [Search News Buzz Video Recap: Google Scaled Content Abuse From Facebook, ChatGPT Search 20% Of Google &amp; More SEO, PPC &amp; Local](https://www.seroundtable.com/video-11-06-2026-42469.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-06 13:01 UTC |
 | [Google Business Profiles Manage Offers Help Document](https://www.seroundtable.com/google-business-profiles-manage-offers-42471.html) | Search Engine Roundtable | 190 | Local SEO | 2026-11-06 12:51 UTC |
 | [Google AI Mode Asking Searchers To Continue With This Search](https://www.seroundtable.com/google-ai-mode-continue-with-this-search-42475.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-06 12:42 UTC |
