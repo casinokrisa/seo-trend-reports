@@ -6,13 +6,29 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [Google yapay zekâ ile yazılan makaleleri gerçekten geri plana mı atıyor?](https://www.reddit.com/r/localseo/comments/1xq3myc/google_yapay_zek%C3%A2_ile_yaz%C4%B1lan_makaleleri/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-07 10:52 UTC |
+| [What is the best arrangement of sections for a landing page for local services?](https://www.reddit.com/r/localseo/comments/1xq178h/what_is_the_best_arrangement_of_sections_for_a/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-07 08:11 UTC |
+| [What if ChatGPT introduces its own Business Profile? Would this change local SEO?](https://www.reddit.com/r/localseo/comments/1xpyswj/what_if_chatgpt_introduces_its_own_business/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-07 05:44 UTC |
+| [Google Maps Ranking Improvements from Prominence Campaign Using YouTube](https://www.reddit.com/r/localseo/comments/1xpnaym/google_maps_ranking_improvements_from_prominence/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-06 20:30 UTC |
+| [I built myself a supercharged GMB everywhere](https://www.reddit.com/r/localseo/comments/1xpi2hl/i_built_myself_a_supercharged_gmb_everywhere/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-06 17:04 UTC |
+| [hit a ceiling trying to rank on local maps solo, how did you decide when to outsource?](https://www.reddit.com/r/localseo/comments/1xp9vm4/hit_a_ceiling_trying_to_rank_on_local_maps_solo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-06 10:49 UTC |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
+| 1 | [Google yapay zekâ ile yazılan makaleleri gerçekten geri plana mı atıyor?](https://www.reddit.com/r/localseo/comments/1xq3myc/google_yapay_zek%C3%A2_ile_yaz%C4%B1lan_makaleleri/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-07 10:52 UTC |
+| 2 | [What is the best arrangement of sections for a landing page for local services?](https://www.reddit.com/r/localseo/comments/1xq178h/what_is_the_best_arrangement_of_sections_for_a/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-07 08:11 UTC |
+| 3 | [What if ChatGPT introduces its own Business Profile? Would this change local SEO?](https://www.reddit.com/r/localseo/comments/1xpyswj/what_if_chatgpt_introduces_its_own_business/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-07 05:44 UTC |
+| 4 | [Google Maps Ranking Improvements from Prominence Campaign Using YouTube](https://www.reddit.com/r/localseo/comments/1xpnaym/google_maps_ranking_improvements_from_prominence/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-06 20:30 UTC |
+| 5 | [I built myself a supercharged GMB everywhere](https://www.reddit.com/r/localseo/comments/1xpi2hl/i_built_myself_a_supercharged_gmb_everywhere/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-06 17:04 UTC |
+| 6 | [hit a ceiling trying to rank on local maps solo, how did you decide when to outsource?](https://www.reddit.com/r/localseo/comments/1xp9vm4/hit_a_ceiling_trying_to_rank_on_local_maps_solo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-06 10:49 UTC |
+| 7 | [How do you decide if a backlink is worth getting for local SEO?](https://www.reddit.com/r/localseo/comments/1xp94bf/how_do_you_decide_if_a_backlink_is_worth_getting/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-06 10:01 UTC |
+| 8 | [I've done on-page, off-page and technical SEO for my local business, but still getting no customers. What am I missing?](https://www.reddit.com/r/localseo/comments/1xp6vvk/ive_done_onpage_offpage_and_technical_seo_for_my/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Technical SEO | 2026-11-06 07:33 UTC |
+| 9 | [Have You Seen the New AI Search Setting in Google Search Console?](https://www.reddit.com/r/localseo/comments/1xp1gfy/have_you_seen_the_new_ai_search_setting_in_google/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | GSC | 2026-11-06 02:28 UTC |
+| 10 | [Keyword stuffed GBP business name](https://www.reddit.com/r/localseo/comments/1xow3zg/keyword_stuffed_gbp_business_name/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-05 22:19 UTC |
+| 11 | [Both Google Business Profile postcard codes rejected — how can I get help verifying?](https://www.reddit.com/r/localseo/comments/1xoppy3/both_google_business_profile_postcard_codes/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-05 18:07 UTC |
+| 12 | [Your last 10 jobs might be more useful for SEO than your next 10 articles.](https://www.reddit.com/r/localseo/comments/1xonibt/your_last_10_jobs_might_be_more_useful_for_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-05 16:44 UTC |
 
 ## Notable items (Sites)
 
