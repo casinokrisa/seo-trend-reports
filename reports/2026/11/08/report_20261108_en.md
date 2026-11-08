@@ -18,8 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [OpenAI Working On ChatGPT Tools For Business For Analytics &amp; Citations](https://www.seroundtable.com/chatgpt-tools-for-business-42476.html) | Search Engine Roundtable | 170 | GSC | 2026-11-06 15:32 UTC |
-| [Daily Search Forum Recap: November 6, 2026](https://www.seroundtable.com/recap-11-06-2026-42474.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-06 15:00 UTC |
+| _No site items in window_ |  |  |  |  |
 
 ## Notes for manual writing
 
