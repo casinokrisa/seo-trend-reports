@@ -6,7 +6,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [How do you do video verification for a home-based business with no office (locksmith, plumber)](https://www.reddit.com/r/localseo/comments/1xqqboh/how_do_you_do_video_verification_for_a_homebased/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-08 05:01 UTC |
+| [Horizontal Linking (Cross linking, Peer Linking)](https://www.reddit.com/r/localseo/comments/1xqkzqz/horizontal_linking_cross_linking_peer_linking/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Links | 2026-11-08 00:15 UTC |
+| [Clinic owner hiring an independent SEO. Remote, part-time, no agencies.](https://www.reddit.com/r/localseo/comments/1xqkx72/clinic_owner_hiring_an_independent_seo_remote/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-08 00:12 UTC |
+| [What do you wish you'd asked before hiring an SEO provider?](https://www.reddit.com/r/localseo/comments/1xqin9x/what_do_you_wish_youd_asked_before_hiring_an_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-07 22:24 UTC |
+| [Need help with a suspended Google Business Profile for a Canadian construction company. Is there a legitimate way to get it reinstated?](https://www.reddit.com/r/localseo/comments/1xqdfip/need_help_with_a_suspended_google_business/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-07 18:34 UTC |
+| [I am facing a major issue in GMB ranking for my new dental clinic client](https://www.reddit.com/r/localseo/comments/1xqbr33/i_am_facing_a_major_issue_in_gmb_ranking_for_my/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-07 17:23 UTC |
+| [Is Prominence Winning People also search for?](https://www.reddit.com/r/localseo/comments/1xqadey/is_prominence_winning_people_also_search_for/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-07 16:26 UTC |
+| [Is anybody else experiencing Google's strange search behavior while performing NORMAL SEARCH?](https://www.reddit.com/r/localseo/comments/1xqa9gm/is_anybody_else_experiencing_googles_strange/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-07 16:21 UTC |
+| [Is Local SEO Becoming More Intertwined with Social Media?](https://www.reddit.com/r/localseo/comments/1xq8t8h/is_local_seo_becoming_more_intertwined_with/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-07 15:19 UTC |
+| [Google yapay zekâ ile yazılan makaleleri gerçekten geri plana mı atıyor?](https://www.reddit.com/r/localseo/comments/1xq3myc/google_yapay_zek%C3%A2_ile_yaz%C4%B1lan_makaleleri/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-07 10:52 UTC |
+| [What is the best arrangement of sections for a landing page for local services?](https://www.reddit.com/r/localseo/comments/1xq178h/what_is_the_best_arrangement_of_sections_for_a/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-07 08:11 UTC |
+| [What if ChatGPT introduces its own Business Profile? Would this change local SEO?](https://www.reddit.com/r/localseo/comments/1xpyswj/what_if_chatgpt_introduces_its_own_business/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-07 05:44 UTC |
 
 ## Weekly notable items (Sites)
 
@@ -28,11 +39,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Facebook Answers AI-Generated 6 Million Pages Is Google Scaled Content Abuse](https://www.seroundtable.com/facebook-answers-google-42467.html) | Search Engine Roundtable | 170 | Indexing | 2026-11-05 13:01 UTC |
 | [Google Ads Expands AI Content Disclosure Label To More Regions](https://www.seroundtable.com/google-ads-expands-ai-content-label-disclosure-42461.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-05 12:51 UTC |
 | [Google Ads PMax Channel Report Definitions Coming To Search &amp; Shopping](https://www.seroundtable.com/google-ads-pmax-channel-report-search-42454.html) | Search Engine Roundtable | 170 | General | 2026-11-05 12:41 UTC |
-| [How to use Google Keyword Planner](https://www.semrush.com/blog/google-keyword-planner/) | Semrush Blog | 110 | Migration | 2026-11-05 10:43 UTC |
 | [Every OpenAI Publisher Partnership, and How Often ChatGPT Cites Them](https://ahrefs.com/blog/openai-publisher-partnerships/) | Ahrefs Blog | 105 | Links | 2026-11-03 17:03 UTC |
 | [The 25 Best AEO/GEO Experts to Follow in 2026](https://ahrefs.com/blog/aeo-geo-experts/) | Ahrefs Blog | 105 | AI Search | 2026-11-03 15:19 UTC |
 | [Which Types of Mentions Correlate the Strongest With AI Visibility? (260M AI Prompts Analyzed)](https://ahrefs.com/blog/mention-types-ai-visibility/) | Ahrefs Blog | 105 | Links | 2026-11-03 11:52 UTC |
 | [10 Clearscope Alternatives (Compared on Price, API, and MCP Access)](https://ahrefs.com/blog/clearscope-alternatives/) | Ahrefs Blog | 105 | AI Search | 2026-11-03 11:40 UTC |
+| [How to use Google Keyword Planner](https://www.semrush.com/blog/google-keyword-planner/) | Semrush Blog | 95 | Migration | 2026-11-05 10:43 UTC |
 | [How to track ChatGPT visibility: a practical guide](https://www.semrush.com/blog/how-to-track-your-chatgpt-visibility/) | Semrush Blog | 95 | AI Search | 2026-11-04 16:14 UTC |
 | [WebMCP: What it is, why it matters, and what to do now](https://www.semrush.com/blog/webmcp/) | Semrush Blog | 95 | AI Search | 2026-11-04 10:56 UTC |
 | [How to optimize for ChatGPT shopping](https://www.semrush.com/blog/optimize-for-chatgpt-shopping/) | Semrush Blog | 95 | AI Search | 2026-11-04 10:36 UTC |
