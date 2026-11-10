@@ -1,4 +1,4 @@
-# SEO Weekly Trend Report - 2026-11-09
+# SEO Weekly Trend Report - 2026-11-10
 
 ## Weekly trending posts
 
@@ -12,11 +12,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Added &quot;things to do&quot; query support to the aggregator and supplier units](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 220 | Migration | 2026-11-09 00:00 UTC |
-| [Daily Search Forum Recap: November 9, 2026](https://www.seroundtable.com/recap-11-09-2026-42485.html) | Search Engine Roundtable | 210 | GSC | 2026-11-09 15:00 UTC |
-| [Google Search Ranking Volatility Status: Update November 8th/9th?](https://www.seroundtable.com/google-search-ranking-volatility-november-9th-42486.html) | Search Engine Roundtable | 210 | General | 2026-11-09 12:55 UTC |
-| [Google AI Mode Multiturn Ads Are Live - Follow-Up Query Ads](https://www.seroundtable.com/google-ai-mode-multiturn-ads-42478.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-09 12:51 UTC |
+| [Added &quot;things to do&quot; query support to the aggregator and supplier units](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Migration | 2026-11-09 00:00 UTC |
 | [Search Central Live in Zurich is back!](https://developers.google.com/search/blog/2026/11/search-central-live-zurich-2026) | Google Search Central Blog | 195 | General | 2026-11-04 00:00 UTC |
+| [Daily Search Forum Recap: November 9, 2026](https://www.seroundtable.com/recap-11-09-2026-42485.html) | Search Engine Roundtable | 190 | GSC | 2026-11-09 15:00 UTC |
+| [Google Search Ranking Volatility Status: Update November 8th/9th?](https://www.seroundtable.com/google-search-ranking-volatility-november-9th-42486.html) | Search Engine Roundtable | 190 | General | 2026-11-09 12:55 UTC |
+| [Google AI Mode Multiturn Ads Are Live - Follow-Up Query Ads](https://www.seroundtable.com/google-ai-mode-multiturn-ads-42478.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-09 12:51 UTC |
 | [Google Adding Booking Links To Business Profiles Automatically?](https://www.seroundtable.com/google-business-profiles-adding-booking-links-42477.html) | Search Engine Roundtable | 190 | Links | 2026-11-09 12:41 UTC |
 | [Bing Ads At Top Of AI Mode Results](https://www.seroundtable.com/bing-ads-top-ai-mode-results-42479.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-09 12:31 UTC |
 | [Google Ads AI-Generated Summaries Above &amp; Within Ads](https://www.seroundtable.com/google-ads-ai-generated-summaries-42482.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-09 12:21 UTC |
@@ -29,8 +29,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Business Profiles Manage Offers Help Document](https://www.seroundtable.com/google-business-profiles-manage-offers-42471.html) | Search Engine Roundtable | 155 | Local SEO | 2026-11-06 12:51 UTC |
 | [Google AI Mode Asking Searchers To Continue With This Search](https://www.seroundtable.com/google-ai-mode-continue-with-this-search-42475.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-06 12:42 UTC |
 | [Google Shopping Dominating The European Product Search Results](https://www.seroundtable.com/google-shopping-eu-dma-42456.html) | Search Engine Roundtable | 155 | General | 2026-11-06 12:41 UTC |
-| [The future of SEO: Where search is heading in 2027](https://www.semrush.com/blog/future-of-seo/) | Semrush Blog | 150 | AI Search | 2026-11-09 14:24 UTC |
-| [Social media competitor analysis [+ free template]](https://www.semrush.com/blog/social-media-competitor-analysis/) | Semrush Blog | 150 | Content | 2026-11-09 13:49 UTC |
+| [The future of SEO: Where search is heading in 2027](https://www.semrush.com/blog/future-of-seo/) | Semrush Blog | 130 | AI Search | 2026-11-09 14:24 UTC |
+| [Social media competitor analysis [+ free template]](https://www.semrush.com/blog/social-media-competitor-analysis/) | Semrush Blog | 130 | Content | 2026-11-09 13:49 UTC |
 | [Every OpenAI Publisher Partnership, and How Often ChatGPT Cites Them](https://ahrefs.com/blog/openai-publisher-partnerships/) | Ahrefs Blog | 105 | Links | 2026-11-03 17:03 UTC |
 | [The 25 Best AEO/GEO Experts to Follow in 2026](https://ahrefs.com/blog/aeo-geo-experts/) | Ahrefs Blog | 105 | AI Search | 2026-11-03 15:19 UTC |
 | [Which Types of Mentions Correlate the Strongest With AI Visibility? (260M AI Prompts Analyzed)](https://ahrefs.com/blog/mention-types-ai-visibility/) | Ahrefs Blog | 105 | Links | 2026-11-03 11:52 UTC |
