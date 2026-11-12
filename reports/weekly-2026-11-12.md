@@ -12,8 +12,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Placing Source Icons At Bottom Of AI Overviews](https://www.seroundtable.com/google-ai-overview-source-icons-bottom-42519.html) | Search Engine Roundtable | 210 | GSC | 2026-11-12 01:15 UTC |
 | [Moving to a CDN without overwhelming your origin (or blocking Googlebot)](https://developers.google.com/search/blog/2026/11/crawling-cdn) | Google Search Central Blog | 210 | Content | 2026-11-11 00:00 UTC |
+| [Google Placing Source Icons At Bottom Of AI Overviews](https://www.seroundtable.com/google-ai-overview-source-icons-bottom-42519.html) | Search Engine Roundtable | 190 | GSC | 2026-11-12 01:15 UTC |
 | [Google Ads API Version 26.2 Now Out Available](https://www.seroundtable.com/google-ads-api-version-262-42517.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-11 20:45 UTC |
 | [Google Search AI Overview Definitions Expanded By Default](https://www.seroundtable.com/google-expanding-definitions-42514.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-11 19:51 UTC |
 | [Google: How Moving to a CDN Can Accidentally Overwhelm Your Website](https://www.seroundtable.com/google-search-cdn-42511.html) | Search Engine Roundtable | 190 | Indexing | 2026-11-11 15:55 UTC |
@@ -37,7 +37,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [How to use AI for competitive intelligence (10 prompts to try)](https://www.semrush.com/blog/ai-in-competitive-intelligence/) | Semrush Blog | 110 | AI Search | 2026-11-10 12:38 UTC |
 | [The future of SEO: Where search is heading in 2027](https://www.semrush.com/blog/future-of-seo/) | Semrush Blog | 110 | AI Search | 2026-11-09 14:24 UTC |
 | [Social media competitor analysis [+ free template]](https://www.semrush.com/blog/social-media-competitor-analysis/) | Semrush Blog | 110 | Content | 2026-11-09 13:49 UTC |
-| [How to use Google Keyword Planner](https://www.semrush.com/blog/google-keyword-planner/) | Semrush Blog | 95 | Migration | 2026-11-05 10:43 UTC |
 
 ## Notes
 
