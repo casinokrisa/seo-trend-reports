@@ -1,4 +1,4 @@
-# Reddit SEO Trend Report - 2026-11-13
+# Reddit SEO Trend Report - 2026-11-14
 
 ## Today's Trending Posts
 
@@ -18,8 +18,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Tests Dropping AI Mode From Search Bar &amp; Ask Anything](https://www.seroundtable.com/google-dropping-ai-mode-again-42534.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-13 19:45 UTC |
-| [Microsoft 365 Outage Impact On Microsoft Advertising](https://www.seroundtable.com/microsoft-365-outages-microsoft-ads-42533.html) | Search Engine Roundtable | 210 | General | 2026-11-13 19:29 UTC |
+| [Google Tests Dropping AI Mode From Search Bar &amp; Ask Anything](https://www.seroundtable.com/google-dropping-ai-mode-again-42534.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-13 19:45 UTC |
+| [Microsoft 365 Outage Impact On Microsoft Advertising](https://www.seroundtable.com/microsoft-365-outages-microsoft-ads-42533.html) | Search Engine Roundtable | 190 | General | 2026-11-13 19:29 UTC |
 | [Daily Search Forum Recap: November 13, 2026](https://www.seroundtable.com/recap-11-13-2026-42531.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-13 15:00 UTC |
 | [Search News Buzz Video Recap: Google November Core Update Is Here, ChatGPT Business Hub Gives Us Clicks, Yahoo Pivot Search &amp; Google Ads Invalid Traffic](https://www.seroundtable.com/video-11-13-2026-42523.html) | Search Engine Roundtable | 190 | GSC | 2026-11-13 13:01 UTC |
 | [Yahoo Scout To Pay Publishers Through The ILC For Using Content In AI Answers](https://www.seroundtable.com/ilc-yahoo-42528.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-13 12:51 UTC |
@@ -32,10 +32,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Search Gets Massive Upgrade With Gemini 4 Hydrogen](https://www.seroundtable.com/google-search-gemini-4-hydrogen-42526.html) | Search Engine Roundtable | 170 | Links | 2026-11-12 18:20 UTC |
 | [New Google Help Doc Explains How To Identifying Traffic From Google Search](https://www.seroundtable.com/identify-traffic-from-google-search-42525.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-12 17:08 UTC |
 | [OpenAI ChatGPT Ads Updates: Intelligent Bidding, New Cost Targets, Geo-Flexibility &amp; Product Set Filters](https://www.seroundtable.com/openai-chatgpt-ads-updates-42524.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-12 16:38 UTC |
-| [Daily Search Forum Recap: November 12, 2026](https://www.seroundtable.com/recap-11-12-2026-42521.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-12 15:00 UTC |
 | [What is a pillar page &amp; how to create one (+ examples)](https://www.semrush.com/blog/pillar-page/) | Semrush Blog | 130 | Migration | 2026-11-13 14:40 UTC |
 | [How to do an SEO competitor analysis with the Semrush MCP](https://www.semrush.com/blog/competitor-analysis-semrush-mcp/) | Semrush Blog | 130 | Links | 2026-11-13 12:24 UTC |
-| [AI traffic quality: Look past the industry benchmarks and measure ROI](https://www.semrush.com/blog/ai-traffic-quality/) | Semrush Blog | 110 | AI Search | 2026-11-12 11:21 UTC |
 
 ## Notes for manual writing
 

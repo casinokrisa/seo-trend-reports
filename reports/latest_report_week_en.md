@@ -1,4 +1,4 @@
-# SEO Weekly Trend Report - 2026-11-13
+# SEO Weekly Trend Report - 2026-11-14
 
 ## Weekly trending posts
 
@@ -12,10 +12,10 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Tests Dropping AI Mode From Search Bar &amp; Ask Anything](https://www.seroundtable.com/google-dropping-ai-mode-again-42534.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-13 19:45 UTC |
-| [Microsoft 365 Outage Impact On Microsoft Advertising](https://www.seroundtable.com/microsoft-365-outages-microsoft-ads-42533.html) | Search Engine Roundtable | 210 | General | 2026-11-13 19:29 UTC |
-| [Moving to a CDN without overwhelming your origin (or blocking Googlebot)](https://developers.google.com/search/blog/2026/11/crawling-cdn) | Google Search Central Blog | 210 | Content | 2026-11-11 00:00 UTC |
 | [Added documentation on identifying traffic from Google Search](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Migration | 2026-11-12 00:00 UTC |
+| [Moving to a CDN without overwhelming your origin (or blocking Googlebot)](https://developers.google.com/search/blog/2026/11/crawling-cdn) | Google Search Central Blog | 195 | Content | 2026-11-11 00:00 UTC |
+| [Google Tests Dropping AI Mode From Search Bar &amp; Ask Anything](https://www.seroundtable.com/google-dropping-ai-mode-again-42534.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-13 19:45 UTC |
+| [Microsoft 365 Outage Impact On Microsoft Advertising](https://www.seroundtable.com/microsoft-365-outages-microsoft-ads-42533.html) | Search Engine Roundtable | 190 | General | 2026-11-13 19:29 UTC |
 | [Daily Search Forum Recap: November 13, 2026](https://www.seroundtable.com/recap-11-13-2026-42531.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-13 15:00 UTC |
 | [Search News Buzz Video Recap: Google November Core Update Is Here, ChatGPT Business Hub Gives Us Clicks, Yahoo Pivot Search &amp; Google Ads Invalid Traffic](https://www.seroundtable.com/video-11-13-2026-42523.html) | Search Engine Roundtable | 190 | GSC | 2026-11-13 13:01 UTC |
 | [Yahoo Scout To Pay Publishers Through The ILC For Using Content In AI Answers](https://www.seroundtable.com/ilc-yahoo-42528.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-13 12:51 UTC |
