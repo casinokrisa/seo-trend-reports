@@ -6,7 +6,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [How do you deal with competitors openly breaking GBP guidelines (keyword stuffing, fake 24/7 hours, duplicates)?](https://www.reddit.com/r/localseo/comments/1xw0bfh/how_do_you_deal_with_competitors_openly_breaking/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-14 11:36 UTC |
+| [Local AI SEO Company](https://www.reddit.com/r/localseo/comments/1xvr0mt/local_ai_seo_company/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-11-14 02:33 UTC |
+| [GBP Profile Problem](https://www.reddit.com/r/localseo/comments/1xvl6if/gbp_profile_problem/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-13 22:03 UTC |
+| [Grid Map + Value Inside a Pin](https://www.reddit.com/r/localseo/comments/1xvj8il/grid_map_value_inside_a_pin/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-13 20:46 UTC |
+| [Experimenting with a single-map view of local grid progress (Orthodontist)](https://www.reddit.com/r/localseo/comments/1xviy4e/experimenting_with_a_singlemap_view_of_local_grid/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-13 20:35 UTC |
+| [Geo-Semantic Enclosure Theory of Local SEO](https://www.reddit.com/r/localseo/comments/1xvikpg/geosemantic_enclosure_theory_of_local_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-13 20:20 UTC |
+| [Do Google Maps photo views affect local rankings? Is there any evidence?](https://www.reddit.com/r/localseo/comments/1xv5szx/do_google_maps_photo_views_affect_local_rankings/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-13 11:48 UTC |
+| [Service area business with hidden address on GBP, but directories show my home address. Hurting rankings?](https://www.reddit.com/r/localseo/comments/1xuy31u/service_area_business_with_hidden_address_on_gbp/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-13 04:11 UTC |
+| [How to start charging more](https://www.reddit.com/r/localseo/comments/1xuuxl6/how_to_start_charging_more/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-13 01:35 UTC |
+| [Signpost AI bought/ is Surefire Local- UPDATE](https://www.reddit.com/r/localseo/comments/1xujy1f/signpost_ai_bought_is_surefire_local_update/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-11-12 18:06 UTC |
+| [¿Cómo recomiendan reportar SEO para resultado de AI?](https://www.reddit.com/r/localseo/comments/1xuib3z/c%C3%B3mo_recomiendan_reportar_seo_para_resultado_de_ai/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-11-12 17:06 UTC |
+| [What makes you trust or lose trust in a local SEO agency?](https://www.reddit.com/r/localseo/comments/1xuetgb/what_makes_you_trust_or_lose_trust_in_a_local_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-12 14:54 UTC |
 
 ## Weekly notable items (Sites)
 
@@ -33,8 +44,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [How to do an SEO competitor analysis with the Semrush MCP](https://www.semrush.com/blog/competitor-analysis-semrush-mcp/) | Semrush Blog | 130 | Links | 2026-11-13 12:24 UTC |
 | [The 100 Most Mentioned Brands in ChatGPT (November 2026)](https://ahrefs.com/blog/most-mentioned-brands-chatgpt/) | Ahrefs Blog | 120 | AI Search | 2026-11-11 13:13 UTC |
 | [AI traffic quality: Look past the industry benchmarks and measure ROI](https://www.semrush.com/blog/ai-traffic-quality/) | Semrush Blog | 110 | AI Search | 2026-11-12 11:21 UTC |
-| [How to use Semrush with Google Search Console](https://www.semrush.com/blog/semrush-google-search-console/) | Semrush Blog | 110 | GSC | 2026-11-11 11:40 UTC |
 | [Where Does ChatGPT Get Its Information? 4 Sources, Explained](https://ahrefs.com/blog/where-does-chatgpt-get-its-information/) | Ahrefs Blog | 105 | AI Search | 2026-11-10 16:22 UTC |
+| [How to use Semrush with Google Search Console](https://www.semrush.com/blog/semrush-google-search-console/) | Semrush Blog | 95 | GSC | 2026-11-11 11:40 UTC |
 | [Semrush vs. Ahrefs: Which is right for your team?](https://www.semrush.com/blog/semrush-vs-ahrefs/) | Semrush Blog | 95 | Links | 2026-11-10 13:12 UTC |
 | [Prompt tracking methodology to measure AI visibility](https://www.semrush.com/blog/ai-prompt-tracking-methodology/) | Semrush Blog | 95 | GSC | 2026-11-10 12:59 UTC |
 | [How to use AI for competitive intelligence (10 prompts to try)](https://www.semrush.com/blog/ai-in-competitive-intelligence/) | Semrush Blog | 95 | AI Search | 2026-11-10 12:38 UTC |

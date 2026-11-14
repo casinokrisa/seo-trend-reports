@@ -6,13 +6,29 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [How do you deal with competitors openly breaking GBP guidelines (keyword stuffing, fake 24/7 hours, duplicates)?](https://www.reddit.com/r/localseo/comments/1xw0bfh/how_do_you_deal_with_competitors_openly_breaking/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-14 11:36 UTC |
+| [Local AI SEO Company](https://www.reddit.com/r/localseo/comments/1xvr0mt/local_ai_seo_company/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-11-14 02:33 UTC |
+| [GBP Profile Problem](https://www.reddit.com/r/localseo/comments/1xvl6if/gbp_profile_problem/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-13 22:03 UTC |
+| [Grid Map + Value Inside a Pin](https://www.reddit.com/r/localseo/comments/1xvj8il/grid_map_value_inside_a_pin/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-13 20:46 UTC |
+| [Experimenting with a single-map view of local grid progress (Orthodontist)](https://www.reddit.com/r/localseo/comments/1xviy4e/experimenting_with_a_singlemap_view_of_local_grid/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-13 20:35 UTC |
+| [Geo-Semantic Enclosure Theory of Local SEO](https://www.reddit.com/r/localseo/comments/1xvikpg/geosemantic_enclosure_theory_of_local_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-13 20:20 UTC |
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---:|---|---|---:|---:|---|---:|
-|  | _No Reddit items matched thresholds_ |  |  |  |  |  |
+| 1 | [How do you deal with competitors openly breaking GBP guidelines (keyword stuffing, fake 24/7 hours, duplicates)?](https://www.reddit.com/r/localseo/comments/1xw0bfh/how_do_you_deal_with_competitors_openly_breaking/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-14 11:36 UTC |
+| 2 | [Local AI SEO Company](https://www.reddit.com/r/localseo/comments/1xvr0mt/local_ai_seo_company/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-11-14 02:33 UTC |
+| 3 | [GBP Profile Problem](https://www.reddit.com/r/localseo/comments/1xvl6if/gbp_profile_problem/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-13 22:03 UTC |
+| 4 | [Grid Map + Value Inside a Pin](https://www.reddit.com/r/localseo/comments/1xvj8il/grid_map_value_inside_a_pin/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-13 20:46 UTC |
+| 5 | [Experimenting with a single-map view of local grid progress (Orthodontist)](https://www.reddit.com/r/localseo/comments/1xviy4e/experimenting_with_a_singlemap_view_of_local_grid/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-13 20:35 UTC |
+| 6 | [Geo-Semantic Enclosure Theory of Local SEO](https://www.reddit.com/r/localseo/comments/1xvikpg/geosemantic_enclosure_theory_of_local_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-13 20:20 UTC |
+| 7 | [Do Google Maps photo views affect local rankings? Is there any evidence?](https://www.reddit.com/r/localseo/comments/1xv5szx/do_google_maps_photo_views_affect_local_rankings/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-13 11:48 UTC |
+| 8 | [Service area business with hidden address on GBP, but directories show my home address. Hurting rankings?](https://www.reddit.com/r/localseo/comments/1xuy31u/service_area_business_with_hidden_address_on_gbp/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-13 04:11 UTC |
+| 9 | [How to start charging more](https://www.reddit.com/r/localseo/comments/1xuuxl6/how_to_start_charging_more/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-13 01:35 UTC |
+| 10 | [Signpost AI bought/ is Surefire Local- UPDATE](https://www.reddit.com/r/localseo/comments/1xujy1f/signpost_ai_bought_is_surefire_local_update/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-11-12 18:06 UTC |
+| 11 | [¿Cómo recomiendan reportar SEO para resultado de AI?](https://www.reddit.com/r/localseo/comments/1xuib3z/c%C3%B3mo_recomiendan_reportar_seo_para_resultado_de_ai/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-11-12 17:06 UTC |
+| 12 | [What makes you trust or lose trust in a local SEO agency?](https://www.reddit.com/r/localseo/comments/1xuetgb/what_makes_you_trust_or_lose_trust_in_a_local_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-12 14:54 UTC |
 
 ## Notable items (Sites)
 
