@@ -28,10 +28,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Merchant Center Deal Ends Annotation No Longer Experimental](https://www.seroundtable.com/google-merchant-center-deal-ends-annotation-removes-experimental-42522.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-13 12:31 UTC |
 | [Google Ads Updates Conversion Lift Set Up Documentation](https://www.seroundtable.com/google-ads-conversion-lift-set-up-doc-update-42530.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-13 12:21 UTC |
 | [Google Shopping Section Named Highlighted On The Web](https://www.seroundtable.com/google-shopping-highlighted-on-the-web-42376.html) | Search Engine Roundtable | 190 | General | 2026-11-13 12:11 UTC |
-| [Google Search Console Generative AI Performance Report Data Bug Nov 9 - 11](https://www.seroundtable.com/google-generative-ai-performance-report-data-bug-42527.html) | Search Engine Roundtable | 170 | GSC | 2026-11-12 19:55 UTC |
-| [Google Search Gets Massive Upgrade With Gemini 4 Hydrogen](https://www.seroundtable.com/google-search-gemini-4-hydrogen-42526.html) | Search Engine Roundtable | 170 | Links | 2026-11-12 18:20 UTC |
-| [New Google Help Doc Explains How To Identifying Traffic From Google Search](https://www.seroundtable.com/identify-traffic-from-google-search-42525.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-12 17:08 UTC |
-| [OpenAI ChatGPT Ads Updates: Intelligent Bidding, New Cost Targets, Geo-Flexibility &amp; Product Set Filters](https://www.seroundtable.com/openai-chatgpt-ads-updates-42524.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-12 16:38 UTC |
 | [What is a pillar page &amp; how to create one (+ examples)](https://www.semrush.com/blog/pillar-page/) | Semrush Blog | 130 | Migration | 2026-11-13 14:40 UTC |
 | [How to do an SEO competitor analysis with the Semrush MCP](https://www.semrush.com/blog/competitor-analysis-semrush-mcp/) | Semrush Blog | 130 | Links | 2026-11-13 12:24 UTC |
 
