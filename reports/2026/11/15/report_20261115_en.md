@@ -18,10 +18,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Tests Dropping AI Mode From Search Bar &amp; Ask Anything](https://www.seroundtable.com/google-dropping-ai-mode-again-42534.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-13 19:45 UTC |
-| [Microsoft 365 Outage Impact On Microsoft Advertising](https://www.seroundtable.com/microsoft-365-outages-microsoft-ads-42533.html) | Search Engine Roundtable | 170 | General | 2026-11-13 19:29 UTC |
-| [Daily Search Forum Recap: November 13, 2026](https://www.seroundtable.com/recap-11-13-2026-42531.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-13 15:00 UTC |
-| [What is a pillar page &amp; how to create one (+ examples)](https://www.semrush.com/blog/pillar-page/) | Semrush Blog | 110 | Migration | 2026-11-13 14:40 UTC |
+| _No site items in window_ |  |  |  |  |
 
 ## Notes for manual writing
 
