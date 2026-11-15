@@ -1,4 +1,4 @@
-# SEO Weekly Trend Report - 2026-11-14
+# SEO Weekly Trend Report - 2026-11-15
 
 ## Weekly trending posts
 
@@ -12,8 +12,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Added documentation on identifying traffic from Google Search](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Migration | 2026-11-12 00:00 UTC |
 | [Moving to a CDN without overwhelming your origin (or blocking Googlebot)](https://developers.google.com/search/blog/2026/11/crawling-cdn) | Google Search Central Blog | 195 | Content | 2026-11-11 00:00 UTC |
+| [Added documentation on identifying traffic from Google Search](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Migration | 2026-11-12 00:00 UTC |
 | [Google Tests Dropping AI Mode From Search Bar &amp; Ask Anything](https://www.seroundtable.com/google-dropping-ai-mode-again-42534.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-13 19:45 UTC |
 | [Microsoft 365 Outage Impact On Microsoft Advertising](https://www.seroundtable.com/microsoft-365-outages-microsoft-ads-42533.html) | Search Engine Roundtable | 170 | General | 2026-11-13 19:29 UTC |
 | [Daily Search Forum Recap: November 13, 2026](https://www.seroundtable.com/recap-11-13-2026-42531.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-13 15:00 UTC |
