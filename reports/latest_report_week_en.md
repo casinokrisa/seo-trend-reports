@@ -6,52 +6,41 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| [BrightLocal Alternative that does the fixes, not just the reports?](https://www.reddit.com/r/localseo/comments/1xxki7v/brightlocal_alternative_that_does_the_fixes_not/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-16 08:50 UTC |
-| [For service-area businesses that don't have a physical storefront, what's working best for ranking in multiple cities without creating separate GBP listings?](https://www.reddit.com/r/localseo/comments/1xxhckt/for_servicearea_businesses_that_dont_have_a/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-16 05:35 UTC |
-| [Track Every Call and Form Submission from Your Website. what is your thourght ?](https://www.reddit.com/r/localseo/comments/1xwtkgi/track_every_call_and_form_submission_from_your/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-15 11:49 UTC |
-| [Your e-commerce store ranks on Google. But would ChatGPT actually recommend it?](https://www.reddit.com/r/localseo/comments/1xwkhml/your_ecommerce_store_ranks_on_google_but_would/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-11-15 02:50 UTC |
-| [10 blogs targeting Tricity keywords on a new site, no products listed yet. What am I missing?](https://www.reddit.com/r/localseo/comments/1xwesnl/10_blogs_targeting_tricity_keywords_on_a_new_site/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-14 22:12 UTC |
-| [Is Local SEO Software is Dead?](https://www.reddit.com/r/localseo/comments/1xw5w8x/is_local_seo_software_is_dead/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-14 16:01 UTC |
-| [A free keyword research strategy for local business owners...](https://www.reddit.com/r/localseo/comments/1xw1wmp/a_free_keyword_research_strategy_for_local/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-14 13:02 UTC |
-| [Believe it or not....](https://www.reddit.com/r/localseo/comments/1xw1f64/believe_it_or_not/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-14 12:38 UTC |
-| [How do you deal with competitors openly breaking GBP guidelines (keyword stuffing, fake 24/7 hours, duplicates)?](https://www.reddit.com/r/localseo/comments/1xw0bfh/how_do_you_deal_with_competitors_openly_breaking/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-14 11:36 UTC |
-| [GBP Profile Problem](https://www.reddit.com/r/localseo/comments/1xvl6if/gbp_profile_problem/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-13 22:03 UTC |
-| [Grid Map + Value Inside a Pin](https://www.reddit.com/r/localseo/comments/1xvj8il/grid_map_value_inside_a_pin/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-13 20:46 UTC |
-| [Experimenting with a single-map view of local grid progress (Orthodontist)](https://www.reddit.com/r/localseo/comments/1xviy4e/experimenting_with_a_singlemap_view_of_local_grid/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-13 20:35 UTC |
+| _No Reddit items matched thresholds_ |  |  |  |  |  |
 
 ## Weekly notable items (Sites)
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [ChatGPT Tests Web Results, See More &amp; Other Search Results Formats](https://www.seroundtable.com/chatgpt-search-result-tests-42537.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-16 12:41 UTC |
-| [OpenAI ChatGPT Business Agent - First Look](https://www.seroundtable.com/openai-chatgpt-business-agent-42536.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-16 12:31 UTC |
-| [Google AI Mode Start Temporary Thread](https://www.seroundtable.com/google-ai-mode-temporary-thread-42539.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-16 12:21 UTC |
-| [Bing Tests Web Mode Tab To Show Only Web Page Results](https://www.seroundtable.com/bing-web-mode-42535.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-16 12:11 UTC |
+| [New filtering and reporting capabilities in the Search Analytics API](https://developers.google.com/search/blog/2026/11/search-analytics-api-update) | Google Search Central Blog | 230 | GSC | 2026-11-16 00:00 UTC |
+| [Daily Search Forum Recap: November 16, 2026](https://www.seroundtable.com/recap-11-16-2026-42541.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-16 15:00 UTC |
+| [Google Search Analytics API Adds Branded Queries, Multimodal &amp; Country/Devices Filters](https://www.seroundtable.com/google-search-analytics-api-addition-42544.html) | Search Engine Roundtable | 210 | GSC | 2026-11-16 14:40 UTC |
 | [Moving to a CDN without overwhelming your origin (or blocking Googlebot)](https://developers.google.com/search/blog/2026/11/crawling-cdn) | Google Search Central Blog | 195 | Content | 2026-11-11 00:00 UTC |
+| [Google November 2026 Core Update Ranking Flux - What We're Seeing](https://www.seroundtable.com/google-november-2026-core-update-ranking-volatility-42543.html) | Search Engine Roundtable | 190 | General | 2026-11-16 12:55 UTC |
+| [Google AI Mode Drops Gemini Label &amp; Rolls Out Gemini 4 Carbon To Pro Subs](https://www.seroundtable.com/google-ai-mode-drops-gemini-label-42540.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-16 12:51 UTC |
+| [ChatGPT Tests Web Results, See More &amp; Other Search Results Formats](https://www.seroundtable.com/chatgpt-search-result-tests-42537.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-16 12:41 UTC |
+| [OpenAI ChatGPT Business Agent - First Look](https://www.seroundtable.com/openai-chatgpt-business-agent-42536.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-16 12:31 UTC |
+| [Google AI Mode Start Temporary Thread](https://www.seroundtable.com/google-ai-mode-temporary-thread-42539.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-16 12:21 UTC |
+| [Bing Tests Web Mode Tab To Show Only Web Page Results](https://www.seroundtable.com/bing-web-mode-42535.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-16 12:11 UTC |
 | [Added documentation on identifying traffic from Google Search](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Migration | 2026-11-12 00:00 UTC |
-| [Google Tests Dropping AI Mode From Search Bar &amp; Ask Anything](https://www.seroundtable.com/google-dropping-ai-mode-again-42534.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-13 19:45 UTC |
-| [Microsoft 365 Outage Impact On Microsoft Advertising](https://www.seroundtable.com/microsoft-365-outages-microsoft-ads-42533.html) | Search Engine Roundtable | 170 | General | 2026-11-13 19:29 UTC |
-| [Daily Search Forum Recap: November 13, 2026](https://www.seroundtable.com/recap-11-13-2026-42531.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-13 15:00 UTC |
-| [8 AI Rank Tracking Tools to Try in 2027 (Cost per Prompt, Key Features)](https://ahrefs.com/blog/ai-rank-tracking/) | Ahrefs Blog | 160 | AI Search | 2026-11-16 11:49 UTC |
+| [Google Tests Dropping AI Mode From Search Bar &amp; Ask Anything](https://www.seroundtable.com/google-dropping-ai-mode-again-42534.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-13 19:45 UTC |
+| [Microsoft 365 Outage Impact On Microsoft Advertising](https://www.seroundtable.com/microsoft-365-outages-microsoft-ads-42533.html) | Search Engine Roundtable | 155 | General | 2026-11-13 19:29 UTC |
+| [Daily Search Forum Recap: November 13, 2026](https://www.seroundtable.com/recap-11-13-2026-42531.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-13 15:00 UTC |
 | [Search News Buzz Video Recap: Google November Core Update Is Here, ChatGPT Business Hub Gives Us Clicks, Yahoo Pivot Search &amp; Google Ads Invalid Traffic](https://www.seroundtable.com/video-11-13-2026-42523.html) | Search Engine Roundtable | 155 | GSC | 2026-11-13 13:01 UTC |
 | [Yahoo Scout To Pay Publishers Through The ILC For Using Content In AI Answers](https://www.seroundtable.com/ilc-yahoo-42528.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-13 12:51 UTC |
 | [Google AI Overviews AI-Generated Images Have Returned For Some](https://www.seroundtable.com/google-ai-overviews-ai-generated-images-back-42532.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-13 12:42 UTC |
 | [Google Merchant Center Promotions Titles Now Disallows Redemption Dates](https://www.seroundtable.com/google-merchant-center-promotions-titles-date-42488.html) | Search Engine Roundtable | 155 | Content | 2026-11-13 12:41 UTC |
-| [Google Merchant Center Deal Ends Annotation No Longer Experimental](https://www.seroundtable.com/google-merchant-center-deal-ends-annotation-removes-experimental-42522.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-13 12:31 UTC |
-| [Google Ads Updates Conversion Lift Set Up Documentation](https://www.seroundtable.com/google-ads-conversion-lift-set-up-doc-update-42530.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-13 12:21 UTC |
-| [Google Shopping Section Named Highlighted On The Web](https://www.seroundtable.com/google-shopping-highlighted-on-the-web-42376.html) | Search Engine Roundtable | 155 | General | 2026-11-13 12:11 UTC |
-| [Google Search Console Generative AI Performance Report Data Bug Nov 9 - 11](https://www.seroundtable.com/google-generative-ai-performance-report-data-bug-42527.html) | Search Engine Roundtable | 155 | GSC | 2026-11-12 19:55 UTC |
-| [What is a pillar page &amp; how to create one (+ examples)](https://www.semrush.com/blog/pillar-page/) | Semrush Blog | 110 | Migration | 2026-11-13 14:40 UTC |
+| [8 AI Rank Tracking Tools to Try in 2027 (Cost per Prompt, Key Features)](https://ahrefs.com/blog/ai-rank-tracking/) | Ahrefs Blog | 140 | AI Search | 2026-11-16 11:49 UTC |
+| [What is citation core? A guide to AI search visibility](https://www.semrush.com/blog/citation-core/) | Semrush Blog | 130 | AI Search | 2026-11-16 12:38 UTC |
 | [The 100 Most Mentioned Brands in ChatGPT (November 2026)](https://ahrefs.com/blog/most-mentioned-brands-chatgpt/) | Ahrefs Blog | 105 | AI Search | 2026-11-11 13:13 UTC |
 | [Where Does ChatGPT Get Its Information? 4 Sources, Explained](https://ahrefs.com/blog/where-does-chatgpt-get-its-information/) | Ahrefs Blog | 105 | AI Search | 2026-11-10 16:22 UTC |
+| [What is a pillar page &amp; how to create one (+ examples)](https://www.semrush.com/blog/pillar-page/) | Semrush Blog | 95 | Migration | 2026-11-13 14:40 UTC |
 | [How to do an SEO competitor analysis with the Semrush MCP](https://www.semrush.com/blog/competitor-analysis-semrush-mcp/) | Semrush Blog | 95 | Links | 2026-11-13 12:24 UTC |
 | [AI traffic quality: Look past the industry benchmarks and measure ROI](https://www.semrush.com/blog/ai-traffic-quality/) | Semrush Blog | 95 | AI Search | 2026-11-12 11:21 UTC |
 | [How to use Semrush with Google Search Console](https://www.semrush.com/blog/semrush-google-search-console/) | Semrush Blog | 95 | GSC | 2026-11-11 11:40 UTC |
 | [Semrush vs. Ahrefs: Which is right for your team?](https://www.semrush.com/blog/semrush-vs-ahrefs/) | Semrush Blog | 95 | Links | 2026-11-10 13:12 UTC |
 | [Prompt tracking methodology to measure AI visibility](https://www.semrush.com/blog/ai-prompt-tracking-methodology/) | Semrush Blog | 95 | GSC | 2026-11-10 12:59 UTC |
 | [How to use AI for competitive intelligence (10 prompts to try)](https://www.semrush.com/blog/ai-in-competitive-intelligence/) | Semrush Blog | 95 | AI Search | 2026-11-10 12:38 UTC |
-| [The future of SEO: Where search is heading in 2027](https://www.semrush.com/blog/future-of-seo/) | Semrush Blog | 95 | AI Search | 2026-11-09 14:24 UTC |
-| [Social media competitor analysis [+ free template]](https://www.semrush.com/blog/social-media-competitor-analysis/) | Semrush Blog | 95 | Content | 2026-11-09 13:49 UTC |
 
 ## Notes
 
