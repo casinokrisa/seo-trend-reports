@@ -6,7 +6,18 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Community | Score | Comments | Category | Posted |
 |---|---|---:|---:|---|---:|
-| _No Reddit items matched thresholds_ |  |  |  |  |  |
+| [A business can rank #1 on Google Maps and still be almost invisible](https://www.reddit.com/r/localseo/comments/1xyky6z/a_business_can_rank_1_on_google_maps_and_still_be/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-17 13:51 UTC |
+| [The truth to get Local SEO Clients: Do Local SEO extremely good!](https://www.reddit.com/r/localseo/comments/1xykwaf/the_truth_to_get_local_seo_clients_do_local_seo/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-17 13:48 UTC |
+| [Experts, what are some must know tools when it comes to LocalSEO?](https://www.reddit.com/r/localseo/comments/1xyj2ig/experts_what_are_some_must_know_tools_when_it/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-17 12:22 UTC |
+| [stuck in google business profile verification loop after moving our office location, any way around this?](https://www.reddit.com/r/localseo/comments/1xyggif/stuck_in_google_business_profile_verification/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-17 09:52 UTC |
+| [Looking for a Local SEO Freelancer – Healthcare Business](https://www.reddit.com/r/localseo/comments/1xye81e/looking_for_a_local_seo_freelancer_healthcare/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | Local SEO | 2026-11-17 07:29 UTC |
+| [Is SEO changing because of AI search, or are we finally understanding how people actually search?](https://www.reddit.com/r/localseo/comments/1xy8361/is_seo_changing_because_of_ai_search_or_are_we/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-11-17 02:00 UTC |
+| [What's one painfully basic thing local businesses keep missing?](https://www.reddit.com/r/localseo/comments/1xy23mh/whats_one_painfully_basic_thing_local_businesses/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-11-16 21:38 UTC |
+| [Saw this chart that outlines how often LLM's cite different content formats. Has anyone seen any truth to this?](https://www.reddit.com/r/localseo/comments/1xxztgw/saw_this_chart_that_outlines_how_often_llms_cite/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-11-16 20:11 UTC |
+| [Should expectations for local service businesses be changed WRT search leads?](https://www.reddit.com/r/localseo/comments/1xxuvjl/should_expectations_for_local_service_businesses/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-16 17:07 UTC |
+| [I Tested the #1 Local Rank Tracker vs. Real Phones (We’ve Been Lied To)](https://www.reddit.com/r/localseo/comments/1xxu77y/i_tested_the_1_local_rank_tracker_vs_real_phones/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-16 16:42 UTC |
+| [using bright local to update citations](https://www.reddit.com/r/localseo/comments/1xxt8aw/using_bright_local_to_update_citations/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | AI Search | 2026-11-16 16:06 UTC |
+| [BrightLocal Alternative that does the fixes, not just the reports?](https://www.reddit.com/r/localseo/comments/1xxki7v/brightlocal_alternative_that_does_the_fixes_not/) | [r/localseo](https://www.reddit.com/r/localseo) | — | — | General | 2026-11-16 08:50 UTC |
 
 ## Weekly notable items (Sites)
 
@@ -30,15 +41,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Bing Tests Web Mode Tab To Show Only Web Page Results](https://www.seroundtable.com/bing-web-mode-42535.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-16 12:11 UTC |
 | [Google Tests Dropping AI Mode From Search Bar &amp; Ask Anything](https://www.seroundtable.com/google-dropping-ai-mode-again-42534.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-13 19:45 UTC |
 | [Microsoft 365 Outage Impact On Microsoft Advertising](https://www.seroundtable.com/microsoft-365-outages-microsoft-ads-42533.html) | Search Engine Roundtable | 155 | General | 2026-11-13 19:29 UTC |
-| [8 AI Rank Tracking Tools to Try in 2027 (Cost per Prompt, Key Features)](https://ahrefs.com/blog/ai-rank-tracking/) | Ahrefs Blog | 120 | AI Search | 2026-11-16 11:49 UTC |
 | [What is citation core? A guide to AI search visibility](https://www.semrush.com/blog/citation-core/) | Semrush Blog | 110 | AI Search | 2026-11-16 12:38 UTC |
-| [The 100 Most Mentioned Brands in ChatGPT (November 2026)](https://ahrefs.com/blog/most-mentioned-brands-chatgpt/) | Ahrefs Blog | 105 | AI Search | 2026-11-11 13:13 UTC |
-| [Where Does ChatGPT Get Its Information? 4 Sources, Explained](https://ahrefs.com/blog/where-does-chatgpt-get-its-information/) | Ahrefs Blog | 105 | AI Search | 2026-11-10 16:22 UTC |
 | [What is a pillar page &amp; how to create one (+ examples)](https://www.semrush.com/blog/pillar-page/) | Semrush Blog | 95 | Migration | 2026-11-13 14:40 UTC |
 | [How to do an SEO competitor analysis with the Semrush MCP](https://www.semrush.com/blog/competitor-analysis-semrush-mcp/) | Semrush Blog | 95 | Links | 2026-11-13 12:24 UTC |
 | [AI traffic quality: Look past the industry benchmarks and measure ROI](https://www.semrush.com/blog/ai-traffic-quality/) | Semrush Blog | 95 | AI Search | 2026-11-12 11:21 UTC |
 | [How to use Semrush with Google Search Console](https://www.semrush.com/blog/semrush-google-search-console/) | Semrush Blog | 95 | GSC | 2026-11-11 11:40 UTC |
-| [Semrush vs. Ahrefs: Which is right for your team?](https://www.semrush.com/blog/semrush-vs-ahrefs/) | Semrush Blog | 95 | Links | 2026-11-10 13:12 UTC |
 
 ## Notes
 
