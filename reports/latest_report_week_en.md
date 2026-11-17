@@ -1,4 +1,4 @@
-# SEO Weekly Trend Report - 2026-11-16
+# SEO Weekly Trend Report - 2026-11-17
 
 ## Weekly trending posts
 
@@ -12,10 +12,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [New filtering and reporting capabilities in the Search Analytics API](https://developers.google.com/search/blog/2026/11/search-analytics-api-update) | Google Search Central Blog | 230 | GSC | 2026-11-16 00:00 UTC |
-| [Daily Search Forum Recap: November 16, 2026](https://www.seroundtable.com/recap-11-16-2026-42541.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-16 15:00 UTC |
-| [Google Search Analytics API Adds Branded Queries, Multimodal &amp; Country/Devices Filters](https://www.seroundtable.com/google-search-analytics-api-addition-42544.html) | Search Engine Roundtable | 210 | GSC | 2026-11-16 14:40 UTC |
+| [New filtering and reporting capabilities in the Search Analytics API](https://developers.google.com/search/blog/2026/11/search-analytics-api-update) | Google Search Central Blog | 210 | GSC | 2026-11-16 00:00 UTC |
 | [Moving to a CDN without overwhelming your origin (or blocking Googlebot)](https://developers.google.com/search/blog/2026/11/crawling-cdn) | Google Search Central Blog | 195 | Content | 2026-11-11 00:00 UTC |
+| [Google Business Profiles Now Lets You Add Facebook Messenger Number](https://www.seroundtable.com/google-business-profiles-facebook-messenger-42549.html) | Search Engine Roundtable | 190 | Local SEO | 2026-11-16 21:12 UTC |
+| [Daily Search Forum Recap: November 16, 2026](https://www.seroundtable.com/recap-11-16-2026-42541.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-16 15:00 UTC |
+| [Google Search Analytics API Adds Branded Queries, Multimodal &amp; Country/Devices Filters](https://www.seroundtable.com/google-search-analytics-api-addition-42544.html) | Search Engine Roundtable | 190 | GSC | 2026-11-16 14:40 UTC |
 | [Google November 2026 Core Update Ranking Flux - What We're Seeing](https://www.seroundtable.com/google-november-2026-core-update-ranking-volatility-42543.html) | Search Engine Roundtable | 190 | General | 2026-11-16 12:55 UTC |
 | [Google AI Mode Drops Gemini Label &amp; Rolls Out Gemini 4 Carbon To Pro Subs](https://www.seroundtable.com/google-ai-mode-drops-gemini-label-42540.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-16 12:51 UTC |
 | [ChatGPT Tests Web Results, See More &amp; Other Search Results Formats](https://www.seroundtable.com/chatgpt-search-result-tests-42537.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-16 12:41 UTC |
@@ -29,7 +30,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Search News Buzz Video Recap: Google November Core Update Is Here, ChatGPT Business Hub Gives Us Clicks, Yahoo Pivot Search &amp; Google Ads Invalid Traffic](https://www.seroundtable.com/video-11-13-2026-42523.html) | Search Engine Roundtable | 155 | GSC | 2026-11-13 13:01 UTC |
 | [Yahoo Scout To Pay Publishers Through The ILC For Using Content In AI Answers](https://www.seroundtable.com/ilc-yahoo-42528.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-13 12:51 UTC |
 | [Google AI Overviews AI-Generated Images Have Returned For Some](https://www.seroundtable.com/google-ai-overviews-ai-generated-images-back-42532.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-13 12:42 UTC |
-| [Google Merchant Center Promotions Titles Now Disallows Redemption Dates](https://www.seroundtable.com/google-merchant-center-promotions-titles-date-42488.html) | Search Engine Roundtable | 155 | Content | 2026-11-13 12:41 UTC |
 | [8 AI Rank Tracking Tools to Try in 2027 (Cost per Prompt, Key Features)](https://ahrefs.com/blog/ai-rank-tracking/) | Ahrefs Blog | 140 | AI Search | 2026-11-16 11:49 UTC |
 | [What is citation core? A guide to AI search visibility](https://www.semrush.com/blog/citation-core/) | Semrush Blog | 130 | AI Search | 2026-11-16 12:38 UTC |
 | [The 100 Most Mentioned Brands in ChatGPT (November 2026)](https://ahrefs.com/blog/most-mentioned-brands-chatgpt/) | Ahrefs Blog | 105 | AI Search | 2026-11-11 13:13 UTC |

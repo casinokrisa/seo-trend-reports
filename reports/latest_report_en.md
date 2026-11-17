@@ -1,4 +1,4 @@
-# Reddit SEO Trend Report - 2026-11-16
+# Reddit SEO Trend Report - 2026-11-17
 
 ## Today's Trending Posts
 
@@ -18,9 +18,10 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [New filtering and reporting capabilities in the Search Analytics API](https://developers.google.com/search/blog/2026/11/search-analytics-api-update) | Google Search Central Blog | 230 | GSC | 2026-11-16 00:00 UTC |
-| [Daily Search Forum Recap: November 16, 2026](https://www.seroundtable.com/recap-11-16-2026-42541.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-16 15:00 UTC |
-| [Google Search Analytics API Adds Branded Queries, Multimodal &amp; Country/Devices Filters](https://www.seroundtable.com/google-search-analytics-api-addition-42544.html) | Search Engine Roundtable | 210 | GSC | 2026-11-16 14:40 UTC |
+| [New filtering and reporting capabilities in the Search Analytics API](https://developers.google.com/search/blog/2026/11/search-analytics-api-update) | Google Search Central Blog | 210 | GSC | 2026-11-16 00:00 UTC |
+| [Google Business Profiles Now Lets You Add Facebook Messenger Number](https://www.seroundtable.com/google-business-profiles-facebook-messenger-42549.html) | Search Engine Roundtable | 190 | Local SEO | 2026-11-16 21:12 UTC |
+| [Daily Search Forum Recap: November 16, 2026](https://www.seroundtable.com/recap-11-16-2026-42541.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-16 15:00 UTC |
+| [Google Search Analytics API Adds Branded Queries, Multimodal &amp; Country/Devices Filters](https://www.seroundtable.com/google-search-analytics-api-addition-42544.html) | Search Engine Roundtable | 190 | GSC | 2026-11-16 14:40 UTC |
 | [Google November 2026 Core Update Ranking Flux - What We're Seeing](https://www.seroundtable.com/google-november-2026-core-update-ranking-volatility-42543.html) | Search Engine Roundtable | 190 | General | 2026-11-16 12:55 UTC |
 | [Google AI Mode Drops Gemini Label &amp; Rolls Out Gemini 4 Carbon To Pro Subs](https://www.seroundtable.com/google-ai-mode-drops-gemini-label-42540.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-16 12:51 UTC |
 | [ChatGPT Tests Web Results, See More &amp; Other Search Results Formats](https://www.seroundtable.com/chatgpt-search-result-tests-42537.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-16 12:41 UTC |
