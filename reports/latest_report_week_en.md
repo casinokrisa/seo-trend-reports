@@ -1,4 +1,4 @@
-# SEO Weekly Trend Report - 2026-11-17
+# SEO Weekly Trend Report - 2026-11-18
 
 ## Weekly trending posts
 
@@ -12,8 +12,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [Google AI Overviews With Unfaded Citation Block](https://www.seroundtable.com/google-ai-overviews-with-unfaded-citations-42563.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-18 01:36 UTC |
+| [Google Tag &amp; Google Tag Manager Unification](https://www.seroundtable.com/google-tag-manager-unification-42562.html) | Search Engine Roundtable | 210 | General | 2026-11-18 01:16 UTC |
 | [New filtering and reporting capabilities in the Search Analytics API](https://developers.google.com/search/blog/2026/11/search-analytics-api-update) | Google Search Central Blog | 210 | GSC | 2026-11-16 00:00 UTC |
-| [Moving to a CDN without overwhelming your origin (or blocking Googlebot)](https://developers.google.com/search/blog/2026/11/crawling-cdn) | Google Search Central Blog | 195 | Content | 2026-11-11 00:00 UTC |
 | [Daily Search Forum Recap: November 17, 2026](https://www.seroundtable.com/recap-11-17-2026-42558.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-17 15:00 UTC |
 | [FBI: SEO Poisoning Led To $28 Million In Ransomware Payments](https://www.seroundtable.com/fbi-says-seo-poisoning-led-to-28-million-in-ransomware-payments-42546.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-17 12:51 UTC |
 | [Google: A Site Move Doesn't Improve A Site's Overall Quality](https://www.seroundtable.com/google-site-move-quality-42545.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-17 12:41 UTC |
@@ -28,8 +29,6 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Daily Search Forum Recap: November 16, 2026](https://www.seroundtable.com/recap-11-16-2026-42541.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-16 15:00 UTC |
 | [Google Search Analytics API Adds Branded Queries, Multimodal &amp; Country/Devices Filters](https://www.seroundtable.com/google-search-analytics-api-addition-42544.html) | Search Engine Roundtable | 170 | GSC | 2026-11-16 14:40 UTC |
 | [Google November 2026 Core Update Ranking Flux - What We're Seeing](https://www.seroundtable.com/google-november-2026-core-update-ranking-volatility-42543.html) | Search Engine Roundtable | 170 | General | 2026-11-16 12:55 UTC |
-| [Google AI Mode Drops Gemini Label &amp; Rolls Out Gemini 4 Carbon To Pro Subs](https://www.seroundtable.com/google-ai-mode-drops-gemini-label-42540.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-16 12:51 UTC |
-| [ChatGPT Tests Web Results, See More &amp; Other Search Results Formats](https://www.seroundtable.com/chatgpt-search-result-tests-42537.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-16 12:41 UTC |
 | [Letaido Review: 10+ Jobs Our Marketing Team Hands to It Every Week](https://ahrefs.com/blog/letaido-review/) | Ahrefs Blog | 140 | AI Search | 2026-11-17 14:28 UTC |
 | [AI Overviews are taking over the map pack. Here’s what I found](https://www.semrush.com/blog/ai-overviews-are-taking-over-the-map-pack/) | Semrush Blog | 130 | Local SEO | 2026-11-17 13:58 UTC |
 | [ChatGPT Business Hub now shows mentions and clicks](https://www.semrush.com/blog/chatgpt-business-hub/) | Semrush Blog | 130 | GSC | 2026-11-17 12:56 UTC |
