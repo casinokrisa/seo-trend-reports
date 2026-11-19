@@ -14,11 +14,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 |---|---|---:|---|---:|
 | [New filtering and reporting capabilities in the Search Analytics API](https://developers.google.com/search/blog/2026/11/search-analytics-api-update) | Google Search Central Blog | 195 | GSC | 2026-11-16 00:00 UTC |
 | [Daily Search Forum Recap: November 18, 2026](https://www.seroundtable.com/recap-11-18-2026-42565.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-18 15:00 UTC |
-| [Google Ads Releases Several AI Max For Search For Travel Campaigns Help Docs](https://www.seroundtable.com/google-ads-ai-max-for-search-for-travel-campaigns-docs-42564.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-18 12:51 UTC |
-| [Google Ads New Commercial Exemptions To US Election Advertising Policy](https://www.seroundtable.com/google-ads-commercial-exemptions-us-elections-42547.html) | Search Engine Roundtable | 190 | Content | 2026-11-18 12:41 UTC |
-| [Microsoft Advertising Announces Biggest Upgrade To Bidding Models](https://www.seroundtable.com/microsoft-advertising-bidding-models-update-42567.html) | Search Engine Roundtable | 190 | General | 2026-11-18 12:31 UTC |
-| [Google Ads PMax Setup Now With Channel Prioritization &amp; Promo Mode](https://www.seroundtable.com/google-ads-pmax-setup-update-42561.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-18 12:21 UTC |
-| [Google Hotel Campaigns Migrating To Search Campaigns For Travel](https://www.seroundtable.com/google-hotel-campaigns-migration-42566.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-18 12:11 UTC |
+| [Google Ads Releases Several AI Max For Search For Travel Campaigns Help Docs](https://www.seroundtable.com/google-ads-ai-max-for-search-for-travel-campaigns-docs-42564.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-18 12:51 UTC |
+| [Google Ads New Commercial Exemptions To US Election Advertising Policy](https://www.seroundtable.com/google-ads-commercial-exemptions-us-elections-42547.html) | Search Engine Roundtable | 170 | Content | 2026-11-18 12:41 UTC |
+| [Microsoft Advertising Announces Biggest Upgrade To Bidding Models](https://www.seroundtable.com/microsoft-advertising-bidding-models-update-42567.html) | Search Engine Roundtable | 170 | General | 2026-11-18 12:31 UTC |
+| [Google Ads PMax Setup Now With Channel Prioritization &amp; Promo Mode](https://www.seroundtable.com/google-ads-pmax-setup-update-42561.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-18 12:21 UTC |
+| [Google Hotel Campaigns Migrating To Search Campaigns For Travel](https://www.seroundtable.com/google-hotel-campaigns-migration-42566.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-18 12:11 UTC |
 | [Google AI Overviews With Unfaded Citation Block](https://www.seroundtable.com/google-ai-overviews-with-unfaded-citations-42563.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-18 01:36 UTC |
 | [Google Tag &amp; Google Tag Manager Unification](https://www.seroundtable.com/google-tag-manager-unification-42562.html) | Search Engine Roundtable | 170 | General | 2026-11-18 01:16 UTC |
 | [Daily Search Forum Recap: November 17, 2026](https://www.seroundtable.com/recap-11-17-2026-42558.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-17 15:00 UTC |
@@ -28,19 +28,20 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Local Services Ads Historical Reports Can Now Be Downloaded](https://www.seroundtable.com/google-local-services-ads-historical-reports-available-for-download-42560.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-17 12:21 UTC |
 | [New Google Ads Search Journey Awareness Help Document](https://www.seroundtable.com/google-ads-search-journey-awareness-doc-42551.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-17 12:15 UTC |
 | [Google Ads Brand Guidelines New Add Visual Guidelines](https://www.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines-42538.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-17 12:11 UTC |
+| [5 ways AI is replacing SEO (and 4 things that aren’t changing)](https://www.semrush.com/blog/will-ai-replace-seo/) | Semrush Blog | 150 | GSC | 2026-11-19 11:14 UTC |
+| [What is topical authority in SEO? A forward-looking guide for 2027](https://www.semrush.com/blog/topical-authority/) | Semrush Blog | 150 | AI Search | 2026-11-19 11:00 UTC |
 | [Barnacle SEO: Spam Risk or Smart Marketing?](https://ahrefs.com/blog/barnacle-seo/) | Ahrefs Blog | 140 | General | 2026-11-18 14:38 UTC |
-| [4 Reasons to Read DISCOVERABLE by Tim Soulo](https://ahrefs.com/blog/discoverable-book-review/) | Ahrefs Blog | 140 | General | 2026-11-18 10:11 UTC |
-| [AI-influenced traffic: A new Semrush metric to measure AI search performance](https://www.semrush.com/blog/ai-influenced-traffic-metric/) | Semrush Blog | 130 | AI Search | 2026-11-18 09:00 UTC |
+| [4 Reasons to Read DISCOVERABLE by Tim Soulo](https://ahrefs.com/blog/discoverable-book-review/) | Ahrefs Blog | 120 | General | 2026-11-18 10:11 UTC |
 | [Letaido Review: 10+ Jobs Our Marketing Team Hands to It Every Week](https://ahrefs.com/blog/letaido-review/) | Ahrefs Blog | 120 | AI Search | 2026-11-17 14:28 UTC |
-| [8 AI Rank Tracking Tools to Try in 2027 (Cost per Prompt, Key Features)](https://ahrefs.com/blog/ai-rank-tracking/) | Ahrefs Blog | 120 | AI Search | 2026-11-16 11:49 UTC |
+| [AI-influenced traffic: A new Semrush metric to measure AI search performance](https://www.semrush.com/blog/ai-influenced-traffic-metric/) | Semrush Blog | 110 | AI Search | 2026-11-18 09:00 UTC |
 | [AI Overviews are taking over the map pack. Here’s what I found](https://www.semrush.com/blog/ai-overviews-are-taking-over-the-map-pack/) | Semrush Blog | 110 | Local SEO | 2026-11-17 13:58 UTC |
 | [ChatGPT Business Hub now shows mentions and clicks](https://www.semrush.com/blog/chatgpt-business-hub/) | Semrush Blog | 110 | GSC | 2026-11-17 12:56 UTC |
 | [Google November 2026 core update: What marketers should know](https://www.semrush.com/blog/google-core-update-november-2026/) | Semrush Blog | 110 | General | 2026-11-17 12:48 UTC |
 | [How to use AI for content creation (step-by-step workflow)](https://www.semrush.com/blog/how-to-use-ai-for-content-creation/) | Semrush Blog | 110 | AI Search | 2026-11-17 12:38 UTC |
-| [What is citation core? A guide to AI search visibility](https://www.semrush.com/blog/citation-core/) | Semrush Blog | 110 | AI Search | 2026-11-16 12:38 UTC |
+| [8 AI Rank Tracking Tools to Try in 2027 (Cost per Prompt, Key Features)](https://ahrefs.com/blog/ai-rank-tracking/) | Ahrefs Blog | 105 | AI Search | 2026-11-16 11:49 UTC |
+| [What is citation core? A guide to AI search visibility](https://www.semrush.com/blog/citation-core/) | Semrush Blog | 95 | AI Search | 2026-11-16 12:38 UTC |
 | [What is a pillar page &amp; how to create one (+ examples)](https://www.semrush.com/blog/pillar-page/) | Semrush Blog | 95 | Migration | 2026-11-13 14:40 UTC |
 | [How to do an SEO competitor analysis with the Semrush MCP](https://www.semrush.com/blog/competitor-analysis-semrush-mcp/) | Semrush Blog | 95 | Links | 2026-11-13 12:24 UTC |
-| [AI traffic quality: Look past the industry benchmarks and measure ROI](https://www.semrush.com/blog/ai-traffic-quality/) | Semrush Blog | 95 | AI Search | 2026-11-12 11:21 UTC |
 
 ## Notes
 
