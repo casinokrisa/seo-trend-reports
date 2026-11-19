@@ -1,4 +1,4 @@
-# SEO Weekly Trend Report - 2026-11-18
+# SEO Weekly Trend Report - 2026-11-19
 
 ## Weekly trending posts
 
@@ -12,16 +12,15 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [New filtering and reporting capabilities in the Search Analytics API](https://developers.google.com/search/blog/2026/11/search-analytics-api-update) | Google Search Central Blog | 210 | GSC | 2026-11-16 00:00 UTC |
+| [New filtering and reporting capabilities in the Search Analytics API](https://developers.google.com/search/blog/2026/11/search-analytics-api-update) | Google Search Central Blog | 195 | GSC | 2026-11-16 00:00 UTC |
 | [Daily Search Forum Recap: November 18, 2026](https://www.seroundtable.com/recap-11-18-2026-42565.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-18 15:00 UTC |
 | [Google Ads Releases Several AI Max For Search For Travel Campaigns Help Docs](https://www.seroundtable.com/google-ads-ai-max-for-search-for-travel-campaigns-docs-42564.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-18 12:51 UTC |
 | [Google Ads New Commercial Exemptions To US Election Advertising Policy](https://www.seroundtable.com/google-ads-commercial-exemptions-us-elections-42547.html) | Search Engine Roundtable | 190 | Content | 2026-11-18 12:41 UTC |
 | [Microsoft Advertising Announces Biggest Upgrade To Bidding Models](https://www.seroundtable.com/microsoft-advertising-bidding-models-update-42567.html) | Search Engine Roundtable | 190 | General | 2026-11-18 12:31 UTC |
 | [Google Ads PMax Setup Now With Channel Prioritization &amp; Promo Mode](https://www.seroundtable.com/google-ads-pmax-setup-update-42561.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-18 12:21 UTC |
 | [Google Hotel Campaigns Migrating To Search Campaigns For Travel](https://www.seroundtable.com/google-hotel-campaigns-migration-42566.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-18 12:11 UTC |
-| [Google AI Overviews With Unfaded Citation Block](https://www.seroundtable.com/google-ai-overviews-with-unfaded-citations-42563.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-18 01:36 UTC |
-| [Google Tag &amp; Google Tag Manager Unification](https://www.seroundtable.com/google-tag-manager-unification-42562.html) | Search Engine Roundtable | 190 | General | 2026-11-18 01:16 UTC |
-| [Added documentation on identifying traffic from Google Search](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Migration | 2026-11-12 00:00 UTC |
+| [Google AI Overviews With Unfaded Citation Block](https://www.seroundtable.com/google-ai-overviews-with-unfaded-citations-42563.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-18 01:36 UTC |
+| [Google Tag &amp; Google Tag Manager Unification](https://www.seroundtable.com/google-tag-manager-unification-42562.html) | Search Engine Roundtable | 170 | General | 2026-11-18 01:16 UTC |
 | [Daily Search Forum Recap: November 17, 2026](https://www.seroundtable.com/recap-11-17-2026-42558.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-17 15:00 UTC |
 | [FBI: SEO Poisoning Led To $28 Million In Ransomware Payments](https://www.seroundtable.com/fbi-says-seo-poisoning-led-to-28-million-in-ransomware-payments-42546.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-17 12:51 UTC |
 | [Google: A Site Move Doesn't Improve A Site's Overall Quality](https://www.seroundtable.com/google-site-move-quality-42545.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-17 12:41 UTC |
