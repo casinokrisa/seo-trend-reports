@@ -27,8 +27,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Data Feed Validation Tool Has Been Turned Down](https://www.seroundtable.com/google-data-feed-validation-tool-gone-42572.html) | Search Engine Roundtable | 190 | Technical SEO | 2026-11-19 12:21 UTC |
 | [Google Images Results With Lens To AI Mode Feature](https://www.seroundtable.com/google-images-lens-to-ai-mode-42570.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-19 12:11 UTC |
 | [Google AdSense Unifying Policies Into AdSense For Search Publishers Policy](https://www.seroundtable.com/google-adsense-for-search-publishers-policy-42573.html) | Search Engine Roundtable | 190 | General | 2026-11-19 12:05 UTC |
-| [5 ways AI is replacing SEO (and 4 things that aren’t changing)](https://www.semrush.com/blog/will-ai-replace-seo/) | Semrush Blog | 130 | GSC | 2026-11-19 11:14 UTC |
-| [What is topical authority in SEO? A forward-looking guide for 2027](https://www.semrush.com/blog/topical-authority/) | Semrush Blog | 130 | AI Search | 2026-11-19 11:00 UTC |
+| [5 ways AI is replacing SEO (and 4 things that aren’t changing)](https://www.semrush.com/blog/will-ai-replace-seo/) | Semrush Blog | 110 | GSC | 2026-11-19 11:14 UTC |
+| [What is topical authority in SEO? A forward-looking guide for 2027](https://www.semrush.com/blog/topical-authority/) | Semrush Blog | 110 | AI Search | 2026-11-19 11:00 UTC |
 
 ## Notes for manual writing
 
