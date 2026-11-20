@@ -1,4 +1,4 @@
-# SEO Weekly Trend Report - 2026-11-19
+# SEO Weekly Trend Report - 2026-11-20
 
 ## Weekly trending posts
 
@@ -12,9 +12,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google Search Officially Rolls Out Collapsible Sidebar](https://www.seroundtable.com/google-search-rolls-out-ai-mode-sidebar-42580.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-19 19:38 UTC |
 | [Removed the Data Feed validation tool from the book actions documentation](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 200 | Links | 2026-11-18 00:00 UTC |
 | [New filtering and reporting capabilities in the Search Analytics API](https://developers.google.com/search/blog/2026/11/search-analytics-api-update) | Google Search Central Blog | 195 | GSC | 2026-11-16 00:00 UTC |
+| [Google Search Officially Rolls Out Collapsible Sidebar](https://www.seroundtable.com/google-search-rolls-out-ai-mode-sidebar-42580.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-19 19:38 UTC |
 | [Microsoft Confirms Ads Are In AI Overviews On Bing Search](https://www.seroundtable.com/microsoft-ads-in-ai-overviews-on-bing-42578.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-19 15:24 UTC |
 | [Daily Search Forum Recap: November 19, 2026](https://www.seroundtable.com/recap-11-19-2026-42575.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-19 15:00 UTC |
 | [Google Search What People Are Saying AI-Generated Emojis](https://www.seroundtable.com/google-ai-generated-emojis-42569.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-19 12:51 UTC |
