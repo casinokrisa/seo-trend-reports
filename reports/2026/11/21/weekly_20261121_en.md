@@ -34,9 +34,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [4 Reasons to Read DISCOVERABLE by Tim Soulo](https://ahrefs.com/blog/discoverable-book-review/) | Ahrefs Blog | 120 | General | 2026-11-18 10:11 UTC |
 | [5 ways AI is replacing SEO (and 4 things that aren’t changing)](https://www.semrush.com/blog/will-ai-replace-seo/) | Semrush Blog | 110 | GSC | 2026-11-19 11:14 UTC |
 | [What is topical authority in SEO? A forward-looking guide for 2027](https://www.semrush.com/blog/topical-authority/) | Semrush Blog | 110 | AI Search | 2026-11-19 11:00 UTC |
-| [AI-influenced traffic: A new Semrush metric to measure AI search performance](https://www.semrush.com/blog/ai-influenced-traffic-metric/) | Semrush Blog | 110 | AI Search | 2026-11-18 09:00 UTC |
 | [Letaido Review: 10+ Jobs Our Marketing Team Hands to It Every Week](https://ahrefs.com/blog/letaido-review/) | Ahrefs Blog | 105 | AI Search | 2026-11-17 14:28 UTC |
 | [8 AI Rank Tracking Tools to Try in 2027 (Cost per Prompt, Key Features)](https://ahrefs.com/blog/ai-rank-tracking/) | Ahrefs Blog | 105 | AI Search | 2026-11-16 11:49 UTC |
+| [AI-influenced traffic: A new Semrush metric to measure AI search performance](https://www.semrush.com/blog/ai-influenced-traffic-metric/) | Semrush Blog | 95 | AI Search | 2026-11-18 09:00 UTC |
 | [AI Overviews are taking over the map pack. Here’s what I found](https://www.semrush.com/blog/ai-overviews-are-taking-over-the-map-pack/) | Semrush Blog | 95 | Local SEO | 2026-11-17 13:58 UTC |
 | [ChatGPT Business Hub now shows mentions and clicks](https://www.semrush.com/blog/chatgpt-business-hub/) | Semrush Blog | 95 | GSC | 2026-11-17 12:56 UTC |
 | [Google November 2026 core update: What marketers should know](https://www.semrush.com/blog/google-core-update-november-2026/) | Semrush Blog | 95 | General | 2026-11-17 12:48 UTC |

@@ -25,9 +25,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Expands &amp; Clarifies Sexual Content Advertising Policy Examples](https://www.seroundtable.com/google-expands-sexual-content-advertising-policy-42548.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-20 12:31 UTC |
 | [Bing &amp; Microsoft Ads - Made With AI Label](https://www.seroundtable.com/bing-ads-made-with-ai-label-42579.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-20 12:21 UTC |
 | [The .seo Top-Level Domain (TLD) May Be Coming Soon](https://www.seroundtable.com/seo-tld-42582.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-20 12:11 UTC |
-| [Google Search Officially Rolls Out Collapsible Sidebar](https://www.seroundtable.com/google-search-rolls-out-ai-mode-sidebar-42580.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-19 19:38 UTC |
-| [Microsoft Confirms Ads Are In AI Overviews On Bing Search](https://www.seroundtable.com/microsoft-ads-in-ai-overviews-on-bing-42578.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-19 15:24 UTC |
-| [Daily Search Forum Recap: November 19, 2026](https://www.seroundtable.com/recap-11-19-2026-42575.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-19 15:00 UTC |
 | [Ecommerce SEO: 8 steps to grow visibility in search and AI](https://www.semrush.com/blog/ecommerce-seo/) | Semrush Blog | 130 | AI Search | 2026-11-20 14:59 UTC |
 
 ## Notes for manual writing
