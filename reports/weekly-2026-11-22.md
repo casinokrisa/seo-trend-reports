@@ -22,8 +22,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Bing &amp; Microsoft Ads - Made With AI Label](https://www.seroundtable.com/bing-ads-made-with-ai-label-42579.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-20 12:21 UTC |
 | [The .seo Top-Level Domain (TLD) May Be Coming Soon](https://www.seroundtable.com/seo-tld-42582.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-20 12:11 UTC |
 | [Google Search Officially Rolls Out Collapsible Sidebar](https://www.seroundtable.com/google-search-rolls-out-ai-mode-sidebar-42580.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-19 19:38 UTC |
-| [Microsoft Confirms Ads Are In AI Overviews On Bing Search](https://www.seroundtable.com/microsoft-ads-in-ai-overviews-on-bing-42578.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-19 15:24 UTC |
-| [Daily Search Forum Recap: November 19, 2026](https://www.seroundtable.com/recap-11-19-2026-42575.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-19 15:00 UTC |
+| [Microsoft Confirms Ads Are In AI Overviews On Bing Search](https://www.seroundtable.com/microsoft-ads-in-ai-overviews-on-bing-42578.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-19 15:24 UTC |
+| [Daily Search Forum Recap: November 19, 2026](https://www.seroundtable.com/recap-11-19-2026-42575.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-19 15:00 UTC |
 | [Google Search What People Are Saying AI-Generated Emojis](https://www.seroundtable.com/google-ai-generated-emojis-42569.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-19 12:51 UTC |
 | [Google Hotel Search Listings With Continue On Google To Book](https://www.seroundtable.com/google-hotel-continue-on-google-42568.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-19 12:41 UTC |
 | [Google Search Tests "Show Original Results" Button](https://www.seroundtable.com/google-search-show-original-results-button-42574.html) | Search Engine Roundtable | 155 | Links | 2026-11-19 12:31 UTC |
