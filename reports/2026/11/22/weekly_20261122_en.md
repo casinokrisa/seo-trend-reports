@@ -24,17 +24,17 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Search Officially Rolls Out Collapsible Sidebar](https://www.seroundtable.com/google-search-rolls-out-ai-mode-sidebar-42580.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-19 19:38 UTC |
 | [Microsoft Confirms Ads Are In AI Overviews On Bing Search](https://www.seroundtable.com/microsoft-ads-in-ai-overviews-on-bing-42578.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-19 15:24 UTC |
 | [Daily Search Forum Recap: November 19, 2026](https://www.seroundtable.com/recap-11-19-2026-42575.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-19 15:00 UTC |
-| [Google Search What People Are Saying AI-Generated Emojis](https://www.seroundtable.com/google-ai-generated-emojis-42569.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-19 12:51 UTC |
-| [Google Hotel Search Listings With Continue On Google To Book](https://www.seroundtable.com/google-hotel-continue-on-google-42568.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-19 12:41 UTC |
-| [Google Search Tests "Show Original Results" Button](https://www.seroundtable.com/google-search-show-original-results-button-42574.html) | Search Engine Roundtable | 170 | Links | 2026-11-19 12:31 UTC |
-| [Google Data Feed Validation Tool Has Been Turned Down](https://www.seroundtable.com/google-data-feed-validation-tool-gone-42572.html) | Search Engine Roundtable | 170 | Technical SEO | 2026-11-19 12:21 UTC |
-| [Google Images Results With Lens To AI Mode Feature](https://www.seroundtable.com/google-images-lens-to-ai-mode-42570.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-19 12:11 UTC |
+| [Google Search What People Are Saying AI-Generated Emojis](https://www.seroundtable.com/google-ai-generated-emojis-42569.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-19 12:51 UTC |
+| [Google Hotel Search Listings With Continue On Google To Book](https://www.seroundtable.com/google-hotel-continue-on-google-42568.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-19 12:41 UTC |
+| [Google Search Tests "Show Original Results" Button](https://www.seroundtable.com/google-search-show-original-results-button-42574.html) | Search Engine Roundtable | 155 | Links | 2026-11-19 12:31 UTC |
+| [Google Data Feed Validation Tool Has Been Turned Down](https://www.seroundtable.com/google-data-feed-validation-tool-gone-42572.html) | Search Engine Roundtable | 155 | Technical SEO | 2026-11-19 12:21 UTC |
+| [Google Images Results With Lens To AI Mode Feature](https://www.seroundtable.com/google-images-lens-to-ai-mode-42570.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-19 12:11 UTC |
 | [Ecommerce SEO: 8 steps to grow visibility in search and AI](https://www.semrush.com/blog/ecommerce-seo/) | Semrush Blog | 110 | AI Search | 2026-11-20 14:59 UTC |
-| [5 ways AI is replacing SEO (and 4 things that aren’t changing)](https://www.semrush.com/blog/will-ai-replace-seo/) | Semrush Blog | 110 | GSC | 2026-11-19 11:14 UTC |
 | [Barnacle SEO: Spam Risk or Smart Marketing?](https://ahrefs.com/blog/barnacle-seo/) | Ahrefs Blog | 105 | General | 2026-11-18 14:38 UTC |
 | [4 Reasons to Read DISCOVERABLE by Tim Soulo](https://ahrefs.com/blog/discoverable-book-review/) | Ahrefs Blog | 105 | General | 2026-11-18 10:11 UTC |
 | [Letaido Review: 10+ Jobs Our Marketing Team Hands to It Every Week](https://ahrefs.com/blog/letaido-review/) | Ahrefs Blog | 105 | AI Search | 2026-11-17 14:28 UTC |
 | [8 AI Rank Tracking Tools to Try in 2027 (Cost per Prompt, Key Features)](https://ahrefs.com/blog/ai-rank-tracking/) | Ahrefs Blog | 105 | AI Search | 2026-11-16 11:49 UTC |
+| [5 ways AI is replacing SEO (and 4 things that aren’t changing)](https://www.semrush.com/blog/will-ai-replace-seo/) | Semrush Blog | 95 | GSC | 2026-11-19 11:14 UTC |
 | [What is topical authority in SEO? A forward-looking guide for 2027](https://www.semrush.com/blog/topical-authority/) | Semrush Blog | 95 | AI Search | 2026-11-19 11:00 UTC |
 | [AI-influenced traffic: A new Semrush metric to measure AI search performance](https://www.semrush.com/blog/ai-influenced-traffic-metric/) | Semrush Blog | 95 | AI Search | 2026-11-18 09:00 UTC |
 | [AI Overviews are taking over the map pack. Here’s what I found](https://www.semrush.com/blog/ai-overviews-are-taking-over-the-map-pack/) | Semrush Blog | 95 | Local SEO | 2026-11-17 13:58 UTC |
