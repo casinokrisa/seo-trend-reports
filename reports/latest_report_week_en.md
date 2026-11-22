@@ -1,4 +1,4 @@
-# SEO Weekly Trend Report - 2026-11-21
+# SEO Weekly Trend Report - 2026-11-22
 
 ## Weekly trending posts
 
