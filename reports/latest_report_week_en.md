@@ -12,23 +12,24 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Google AI Mode Dive Deeper Is Now Live](https://www.seroundtable.com/google-ai-mode-dive-deeper-feature-live-42589.html) | Search Engine Roundtable | 210 | Links | 2026-11-23 12:51 UTC |
-| [Google Search Profiles With LinkedIn Support](https://www.seroundtable.com/google-search-profiles-linkedin-support-42586.html) | Search Engine Roundtable | 210 | Links | 2026-11-23 12:41 UTC |
-| [Bing Reverting Naming AI Overviews Back To Copilot Search](https://www.seroundtable.com/bing-ai-overviews-to-copilot-search-42584.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-23 12:31 UTC |
-| [Google Ads Purchase Signal Annotations Documentation](https://www.seroundtable.com/google-ads-purchase-signal-annotations-42587.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-23 12:21 UTC |
-| [ChatGPT Product Results May Now Be Influenced By OpenAI Partnerships](https://www.seroundtable.com/chatgpt-product-results-may-be-influenced-by-openai-partnerships-42588.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-23 12:11 UTC |
-| [Bing Thanksgiving Turkey Trot In Search Results](https://www.seroundtable.com/bing-thanksgiving-turkey-trot-42596.html) | Search Engine Roundtable | 210 | General | 2026-11-23 12:05 UTC |
+| [Added an FAQ to the back button hijacking spam policy](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 220 | Migration | 2026-11-23 00:00 UTC |
+| [Google Documents Previously Undocumented Crawlers &amp; Fetchers](https://www.seroundtable.com/googlebots-additions-42604.html) | Search Engine Roundtable | 210 | Indexing | 2026-11-23 19:20 UTC |
+| [Google: Connect Apps To Search In Return For Personal Responses](https://www.seroundtable.com/google-personal-intelligence-push-42603.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-23 17:42 UTC |
+| [Google Posts FAQs on Back Button Hijacking Spam](https://www.seroundtable.com/google-faqs-back-button-hijacking-42601.html) | Search Engine Roundtable | 190 | General | 2026-11-23 15:08 UTC |
+| [Daily Search Forum Recap: November 23, 2026](https://www.seroundtable.com/recap-11-23-2026-42597.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-23 15:00 UTC |
+| [Google AI Mode Dive Deeper Is Now Live](https://www.seroundtable.com/google-ai-mode-dive-deeper-feature-live-42589.html) | Search Engine Roundtable | 190 | Links | 2026-11-23 12:51 UTC |
+| [Google Search Profiles With LinkedIn Support](https://www.seroundtable.com/google-search-profiles-linkedin-support-42586.html) | Search Engine Roundtable | 190 | Links | 2026-11-23 12:41 UTC |
+| [Bing Reverting Naming AI Overviews Back To Copilot Search](https://www.seroundtable.com/bing-ai-overviews-to-copilot-search-42584.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-23 12:31 UTC |
+| [Google Ads Purchase Signal Annotations Documentation](https://www.seroundtable.com/google-ads-purchase-signal-annotations-42587.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-23 12:21 UTC |
+| [ChatGPT Product Results May Now Be Influenced By OpenAI Partnerships](https://www.seroundtable.com/chatgpt-product-results-may-be-influenced-by-openai-partnerships-42588.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-23 12:11 UTC |
+| [Bing Thanksgiving Turkey Trot In Search Results](https://www.seroundtable.com/bing-thanksgiving-turkey-trot-42596.html) | Search Engine Roundtable | 190 | General | 2026-11-23 12:05 UTC |
 | [Google StarSearch, AIGC, Zero-History Discovery, Feed Ranking &amp; More](https://www.seroundtable.com/google-starsearch-42594.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-23 00:30 UTC |
 | [You Can Connect ChatGPT Business Hub With ChatGPT Ad Account](https://www.seroundtable.com/chatgpt-business-hub-ad-account-42592.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-22 23:24 UTC |
 | [Google Search Profiles Is Rolling Out Globally](https://www.seroundtable.com/google-search-profiles-global-42591.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-22 22:33 UTC |
-| [Removed the Data Feed validation tool from the book actions documentation](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Links | 2026-11-18 00:00 UTC |
 | [Daily Search Forum Recap: November 20, 2026](https://www.seroundtable.com/recap-11-20-2026-42583.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-20 15:00 UTC |
 | [Search News Buzz Video Recap: Google November Core Update Status, FBI Alert On SEO Poisoning, Bing &amp; ChatGPT Web Only Links, Microsoft Ads Bid Upgrade](https://www.seroundtable.com/video-11-20-2026-42577.html) | Search Engine Roundtable | 155 | Links | 2026-11-20 13:01 UTC |
-| [Google, ChatGPT &amp; Others AI Engines Provide Coupon Codes](https://www.seroundtable.com/google-chatgpt-coupon-codes-42581.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-20 12:51 UTC |
-| [ChatGPT Card Design](https://www.seroundtable.com/card-design-on-chatgpt-42576.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-20 12:41 UTC |
-| [Google Expands &amp; Clarifies Sexual Content Advertising Policy Examples](https://www.seroundtable.com/google-expands-sexual-content-advertising-policy-42548.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-20 12:31 UTC |
-| [Bing &amp; Microsoft Ads - Made With AI Label](https://www.seroundtable.com/bing-ads-made-with-ai-label-42579.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-20 12:21 UTC |
-| [AI citations to social media &amp; UGC grew 52% on Google's AI platforms, fell 44% on ChatGPT](https://www.semrush.com/blog/ai-citations-social-media-ugc/) | Semrush Blog | 150 | AI Search | 2026-11-23 13:42 UTC |
+| [Measure SEO and AI visibility together by topic: New in Semrush](https://www.semrush.com/blog/measure-seo-ai-visibility-by-topic/) | Semrush Blog | 130 | AI Search | 2026-11-23 14:20 UTC |
+| [AI citations to social media &amp; UGC grew 52% on Google's AI platforms, fell 44% on ChatGPT](https://www.semrush.com/blog/ai-citations-social-media-ugc/) | Semrush Blog | 130 | AI Search | 2026-11-23 13:42 UTC |
 | [Barnacle SEO: Spam Risk or Smart Marketing?](https://ahrefs.com/blog/barnacle-seo/) | Ahrefs Blog | 105 | General | 2026-11-18 14:38 UTC |
 | [4 Reasons to Read DISCOVERABLE by Tim Soulo](https://ahrefs.com/blog/discoverable-book-review/) | Ahrefs Blog | 105 | General | 2026-11-18 10:11 UTC |
 | [Letaido Review: 10+ Jobs Our Marketing Team Hands to It Every Week](https://ahrefs.com/blog/letaido-review/) | Ahrefs Blog | 105 | AI Search | 2026-11-17 14:28 UTC |
