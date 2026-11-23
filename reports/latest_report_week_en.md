@@ -1,4 +1,4 @@
-# SEO Weekly Trend Report - 2026-11-22
+# SEO Weekly Trend Report - 2026-11-23
 
 ## Weekly trending posts
 
@@ -12,7 +12,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [New filtering and reporting capabilities in the Search Analytics API](https://developers.google.com/search/blog/2026/11/search-analytics-api-update) | Google Search Central Blog | 195 | GSC | 2026-11-16 00:00 UTC |
+| [You Can Connect ChatGPT Business Hub With ChatGPT Ad Account](https://www.seroundtable.com/chatgpt-business-hub-ad-account-42592.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-22 23:24 UTC |
+| [Google Search Profiles Is Rolling Out Globally](https://www.seroundtable.com/google-search-profiles-global-42591.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-22 22:33 UTC |
 | [Removed the Data Feed validation tool from the book actions documentation](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Links | 2026-11-18 00:00 UTC |
 | [Daily Search Forum Recap: November 20, 2026](https://www.seroundtable.com/recap-11-20-2026-42583.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-20 15:00 UTC |
 | [Search News Buzz Video Recap: Google November Core Update Status, FBI Alert On SEO Poisoning, Bing &amp; ChatGPT Web Only Links, Microsoft Ads Bid Upgrade](https://www.seroundtable.com/video-11-20-2026-42577.html) | Search Engine Roundtable | 170 | Links | 2026-11-20 13:01 UTC |
@@ -21,14 +22,12 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Google Expands &amp; Clarifies Sexual Content Advertising Policy Examples](https://www.seroundtable.com/google-expands-sexual-content-advertising-policy-42548.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-20 12:31 UTC |
 | [Bing &amp; Microsoft Ads - Made With AI Label](https://www.seroundtable.com/bing-ads-made-with-ai-label-42579.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-20 12:21 UTC |
 | [The .seo Top-Level Domain (TLD) May Be Coming Soon](https://www.seroundtable.com/seo-tld-42582.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-20 12:11 UTC |
-| [Google Search Officially Rolls Out Collapsible Sidebar](https://www.seroundtable.com/google-search-rolls-out-ai-mode-sidebar-42580.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-19 19:38 UTC |
+| [Google Search Officially Rolls Out Collapsible Sidebar](https://www.seroundtable.com/google-search-rolls-out-ai-mode-sidebar-42580.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-19 19:38 UTC |
 | [Microsoft Confirms Ads Are In AI Overviews On Bing Search](https://www.seroundtable.com/microsoft-ads-in-ai-overviews-on-bing-42578.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-19 15:24 UTC |
 | [Daily Search Forum Recap: November 19, 2026](https://www.seroundtable.com/recap-11-19-2026-42575.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-19 15:00 UTC |
 | [Google Search What People Are Saying AI-Generated Emojis](https://www.seroundtable.com/google-ai-generated-emojis-42569.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-19 12:51 UTC |
 | [Google Hotel Search Listings With Continue On Google To Book](https://www.seroundtable.com/google-hotel-continue-on-google-42568.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-19 12:41 UTC |
 | [Google Search Tests "Show Original Results" Button](https://www.seroundtable.com/google-search-show-original-results-button-42574.html) | Search Engine Roundtable | 155 | Links | 2026-11-19 12:31 UTC |
-| [Google Data Feed Validation Tool Has Been Turned Down](https://www.seroundtable.com/google-data-feed-validation-tool-gone-42572.html) | Search Engine Roundtable | 155 | Technical SEO | 2026-11-19 12:21 UTC |
-| [Google Images Results With Lens To AI Mode Feature](https://www.seroundtable.com/google-images-lens-to-ai-mode-42570.html) | Search Engine Roundtable | 155 | AI Search | 2026-11-19 12:11 UTC |
 | [Ecommerce SEO: 8 steps to grow visibility in search and AI](https://www.semrush.com/blog/ecommerce-seo/) | Semrush Blog | 110 | AI Search | 2026-11-20 14:59 UTC |
 | [Barnacle SEO: Spam Risk or Smart Marketing?](https://ahrefs.com/blog/barnacle-seo/) | Ahrefs Blog | 105 | General | 2026-11-18 14:38 UTC |
 | [4 Reasons to Read DISCOVERABLE by Tim Soulo](https://ahrefs.com/blog/discoverable-book-review/) | Ahrefs Blog | 105 | General | 2026-11-18 10:11 UTC |

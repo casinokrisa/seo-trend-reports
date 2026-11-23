@@ -1,4 +1,4 @@
-# Reddit SEO Trend Report - 2026-11-22
+# Reddit SEO Trend Report - 2026-11-23
 
 ## Today's Trending Posts
 
@@ -18,7 +18,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| _No site items in window_ |  |  |  |  |
+| [You Can Connect ChatGPT Business Hub With ChatGPT Ad Account](https://www.seroundtable.com/chatgpt-business-hub-ad-account-42592.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-22 23:24 UTC |
+| [Google Search Profiles Is Rolling Out Globally](https://www.seroundtable.com/google-search-profiles-global-42591.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-22 22:33 UTC |
 
 ## Notes for manual writing
 
