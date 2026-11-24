@@ -18,6 +18,8 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
+| [New Google Search Ranking Hub, Ranking Principles, Feedback &amp; AI Training Control](https://www.seroundtable.com/google-search-ranking-hub-42616.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-24 16:10 UTC |
+| [Google December 2026 Core Update Preannounced - Complex Queries &amp; Personalization](https://www.seroundtable.com/google-december-2026-core-update-42615.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-24 15:20 UTC |
 | [Daily Search Forum Recap: November 24, 2026](https://www.seroundtable.com/recap-11-24-2026-42608.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-24 15:00 UTC |
 | [Google November 2026 Core Update Has Completed Rolling Out - What Happened?](https://www.seroundtable.com/google-november-2026-core-update-done-42571.html) | Search Engine Roundtable | 210 | General | 2026-11-24 14:10 UTC |
 | [Bing AI Generated Answer - Different From AI Overviews/Copilot Search](https://www.seroundtable.com/bing-ai-generated-answer-42598.html) | Search Engine Roundtable | 210 | AI Search | 2026-11-24 12:51 UTC |
@@ -31,8 +33,6 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google: Connect Apps To Search In Return For Personal Responses](https://www.seroundtable.com/google-personal-intelligence-push-42603.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-23 17:42 UTC |
 | [Google Posts FAQs on Back Button Hijacking Spam](https://www.seroundtable.com/google-faqs-back-button-hijacking-42601.html) | Search Engine Roundtable | 170 | General | 2026-11-23 15:08 UTC |
 | [Daily Search Forum Recap: November 23, 2026](https://www.seroundtable.com/recap-11-23-2026-42597.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-23 15:00 UTC |
-| [Google AI Mode Dive Deeper Is Now Live](https://www.seroundtable.com/google-ai-mode-dive-deeper-feature-live-42589.html) | Search Engine Roundtable | 170 | Links | 2026-11-23 12:51 UTC |
-| [Google Search Profiles With LinkedIn Support](https://www.seroundtable.com/google-search-profiles-linkedin-support-42586.html) | Search Engine Roundtable | 170 | Links | 2026-11-23 12:41 UTC |
 | [How Does Google Get Its Information? 7 Ways (2026)](https://ahrefs.com/blog/how-google-gets-information/) | Ahrefs Blog | 160 | AI Search | 2026-11-24 14:28 UTC |
 | [AI citation decay: how to tell when a drop needs action](https://www.semrush.com/blog/ai-citation-decay/) | Semrush Blog | 150 | AI Search | 2026-11-24 12:14 UTC |
 | [Measure SEO and AI visibility together by topic: New in Semrush](https://www.semrush.com/blog/measure-seo-ai-visibility-by-topic/) | Semrush Blog | 110 | AI Search | 2026-11-23 14:20 UTC |
