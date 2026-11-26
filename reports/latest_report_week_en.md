@@ -14,8 +14,8 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 |---|---|---:|---|---:|
 | [Google Local Pack No Reviews Bug](https://www.seroundtable.com/google-local-pack-no-reviews-bug-42624.html) | Search Engine Roundtable | 210 | General | 2026-11-26 12:12 UTC |
 | [ChatGPT Ads New Call-To-Actions, Business Agents Beyond US, More Audience Metrics &amp; More](https://www.seroundtable.com/chatgpt-ads-updates-42623.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-25 22:40 UTC |
-| [Daily Search Forum Recap: November 25, 2026](https://www.seroundtable.com/recap-11-25-2026-42619.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-25 15:00 UTC |
 | [Added an FAQ to the back button hijacking spam policy](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Migration | 2026-11-23 00:00 UTC |
+| [Daily Search Forum Recap: November 25, 2026](https://www.seroundtable.com/recap-11-25-2026-42619.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-25 15:00 UTC |
 | [Google Ads Encourages Dynamically Scoring Conversion Values Hack](https://www.seroundtable.com/google-ads-dynamically-scoring-conversion-values-42609.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-25 12:51 UTC |
 | [Bing Image Search Ask Visual Search Button](https://www.seroundtable.com/bing-search-ask-visual-search-image-button-42590.html) | Search Engine Roundtable | 170 | General | 2026-11-25 12:41 UTC |
 | [Google Image Collections &amp; Saved Items Adds Ask Anything AI Mode](https://www.seroundtable.com/google-image-collections-ask-anything-ai-mode-42595.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-25 12:31 UTC |
@@ -30,9 +30,9 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Bing AI Generated Answer - Different From AI Overviews/Copilot Search](https://www.seroundtable.com/bing-ai-generated-answer-42598.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-24 12:51 UTC |
 | [AI Overviews Cut CTR by −24.4% in France (3 Month Update)](https://ahrefs.com/blog/ai-overviews-ctr-france/) | Ahrefs Blog | 160 | GSC | 2026-11-26 11:04 UTC |
 | [14 Content marketing tips to improve your brand visibility](https://www.semrush.com/blog/content-marketing-tips/) | Semrush Blog | 150 | AI Search | 2026-11-26 11:48 UTC |
-| [10 tactics that actually work to get backlinks to your site in 2027](https://www.semrush.com/blog/how-to-get-backlinks/) | Semrush Blog | 130 | Links | 2026-11-25 14:58 UTC |
 | [AI Sentiment Analysis for Brands: How to Track and Improve What AI Says About You](https://ahrefs.com/blog/ai-sentiment-analysis/) | Ahrefs Blog | 120 | AI Search | 2026-11-25 08:18 UTC |
 | [How Does Google Get Its Information? 7 Ways (2026)](https://ahrefs.com/blog/how-google-gets-information/) | Ahrefs Blog | 120 | AI Search | 2026-11-24 14:28 UTC |
+| [10 tactics that actually work to get backlinks to your site in 2027](https://www.semrush.com/blog/how-to-get-backlinks/) | Semrush Blog | 110 | Links | 2026-11-25 14:58 UTC |
 | [10 ways to use Semrush historical data (with examples)](https://www.semrush.com/blog/semrush-historical-data/) | Semrush Blog | 110 | AI Search | 2026-11-25 12:07 UTC |
 | [AI citation decay: how to tell when a drop needs action](https://www.semrush.com/blog/ai-citation-decay/) | Semrush Blog | 110 | AI Search | 2026-11-24 12:14 UTC |
 | [Measure SEO and AI visibility together by topic: New in Semrush](https://www.semrush.com/blog/measure-seo-ai-visibility-by-topic/) | Semrush Blog | 95 | AI Search | 2026-11-23 14:20 UTC |
