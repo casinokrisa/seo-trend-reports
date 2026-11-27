@@ -1,4 +1,4 @@
-# SEO Weekly Trend Report - 2026-11-26
+# SEO Weekly Trend Report - 2026-11-27
 
 ## Weekly trending posts
 
@@ -12,7 +12,7 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 
 | Title | Source | Score | Category | Posted |
 |---|---|---:|---|---:|
-| [Ask Jeeves At Macy's Thanksgiving Day Parade (Old Photos)](https://www.seroundtable.com/ask-jeeves-macys-thanksgiving-day-parade-42628.html) | Search Engine Roundtable | 210 | General | 2026-11-26 19:10 UTC |
+| [Ask Jeeves At Macy's Thanksgiving Day Parade (Old Photos)](https://www.seroundtable.com/ask-jeeves-macys-thanksgiving-day-parade-42628.html) | Search Engine Roundtable | 190 | General | 2026-11-26 19:10 UTC |
 | [Google Local Pack No Reviews Bug](https://www.seroundtable.com/google-local-pack-no-reviews-bug-42624.html) | Search Engine Roundtable | 190 | General | 2026-11-26 12:12 UTC |
 | [Added an FAQ to the back button hijacking spam policy](https://developers.google.com/search/updates) | Google Search Central (docs updates) | 185 | Migration | 2026-11-23 00:00 UTC |
 | [ChatGPT Ads New Call-To-Actions, Business Agents Beyond US, More Audience Metrics &amp; More](https://www.seroundtable.com/chatgpt-ads-updates-42623.html) | Search Engine Roundtable | 170 | AI Search | 2026-11-25 22:40 UTC |
