@@ -27,9 +27,7 @@ Window: last 36 hours. Reddit is enriched with score/comments (best-effort).
 | [Google Ads Search Insights Tool](https://www.seroundtable.com/google-ads-search-insights-42626.html) | Search Engine Roundtable | 190 | General | 2026-11-27 12:21 UTC |
 | [Google Merchant Center Ads Opportunities With New Features?](https://www.seroundtable.com/google-merchant-center-ads-opportunities-42621.html) | Search Engine Roundtable | 190 | General | 2026-11-27 12:11 UTC |
 | [Copilot Has Ads From Microsoft Advertising](https://www.seroundtable.com/microsoft-advertising-ads-in-copilot-42629.html) | Search Engine Roundtable | 190 | AI Search | 2026-11-27 12:05 UTC |
-| [Ask Jeeves At Macy's Thanksgiving Day Parade (Old Photos)](https://www.seroundtable.com/ask-jeeves-macys-thanksgiving-day-parade-42628.html) | Search Engine Roundtable | 170 | General | 2026-11-26 19:10 UTC |
 | [16 best competitor analysis tools for 2027 (compared)](https://www.semrush.com/blog/competitor-analysis-tools/) | Semrush Blog | 130 | AI Search | 2026-11-27 15:14 UTC |
-| [The marketing funnel: what it is and how to build one](https://www.semrush.com/blog/marketing-funnel/) | Semrush Blog | 110 | Migration | 2026-11-26 15:08 UTC |
 
 ## Notes for manual writing
 

@@ -30,11 +30,11 @@ Window: last 7 days. Reddit is enriched with score/comments (best-effort).
 | [Bing Image Search Ask Visual Search Button](https://www.seroundtable.com/bing-search-ask-visual-search-image-button-42590.html) | Search Engine Roundtable | 170 | General | 2026-11-25 12:41 UTC |
 | [16 best competitor analysis tools for 2027 (compared)](https://www.semrush.com/blog/competitor-analysis-tools/) | Semrush Blog | 130 | AI Search | 2026-11-27 15:14 UTC |
 | [AI Overviews Cut CTR by −24.4% in France (3 Month Update)](https://ahrefs.com/blog/ai-overviews-ctr-france/) | Ahrefs Blog | 120 | GSC | 2026-11-26 11:04 UTC |
-| [AI Sentiment Analysis for Brands: How to Track and Improve What AI Says About You](https://ahrefs.com/blog/ai-sentiment-analysis/) | Ahrefs Blog | 120 | AI Search | 2026-11-25 08:18 UTC |
 | [The marketing funnel: what it is and how to build one](https://www.semrush.com/blog/marketing-funnel/) | Semrush Blog | 110 | Migration | 2026-11-26 15:08 UTC |
 | [14 Content marketing tips to improve your brand visibility](https://www.semrush.com/blog/content-marketing-tips/) | Semrush Blog | 110 | AI Search | 2026-11-26 11:48 UTC |
 | [10 tactics that actually work to get backlinks to your site in 2027](https://www.semrush.com/blog/how-to-get-backlinks/) | Semrush Blog | 110 | Links | 2026-11-25 14:58 UTC |
 | [10 ways to use Semrush historical data (with examples)](https://www.semrush.com/blog/semrush-historical-data/) | Semrush Blog | 110 | AI Search | 2026-11-25 12:07 UTC |
+| [AI Sentiment Analysis for Brands: How to Track and Improve What AI Says About You](https://ahrefs.com/blog/ai-sentiment-analysis/) | Ahrefs Blog | 105 | AI Search | 2026-11-25 08:18 UTC |
 | [How Does Google Get Its Information? 7 Ways (2026)](https://ahrefs.com/blog/how-google-gets-information/) | Ahrefs Blog | 105 | AI Search | 2026-11-24 14:28 UTC |
 | [AI citation decay: how to tell when a drop needs action](https://www.semrush.com/blog/ai-citation-decay/) | Semrush Blog | 95 | AI Search | 2026-11-24 12:14 UTC |
 | [Measure SEO and AI visibility together by topic: New in Semrush](https://www.semrush.com/blog/measure-seo-ai-visibility-by-topic/) | Semrush Blog | 95 | AI Search | 2026-11-23 14:20 UTC |
